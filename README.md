@@ -1,8 +1,8 @@
 # Horario-Scheduler
 
 Integrantes:
-## Cota Martínez Guillermo Oswaldo
-## Macías Gómez Jorge
+- Cota Martínez Guillermo Oswaldo
+- Macías Gómez Jorge
 
 Este es el repositorio para el proyecto de la asignatura Matemáticas Discretas y Análisis de Algoritmos de la Licenciatura en Ciencia de Datos del Instituto de Investigaciones en Matemáticas Aplicada y Sistemas de la UNAM.
 
