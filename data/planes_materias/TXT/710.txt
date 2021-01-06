@@ -1,0 +1,80 @@
+DE CIENCIAS
+
+CARRERA DE MATEMATICO
+
+SEMINARIO DE PROBABILIDAD B
+Ejemplo: Grandes desviaciones
+
+SEMESTRE: Septimo u octavo
+CLAVE: 0710
+
+HORAS A LA SEMANA/SEMESTRE
+
+TEORICAS PRACTICAS CREDITOS
+5/80 0 10
+
+CARACTER: OPTATIVO.
+MODALIDAD: CURSO.
+SERIACION INDICATIVA ANTECEDENTE: Probabilidad II.
+SERIACION INDICATIVA SUBSECUENTE: Ninguna.
+
+OBJETIVO(S): Con este curso se busca hacer una introduccion a la Teoria de Grandes
+Desviaciones. El objetivo es adquirir un manejo adecuado de los resultados basicos de esta
+Teoria y de algunas de sus aplicaciones.
+
+NUM. HORAS UNIDADES TEMATICAS
+
+20 1. Introduccion: Eventos Raros y Grandes Desviaciones
+1.1 Leyes de los Grandes Numeros.
+1.2 Teorema Central del Limite.
+1.3 Grandes Desviaciones: un aspecto intuitivo.
+
+30 2. Teoremas de Cramer
+2.1 Para alfabetos finitos.
+2.2 Para R.
+2.3 Para Rn.
+2.4 Teorema de Gartner-Ellis.
+
+10 3. Propiedades del Principio de Grandes Desviaciones
+3.1 Existencia.
+3.2 Transformaciones.
+3.3 Principio de Contraccion.
+3.4 Lema de Varadhan.
+
+20 4. Aplicaciones, por ejemplo:
+4.1 Principio condicional de Gibbs y Mecanica Estadistica.
+4.2 Algoritmos en paralelo.
+
+417
+
+
+
+BIBLIOGRAFIA BASICA:
+
+1. Dembo, A., Zeitouni, O. Large Deviations Techiques and Applications. New York:
+Springer Verlag, 2a ed., Serie Applications of Mathematics. 1998.
+
+2. Shwarz, A., Weiss, A. Large Deviations for Performance Analysis, New York: Chap-
+man & Hall, Primera Edicion, Serie Stochastic Modeling Series. 1995.
+
+3. Varadhan, S.R.S. Large Deviations and Applications, Pennsylvania: SIAM, Serie Re-
+gional Conference in Applied Mathematics. 1984.
+
+BIBLIOGRAFIA COMPLEMENTARIA:
+
+1. Ellis, R. Entropy, Large Deviations and Statistical Mechanics, New York: Springer
+Verlag. Serie A Series of Comprehensive Studies in Mathematics #271, 1985.
+
+SUGERENCIAS DIDACTICAS: Lograr la participacion activa de los alumnos mediante
+exposiciones.
+
+SUGERENCIA PARA LA EVALUACION DE LA ASIGNATURA: Ademas de las califi-
+caciones en examenes y tareas se tomara en cuenta la participacion del alumno.
+
+PERFIL PROFESIOGRAFICO: Matematico, fisico, actuario o licenciado en ciencias de
+la computacion, especialista en el area de la asignatura a juicio del comite de asignacion
+de cursos.
+
+418
+
+

@@ -1,0 +1,172 @@
+el plan y programa de estudios de la licenciatura en >Ciencias de la Computacion
+
+
+308 
+ 
+
+ 
+
+ 
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+Licenciatura en Ciencias de la Computacion 
+Facultad de Ciencias 
+
+Programa de la asignatura 
+ 
+
+Denominacion de la asignatura:  
+Robotica 
+
+Clave:  
+0820 
+
+Semestre: 
+8 
+
+Eje tematico: 
+Imagenes y Ambientes Virtuales e Inteligencia 
+Artificial 
+
+No. Creditos:  
+10 
+
+Caracter: Optativa Horas Horas por semana 
+Total de 
+Horas  
+
+Tipo: Teorico-Practica Teoria: Practica: 
+7 112 3 4 
+
+Modalidad: Curso Duracion del programa: Semestral 
+ 
+
+ 
+ 
+Asignatura con seriacion indicativa antecedente: Proceso Digital de Imagenes; 
+Reconocimiento de Patrones; Vision por Computadora  
+ 
+Asignatura con seriacion indicativa subsecuente: Ninguna   
+Objetivo general:  
+Comprender y explicar el diseno, control, seleccion y aplicaciones de diversos tipos de robots.  
+ 
+
+Indice tematico 
+
+Unidad Temas  Horas Teoricas Practicas 
+I Introduccion 6 8 
+II Analisis de movimiento y accionadores 3 4 
+III Cinematica espacial 9 12 
+IV Cinematica inversa 6 8 
+V Dinamica de manipuladores 6 8 
+VI Sistema de Control y sensores 9 12 
+VII Programacion de Robots 9 12 
+
+Total de horas: 48 64 
+Suma total de horas: 112 
+
+ 
+  
+
+
+
+309 
+ 
+
+Contenido tematico 
+Unidad Tema 
+I Introduccion 
+I.1 Antecedentes de los robots. 
+I.2 Tipos de robots y sus componentes. 
+I.3 Aplicaciones de los diferentes tipos de robots. 
+II Analisis de movimiento y accionadores 
+II.1 Posicion, orientacion y referencias. 
+II.2 Translacion y rotacion. 
+II.3 Cambio de base. 
+II.4 Consideraciones de calculo para transformaciones. 
+III Cinematica espacial 
+III.1 Descripcion de las articulaciones. 
+III.2 Tipos de estructura y notacion de D.H. 
+III.3 Ecuaciones de cerradura en orientacion y posicion. 
+III.4 Cinematica de cadenas abiertas. 
+III.5 Desarrollo de paquetes de calculo. 
+III.6 Calculo de trayectorias en organos terminales. 
+IV Cinematica inversa 
+IV.1 Solucion geometrica y numerica. 
+IV.2 Metodo iterativo. 
+IV.3 Repetitividad y singularidad. 
+IV.4 Singularidades. 
+V Dinamica de manipuladores 
+V.1 Distribucion de masa en los eslabones. 
+V.2 Sistemas de accionamiento. 
+V.3 Aplicacion de Newton-Euler y Lagrange-Euler. 
+V.4 Simulacion dinamica. 
+VI Sistema de Control y sensores 
+VI.1 Sistemas de posicion y velocidad. 
+VI.2 Sistemas no lineales y variantes con el tiempo. 
+VI.3 Sistemas de control MIMO. 
+VI.4 Sistemas de control adaptativos. 
+VI.5 Sensores de fuerza. 
+VI.6 Sistemas de semi-restringido. 
+VI.7 Sistemas de control hibridos. 
+VI.8 Sistemas de Vision. 
+VII Programacion de Robots 
+VII.1 Programacion de robots a bajo nivel. 
+VII.2 Programacion de robots a medio nivel. 
+VII.3 Programacion de robots a alto nivel. 
+
+
+
+310 
+ 
+
+Bibliografia basica: 
+1. Groover, M and M. Weiss, Robotica industrial: tecnologia, Programacion y aplicaciones, 
+
+Mc-Graw-Hill, 1999. 
+2. Merlet, J. P., Parallel Robots, Springer, 2006. 
+3. Rivin, E., Mechanical design of robots, Mc-Graww-Hill, 1988. 
+4. Craig, J., Introduction to robotics: mechanics and control, John Wiley and sons 1989. 
+Bibliografia complementaria: 
+1. Tokhi, M. Osman, Climbing and Walking Robots, Springer, 2006. 
+2. Fahimi, Firbod, Autonomous Robots: Modeling, Path Planning, and Control, Spring, 2009. 
+3. Sukhatme, S. Gaurav, The path to Autonomous Robots, Spring, 2009. 
+4. Yuh, Junku, Ura Tamaki and Bekeyt George, Underwater Robots, Spring, 1996. 
+ 
+
+Sugerencias didacticas: 
+Exposicion oral (X) 
+Exposicion audiovisual (X) 
+Ejercicios dentro de clase (X) 
+Ejercicios fuera del aula (X) 
+Seminarios (   ) 
+Lecturas obligatorias (X) 
+Trabajo de investigacion (X) 
+Practicas de taller o laboratorio (X) 
+Practicas de campo (   ) 
+ 
+Otras: __________________________ 
+ 
+
+Metodos de evaluacion:  
+Examenes parciales (X) 
+Examen final escrito (X) 
+Trabajos y tareas fuera del aula (X) 
+Practicas de laboratorio (   ) 
+Exposicion de seminarios por los alumnos (X) 
+Participacion en clase (X) 
+Asistencia (X) 
+Proyectos de programacion (   ) 
+Proyecto final (   ) 
+Seminario (   ) 
+ 
+Otras: _____________________________ 
+  
+
+Perfil profesiografico:  
+Egresado preferentemente de la Licenciatura en Ciencias de la Computacion o matematico con 
+especialidad en computacion con amplia experiencia de programacion. Es conveniente que 
+posea un posgrado en la disciplina. Con experiencia docente. 
+  
+
+

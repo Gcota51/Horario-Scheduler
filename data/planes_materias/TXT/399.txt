@@ -1,0 +1,184 @@
+Estudios de la Licenciatura de Actuaria 
+
+ 
+
+ 
+Materias de Sexto Semestre  89 
+
+ 
+
+ESTADISTICA II 
+
+ 
+
+CLAVE:        
+SEMESTRE:                             6 
+CREDITOS:                            10  
+
+SECTOR :                                                      BASICO 
+AREA:                                              PROBABILIDAD Y ESTADISTICA 
+SERIACION:                                                    
+ASIGNATURA PRECEDENTE INDICATIVA: Estadistica I. 
+ASIGNATURA SUBSECUENTE INDICATIVA: Estadistica III y Teoria del 
+Riesgo. 
+
+HORAS POR CLASE 
+CLASES POR SEMANA 
+HORAS POR SEMESTRE 
+
+TEORICA:        1 
+TEORICA:        5 
+TEORICA:      80 
+
+PRACTICAS:      0 
+PRACTICAS:      0 
+PRACTICAS:      0 
+
+ 
+Objetivos generales: Al finalizar el curso el alumno: 
+ 
+* Conocera y aplicara las principales tecnicas (pruebas) de la estadistica no parametrica y su justificacion. 
+* Conocera el analisis de regresion como una tecnica estadistica para investigar y modelar la relacion entre 
+
+variables. 
+ 
+Tema 1. Estadistica no parametrica      30 horas 
+El alumno explicara y aplicara los principales metodos utilizados en la estadistica no parametrica. 
+  
+1.1  Pruebas binomiales. 
+  - Prueba para proporciones. 
+  - Prueba para cuantiles. 
+  - Prueba de signos. 
+  - Prueba de McNemar. 
+  - Prueba de Cox-Stuart. 
+1.2  Pruebas de rango. 
+  - Prueba de Mann-Witney  (Prueba U). 
+  - Prueba de Kruskall-Wallis. 
+  - Prueba para la varianza de mas de dos poblaciones. 
+1.3  Pruebas de bondad de ajuste. 
+                      -Prueba de la Ji-Cuadrada. 
+  - Prueba de Kolmogorov. 
+  - Prueba de Lilliefors. 
+  - Prueba exponencial. 
+  - Estadisticas mas usadas en la bondad de ajuste. 
+1.4  Tablas de contingencia. 
+  - Prueba de independencia. 
+  - Prueba de proporciones. 
+  - Prueba de la mediana. 
+ 
+Tema 2. Analisis de Regresion       50 horas 
+El alumno conocera los modelos de regresion, sus alcances, limitaciones, sus fundamentos matematicos y 
+aplicaciones usando paquetes de computo estadistico. 
+ 
+2.1 Panorama de los modelos de regresion y su utilizacion. 
+2.2 El modelo de regresion  lineal simple 
+  -Introduccion 
+  -Estimacion por minimos cuadrados de los parametros en el modelo 
+
+
+
+Plan de Estudios de la Licenciatura de Actuaria 
+
+ 
+
+ 
+Materias de Sexto Semestre  90 
+
+ 
+
+  -Teorema de Gauss-Markov 
+  -Propiedades de los estimadores 
+  -Estimacion por maxima verosimilitud de los parametros 
+  -Descomposicion fundamental del analisis de varianza 
+  -Coeficiente de correlacion y de determinacion 
+  -Construccion de intervalos de confianza para los parametros 
+  -Intervalo de Confianza para la respuesta media 
+  -Intervalo de prediccion 
+  -Prueba de significancia global (tabla de analisis  de varianza) 
+  -Transformaciones 
+  -Analisis de residuales 
+  -Pruebas F para carencia de ajuste 
+  -Forma matricial del modelo lineal simple 
+  -Uso y aplicacion de un paquete estadistico 
+ 
+2.3 El modelo de regresion lineal multiple. 
+  -El modelo de regresion lineal multiple en terminos matriciales 
+  -Estimacion de los parametros en el modelo por minimos cuadrados 
+  -Valores ajustados y residuales 
+  -Resultados del analisis de varianza 
+  -Inferencias acerca de los parametros del modelo de regresion 
+  -Inferencias acerca de la respuesta media 
+  -Prediccion de nuevas observaciones 
+  -Graficas de residuales y otros diagnosticos 
+  -Pruebas de hipotesis acerca de los coeficientes en regresion multiple 
+  -Formulacion matricial de la prueba lineal general 
+  -Coeficientes de determinacion parcial 
+  -Multicolinealidad y sus efectos 
+2.4 Seleccion de modelos 
+  -Metodos de seleccion de variables. 
+  -Uso y aplicacion de un paquete estadistico 
+ 
+ 
+Bibliografia basica: 
+
+ 
+* Brodsky, B. and Dharkovsky B., Nonparametric methods in change-point problems. Kluwer Academic. 
+
+1993. 
+* Conover, W. J. Practical Nonparametric statistics. Second Edition. USA. Wiley & Sons. 1980. 
+* Daniel, W. Applied Nonparametric Statistics. Second Edition. USA. PWS Kent. 1990. 
+* Gibbons, J.D. and Chakraborti, S. Nonparametric Statistical Inference. Fourth Edition. Marcel Dekker,Inc. 
+
+New York. 2003 
+* Chatterjee, S. and Price, B. Regression Analysis by Example. Second Edition. Wiley, New York. 1991. 
+* Draper, N. and Smith, H. Applied Regression Analysis. Second Edition, Wiley, New York. 1981. 
+* Montgomery, D.C. and Peck, E.A., and Vining G.G. Introduction to Linear Regression Analysis. Third 
+
+Edition. John Wiley and Sons, Inc. New York. 2001. 
+* Neter, J., Wasserman, W. and Kutner, M.H. Applied Linear Statistical Models. Third Edition. Irwin, Boston, 
+
+Ma. 1990. 
+ 
+
+
+
+Plan de Estudios de la Licenciatura de Actuaria 
+
+ 
+
+ 
+Materias de Sexto Semestre  91 
+
+ 
+
+Bibliografia complementaria: 
+ 
+
+* Everitt, B.S. The Analysis of Contingency Tables. Chapman and Hall, London. 1977. 
+* Neave, H.R. and Worthington. Distibution-Free Tests. Unwin Hyman, London. 1988. 
+* Rawlings, J.O.; Applied Regression Analysis, a Research Tool, Wadswortg&Brooks, USA, 1988. 
+
+ 
+ 
+Sugerencias didacticas 
+ 
+Se recomienda el uso de paquetes estadisticos como el SPSS, Statistica o SPlus para el analisis y modelacion de 
+los datos. 
+Es recomendable que se impartan clases en el laboratorio de computo para que el alumno aprenda a usar al 
+menos uno de estos paquetes. 
+Asimismo se sugiere que, al final del curso, el alumno haga un analisis completo de un conjunto de datos y 
+presente los resultados de manera oral y escrita.  
+ 
+Forma de evaluacion: 
+ 
+Se recomiendan de 3 a 4 examenes parciales y un examen final, asi como la realizacion de tareas sobre los temas  
+vistos en clase para reforzar los conocimientos teoricos adquiridos. 
+ 
+Perfil profesiografico de quienes pueden impartir la asignatura 
+ 
+Es deseable que el profesor cuente con un posgrado en Estadistica o experiencia en el manejo de este tipo de 
+datos. 
+ 
+ 
+
+

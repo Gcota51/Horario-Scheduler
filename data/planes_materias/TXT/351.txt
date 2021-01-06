@@ -1,0 +1,92 @@
+FACULTAD DE CIENCIAS
+
+CARRERA DE MATEMATICO
+
+INTRODUCCION A LAS FUNCIONES RECURSIVAS Y
+COMPUTABILIDAD
+
+SEMESTRE: Septimo u octavo
+CLAVE: 0351
+
+HORAS A LA SEMANA/SEMESTRE
+
+TEORICAS PRACTICAS CREDITOS
+5/80 0 10
+
+CARACTER: OPTATIVO.
+MODALIDAD: CURSO.
+SERIACION INDICATIVA ANTECEDENTE: Logica Matematica II.
+SERIACION INDICATIVA SUBSECUENTE: Ninguna.
+
+OBJETIVO(S): Presentar la teoria de la computabilidad desde la perspectiva de las fun-
+ciones recursivas.
+
+NUM. HORAS UNIDADES TEMATICAS
+
+10 1. Maquinas de Turing
+1.1 Funcion de transicion y diagramas.
+1.2 El problema de castor atareado. Funciones no computables.
+
+15 2. Funciones parciales computables
+2.1 Definicion y ejemplos.
+2.2 Funciones recursivas parciales.
+2.3 Turing-computabilidad de las funciones recursivas parciales.
+
+15 3. Enumerabilidad efectiva
+3.1 Conjuntos recursivos y conjuntos recursivamente enumerables.
+3.2 Codificacion de las maquinas de Turing.
+3.3 Maquinas universales y el teorema s-m-n de Kleene.
+
+25 4. El problema de la decision. Numeros y funciones compu-
+tables
+4.1 El predicado T (i, x, z) de Kleene.
+4.2 Recursividad de las funciones parciales Turing-computables.
+4.3 Problemas de la detencion, de la equivalencia y de la decidibilidad.
+4.4 Indecidibilidad e incomplitud de la aritmetica de Peano. Teorema
+de Church.
+4.5 Numeros reales computables y no computables.
+
+1
+
+
+
+15 5. Teorema de Rice y teorema de la recursion
+5.1 Conjuntos no recursivos de numeros naturales. Teorema de Rice.
+5.2 Teorema de la recursion.
+
+BIBLIOGRAFIA BASICA:
+
+1. Bridges, D.S., Computability. A Mathematical Sketchbook, New York: Springer-
+Verlag, 1994.
+
+2. Dunne, P.E., Computability Theory. Concepts and Applications, Ellis Horwood, 1991.
+
+3. Kleene, S.C., Introduction to Metamathematics, Amsterdam: D. Van Nostrand Com-
+pany, Inc., 1952.
+
+4. Kleene, S.C., Mathematical Logic, New York: John Wiley & Sons, Inc., 1967.
+
+5. Rogers, H. Jr, Theory of Recursive Functions and Effective Computability, New York:
+McGraw-Hill, 1967.
+
+BIBLIOGRAFIA COMPLEMENTARIA:
+
+1. Gruska, J., Foundations of Computing, International Thompson Computer Press,
+1997.
+
+2. Pippinger, N., Theories of Computability, Cambridge: Cambridge University Press,
+1997.
+
+SUGERENCIAS DIDACTICAS: Lograr la participacion activa de los alumnos mediante
+exposiciones.
+
+SUGERENCIA PARA LA EVALUACION DE LA ASIGNATURA: Ademas de las califi-
+caciones en examenes y tareas se tomara en cuenta la participacion del alumno.
+
+PERFIL PROFESIOGRAFICO: Matematico, fisico, actuario o licenciado en ciencias de
+la computacion, especialista en el area de la asignatura a juicio del comite de asignacion
+de cursos.
+
+2
+
+

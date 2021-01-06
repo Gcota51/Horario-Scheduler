@@ -1,0 +1,61 @@
+FACULTAD DE CIENCIAS
+
+CARRERA DE MATEMATICO
+
+VARIABLE COMPLEJA III (ejemplo)
+
+SEMESTRE: Septimo u octavo
+CLAVE: 0842
+
+HORAS A LA SEMANA/SEMESTRE
+
+TEORICAS PRACTICAS CREDITOS
+5/80 0 10
+
+CARACTER: OPTATIVO.
+MODALIDAD: CURSO.
+SERIACION INDICATIVA ANTECEDENTE: Variable Compleja II.
+SERIACION INDICATIVA SUBSECUENTE: Ninguna.
+
+OBJETIVO(S): El objetivo de este curso es el familiarizar al estudiante en la teoria
+geometrica y topologica que presenta la Variable Compleja en sus diferentes aspectos.
+
+NUM. HORAS UNIDADES TEMATICAS
+
+28 1. Teoria de Uniformizacion.
+
+28 2. Introduccion a las funciones automorfas.
+
+24 3. Introduccion a las funciones abelianas.
+
+BIBLIOGRAFIA BASICA:
+
+1. Markushevich, A., Teoria de las Funciones Analiticas, Moscu: MIR, 1978.
+
+2. Siegel. Topics in Complex Function Theory, Vol I, New York: Wiley Interscience,
+1967.
+
+3. Sigermann, D., Jones, G. Complex Functions, Cambridge: Cambridge Univ. Press,
+1987.
+
+BIBLIOGRAFIA COMPLEMENTARIA:
+
+1. Ford, L. R., Automorphic Functions, New York: McGraw-Hill, 1929.
+
+SUGERENCIAS DIDACTICAS: Lograr la participacion activa de los alumnos mediante
+exposiciones.
+
+1
+
+
+
+SUGERENCIA PARA LA EVALUACION DE LA ASIGNATURA: Ademas de las califi-
+caciones en examenes y tareas se tomara en cuenta la participacion del alumno.
+
+PERFIL PROFESIOGRAFICO: Matematico, fisico, actuario o licenciado en ciencias de
+la computacion, especialista en el area de la asignatura a juicio del comite de asignacion
+de cursos.
+
+2
+
+

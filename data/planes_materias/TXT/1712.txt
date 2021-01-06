@@ -1,0 +1,226 @@
+ Estudios de la Licenciatura de Actuaria 
+
+ 
+
+ 
+Materias de Septimo Semestre  98 
+
+ 
+
+ESTADISTICA III 
+
+ 
+
+CLAVE:        
+SEMESTRE:                             7 
+CREDITOS:                            10 
+
+SECTOR:                                                      BASICO 
+AREA:                                              PROBABILIDAD Y ESTADISTICA 
+SERIACION:                                                  
+ASIGNATURA PRECEDENTE INDICATIVA: Estadistica II. 
+ASIGNATURA SUBSECUENTE INDICATIVA: Optativas 
+
+HORAS POR CLASE 
+CLASES POR SEMANA 
+HORAS POR SEMESTRE 
+
+TEORICA:        1 
+TEORICA:        5 
+TEORICA:      80 
+
+PRACTICAS:    0 
+PRACTICAS:    0 
+PRACTICAS:    0 
+
+ 
+Objetivos generales:       Al finalizar el curso el alumno: 
+ 
+
+* Conocera el analisis de datos relacionados  con tiempos de falla, o tiempos de ocurrencia de un evento 
+especifico.  
+
+* Sera capaz de hacer inferencia acerca de la distribucion de los tiempos de supervivencia, usualmente 
+con datos censurados. 
+
+* Podra hacer inferencia sobre un modelo estadistico que relaciona una variable, usualmente tiempo, con 
+una variable de respuesta. La cualidad esencial de las series es el orden de las observaciones de acuerdo 
+a la variable tiempo. 
+
+ 
+
+Tema 1. Analisis de Supervivencia                                                                          40 horas     
+Conocera los modelos de supervivencia, sus alcances, limitaciones, sus fundamentos matematicos y aplicaciones 
+usando paquetes de computo estadistico.                                 
+                                       
+1.1.1 Introduccion 
+
+-La definicion de tiempos de falla 
+-Datos censurados 
+-Funciones de supervivencia 
+-Algunos ejemplos 
+
+1.2   Distribuciones de tiempos de falla 
+-Funcion de riesgo 
+-Frecuencia, severidad y distribucion de supervivencia. 
+-Algunas distribuciones de supervivencia y sus aplicaciones 
+-Comparacion de distribuciones  
+
+1.3   Analisis estadistico parametrico 
+-La funcion de verosimilitud 
+-Estimacion cuando no hay datos censurados 
+-Estimacion cuando hay datos censurados 
+-Familia de riesgos proporcionales 
+
+1.4   Metodos no-parametricos 
+-Estimadores limite-producto de la funcion de supervivencia 
+-Analisis de tablas de vida 
+-Tasa de supervivencia para cinco anos y tasas de supervivencia corregidas 
+
+1.5   Modelos con dependencia en variables explicativas o covariables 
+-Modelo de vida acelerada 
+-Modelo de riesgos proporcionales 
+
+1.6   El Modelo de riesgos proporcionales 
+-La funcion de verosimilitud 
+
+
+
+Plan de Estudios de la Licenciatura de Actuaria 
+
+ 
+
+ 
+Materias de Septimo Semestre  99 
+
+ 
+
+-Riesgos log lineales 
+-Tiempos de falla discretos: empates 
+-El problema de dos muestras 
+
+1.7   Indices de prognosis y tamano de muestra para estudios de supervivencia. 
+-Analisis preliminar de los datos 
+-Metodos no parametricos 
+-Metodos de regresion parametrica 
+
+1.8   Analisis de aplicaciones usando un paquete de computo estadistico 
+ 
+Tema 2. Series de Tiempo                                                                                        40 horas                   
+Conocera los modelos de series de tiempo, sus alcances, limitaciones, sus fundamentos matematicos y 
+aplicaciones usando paquetes de computo estadistico. 
+ 
+2.1  Introduccion al analisis de series de tiempo 
+        -Ejemplos 
+        -Objetivos del analisis de series de tiempo 
+        -Series de tiempo vistas como procesos estocasticos 
+        -Uso de polinomios y operadores de retraso 
+        -Procesos estocasticos lineales 
+2.2  Tendencia y estacionalidad 
+        -Graficas con respecto al tiempo 
+        -Transformaciones 
+        -Analisis de series que tienen una tendencia 
+        -Autocorrelacion 
+        -El correlograma 
+        -Interpretacion del correlograma 
+        -Otras pruebas de aleatoriedad 
+2.3   Modelos para series de tiempo univariadas 
+         -Modelos autorregresivos (AR) 
+         -Modelos de promedios moviles 
+         -Modelos ARMA 
+         -Modelos ARIMA 
+2.4  Construccion de modelos para series de tiempo univariadas 
+        -Identificacion 
+        -Estimacion 
+        -Verificacion 
+2.5  Pronostico con modelos ARIMA 
+2.6  Analisis de aplicaciones usando un paquete de computo estadistico 
+ 
+ 
+Bibliografia 
+ 
+* Andersen, P.K., Borgan, O., Gill, R.D. and Keiding, N. (1993). Statistical Models Based on Counting 
+
+Processes. New York: Springer Verlag. 
+* Cox D.R. and Oakes D. (1984). Analysis of Survival Data. Chapman and Hall: London, New York. 
+* Kalbfleisch, J.D. and Prentice R.L. (1980). The Statistical Analysis of Failure Time Data. New York: John 
+
+Wiley. 
+* Lawless, J. (1982). Statistical Models and Methods for Lifetime Data. John Wiley &Sons. 
+* Lee, E.T. and Wang, J.W. (2003). Statistical Methods for Survival Data Analysis. Third Edition. John 
+
+Wiley. 
+
+
+
+Plan de Estudios de la Licenciatura de Actuaria 
+
+ 
+
+ 
+Materias de Septimo Semestre  100 
+
+ 
+
+* Parmar M.K.B. and Machin D. (1995). Survival Analysis. John Wiley. 
+* Brockwell, P.J. and Davis, R.A. (1996). Introduction to Time Series and Forecasting. New York: Springer-
+
+Verlag. 
+* Chatfield C. (1996). The Analysis of Time Series, 5th edn. London: Chapman and Hall. 
+* Kendall, M.G. and Ord, J.K. (1990). Time Series. 3rd edn. Sevenoaks, U.K: Arnold. 
+* Kendall, M.G.; Stuart, A. and Ord J.K. (1983). The Advanced Theory of Statistics, Vol. 3, 4th ed. London: 
+
+Griffin. 
+ 
+  
+
+Sugerencias didacticas 
+ 
+Se recomienda el uso de paquetes estadisticos como el SPSS, Statistica o SPlus para el analisis y modelacion de 
+los datos. 
+Es recomendable que se impartan clases en el laboratorio de computo para que el alumno aprenda a usar al 
+menos uno de estos paquetes. 
+Asimismo se sugiere que, al final del curso, el alumno haga un analisis completo de un conjunto de datos y 
+presente los resultados de manera oral y escrita.  
+ 
+Forma de evaluacion: 
+ 
+Se recomiendan de 3 a 4 examenes parciales y un examen final, asi como la realizacion de tareas sobre los temas  
+vistos en clase para reforzar los conocimientos teoricos adquiridos. 
+ 
+Perfil profesiografico de quienes pueden impartir la asignatura 
+ 
+Es deseable que el profesor cuente con un posgrado en Estadistica o experiencia en el manejo de este tipo de 
+datos. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+

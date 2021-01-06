@@ -1,0 +1,130 @@
+FACULTAD DE CIENCIAS
+
+CARRERA DE MATEMATICO
+
+TEORIA DE LOS CONJUNTOS II
+
+SEMESTRE: Septimo u octavo
+CLAVE: 0779
+
+HORAS A LA SEMANA/SEMESTRE
+
+TEORICAS PRACTICAS CREDITOS
+5/80 0 10
+
+CARACTER: OPTATIVO.
+MODALIDAD: CURSO.
+SERIACION INDICATIVA ANTECEDENTE: Teoria de los Conjuntos I.
+SERIACION INDICATIVA SUBSECUENTE: Teoria de los Conjuntos III.
+
+OBJETIVO(S): El objetivo es dar al alumno todas las construcciones numericas a partir
+de los naturales. Ver el estudio de los tipos de orden de los ordenes lineales y su aritmeti-
+ca (discretos, densos, continuos separables, etc), especialmente de los buenos ordenes. El
+teorema de recursion para ordinales.
+Se estudian los cardinales como ordinales iniciales (revisando que cumplen lo visto en equi-
+potencia y dominancia). Las jerarquias de los alephs y de los beths, asi como cofinalidad,
+sumas y productos infinitos de cardinales infinitos, el teorema de Konig y el problema de
+la exponenciacion cardinal. Quedan establecidas todas las restricciones posibles al cardinal
+del continuo. Cardinales inaccesibles.
+
+NUM. HORAS UNIDADES TEMATICAS
+
+20 1. Tipos de ordenes totales o lineales
+1.1 Tipos de orden, ejemplos, igualdad y orden. (N, < ) como uni-
+co (salvo isomorfismo) buen orden, sin extremo derecho y tal que
+cualquier subconjunto acotado superiormente tiene maximo.
+1.2 Construccion de Z. (Z, < ) como unico (salvo isomorfismo) orden
+total, sin extremos y tal que cualquier subconjunto acotado tiene
+maximo y minimo.
+1.3 Construccion de Q, (Q, < ) como el unico (salvo isomorfismo)
+orden total, denso, sin extremos y numerable.
+1.4 Construccion de R, (R, < ) como el unico (salvo isomorfismo)
+orden total, denso, sin extremos, completo (continuo) y separable.
+Otro problema del continuo: el problema de Souslin.
+1.5 Aritmetica de tipos de orden. El caso particular de los buenos
+ordenes.
+
+1
+
+
+
+20 2. Ordinales
+2.1 Ordinales, propiedades y caracterizaciones. Principio del Minimo
+Ordinal. Induccion para ordinales (induccion transfinita). Construc-
+cion del primer ordinal no numerable omega-uno.
+2.2 El Teorema de Enumeracion: Todo buen orden es isomorfo a un
+unico ordinal con [?]. Recursion para ordinales.
+2.3 Aplicaciones: el Teorema de Recursion: aritmetica ordinal, defini-
+cion de la jerarquia acumulativa de los conjuntos bien fundados. AE
+implica Teo.Buen Orden. Cerradura transitiva.
+2.4 El axioma de constructibilidad y el universo constructible o defi-
+nible L de Godel
+
+20 3. Cardinales
+3.1 Ordinales iniciales, propiedades basicas. El Teorema de Hartog.
+La jerarquia de los Alephs.
+3.2 Aritmetica cardinal infinita de cardinales transfinitos. El Teorema
+de Konig. El problema de la exponenciacion cardinal. La jerarquia
+de los Beths.
+3.3 Equivalencias de la Hipotesis Generalizada del Continuo (HGC).
+
+20 4. Cofinalidad
+4.1 Propiedades y caracterizaciones. Exponenciacion en terminos de
+cofinalidad. Que cardinales no pueden ser |R|, ?puede ser cualquier
+otro cardinal?
+4.2 Exponenciacion con HGC y sin HGC. La jerarquia de los Gimel.
+4.3 Cardinales Inaccesibles. Axiomas fuertes de infinito y cardinales
+grandes.
+
+BIBLIOGRAFIA BASICA:
+
+1. Amor, J. A., El Problema del Continuo y las Pruebas de Independencia, en el libro
+Continuidad en las Ciencias, Mexico: FCE-UNAM, 2002.
+
+2. Devlin, K., The Joy of Sets, Foundations of Contemporary set Theory, New York:
+Springer Verlag, 1993.
+
+3. Enderton, H.B., Elements of Set Theory, New York: Academic Press, 1977.
+
+4. Hernandez, F., Teoria de Conjuntos, Mexico: Aportaciones Matematicas No.13, So-
+ciedad Matematica Mexicana, 1998.
+
+5. Hrbacek, K., Jech, T., Introduction to Set Theory, New York: Marcel Dekker, 3a Ed.
+1999.
+
+2
+
+
+
+6. Jech, T., Set Theory, Boston: Academic Press, 1978.
+
+7. Kamke, E., Theory of Sets, New York: Dover Pub., 1950.
+
+8. Kunen, K., Set Theory, an Introduction to Independence Proofs, Amsterdam: North
+Holland, 1980.
+
+9. Palomino, C., De la Teoria de los Estratos a las Estructuras Matematicas a Traves
+de la Teoria de Conjuntos, Mexico: Tesis UNAM, 1993.
+
+BIBLIOGRAFIA COMPLEMENTARIA:
+
+1. Amor, J.A., "La teoria de conjuntos en el siglo XX", Miscelanea Matematica No.31,
+2000.
+
+2. Campero, G., ?Es V distinto de L? Independencia del Axioma de Constructibilidad y
+Algunas Reflexiones sobre la no-Constructibilidad del Universo Conjuntista, Mexico:
+Tesis UNAM, 1998.
+
+SUGERENCIAS DIDACTICAS: Lograr la participacion activa de los alumnos mediante
+exposiciones.
+
+SUGERENCIA PARA LA EVALUACION DE LA ASIGNATURA: Ademas de las califi-
+caciones en examenes y tareas se tomara en cuenta la participacion del alumno.
+
+PERFIL PROFESIOGRAFICO: Matematico, fisico, actuario o licenciado en ciencias de
+la computacion, especialista en el area de la asignatura a juicio del comite de asignacion
+de cursos.
+
+3
+
+

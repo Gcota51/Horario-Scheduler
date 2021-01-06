@@ -1,0 +1,113 @@
+FACULTAD DE CIENCIAS
+
+CARRERA DE MATEMATICO
+
+TEORIA DE LOS CONJUNTOS I
+
+SEMESTRE: Quinto o sexto
+CLAVE: 0760
+
+HORAS A LA SEMANA/SEMESTRE
+
+TEORICAS PRACTICAS CREDITOS
+5/80 0 10
+
+CARACTER: OPTATIVO.
+MODALIDAD: CURSO.
+SERIACION INDICATIVA ANTECEDENTE: Conjuntos y Logica.
+SERIACION INDICATIVA SUBSECUENTE: Teoria de los Conjuntos II.
+
+OBJETIVO(S): El objetivo principal es dar a los alumnos elementos basicos de teoria de
+conjuntos que les sirvan en su formacion matematica. Dos de los elementos principales son
+la aritmetica cardinal y ordinal transfinita y el manejo claro del axioma de eleccion.
+Un objetivo inicial es aclarar los malos entendidos y prejuicios sobre los dos conceptos
+indefinidos: objetos de la teoria (conjuntos y no conjuntos) y la relacion de pertenencia.
+La distincion conjunto-clase y aclaracion de paradojas. Otro objetivo opcional es construir
+los numeros naturales y probar los axiomas de Peano.
+
+NUM. HORAS UNIDADES TEMATICAS
+
+4 1. Introduccion
+1.1 Aclaraciones sobre el concepto de conjunto. Conjuntos y no con-
+juntos. El lenguaje de la teoria de conjuntos.
+1.2 Construccion de conjuntos. ?Como construimos conjuntos?
+1.3 El conjunto universo local. La coleccion de todos los conjuntos
+no es un conjunto.
+
+19 2. Algebra de conjuntos
+2.1 Par ordenado, producto cartesiano.
+2.2 Relaciones, particiones y funciones.
+2.3 Funciones. Inyectivas, suprayectivas, biyectivas, monotonas, etc.
+2.4 Ordenes parciales, totales y buenos. Conjuntos bien fundados e
+induccion fuerte.
+
+1
+
+
+
+19 3. Los numeros naturales, induccion y recursion
+3.1 Construccion de los numeros naturales. Conjuntos inductivos,
+axioma de infinito, principio de induccion.
+3.2 El Teorema de Recursion para numeros naturales.
+3.3 Sistemas de Peano. Unicidad.
+3.4 Aritmetica en los naturales. Variantes de teorema de recursion.
+
+19 4. Equipotencia, finitud, dominancia y aritmetica cardinal
+4.1 Equipotencia. Ejemplos clasicos.
+4.2 Finitud. Propiedades, definiciones alternativas.
+4.3 Dominancia. Teo. Cantor-Bernstein. Teo. Cantor.
+4.4 Aritmetica cardinal. Suma, producto y exponenciacion.
+4.5 El problema del continuo: la Hipotesis del Continuo (HC) y la
+Hipotesis Generalizada del Continuo (HGC).
+
+19 5. El Axioma de Eleccion
+5.1 Varios equivalentes del Axioma de Eleccion (AE). Lema de Zorn,
+Teorema del Buen Orden, la Dominancia es Total.
+5.2 Mas aritmetica cardinal con AE. Dedekind infinito e infinito.
+5.3 Aplicaciones de AE, en especial de Lema de Zorn.
+
+BIBLIOGRAFIA BASICA:
+
+1. Amor, J. A., Teoria de Conjuntos para Estudiantes de Ciencias, Mexico: Serv. Edi-
+toriales Fac. Ciencias, UNAM, 1997.
+
+2. Crossley, J. et al, What is Mathematical Logic, Dufdod: Dufdod University, 1972.
+
+3. Devlin, K., The Joy of Sets, New York: Springer Verlag, 1993.
+
+4. Enderton, H. B., Elements of Set Theory, Boston: Academic Press, 1977.
+
+5. Hernandez, F., Teoria de Conjuntos, Mexico: Aportaciones Matematicas No.13,
+SMM, 1998.
+
+6. Hrbacek K., Jech T., Introduction to Set Theory, New York: Marcel Dekker, 1984.
+
+7. Kamke, E., Theory of Sets, New York: Dover Pub., 1950.
+
+8. Malitz, J., Introduction to Mathematical Logic. Part I Set Theory, New York: Sprin-
+ger Verlag, 1984.
+
+2
+
+
+
+BIBLIOGRAFIA COMPLEMENTARIA:
+
+1. Bolzano, B., Las Paradojas del Infinito, Mexico: Mathema, 1985.
+
+2. Cantor, G., Contributions to the Founding of the Theory of Transfinite Numbers,
+New York: Dover, 1955.
+
+SUGERENCIAS DIDACTICAS: Lograr la participacion activa de los alumnos mediante
+exposiciones.
+
+SUGERENCIA PARA LA EVALUACION DE LA ASIGNATURA: Ademas de las califi-
+caciones en examenes y tareas se tomara en cuenta la participacion del alumno.
+
+PERFIL PROFESIOGRAFICO: Matematico, fisico, actuario o licenciado en ciencias de
+la computacion, especialista en el area de la asignatura a juicio del comite de asignacion
+de cursos.
+
+3
+
+

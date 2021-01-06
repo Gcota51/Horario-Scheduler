@@ -1,0 +1,154 @@
+A VECTORIAL
+________________________________________________________________________
+
+CLAVE: 0228 MODALIDAD: Curso
+SEGUNDO SEMESTRE CARACTER: Obligatorio 
+CREDITOS: 12 REQUISITOS: Fisica Contemporanea, Calculo 
+
+Diferencial e Integral I, Geometria Analitica I.
+________________________________________________________________________
+
+HORAS POR CLASE TEORICAS: 2 
+HORAS POR SEMANA TEORICAS: 6 
+HORAS POR SEMESTRE TEORICAS: 96 
+________________________________________________________________________
+
+Objetivos
+Iniciar  al  estudiante  en  el  conocimiento  de  la  mecanica  clasica,  empleando  una 
+herramienta  matematica  de  mayor  profundidad  y  formalismo.  Ensenar  los  principios 
+basicos en los que se fundamenta la fisica, tales como las leyes de conservacion, y su 
+utilizacion. 
+
+Metodologia de la ensenanza 
+Este curso teorico, se toma en paralelo con el de Laboratorio de Mecanica, con el fin de 
+ofrecer  una  ensenanza  teorico  experimental  de  la  materia.  El  temario  representa  el 
+minimo a cubrir.  Este debe ser complementado por cada profesor con los ejemplos y 
+demostraciones que le parezcan mas adecuados, segun su experiencia personal. 
+
+Evaluacion del curso
+Mediante examenes y tareas. 
+
+Temario
+
+1. INTRODUCCION  2 hrs. 
+1.1 El objeto de estudio de la mecanica. 
+1.2 Las variables basicas de descripcion en la mecanica. Sistemas de unidades. 
+1.3 Medicion de distancias pequenas, medianas y grandes; medicion de angulos; 
+
+medicion de tiempos y masas. 
+1.4 Caracteristicas generales de los procedimientos de medicion; precision, 
+
+exactitud e incertidumbre experimental. 
+
+2. VECTORES  4 hrs.
+2.1 Algebra vectorial.
+2.2 Los vectores como lenguaje de la mecanica. 
+
+3. CINEMATICA  12 hrs. 
+31 Movimiento rectilineo: velocidad y aceleracion. 
+3.2 Representacion vectorial de la velocidad y la aceleracion en movimiento 
+
+rectilineo. 
+3.3 Movimiento curvilineo: velocidad y aceleracion. 
+3.4 Movimiento bajo aceleracion constante. 
+3.5 Componentes tangenciales y normales de la aceleracion. 
+3.6 Movimiento circular: aceleracion angular. 
+
+1
+
+
+
+3.7 Movimiento curvilineo general. 
+
+4. DINAMICA DE UNA PARTICULA  14 hrs. 
+4.1 La ley de la inercia. Primera ley de Newton.
+4.2 Principio de conservacion del momento lineal. 
+4.3 Segunda y tercera leyes de Newton: concepto de fuerza. 
+4.4 Friccion. 
+4.5 Sistemas de masa variable.
+4.6 Momento angular y torca.
+4.7 Fuerzas centrales.
+
+5. RELATIVIDAD GALILEANA  12 hrs.
+5.1 Velocidad relativa.
+5.2 Movimiento traslacional relativo uniforme.
+5.3 Movimiento rotacional relativo uniforme.
+5.4 Movimiento relativo a la Tierra.
+
+6. TRABAJO Y ENERGIA  14 hrs. 
+6.1 Trabajo.
+6.2 Potencia.
+6.3 Energia cinetica. 
+6.4 Trabajo de una fuerza constante en magnitud y direccion. 
+6.5 Energia potencial, concepto de potencial. 
+6.6 Conservacion de energia de una particula. 
+6.7 Conservacion en el trabajo mecanico. 
+6.10 Movimiento bajo fuerzas conservativas. 
+6.11 Fuerzas no conservativas, disipacion de energia.
+
+7. DINAMICA DE UN SISTEMA DE PARTICULAS  12 hrs. 
+7.1 Definiciones de masa total, momento total y centro de masa.
+7.2 Movimiento del centro de masa de un sistema de particulas. 
+7.3 Masa reducida.
+7.4 Momento angular de un sistema de particulas. 
+7.5 Energia cinetica de un sistema de particulas. 
+7.6 Conservacion de energia de un sistema de particulas. 
+
+8. DINAMICA DEL CUERPO RIGIDO  10 hrs. 
+8.1 Momento angular de un cuerpo rigido. 
+8.2 Calculo del momento de inercia. 
+8.3 Ecuacion de movimiento para la rotacion de un cuerpo rigido. 
+8.4 Energia cinetica de rotacion.
+8.5 Movimiento giroscopico (revision somera).
+
+9. MOVIMIENTO OSCILATORIO  8 hrs.
+9.1 Cinematica y dinamica del oscilador armonico simple. 
+9.2 Pendulos simple y compuesto. 
+9.3 Superposicion de dos movimientos armonicos simples (coherencia e 
+
+incoherencia). 
+
+10. INTERACCION GRAVITATORIA  10 hrs.
+10.1 Gravedad.
+
+2
+
+
+
+10.2 La ley gravitacional de Newton.
+10.3 Fuerza gravitacional de una masa esferica. 
+10.4 Masas inercial y gravitacional.
+10.5 Energia potencial gravitacional. 
+10.6 Movimiento general bajo la fuerza gravitacional.
+10.7 Leyes de Kepler.
+10.8 Principio de equivalencia.
+
+Bibliografia basica 
+* Alonso, M., Finn, J.E., Fisica, Addison Wesley Iberoamericana, Mexico, (1999).
+* Douglas Giancoli, Physics for Scientists & Engineers, 3rd edition, Prentice Hall, 
+
+(2000).
+* Halliday, D., Resnick, R., Walker, J., Fundamentals of physics, 5th edition, John 
+
+Wiley & Sons, Inc., N.Y., USA, (1997).
+* Kittel, Ch, Knight, W. D., and Ruderman, M. A., Mecanica, Berkeley physics 
+
+course, Volumen 1, Reverte,  (1989).
+* Ohanian, H.C. y J.T. Markert, Fisica para ingenieria y ciencias, Vol. 1. Mc Graw 
+
+Hill-Interamericana, 3a edicion. Mexico, (2009).
+* Serway, R. A. y J. W. Jewett, Jr., Fisica (Volumen I). 6a edicion, Thompson 
+
+Complementaria, Mexico, (2005).
+
+Bibliografia complementaria 
+* French, A.P., Newtonian Mechanics (M.I.T. Introductory Physics Series), W.W. 
+
+Norton & Co., (1971).
+* Feynman, Richard P., Leighton, R. B. and Sands, M., The Feynman Lectures on 
+
+Physics, Volume I: Mechanics, Radiation, and Heat, (1964).
+
+3
+
+

@@ -1,0 +1,135 @@
+DE CIENCIAS
+
+CARRERA DE MATEMATICO
+
+TEORIA DE JUEGOS II
+
+SEMESTRE: Septimo u octavo
+CLAVE: 0950
+
+HORAS A LA SEMANA/SEMESTRE
+
+TEORICAS PRACTICAS CREDITOS
+5/80 0 10
+
+CARACTER: OPTATIVO.
+MODALIDAD: CURSO.
+SERIACION INDICATIVA ANTECEDENTE: Teoria de juegos I.
+SERIACION INDICATIVA SUBSECUENTE: Ninguna.
+
+OBJETIVO(S): El objetivo que se buscaria en este curso es dar una vision mas amplia a
+los alumnos que han llevado el curso de Teoria de Juegos I, en una serie de importantes
+aspectos. Este segundo curso, deberia comenzar con los temas que dan fundamento a toda
+la Teoria de Juegos.
+En segundo lugar, habria que estudiar los diversos conceptos de solucion de los Juegos
+Cooperativos y algunas de las aplicaciones de dichos juegos.
+En tercer lugar se estudian los juegos de informacion incompleta o bayesianos. La prob-
+lematica que abordan estos juegos, tanto los cooperativos como los no cooperativos, es muy
+distinta a los juegos con informacion completa que se estudiaron en el primer curso. Ahora
+se tiene que algunos de los participantes no conocen plenamente las reglas del conflicto
+en las que estan envueltos. La investigacion de estas nuevas cuestiones es relativamente
+reciente. El desarrollo de esta tematica es sumamente interesante y ha sido abordada ampli-
+amente, por ejemplo, en la teoria de subastas y en el tratamiento de diversos instrumentos
+financieros.
+Por ultimo, se abordaria una problematica en la cual ya no son los individuos o equipos
+de individuos el centro de la atencion, sino los grupos sociales. En las situaciones que se
+presentan, los juegos evolutivos son los que han tenido mas exito. Dichos juegos surgieron
+en la Biologia y han conducido a excelentes resultados en el estudio de la evolucion de
+las especies. De ahi se trasladaron al estudio de los patrones de conducta social, de las
+concepciones eticas y de otros problemas relacionados.
+
+467
+
+
+
+NUM. HORAS UNIDADES TEMATICAS
+
+5 1. La utilidad y otros temas de la fundamentacion en teoria
+de juegos
+1.1 Utilidad Ordinal. Utilidad en el espacio de las Loterias. Utilidad
+en el espacio de los vectores de Mercancias.
+1.2 Otros aspectos de la Racionalidad.
+1.3 Conocimiento Comun.
+
+25 2. Los juegos cooperativos
+2.1 Las diversas teorias de Juegos Cooperativos. Definiciones basicas.
+La Negociacion de Nash en juegos bipersonales El Core. Conjuntos
+estables. Juegos de Mercados El valor de Shapley y otros indices de
+poder. Conjunto de Negociacion, el Kernel, Nucleolos.
+2.2 Diversas aplicaciones de los Juegos Cooperativos.
+2.3 Relaciones entre los Juegos Cooperativos y los no cooperativos.
+Comparacion de resultados en algunos ejemplos importantes. La ne-
+gociacion Cooperativa de Nash y el juego no cooperativo de la Ne-
+gociacion. Los Juegos repetidos, los Teoremas de Tradicion Oral y
+los Juegos Cooperativos Fundamentacion no Cooperativa del Core
+Fundamentacion no Cooperativa del valor de Shapley.
+
+25 3. Juegos de informacion incompleta
+3.1 Juegos rectangulares de informacion incompleta. El metodo de
+Harsanyi para convertir un juego rectangular de informacion incom-
+pleta en un juego extensivo (informacion completa) de informacion
+no perfecta. Equilibrio de Nash Bayesiano. El Duopolio de Cournot
+con informacion incompleta. Subastas.
+3.2 Juegos dinamicos de informacion incompleta. El Equilibrio
+Bayesiano Perfecto. Juegos de Senalizacion. El Parloteo. La Rep-
+utacion.
+
+25 4. Formacion de patrones sociales de conducta y de institu-
+ciones
+4.1 Planteamiento del Problema. El Solitario de Shelling. Juegos Evo-
+lutivos y Biologia. Maynard Smith.
+4.2 Juegos Evolutivos y Conflictos humanos. Tradicion, Cultura y
+Eficiencia. Un Modelo de Vega Redondo. Los Equilibrios Sociales de
+Cannig. Convenciones.
+4.3 Formacion de Instituciones. Un Modelo de la Formacion del Es-
+tado y del Contrato Social.
+
+468
+
+
+
+BIBLIOGRAFIA BASICA:
+
+1. Binmore, K., Game Theory and the Social Contract, Boston: The MIT Press, 1994.
+
+2. Fudenberg, D., Tirole, J., Game Therory, Boston: The MIT Press, 1991.
+
+3. Gibons, R., Un primer curso de Teoria de Juegos, Barcelona, Antoni Bosh, 1993.
+
+4. Maynard Smith, J., Evolution and the Theory of Games, Cambridge : Cambridge
+University Press, 1982,
+
+5. Owen, G., Game Theory, Boston: Academic Press, 1982.
+
+6. Rasmusen, E., Juegos e informacion. Una Introduccion a la Teoria de Juegos, Mexi-
+co: Fondo de Cultura Economica, 1996 .
+
+7. Scott Bierman, H., Fernandez, L., Game Theory with Economic Applications, Read-
+ing, Mass.: Addison-Wesley, 1993.
+
+8. Selten, R., Game Equilibrium Models II. Methods, Morals and Markets, New York:
+Springer Verlag, 1991.
+
+9. Shubick, M., Economia Politica: Un enfoque desde el punto de vista de la Teoria de
+Juegos. Mexico: Fondo de Cultura Economica, 1984.
+
+10. Vega-Redondo, F., Evolution, Games, and Economic Behaviour, Oxford: Oxford Uni-
+versity Press, 1996.
+
+BIBLIOGRAFIA COMPLEMENTARIA:
+
+1. Young, P., The Evolution of Conventions, Econometrica 61, 1993.
+
+SUGERENCIAS DIDACTICAS: Lograr la participacion activa de los alumnos mediante
+exposiciones.
+
+SUGERENCIA PARA LA EVALUACION DE LA ASIGNATURA: Ademas de las califi-
+caciones en examenes y tareas se tomara en cuenta la participacion del alumno.
+
+PERFIL PROFESIOGRAFICO: Matematico, fisico, actuario o licenciado en ciencias de
+la computacion, especialista en el area de la asignatura a juicio del comite de asignacion
+de cursos.
+
+469
+
+

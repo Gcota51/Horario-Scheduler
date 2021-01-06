@@ -1,0 +1,99 @@
+ Estudios de la Licenciatura de Actuaria 
+
+Materias Optativas  243 
+
+ECONOMIA II 
+
+CLAVE:                      
+SEMESTRE:                        6 - 8 
+CREDITOS:                            10 
+
+SECTOR:                                                      OPTATIVO
+AREA:                                              CIENCIAS SOCIALES  
+SERIACION:                                                                                                           
+ASIGNATURA PRECEDENTE INDICATIVA: Materias del sector basico del Area 
+de Ciencias Sociales y Economia 1 
+ASIGNATURA SUBSECUENTE INDICATIVA: Ninguna 
+
+HORAS POR CLASE
+CLASES POR SEMANA
+HORAS POR SEMESTRE
+
+TEORICA:        1 
+TEORICA:        5 
+TEORICA:      80 
+
+PRACTICAS:       0 
+PRACTICAS:       0 
+PRACTICAS:       0 
+
+Objetivos generales: Al final del curso el alumno:
+
+ Comprendera y sera capaz de analizar los principios basicos de la economia internacional y la economia 
+dinamica. 
+
+Tema 1. Economia internacional       30 horas 
+El alumno conocera los conceptos y modelos de la economia internacional. 
+
+1.1 Introduccion. 
+1.2 Ganancias del comercio. 
+1.3 Patrones del comercio. 
+1.4 Proteccionismo. 
+1.5 Balanza de pagos. 
+1.6 Tipo de cambio. 
+1.7 Politica economica internacional. 
+1.8 Mercado internacional de capitales. 
+1.9 Comercio y finanzas. 
+
+Tema 2. Economia dinamica       35 horas 
+El alumno comprendera y aplicara las tecnicas matematicas en la modelacion de la economia dinamica. 
+
+2.1 Introduccion. 
+2.2 Optimizacion dinamica. 
+2.3 Calculo de variaciones. 
+2.4 Control optimo. 
+2.5 Programacion dinamica. 
+
+Tema 3. Modelos de economia dinamica      15 horas 
+Reconocera algunos modelos de economia dinamica. 
+
+3.1 El modelo clasico (Ramsey) 
+3.2 Otros modelos dinamicos. 
+
+Bibliografia basica: 
+
+ Blanchard, O. and S. Fisher. Lectures on Macroeconomics. England. The MIT Press. 1989. 
+ Chiang, Alpha. Elements of Dynamic Optimization. USA. McGraw-Hill. 1992. 
+ Kamien, Y. and N. Schuartz. Dynamic Optimization. The Calculus of Variations and Optimal Control in 
+
+Economics and Management. North-Holland. The Netherlands. 1993. 
+ Krugman, P. and M. Obstfeld. International Economics Theory and Policy. USA. Harper Collins. 1994. 
+
+
+
+Plan de Estudios de la Licenciatura de Actuaria 
+
+Materias Optativas  244 
+
+Bibliografia complementaria:
+
+ Lindaver, John, Macroeconomics, New York : Wiley, 1968. 
+ Ridruejo, Zenon J., Teoria y politica macroeconomicas internacionales, Madrid: Ac, 1986 
+
+Sugerencias didacticas: 
+
+Se recomiendan tareas regulares en las cuales el alumno aplique el material visto en clase y este obligado a 
+revisar diversas fuentes bibliograficas para que amplie sus conocimientos con diferentes enfoques.  
+Asimismo se sugiere el analisis y resolucion de casos practicos.  
+
+Forma de evaluacion: 
+
+Se recomiendan de 3 a 4 examenes parciales y un examen final, asi como la realizacion de tareas sobre los temas  
+vistos en clase para reforzar los conocimientos teoricos adquiridos. 
+
+Perfil profesiografico: 
+
+El profesor que imparta el curso debera ser egresado de las carreras de Economia, Actuaria o alguna afin, y 
+debera tener experiencia docente y practica en el area economica. 
+
+

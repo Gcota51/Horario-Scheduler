@@ -1,0 +1,390 @@
+A DE MEXICO 
+
+ 
+Facultad de Ciencias 
+
+ 
+Plan de estudios de la Licenciatura en  
+
+Matematicas 
+ 
+
+Calculo Diferencial e Integral IV 
+ 
+
+Clave 
+0094 
+
+Semestre 
+4 
+
+Creditos 
+18 
+
+Area de 
+conocimiento 
+
+ 
+
+Campo 
+ 
+
+ 
+
+Etapa 
+ 
+
+ 
+
+Modalidad 
+Curso ( X ) Taller ( ) Lab ( ) Sem ( ) 
+ 
+ 
+
+Tipo T ( X )     P (  )    T/P  (  )  
+
+Caracter 
+Obligatorio ( X )            Optativo ( ) 
+ 
+Obligatorio E ( )        Optativo E ( )  
+
+Horas 
+
+ Semana Semestre  
+
+ Teoricas              9 Teoricas           144 
+
+ Practicas             0 Practicas             0 
+
+ Total                    9 Total                  144 
+
+ 
+
+Seriacion 
+ 
+
+Ninguna (   ) 
+
+Obligatoria (   ) 
+
+Asignatura antecedente 
+ 
+
+ 
+
+Asignatura subsecuente 
+ 
+
+ 
+
+Indicativa ( X  ) 
+
+Asignatura antecedente 
+ 
+
+Algebra Lineal I 
+Calculo Diferencial e Integral III 
+
+Asignatura subsecuente 
+ 
+
+Analisis Matematico I 
+Ecuaciones Diferenciales Parciales I 
+
+ 
+
+Objetivos generales: 
+ 
+
+ Introducir en la definicion y en los metodos de integracion en varias variables. 
+
+ Introducir en metodos de integracion sobre curvas y superficies. 
+
+ Introducir en los teoremas integrales de Green, Gauss y Stokes.  
+
+ Relacionar lo que se estudia con la experiencia mas inmediata. 
+
+ Empezar con la intuicion geometrica que pueda tener y con aplicaciones mas sencillas de 
+situaciones de la fisica o de otras ciencias. 
+
+ Empezar con curvas que se puedan dibujar y seguir con superficies dadas como graficas de 
+funciones de dos variables, tratar el caso general de una superficie en forma parametrica en un 
+espacio de dimension arbitraria 
+
+
+
+Objetivos especificos: 
+ 
+
+ Extender el concepto de integrales multiples y reconocer algunos resultados importantes.  
+ Conocer el concepto de integral de linea y su utilizacion en la definicion y caracterizacion de 
+
+campos vectoriales. 
+
+ Explicar el concepto de integral sobre una superficie y algunas propiedades y resultados 
+basicos. 
+
+ Establecer los teoremas de integrales y sus aplicaciones 
+
+ Extender el concepto de convergencia uniforme y series de potencias, y reconocer algunos 
+resultados importantes. 
+
+ Conocer el concepto de integral de Fourier y sus aplicaciones. 
+
+ Explicar los metodos numericos en integrales multiples y algunos resultados. 
+
+ Establecer las propiedades de las formas diferenciales. 
+ 
+
+ 
+ 
+
+Indice tematico 
+
+ Tema  
+
+Horas 
+ semestre  
+
+Teoricas Practicas 
+
+1 Integrales multiples 32 0 
+
+2 Integral de linea 22 0 
+
+3 Integral de superficie 22 0 
+
+4 Teoremas integrales 32 0 
+
+5 Convergencia uniforme y series de potencias 9 0 
+
+6 Optativo: Integral de Fourier 9 0 
+
+7 Optativo: Metodos numericos en integrales multiples. 9 0 
+
+8 Optativo: Formas diferenciales 9 0 
+
+Subtotal 144 0 
+
+Total 144 
+
+ 
+
+Contenido Tematico 
+
+ Tema y subtemas 
+
+1 Integrales multiples 
+
+ 
+
+1.1 Area de un conjunto plano. 
+1.2 Integral de una funcion de dos variables, como volumen debajo de una superficie 
+
+y sumas de Riemann. 
+1.3 Propiedades de las integrales. 
+1.4 Conjuntos de medida cero. 
+1.5 Calculo de integrales multiples, teoremas de Fubini, integracion sobre dominios 
+
+mas generales. 
+1.6 Integrales triples y calculo de volumenes. 
+1.7 Teorema del cambio de variables e integrales en polares, cilindricas, esfericas. 
+1.8 Teorema del valor medio. 
+1.9 Centro de masa y momentos de inercia (opcional). 
+1.10 Integrales impropias. 
+1.11 Funciones no continuas sobre conjuntos acotados. 
+1.12 Integrales sobre regiones no acotadas. 
+1.13 Convergencia uniforme, teorema de Fubini, derivacion bajo la integral. 
+ 
+
+2 Integral de linea 
+
+
+
+ 
+
+2.1 Integracion de funciones escalares sobre curvas parametricas, independencia 
+de la parametrizacion de la curva, integrales de trayectoria. 
+
+2.2 Integrales de linea en campos vectoriales, calculo del trabajo debido a un campo 
+de fuerzas. 
+
+2.3 Integrales de linea en campos del tipo gradiente y campos conservativos. 
+2.4 Teorema de Green, aplicaciones y ejemplos. 
+2.5 Indice de un campo (opcional). 
+ 
+
+3 Integral de superficie 
+
+ 
+
+3.1 Superficies parametrizadas, vector normal y plano tangente. 
+3.2 Integracion sobre superficies parametrizadas y calculo de areas. 
+3.3 Independencia de la parametrizacion. 
+3.4 Integracion de funciones escalares y vectoriales sobre superficies orientables. 
+3.5 Integrales en coordenadas curvilineas. 
+ 
+
+4 Teoremas integrales 
+
+  
+4.1 Teorema de la divergencia en el plano, interpretacion geometrica. 
+4.2 Ejemplos de integrales de linea, indice de un campo sobre una curva. 
+4.3 Teorema de Green, aplicacion al laplaciano, conservacion de masa. 
+4.4 Teorema de Stokes, rotacional, vorticidad. 
+4.5 Teorema de Gauss y Stokes en el espacio. 
+4.6 Flujos a traves de una superficie (presion). 
+4.7 Identidades de Green. 
+4.8 Problemas de Laplace, el laplaciano en distintas coordenadas. 
+4.9 Teorema de Stokes y aplicaciones. 
+4.10 Principio del maximo para la ecuacion del calor. 
+4.11 Funcion de Green. 
+ 
+
+5 Convergencia uniforme y series de potencias 
+
+ 
+
+5.1 Definicion y ejemplos de convergencia uniforme en una variable, propiedades; 
+convergencia uniforme de continuas en intervalos cerrados converge a continua, 
+diferenciacion termino a termino, la prueba M de Weierstrass, ejemplos de 
+funciones continuas que en ningun punto son diferenciables, series de 
+potencias, series de Taylor, intervalos de convergencia, derivacion e integracion 
+termino a termino, ejemplos, series de Taylor de las funciones trascendentes. 
+
+ 
+
+6 Optativo: Integral de Fourier 
+
+ 
+
+6.1 Propiedades, teorema de inversion, Lema de Riemann Lebesgues, Parseval, 
+convolucion. 
+
+6.2 Integral de Fresnel. 
+6.3 Ecuacion de onda con transformada de Fourier. 
+6.4 Transformada de Laplace. 
+6.5 Desigualdad de Bessel, teoremas de convergencia uniforme. 
+6.6 La ecuacion de calor y de onda. 
+ 
+
+ 
+
+7 Optativo: Metodos numericos en integrales multiples. 
+
+ 
+
+
+
+7.1 Metodos del trapecio y de Simpson. 
+7.2 Cuadraturas gaussianas. 
+7.3 Integracion en limites arbitrarios. 
+7.4 Calculo de errores. 
+7.5 Metodo de Montecarlo. 
+ 
+
+8 Optativo: Formas diferenciales 
+
+  
+8.1 Derivada exterior, formas cerradas, formas exactas. 
+8.2 Cambios de variables para formas diferenciales. 
+8.3 Orientacion de superficies. 
+8.4 Integrales de formas diferenciales. 
+8.5 Calculo y formas diferenciales en variedades, teorema de Stokes en variedades, 
+
+elemento de volumen. 
+ 
+
+ 
+ 
+
+Estrategias didacticas Evaluacion del aprendizaje 
+
+Exposicion                                                  ( X ) Examenes parciales                ( X ) 
+
+Trabajo en equipo                                         (  ) Examen final                  ( X ) 
+
+Lecturas                                                         (  ) Trabajos y tareas                  ( X ) 
+
+Trabajo de investigacion                               (  ) Presentacion de tema                 (  ) 
+
+Practicas (taller o laboratorio)                       (  ) Participacion en clase                            ( X ) 
+
+Practicas de campo                                       (  ) Asistencia                                                 (  ) 
+
+Aprendizaje por proyectos                            (  ) Rubricas                                                   (  ) 
+
+Aprendizaje basado en problemas               (  ) Portafolios                                                (  ) 
+
+Casos de ensenanza                                    (  ) Listas de cotejo                                        (  ) 
+
+Otras (especificar) Otras (especificar) 
+
+  
+
+  
+
+ 
+ 
+
+Perfil profesiografico 
+
+Titulo o grado Matematico, fisico, actuario o licenciado en ciencias de la computacion. 
+
+Experiencia docente Con experiencia docente. 
+
+Otra caracteristica Especialista en el area de la asignatura a juicio del comite de asignacion 
+de cursos. 
+
+ 
+ 
+ 
+
+Bibliografia basica: 
+ 
+
+ Apostol, T.M., Calculus. Volumen I,  Mexico: Ed. Reverte, 2001. 
+
+ Courant, R., Differential and Integral Calculus. Vol 2. New York: J. Wiley, 1936. 
+
+ Courant, R., John, F., Introduccion al Calculo y al Analisis Matematico. Vol. 2. Mexico: Limusa, 
+1974. 
+
+ Lang, S., Calculus of Several Variables. New York: Springer, 1987. 
+
+ Marsden, J., Tromba, A., Calculo Vectorial. Mexico: Addison-Wesley, Pearson Educacion, 
+1998. 
+
+ Thomas, G.B., Finney, R.L., Calculo: Varias Variables. Mexico: Adisson-Wesley Longman, 
+1999. 
+
+ 
+
+Bibliografia complementaria: 
+ 
+
+
+
+ Buck, R.C., Advanced Calculus. New York: McGraw-Hill, 1978. 
+
+ Budak, B.M., Fomin, S.V., Multiple Integrals Field Theory and Series. Moscu: MIR, 1973. 
+
+ Crowell, R., Trotter, H., Williamson, R., Calculo de Funciones Vectoriales. Bogota: Prentice 
+Hall Internacional, 1973. 
+
+ Fulks, W., Calculo Avanzado. Mexico: Limusa-Wiley, 1970. 
+
+ Spivak, M., Calculo en Variedades. Mexico: Ed. Reverte, 1987. 
+
+ Spivak, M., Calculo Infinitesimal. (2a ed.). Mexico: Ed Reverte, 1998. 
+
+ Stein, S.K., Calculus and Analytic Geometry. New York: McGraw Hill, 1992. 
+
+ Widder, D.V., Advanced Calculus. New York: Dover, 1989. 
+ 
+ 
+
+ 
+ 
+
+

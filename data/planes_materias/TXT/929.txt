@@ -1,0 +1,301 @@
+VERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+ 
+                          Facultad de Ciencias 
+
+          
+                      Plan de estudios de la Licenciatura en Actuaria 
+
+ 
+ 
+
+Teoria de Decisiones 
+ 
+
+Clave 
+0929 
+
+Semestre 
+7 u 8 
+
+Creditos 
+10 
+
+Area 
+ 
+
+ 
+
+Campo de 
+conocimiento 
+
+Investigacion de Operaciones 
+
+Etapa 
+ 
+
+Profundizacion 
+
+Modalidad 
+Curso ( X ) Taller ( ) Lab ( ) Sem ( ) 
+ 
+ 
+
+Tipo T ( X )     P (  )    T/P  (  )  
+
+Caracter 
+Obligatorio ( )            Optativo ( X ) 
+ 
+Obligatorio E ( )        Optativo E ( )  
+
+Horas 
+
+ Semana Semestre 
+
+ Teoricas           5 Teoricas           80 
+
+ Practicas          0 Practicas          0 
+
+ Total                 5 Total                 80 
+
+ 
+
+Seriacion 
+ 
+
+Ninguna (   ) 
+
+Obligatoria (   ) 
+
+Asignatura antecedente 
+ 
+
+ 
+
+Asignatura subsecuente 
+ 
+
+ 
+
+Indicativa ( X ) 
+
+Asignatura antecedente 
+ 
+
+Asignaturas del campo de Investigacion de Operaciones. 
+
+Asignatura subsecuente 
+ 
+
+Asignaturas optativas del campo de Investigacion de 
+Operaciones 
+
+ 
+
+Objetivo general: 
+ 
+
+ Desarrollar  los principios teoricos  y  las  habilidades  practicas  de  la  Teoria  de  Decisiones , desde  
+la   perspectiva   del   Modelador   (Disenador -  Asesor). 
+
+ 
+
+Objetivos especificos: 
+ 
+
+ El manejo de las  tecnicas  y  modelos cuantitativos,  tanto   clasicos   como   actuales  de   la  Teoria   
+de  Decisiones.  
+
+ La aplicacion  de  las  herramientas  anteriores  a diversas areas de las Matematicas Aplicadas. 
+ 
+
+
+
+ 
+Indice tematico 
+
+ Tema  
+
+Horas 
+semestre 
+
+Teoricas Practicas 
+
+1 Decisiones en condiciones de certeza. 10 0 
+
+2 Decisiones en condiciones de riesgo. 15 0 
+
+3 Decisiones en condiciones de incertidumbre.  15 0 
+
+4 Decisiones multicriterio.  15 0 
+
+5 Decisiones grupales y eleccion social. 15 0 
+
+6 Enfoques no bayesianos. 10 0 
+Total 80 
+
+ 
+
+Contenido Tematico 
+
+ Tema y subtemas 
+
+1 Decisiones en condiciones de Certeza     
+
+           
+
+1.1 Ordenes y preferencia 
+1.2 Funciones de valor. 
+        
+
+2 Decisiones en condiciones de riesgo. 
+
+ 
+
+2.1       Teoria de la utilidad. 
+
+2.2       Probabilidad objetiva y subjetiva.  
+
+2.3       Arboles de decision.           
+
+ 
+ 
+
+3 Decisiones en condiciones de incertidumbre.     
+
+ 
+
+3.1      Tablas de Decision. 
+3.2      Criterios de incertidumbre. 
+3.3      Propiedades y analisis de los criterios. 
+ 
+
+4 Decisiones multicriterio. 
+
+ 
+
+4.1      Preferencias y relaciones de orden. 
+
+4.2      Funciones de utilidad. 
+
+4.3      Metodos de ponderacion, ordinales y de relaciones. 
+ 
+
+5 Decisiones grupales y eleccion social. 
+
+ 
+
+5.1     Teorema de Arrow. 
+
+5.2     Optimalidad de Pareto. 
+
+5.3     Juego y conflicto. 
+
+ 
+
+6 Enfoques no bayesianos. 
+
+
+
+ 
+
+6.1     Decisiones borrosas. 
+
+6.2     Analisis jerarquico. 
+
+6.3     Analisis costo-beneficio. 
+
+ 
+
+ 
+ 
+ 
+ 
+
+Estrategias didacticas Evaluacion del aprendizaje 
+
+Exposicion                                                  ( X ) Examenes parciales                ( X ) 
+
+Trabajo en equipo                                      ( X ) Examen final                  ( X ) 
+
+Lecturas                                                     ( X ) Trabajos y tareas                  ( X ) 
+
+Trabajo de investigacion                            ( X ) Presentacion de tema                 (  ) 
+
+Practicas (taller o laboratorio)                     (  ) Participacion en clase                            (  ) 
+
+Practicas de campo                                     (  ) Asistencia                                                 ( X ) 
+
+Aprendizaje por proyectos                           (  ) Rubricas                                                   (  ) 
+
+Aprendizaje basado en problemas             ( X ) Portafolios                                                (  ) 
+
+Casos de ensenanza                                  ( X ) Listas de cotejo                                        (  ) 
+
+Otras (especificar) Otras (especificar) 
+
+ 
+ 
+
+Perfil profesiografico 
+
+Titulo o grado Egresado de las licenciaturas de Actuaria, Administracion, Matematicas, 
+Matematicas Aplicadas o alguna afin.  
+
+Experiencia docente Con experiencia docente en el area de Teoria de Decisiones. 
+ 
+
+Otra caracteristica  
+
+ 
+ 
+ 
+
+Bibliografia basica: 
+ 
+
+ Bermudez, J.L. (2009). Decision Theory and Rationality. Oxford University Press. 
+
+ Chankong, V., and Haimes, Y.Y. (2008). Multiobjective Decision Making: Theory and Metodology 
+(Dover Books on Engineering). Dover. 
+
+ Fishburn, peter.c (1970). Mathematics  of decision theory mouton. 
+
+ French, S. (1988). Decision Theory: An Introduction to the Mathematics of Rationality. Ellis Horwood 
+Lt.  
+
+ French, S., Maule, J., and Papamichail, N. (2009). Decision Behaviour, Analysis and Support. 
+Cambridge University Press.  
+
+ Gilboa, I. (2009). Theory of Decision under Uncertainty. Cambridge University Press. 
+
+ Joyce, J.M. (1999). The Foundations of Casual Decision Theory (Cambridge Studies in Probability, 
+Induction and Decision Theory). Cambridge University Press. 
+
+ Parmigiani, G., and Inoue, L. (2009). Decision Theory: Principles and Approaches. John Wiley & Sons. 
+
+ Peterson, M. (2009). An Introduction to Decision Theory. Cambridge University Press. 
+
+ Resnik , Michael D. 1987 CHOICES: AN INTRODUCTION OF DECISION THEORY. Regents of 
+the University Minessota.  
+
+ 
+
+Bibliografia complementaria: 
+ 
+
+ Berger, J.O. (2010). Statistical Decision Theory and Bayesian Analysis (2a ed.). Springer. 
+
+
+
+ French, S., and Rios-Insua, D. (2000). Statistical Decision Theory. Arnold Publishers.  
+
+ Gilboa, I. (2011). Making Better Decisions: Decision Theory in Practice. Wiley-Blackwell. 
+
+ Wakker, P.P. (2010). Prospect Theory for Risk and Ambiguity. Cambridge University Press. 
+
+ 
+
+ 
+
+

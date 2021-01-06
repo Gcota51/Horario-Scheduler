@@ -1,0 +1,124 @@
+FACULTAD DE CIENCIAS
+
+CARRERA DE MATEMATICO
+
+GEOMETRIA PROYECTIVA (ejemplo)
+
+SEMESTRE: Segundo al cuarto
+CLAVE: 0251
+
+HORAS A LA SEMANA/SEMESTRE
+
+TEORICAS PRACTICAS CREDITOS
+5/80 0 10
+
+CARACTER: OPTATIVO.
+MODALIDAD: CURSO.
+SERIACION INDICATIVA ANTECEDENTE: Algebra Superior I, Calculo Diferencial
+e Integral I, Geometria Analitica II, Geometria Moderna I.
+SERIACION INDICATIVA SUBSECUENTE: Ninguna.
+
+OBJETIVO(S): El curso de Geometria Proyectiva, ademas de desarrollar esta rama de la
+geometria por si misma, proporciona conocimientos fundamentales para la geometria alge-
+braica y las geometrias finitas asi como para sus aplicaciones en mecanica cuantica, teoria
+de codigos, criptografia, geometria computacional y graficacion y vision computarizadas
+entre otros.
+
+NUM. HORAS UNIDADES TEMATICAS
+
+20 1. Geometria proyectiva sintetica
+1.1 Proyecciones
+1.2 Modelos para el plano proyectivo real.
+1.3 Proyectividades y perspectividades. Teorema fundamental de la
+geometria proyectiva.
+1.4 Completacion proyectiva de planos afines.
+1.5 Planos proyectivos finitos.
+1.6 Teorema de Desargues.
+1.7 Teorema de Pascal (optativo).
+
+1
+
+
+
+15 2. Geometria proyectiva analitica
+2.1 Coordenadas homogeneas.
+2.2 Condiciones de colinealidad.
+2.3 Ecuaciones de las conicas.
+2.4 Comportamiento "al infinito".
+2.5 Geometria compleja: puntos circulares al infinito y rectas isotropi-
+cas.
+2.6 Teorema de Euler. Tangente a una curva.
+2.7 Polos y polares respecto a conicas.
+2.8 Cambios lineales de coordenadas.
+
+10 3. Fundamentos de la geometria proyectiva
+3.1 Axiomas para planos afines (repaso).
+3.2 Algunos sistemas axiomaticos para planos y espacios proyectivos.
+3.3 Reticula de subespacios lineales.
+3.4 "Pappus == Desargues".
+3.5 Teorema fundamental de la geometria proyectiva.
+3.6 Planos proyectivos sobre anillos de division y planos proyectivos
+no desarguesianos.
+
+15 4. Geometria proyectiva tridimensional
+4.1 Axiomatizacion y coordenadas homogeneas.
+4.2 Reticula de subespacios lineales.
+4.3 Configuraciones de Reye y Bricard.
+4.4 Planos desarguesianos y espacios proyectivos de dimensiones su-
+periores.
+4.5 Transversales a dos y tres rectas. Generacion de las cuadricas.
+4.6 Transformaciones proyectivas. Cambios de coordenadas.
+4.7 Generacion proyectiva de las conicas y las cuadricas.
+4.8 Cuadricas en P 3c .
+
+20 5. Temas selectos (escoger dos)
+5.1 Configuraciones proyectivas.
+5.2 Introduccion a la geometria algebraica.
+5.3 Cuadricas.
+5.4 Haces y redes de conicas.
+5.5 Automorfismos del plano proyectivo.
+5.6 Aplicaciones a la graficacion por computadora.
+5.7 Teoria de codigos.
+5.8 Criptografia.
+
+2
+
+
+
+BIBLIOGRAFIA BASICA:
+
+1. Baez, J. C., "The Octonians", Bulletin of the AMS, Vol. 39, No. 2, 2002: 145-205.
+
+2. Beutelspacher, A., Rosenbaum, U., Projective Geometry: From Foundations to Ap-
+plications, Cambridge: Cambridge University Press, 1998.
+
+3. Coxeter, H. S. M., Projective Geometry, New York: Springer-Verlag, 1994.
+
+4. Hartshorne, R., Foundations of Projective Geometry, New York: W. A. Benjamin,
+1967.
+
+5. Penna, M. A., Projective Geometry and its Application to Computer Graphics, New
+Jersey: Prentice-Hall, 1991.
+
+6. Seidenberg, A., Elementos de Geometria Proyectiva, Mexico: CECSA, 1965.
+
+BIBLIOGRAFIA COMPLEMENTARIA:
+
+1. Eves, H., Estudio de las Geometrias, Mexico: UTEHA, 1982.
+
+2. Hilbert, D., Cohn Vossen, S., Geometry and the Imagination, Mexico: Vinculos Ma-
+tematicos No. 150, Facultad de Ciencias, UNAM, 2000.
+
+SUGERENCIAS DIDACTICAS: Lograr la participacion activa de los alumnos mediante
+exposiciones.
+
+SUGERENCIA PARA LA EVALUACION DE LA ASIGNATURA: Ademas de las califi-
+caciones en examenes y tareas se tomara en cuenta la participacion del alumno.
+
+PERFIL PROFESIOGRAFICO: Matematico, fisico, actuario o licenciado en ciencias de
+la computacion, especialista en el area de la asignatura a juicio del comite de asignacion
+de cursos.
+
+3
+
+

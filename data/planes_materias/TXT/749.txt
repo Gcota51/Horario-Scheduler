@@ -1,0 +1,118 @@
+DE CIENCIAS
+
+CARRERA DE MATEMATICO
+
+SEMINARIO DE PROBABILIDAD A
+Ejemplo: Procesos de decision de Markov
+
+SEMESTRE: Septimo u octavo
+CLAVE: 0749
+
+HORAS A LA SEMANA/SEMESTRE
+
+TEORICAS PRACTICAS CREDITOS
+5/80 0 10
+
+CARACTER: OPTATIVO.
+MODALIDAD: CURSO.
+SERIACION INDICATIVA ANTECEDENTE: Probabilidad II.
+SERIACION INDICATIVA SUBSECUENTE: Ninguna.
+
+OBJETIVO(S): Introducir y familiarizar al alumno con el planteamiento y solucion de
+problemas que se pueden formular por medio de la programacion dinamica, tanto de los
+problemas deterministas como estocasticos. Introducir al alumno en los conceptos de los
+procesos de decision de Markov.
+
+NUM. HORAS UNIDADES TEMATICAS
+
+10 1. Introduccion
+1.1 Algo de historia.
+1.2 En que consiste la programacion dinamica. Principio de Optimal-
+idad de Bellman.
+1.3 Ejemplos del uso de la recursividad.
+1.4 Ejercicios.
+
+15 2. Modelos deterministas
+2.1 El problema de decision en varias etapas. Recursividad hacia atras
+y hacia adelante.
+2.2 Redes.
+2.3 Ejemplos.
+2.4 Ejercicios.
+
+15 3. Modelos estocasticos
+3.1 Cadenas de Markov y programacion dinamica estocastica.
+3.2 Tiempo de paro.
+3.3 Ejemplos.
+3.4 Ejercicios.
+
+414
+
+
+
+20 4. Procesos de decision de Markov con horizonte finito
+4.1 El modelo, dinamica del modelo, indices de funcionamiento,
+politicas, el problema de decision de Markov.
+4.2 Costo total.
+4.3 Costo descontado.
+4.4 Costo promedio.
+4.5 Ejemplos.
+4.6 Ejercicios.
+
+20 5. Procesos de decision de Markov con horizonte infinito
+5.1 El modelo, indices de funcionamiento.
+5.2 Costo total.
+5.3 Costo descontado.
+5.4 Costo promedio.
+5.5 Ejemplos.
+5.6 Ejercicios.
+
+BIBLIOGRAFIA BASICA:
+
+1. Bather, J. Decision Theory. An Introduction to Dynamic Programming and Sequen-
+tial Decisions, New York: John Wiley and Sons, 2000.
+
+2. Bertsekas, D.P. Dynamic Programming; Deterministic and Stochastic Models,
+Boston: Academic Press, 1987.
+
+3. Bellman, R. Dynamic Programming, Princeton: Princeton University Press, 1957.
+
+4. Derman, C. Finite State Markovian Decision Processes, Boston: Academic Press,
+1970.
+
+5. Dreyfus; S.E., Law, A.M. The Art and Theory of Dynamic Programming, Boston:
+Academic Press, 1977.
+
+6. Luque, F., Minjarez, J.A., Vega, O. Introduccion a la Teoria de Control Estocastico,
+Mexico: Universidad de Sonora, Division de Ciencias Exactas y Naturales, Departa-
+mento de Matematicas, 1996.
+
+7. Prawda, J. Metodos y Modelos de Investigacion de Operaciones, Vol. I Modelos De-
+terministicos y Vol. II Modelos Estocasticos, Mexico: Limusa Wiley and Sons, 1991.
+
+415
+
+
+
+8. Puterman, M.L. Markov Decision Processes, Discrete Stochastic Dynamic Program-
+ming, New York: John Wiley and Sons, 1994.
+
+9. Ross, S. Introduction to Stochastic Dynamic Programming, Boston: Academic Press,
+1983,
+
+BIBLIOGRAFIA COMPLEMENTARIA:
+
+1. Robert, S.E. Thinking Recursively, New York: John Wiley and Sons, 1986.
+
+SUGERENCIAS DIDACTICAS: Lograr la participacion activa de los alumnos mediante
+exposiciones.
+
+SUGERENCIA PARA LA EVALUACION DE LA ASIGNATURA: Ademas de las califi-
+caciones en examenes y tareas se tomara en cuenta la participacion del alumno.
+
+PERFIL PROFESIOGRAFICO: Matematico, fisico, actuario o licenciado en ciencias de
+la computacion, especialista en el area de la asignatura a juicio del comite de asignacion
+de cursos.
+
+416
+
+

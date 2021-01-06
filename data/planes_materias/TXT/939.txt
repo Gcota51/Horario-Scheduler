@@ -1,0 +1,101 @@
+FACULTAD DE CIENCIAS
+
+CARRERA DE MATEMATICO
+
+TOPOLOGIA DIFERENCIAL II (ejemplo)
+
+SEMESTRE: Septimo u octavo
+CLAVE: 0939
+
+HORAS A LA SEMANA/SEMESTRE
+
+TEORICAS PRACTICAS CREDITOS
+5/80 0 10
+
+CARACTER: OPTATIVO.
+MODALIDAD: CURSO.
+SERIACION INDICATIVA ANTECEDENTE: Topologia Diferencial I.
+SERIACION INDICATIVA SUBSECUENTE: Ninguna.
+
+OBJETIVO(S): Reforzar la teoria de campos vectoriales y los teoremas de Poincare-Hopf y
+el de grado de Hopf, asi como formular ecuaciones diferenciales en el lenguaje de variedades
+y flujos, introducir los conceptos de isotopia y suma conexa y establecer el teorema de la
+vecindad tubular en su forma general. En la segunda parte del curso se da una introduccion
+a los grupos de Lie o a la teoria de integracion, a eleccion del profesor.
+
+NUM. HORAS UNIDADES TEMATICAS
+
+10 1. Los teoremas de Poincare-Hopf y de Hopf
+1.1 Campos vectoriales y el teorema de Poincare-Hopf. Ejemplos de
+singularidades y aplicacion del teorema.
+1.2 El teorema de grado de Hopf. Aplicaciones.
+
+10 2. Sistemas dinamicos
+2.1 Definicion de sistema dinamico y sistema dinamico local.
+2.2 Teorema de existencia y unicidad de solucion de ecuaciones dife-
+renciales y del flujo local y su extension a variedades. Flujos comple-
+tos. Ejemplos. Teorema de Ehresmann.
+
+15 3. Isotopia de encajes y suma conexa
+3.1 Definicion de isotopia. Difeotopia. Teorema del encaje de isotopias
+en difeotopias (Thom).
+3.2 Isotopia de encajes en Rn. Definicion de suma conexa. Prueba de
+la independencia de eleccion del removimiento de bolas para la suma
+conexa. Ejemplos de sumas conexas con superficies.
+
+1
+
+
+
+15 4. Ecuaciones diferenciales de segundo orden, sprays y Teo-
+rema de vecindad tubular
+4.1 Ecuaciones diferenciales de segundo orden, de sprays y existencia
+de estos.
+4.2 Definicion de la aplicacion exponencial y construccion de la ve-
+cindad tubular.
+4.3 Explosiones y aplicaciones.
+
+15 5. Elementos de la Teoria de grupos de Lie
+5.1 Definicion de grupo de Lie y de algebra de Lie. Campos vectoriales
+invariantes por la izquierda. Formas invariantes por la izquierda.
+5.2 Homomorfismos. Subgrupos de Lie. Cubiertas. Grupos de Lie
+simplemente conexos. Aplicacion exponencial.
+5.3 Homomorfismos continuos. Representacion adjunta. Subvarieda-
+des homogeneas.
+
+15 6. Integracion en variedades
+
+6.1 Algebra exterior. Formas diferenciales.
+6.2 Integracion. Derivada exterior y teorema de Stokes.
+6.3 Teorema de Gauss-Bonnet.
+
+BIBLIOGRAFIA BASICA:
+
+1. Abraham, R., Marsden, J.E., Ratiu, T., Manifolds, Tensor Analysis and Applica-
+tions, New York: Springer-Verlag, 1988.
+
+2. Guillemin, V.W., Pollack, A., Topologia Diferencial. Traduccion de Oscar Palmas.
+Mexico: Aportaciones de la SMM, Textos volumen 20, 2003.
+
+BIBLIOGRAFIA COMPLEMENTARIA:
+
+1. Warner, F.W., Foundations of Differentiable Manifolds and Lie Groups, New York:
+Springer-Verlag, 1983.
+
+SUGERENCIAS DIDACTICAS: Lograr la participacion activa de los alumnos mediante
+exposiciones.
+
+SUGERENCIA PARA LA EVALUACION DE LA ASIGNATURA: Ademas de las califi-
+caciones en examenes y tareas se tomara en cuenta la participacion del alumno.
+
+2
+
+
+
+PERFIL PROFESIOGRAFICO: Matematico, fisico, actuario o licenciado en ciencias de
+la computacion, especialista en el area de la asignatura a juicio del comite de asignacion
+de cursos.
+
+3
+
+

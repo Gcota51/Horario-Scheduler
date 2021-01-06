@@ -1,0 +1,147 @@
+___________________________________________________________________________
+CLAVE: 0715 MODALIDAD: Curso
+SEPTIMO SEMESTRE CARACTER: Obligatorio
+CREDITOS: 12 REQUISITOS:   Computacion,   Calculo   Diferencial   e
+
+Integral   IIV,   Ecuaciones   Diferenciales   I,
+Introduccion   a   la  Fisica  Cuantica,   Matematicas
+Avanzadas   de   la   Fisica,   Mecanica   Analitica,
+Termodinamica, Electromagnetismo I
+
+_____________________________________________________________________________________
+HORAS POR CLASE TEORICAS: 2
+HORAS POR SEMANA TEORICAS: 6
+HORAS POR SEMESTRE TEORICAS: 96
+_____________________________________________________________________________________
+
+Objetivos
+El proposito del curso es ensenar al estudiante las ideas de computabilidad usadas en distintas areas de la
+fisica para  resolver  un conjunto  de problemas modelo.  A partir  de planteamientos analiticos se pretende
+obtener   resultados  numericos   reproducibles   consistentes,   y  que  predigan   situaciones   fisicas   asociadas   al
+problema bajo estudio.  El alumno debe asimilar las  ideas basicas del analisis numerico,  como son las de
+estabilidad en el calculo y la sensibilidad de las respuestas a las perturbaciones en la estructura del problema.
+El  curso  tambien  le  dara   al   estudiante capacidad de   juicio  sobre   la  calidad  de   los  resultados numericos
+obtenidos. En particular se hara enfasis en la confiabilidad de los resultados respecto a los errores tanto del
+algoritmo de solucion como de las limitaciones numericas de la computadora. Esta capacidad se adquirira a lo
+largo del curso comparando resultados numericos con otros tipos de analisis, en las regiones en las cuales se
+pueden llevar ambos a cabo. Por otra arte permitira al estudiante explorar regiones de comportamiento fisico
+solo accesibles al calculo numerico.
+
+Metodologia de la ensenanza
+La exposicion de los temas se hara por el profesor frente al pizarron, pero empleando tambien las salas de
+computo de la Facultad y, cuando sea posible, las de las instituciones de investigacion aledanas.
+Los temas del programa y los problemas sugeridos en el anexo aseguran que las ideas basicas del analisis
+numerico se cubran en contextos de fisica bien entendidos a este nivel de la carrera.
+
+Evaluacion
+Mediante examenes y/o trabajos monograficos o de investigacion
+
+Temario
+1. ESCALAS, CONDICION Y ESTABILIDAD 12 hrs
+
+1.1 Introduccion.
+1.2 Sistemas numericos de punto flotante y lenguajes.
+1.3 Dimensiones y escalas.
+1.4 Errores numericos y su amplificacion.
+1.5 Condicion de un problema y estabilidad de un metodo.
+
+2. OPERACIONES MATEMATICAS BASICAS 12 hrs
+2.1 Interpolacion y extrapolacion.
+2.2 Diferenciacion numerica.
+2.3 Integracion numerica.
+2.4 Evaluacion numerica de soluciones.
+
+3. ECUACIONES DIFERENCIALES ORDINARIAS 18 hrs
+3.1 Metodos simples.
+
+
+
+3.2 Metodos implicitos y de multipasos.
+3.3 Metodos de RungeKutta.
+3.4 Estabilidad de las soluciones.
+3.5 Orden y caos en el movimiento de dos dimensiones.
+
+4. ANALISIS NUMERICO DE PROBLEMAS MATRICIALES 12 hrs
+4.1 Inversion de matrices y numero de condicion.
+4.2 Valores propios de matrices tridiagonales.
+4.3 Discretizacion de la ecuacion de Laplace y metodos iterativos de solucion.
+5. Solucion numerica de ecuaciones diferenciales elipticas en una y dos dimensiones.
+
+5. PROBLEMAS CLASICOS Y CUANTICOS DE VALORES PROPIOS hrs
+5.1 Algoritmo de Numerov.
+5.2 Integracion de problemas con valores en la frontera.
+5.3 Formulacion matricial para problemas de valores propios.
+5.4 Formulaciones variacionales.
+
+6. SIMULACION COMPUTACIONAL 18 hrs
+6.1 Metodo de Monte Carlo.
+6.2 Dinamica molecular.
+6.3 Otros algoritmos de simulacion.
+6.4 Aplicacion a problemas de fisica de interes actual.
+
+7. ECUACIONES DE EVOLUCION 12 hrs
+7.1 La ecuacion de ondas y su discretizacion en diferencias finitas. Criterio de Courant.
+7.2 La ecuacion de Fourier para el calor y su discretizacion en diferencias finitas. Estabilidad del 
+
+esquema.
+
+ANEXO: EJEMPLOS DE PROBLEMAS
+
+1. ESCALAS, CONDICION Y ESTABILIDAD
+Solucion de ecuaciones  en diferencias    xn+1  =  axn  ,  para  x>1,  a<1,  a=1 y analisis de   la propagacion  o
+decaimiento del error. Analisis dimensional y tamano de mallas. Ecuacion logistica discreta y continua como
+ilustracion de consistencia.
+2. OPERACIONES MATEMATICAS BASICAS
+Integracion para calculo de campos magneticos usando la ley de BiotSavart. Campo de una espira. Solucion
+exacta en el eje de simetria, calculo asintotico para asimetrias pequenas. Calculo numerico para asimetrias
+grandes. Comparaciones en las regiones de traslape.
+Cuantizacion semiclasica de vibraciones moleculares. El oscilador armonico. Potenciales de LennardJones
+para  moleculas  diatomicas.  Solucion  por  el  metodo  de  Newton y   la   secante,  de   ecuaciones   algebraicas
+trascendentes que aparecen en el calculo analitico de valores propios en ecuaciones diferenciales ordinarias.
+3. ECUACIONES DIFERENCIALES ORDINARIAS
+Calculo  del  periodo   para  el   problema  de  dos cuerpos  por   integracion  numerica  de   las   ecuaciones  y   su
+comparacion con el calculo numerico de la expresion analitica. Solucion del problema de la relacion entre el
+angulo   y   el   tiempo   en   el   problema   de   Kepler.   Calculo   aproximado   de   ceros.   El   problema   de   Kepler
+perturbado  y   su   solucion numerica.  Comparacion  entre   los   resultados  de  pequenas  perturbaciones  y   los
+asintoticos. Problema de Henon y Heiles. Problemas de Silnikov y dependencia sensitiva de las condiciones
+iniciales.
+4. ANALISIS NUMERICO DE PROBLEMAS MATRICIALES
+El  problema  del   potencial  electrostatico y   su  discretizacion.  Solucion  por  metodos   directos  e   iterativos.
+Comparacion con soluciones exactas. Determinacion de la densidad de carga nuclear. (Modelo de la gota.)
+Discretizacion del problema de la cuerda vibrante y la matriz de Rayleigh. Solucion exacta para valores y
+vectores propios de esta matriz. Comparacion con los resultados numericos.
+
+
+
+Problemas   sin   solucion   exacta   y   comparacion   de   resultados   numericos   con   calculos   analiticos   de
+perturbacion.
+5. PROBLEMAS CLASICOS Y CUANTICOS DE VALORES PROPIOS
+Valores propios para problemas estacionarios tipo Schrodinger.
+Frecuencias naturales de vibracion para sistemas oscilantes de una y dos dimensiones.
+Problemas de calculo de raices de varias variables que aparecen en formulaciones variacionales con pocos
+parametros libres.
+6. SIMULACION COMPUTACIONAL
+Generacion de numeros al azar.
+Integracion multidimensional.
+Movimiento de una particula en un fluido bajo la accion de la gravedad.
+Estudio de un sistema de varias particulas que interaccionan a traves de un potencial.
+Transiciones de fase en modelos tipo Ising.
+7. ECUACIONES DE EVOLUCION
+Propagacion de ondas segun la ecuacion u t + cux =0.
+Problemas con valores iniciales y de senalizacion. Comparacion con soluciones exactas. El caso c = c(x).
+Estabilidad de esquemas en diferencias finitas usando series discretas de Fourier. Flujo de calor y solucion de
+u = Duxx  en un intervalo.
+
+Bibliografia basica
+Kahaner, D., Moler, C., Nash, S., 1989, Numerical methods and software, PrenticeHall, USA.
+Koonin, S. E., Meredith, D. C., 1990, Computational physics (Fortran version), Addison Wesley 
+
+Publishing Company, USA.
+
+Bibliografia complementaria
+Gould, H., Tobochnik, J., 1988, An introduction to computer simulation methods: Applications to 
+
+physical systems, Addison Wesley Publishing Company, USA
+Vesely, F., 1994, Computational physics: An introduction, Plenum Press, USA.
+
+

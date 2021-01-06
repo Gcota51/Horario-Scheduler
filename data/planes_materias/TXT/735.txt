@@ -1,0 +1,125 @@
+DE CIENCIAS
+
+CARRERA DE MATEMATICO
+
+SEMINARIO DE MATEMATICAS APLICADAS I
+Ejemplo: Planeacion estrategica
+
+SEMESTRE: Septimo u octavo
+CLAVE: 0735
+
+HORAS A LA SEMANA/SEMESTRE
+
+TEORICAS PRACTICAS CREDITOS
+5/80 0 10
+
+CARACTER: OPTATIVO.
+MODALIDAD: CURSO.
+SERIACION INDICATIVA ANTECEDENTE: Analisis Matematico I, Investigacion
+de Operaciones.
+SERIACION INDICATIVA SUBSECUENTE: Ninguna.
+
+OBJETIVO(S): Presentar en forma sistematica y critica: los fundamentos de los enfoques
+de sistemas; el debate actual entre distintas perspectivas; los limites y alcances de ciertas
+conceptualizaciones que han sido divulgadas como "el enfoque de sistemas" mostrando sus
+deficiencias e inconsistencias particulares; modelos y aplicaciones debatiendo su validez,
+consistencia, pertinencia y "utilidad".
+Informar, instruir y motivar al alumno para que articule e interrelacione los conocimientos
+adquiridos en los distintos cursos.
+Establecer un puente entre el trabajo profesional y la preparacion escolar mediante el cual
+el alumno puede reflexionar sobre el area o campo de trabajo profesional a la que se piensa
+dedicar y las restricciones y caracteristicas del ejercicio profesional en distintos espacios de
+trabajo.
+Ofrecer un curso en donde ciertas destrezas o habilidades necesarias tanto para el trabajo
+academico y/o el profesional se enfaticen: la investigacion, la lectura organizada, el debate,
+las consideraciones de estilo en una presentacion o en el proceso de comunicacion de ideas,
+conceptos, modelos y resultados.
+
+NUM. HORAS UNIDADES TEMATICAS
+
+5 1. Introduccion
+1.1 Razon de ser de la investigacion de operaciones.
+
+401
+
+
+
+15 2. Metodologia de la investigacion de operaciones
+2.1 Situacion problematica. ?Que es un problema?.
+2.2 La naturaleza de los problemas.
+2.3 Definicion de situaciones problematicas: tomador de decisiones
+(T. de D.), objetivos, ambiente.
+2.4 Clasificacion de los problemas.
+2.5 Medidas de eficiencia de los diferentes tipos de problemas.
+
+10 3. Modelos
+3.1 ?Que es un modelo?.
+3.2 Clasificacion de los modelos.
+3.3 Construccion de modelos.
+
+10 4. Sistemas
+4.1 Definicion de sistemas.
+4.2 Tipos de sistemas.
+4.3 Enfoques de sistemas.
+4.4 Teoria general de sistemas.
+
+10 5. Planeacion
+5.1 Naturaleza de la planeacion.
+5.2 Filosofia de la planeacion.
+5.3 Enfoque de la planeacion.
+
+10 6. Planeacion estrategica
+6.1 Fundamentos.
+6.2 Aplicacion.
+
+20 7. Desarrollos teoricos y aplicaciones del movimiento de sis-
+temas
+7.1 Teoria general de sistemas.
+7.2 Tipologia de los sistemas.
+7.3 Cibernetica.
+7.4 Teoria de la informacion.
+7.5 Investigacion de operaciones.
+7.6 Analisis de sistemas.
+7.7 Metodologia de sistemas suaves.
+
+402
+
+
+
+BIBLIOGRAFIA BASICA:
+
+1. Ackoff, R.L., Redisenando el futuro, Mexico: Noriega-Limusa, 1981.
+
+2. Ackoff, R.L., Un Concepto de Planeacion de Empresas, Mexico: Noriega-Wiley, 1972.
+
+3. Bertalanffy, L. von, Teoria General de Sistemas, Mexico: Fondo de Cultura Economi-
+ca, 1976.
+
+4. Churchman, C.W., The Design of Inquiring Systems, New York: Basic Books, 1971.
+
+5. Churchman, C.W., El Enfoque de Sistemas, Mexico: Diana, 1973.
+
+6. Steiner, G.A., Planeacion Etrategica, Mexico: CECSA, 1983.
+
+BIBLIOGRAFIA COMPLEMENTARIA:
+
+1. Ackoff, R.L., Scientific Method, Malabar, Florida: R. E. Krieger, 1984.
+
+2. Clausewitz, C. von, De la Guerra. Madrid: Ministerio de Defensa: Secretaria General
+Tecnica, 1999.
+
+3. Emery, F.E., Systems Thinking, Harmondsworth: Penguin Books, 1969.
+
+SUGERENCIAS DIDACTICAS: Lograr la participacion activa de los alumnos mediante
+exposiciones.
+
+SUGERENCIA PARA LA EVALUACION DE LA ASIGNATURA: Ademas de las califi-
+caciones en examenes y tareas se tomara en cuenta la participacion del alumno.
+
+PERFIL PROFESIOGRAFICO: Matematico, fisico, actuario o licenciado en ciencias de
+la computacion, especialista en el area de la asignatura a juicio del comite de asignacion
+de cursos.
+
+403
+
+

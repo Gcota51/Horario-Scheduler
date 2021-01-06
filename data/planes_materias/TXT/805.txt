@@ -1,0 +1,210 @@
+el plan y programa de estudios de la licenciatura en >Ciencias de la Computacion
+
+
+252 
+ 
+
+ 
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+Licenciatura en Ciencias de la Computacion 
+Facultad de Ciencias 
+
+Programa de la asignatura 
+ 
+
+Denominacion de la asignatura:  
+Proceso Digital de Imagenes 
+
+Clave:  
+0805 
+
+Semestre: 
+7-8 
+
+Eje tematico: 
+Imagenes y Ambientes Virtuales 
+
+No. Creditos:  
+10 
+
+Caracter: Optativa Horas Horas por semana 
+Total de 
+Horas  
+
+Tipo: Teorico-Practica Teoria: Practica: 
+7 112 3 4 
+
+Modalidad: Curso Duracion del programa: Semestral 
+ 
+
+ 
+Asignatura con seriacion indicativa antecedente: Analisis Numerico; Graficacion por 
+Computadora; Matematicas para las Ciencias de la Tierra III 
+ 
+Asignatura con seriacion indicativa subsecuente: Ninguna 
+Objetivo general: 
+Comprender y aplicar diferentes tecnicas para el analisis de imagenes, su descripcion 
+matematica, los metodos mas importantes para realzar y restaurar una imagen y transformarla 
+al dominio de la frecuencia, asi como metodos para almacenar, codificar y comprimir una 
+imagen. 
+ 
+ 
+
+Indice tematico 
+
+Unidad Temas  Horas Teoricas Practicas 
+I Introduccion 3 4 
+II Fundamentos de la imagen 3 4 
+III Filtrado de la imagen 6 8 
+IV Transformadas para una imagen 9 12 
+V Restauracion 6 8 
+VI Segmentacion 9 12 
+VII Compresion 6 8 
+VIII Analisis de movimiento 6 8 
+
+Total de horas: 48 64 
+Suma total de horas: 112 
+
+ 
+ 
+
+
+
+253 
+ 
+
+Contenido tematico 
+Unidad Tema 
+I Introduccion 
+I.1 Sistemas de imagenes. 
+I.2 Unidad de adquisicion de datos. 
+I.3 Unidad de procesamiento de senal e imagen. 
+I.4 Unidad de despliegue de la imagen. 
+I.5 Elementos de percepcion visual. 
+II Fundamentos de la imagen 
+II.1 Caracterizacion matematica de imagenes. 
+II.2 Muestreo y cuantizacion. 
+II.3 Sistemas bidimensionales. 
+II.4 Convolucion bidimensional. 
+III Filtrado de la imagen 
+III.1 Realce punto a punto. 
+III.2 Filtrado en el dominio espacial. 
+III.3 Filtrado en el dominio de la frecuencia. 
+IV Transformadas para una imagen 
+IV.1 Transformada de Fourier. 
+IV.2 Transformada discreta de Fourier y transformada rapida de Fourier. 
+IV.3 Convolucion circular. 
+IV.4 Otras transformaciones separables. 
+IV.5 Transformaciones geometricas. 
+V Restauracion 
+V.1 Modelos de degradacion. 
+V.2 Matrices circulares. 
+V.3 Planteamiento algebraico del problema de restauracion. 
+V.4 Filtros de Wiener. 
+V.5 Filtros adaptivos. 
+V.6 Filtros no lineales. 
+VI Segmentacion 
+VI.1 Deteccion de discontinuidades. 
+VI.2 Umbrales. 
+VI.3 Segmentacion orientada a regiones. 
+VI.4 Segmentacion contextual. 
+VI.5 Morfologia matematica. 
+VII Compresion 
+VII.1 Teoria de la informacion. 
+VII.2 Compresion libre de errores. 
+VII.3 Comprension con perdida numerica. 
+VII.4 Nuevas tendencias para la compresion de imagenes. 
+VIII.1 Introduccion. 
+
+
+
+254 
+ 
+
+VIII Analisis de movimiento 
+VIII.2 Estimacion de movimiento para el procesamiento de una secuencia de imagenes. 
+VIII.3 Modelado autoregresivo tridimensional para secuencias de imagenes. 
+VIII.4 Reduccion de ruido para secuencias de imagenes. 
+ 
+ 
+
+Bibliografia basica: 
+1. Gonzalez, C. Rafael and Woods, Richard, Digital Image Processing, Third edition. Prentice 
+
+Hall, 2007.  
+2. Burger, Wilhelm and Burge, Mark J., Principles of Digital Image Processing: Fundamentals 
+
+Techniques, Springer, 2009.  
+3. Pratt, W.K., Digital Image Processing, Third Edition. Wiley-Interscience, 2001. 
+4. Jain, A. K., Fundamentals of Digital Image Processing, Prentice Hall, 1991. 
+5. Burger, Wilhelm and Burge, Mark J., Digital Image Processing. An Algorithmic Introduction 
+
+Using Java. Springer, 2008. 
+6. Velho, L., Frery, A., and Gomes, Jonas, Image Processing for Computer Graphics and 
+
+Vision. Springer, 2009. 
+7. Jahne, B., Mester R., Scharr, H. and Barth, E., Complex motion. First International 
+
+Worshop, IWCM 2004. Gunzburg, Germany, Springer, 2004.  
+8. Schreier, H., Orteu, Jean-Jose and Sutton, M., Image Correlation for Shape, Motion and 
+
+Deformation Measurements Basic Concepts. Theory and Applications, Germany, Springer, 
+2009. 
+
+ 
+Bibliografia complementaria: 
+1. Bourne, Roger, Fundamentals of Digital Imaging in medicine. Springer, 2010. 
+2. Nixon, Mark S. and Aguado, S. Alberto, Feature Extraction and Image Processing, Second 
+
+edition. Academic Press, 2008. 
+3. Ronsefeld, A. and Kak, A. C., Digital Picture Processing. Academic Press, 1982. 
+4. Wahl, F. W., Digital Image Signal Processing. Artech House, 1987. 
+5. Hohne, K. H., Digital Image Processing in Medicine. Lecture Notes in Medical Informatics, 
+
+Springer-Verlag, 1981. 
+ 
+  
+
+
+
+255 
+ 
+
+Sugerencias didacticas: 
+Exposicion oral (X) 
+Exposicion audiovisual (X) 
+Ejercicios dentro de clase (X) 
+Ejercicios fuera del aula (X) 
+Seminarios (   ) 
+Lecturas obligatorias (X) 
+Trabajo de investigacion (X) 
+Practicas de taller o laboratorio (X) 
+Practicas de campo (   ) 
+ 
+Otras: __________________________ 
+ 
+
+Metodos de evaluacion:  
+Examenes parciales (X) 
+Examen final escrito (X) 
+Trabajos y tareas fuera del aula (X) 
+Practicas de laboratorio (   ) 
+Exposicion de seminarios por los alumnos (   ) 
+Participacion en clase (X) 
+Asistencia (X) 
+Proyectos de programacion (   ) 
+Proyecto final (   ) 
+Seminario (   ) 
+ 
+Otras: _____________________________ 
+  
+
+Perfil profesiografico:  
+Egresado preferentemente de la Licenciatura en Ciencias de la Computacion o matematico con 
+especialidad en computacion con amplia experiencia de programacion. Es conveniente que 
+posea un posgrado en la disciplina. Con experiencia docente. 
+ 
+  
+
+

@@ -1,0 +1,321 @@
+A DE MEXICO 
+
+ 
+Facultad de Ciencias 
+
+ 
+Plan de estudios de la Licenciatura en  
+
+Matematicas 
+ 
+
+Calculo Diferencial e Integral I 
+
+ 
+
+Clave 
+0091 
+
+Semestre 
+1 
+
+Creditos 
+18 
+
+Area de 
+conocimiento 
+
+ 
+
+Campo 
+ 
+
+ 
+
+Etapa 
+ 
+
+ 
+
+Modalidad 
+Curso ( X ) Taller ( ) Lab ( ) Sem ( ) 
+ 
+ 
+
+Tipo T ( X )     P (  )    T/P  (  )  
+
+Caracter 
+Obligatorio ( X )            Optativo ( ) 
+ 
+Obligatorio E ( )        Optativo E ( )  
+
+Horas 
+
+ Semana Semestre  
+
+ Teoricas           9 Teoricas           144 
+
+ Practicas          0 Practicas           0 
+
+ Total                 9 Total                  144 
+
+ 
+
+Seriacion 
+ 
+
+Ninguna (   ) 
+
+Obligatoria (   ) 
+
+Asignatura antecedente 
+ 
+
+ 
+
+Asignatura subsecuente 
+ 
+
+ 
+
+Indicativa ( X  ) 
+
+Asignatura antecedente 
+ 
+
+Ninguna 
+
+Asignatura subsecuente 
+ 
+
+Calculo Diferencial e Integral II 
+Taller de Modelacion I 
+
+ 
+
+Objetivo general: 
+ 
+
+ Introducir a los conceptos y metodos de la matematica superior, poniendo enfasis en la idea de 
+limite y derivada como herramientas indispensables para modelar fenomenos relativos al cambio 
+y familiarizar con la presentacion formal de las matematicas recurriendo a demostraciones 
+constructivas y no muy extensas. 
+
+ 
+
+Objetivos especificos: 
+ 
+
+ Conocer los fundamentos del Calculo y algunos ejemplos. 
+
+
+
+ Identificar las caracteristicas principales de los numeros reales. 
+
+ Recordar el concepto de funcion y conocer las principales operaciones entre funciones. 
+Tambien conocer lo que son las sucesiones. 
+
+ Conocer el concepto de limite y los principales teoremas relacionados con el.  
+
+ Conocer el concepto de continuidad y los principales teoremas relacionados con el.  
+
+ Comprender el significado de la derivada de una funcion y la manera de obtenerla. 
+ 
+
+ 
+ 
+
+Indice tematico 
+
+ Tema  
+
+Horas 
+ semestre  
+
+Teoricas Practicas 
+
+1 Introduccion 6 0 
+
+2 Numeros reales  15 0 
+
+3 Funciones y sucesiones 30 0 
+
+4 Limite 30 0 
+
+5 Continuidad  22 0 
+
+6 Funciones derivables 41 0 
+
+Subtotal 144 0 
+
+Total 144 
+
+ 
+
+Contenido Tematico 
+
+ Tema y subtemas 
+
+1 Introduccion 
+
+ 
+
+1.1 Los problemas que fundamentan al calculo. 
+1.2 Ejemplos. 
+ 
+
+2 Numeros reales 
+
+ 
+
+2.1     Propiedades de los numeros enteros, racionales y reales y sus operaciones, 
+          desigualdades y valor absoluto. 
+2.2     La propiedad de complecion de los numeros reales, expansiones 
+
+          Decimales. 
+
+ 
+
+3 Funciones y sucesiones 
+
+ 
+
+3.1 Definicion, ejemplos, graficas y propiedades elementales de las funciones 
+(funciones polinomiales, racionales, trigonometricas, exponenciales, pares e 
+impares, inyectivas y suprayectivas, periodicas, monotonas, acotadas).  
+
+3.2 Sucesiones de numeros reales, sucesiones de Cauchy. 
+3.3 Suma, producto y cociente de funciones y sucesiones.  
+3.4 Composicion de funciones. Funciones inversas.  
+ 
+
+4 Limite 
+
+ 
+
+4.1 Definicion y ejemplos de sucesiones convergentes. 
+4.2 Criterios elementales para la convergencia de sucesiones.  
+4.3 Limite de funciones.    
+4.4 Definicion, ejemplos y propiedades basicas del limite de una funcion. 
+4.5 Limite de la suma, el producto y el cociente de funciones.  
+
+
+
+4.6 Limites que involucran al infinito, asintotas de curvas.  
+ 
+
+5 Continuidad 
+
+ 
+
+5.1 Definicion y propiedades de las funciones continuas en un punto. 
+5.2 La continuidad y la composicion. 
+5.3 Funciones continuas en intervalos cerrados. 
+5.4 Propiedades de las funciones continuas en intervalos cerrados: maximos, 
+
+minimos y teorema de valor intermedio. 
+ 
+
+6 Funciones derivables 
+
+ 
+
+6.1 Razon de cambio y razon instantanea de cambio y velocidad. 
+6.2 Tangentes de curvas. 
+6.3 Definicion y ejemplos del concepto de derivada. 
+6.4 Relacion entre la continuidad y la derivabilidad de una funcion. 
+6.5 Suma, producto y cociente de funciones derivables. 
+6.6 La regla de la cadena. 
+6.7 Metodo de Newton y raices de funciones. Derivada de la funcion inversa. 
+6.8 Derivacion implicita. 
+6.9 Derivadas de orden superior. 
+6.10 Aceleracion. 
+6.11 El Teorema del Valor Medio. 
+6.12 Puntos criticos. 
+6.13 Localizacion de puntos maximos y minimos relativos, regiones de concavidad y 
+
+puntos de inflexion. 
+6.14 Problemas de optimizacion. 
+6.15 Aproximacion de raices. 
+6.16 Polinomios de Taylor y forma de Lagrange del residuo. 
+6.17 El Teorema del Valor Medio Generalizado y la Regla de L'Hopital.  
+ 
+
+ 
+ 
+
+Estrategias didacticas Evaluacion del aprendizaje 
+
+Exposicion                                                   ( X ) Examenes parciales                (X  ) 
+
+Trabajo en equipo                                         (  ) Examen final                  ( X ) 
+
+Lecturas                                                         (  ) Trabajos y tareas                  ( X ) 
+
+Trabajo de investigacion                               (  ) Presentacion de tema                 (  ) 
+
+Practicas (taller o laboratorio)                       (  ) Participacion en clase                            ( X ) 
+
+Practicas de campo                                       (  ) Asistencia                                                 (  ) 
+
+Aprendizaje por proyectos                            (  ) Rubricas                                                   (  ) 
+
+Aprendizaje basado en problemas               (  ) Portafolios                                                (  ) 
+
+Casos de ensenanza                                    (  ) Listas de cotejo                                        (  ) 
+
+Otras (especificar) Otras (especificar)  
+
+  
+
+  
+
+ 
+ 
+
+Perfil profesiografico 
+
+Titulo o grado Matematico, fisico, actuario o licenciado en ciencias de la computacion. 
+
+Experiencia docente Con experiencia docente 
+
+Otra caracteristica Especialista en el area de la asignatura a juicio del comite de asignacion 
+de cursos 
+
+ 
+
+
+
+ 
+ 
+
+Bibliografia basica: 
+ 
+
+ Arizmendi, H., Carrillo, H., Lara. M., Calculo. Primer Curso. Mexico: Addison Wesley, 1987. 
+
+ Courant, R., John, F., Introduccion al Calculo y al Analisis. Mexico: Editorial Limusa, 1974.. 
+
+ Lang. S., Calculo I. Mexico: Fondo Educativo Interamericano, 1990. 
+
+ Spivak, M., Calculo Infinitesimal (2a ed). Mexico: Reverte, 1998. 
+
+ Thomas, G. B. Finney, R. L., Calculo con Geometria Analitica (9a ed). Mexico: Addison-
+Wesley, 1987. 
+
+ 
+
+Bibliografia complementaria: 
+ 
+
+ Apostol, T. M., Calculus, Volumen I. Mexico: Ed. Reverte S. A., 2001. 
+
+ Banach, S., Calculo Diferencial e Integral. Mexico: UTEHA., 1991. 
+
+ Kuratowski, K, Introduccion al Calculo. Mexico: Limusa-Wiley, 1970. 
+ 
+
+ 
+ 
+
+

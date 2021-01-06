@@ -1,0 +1,369 @@
+IVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+ 
+                          Facultad de Ciencias 
+
+          
+                      Plan de estudios de la Licenciatura en Actuaria 
+
+ 
+ 
+
+Probabilidad I 
+ 
+
+Clave 
+0625 
+
+Semestre 
+3 
+
+Creditos 
+10 
+
+Area 
+ 
+
+ 
+
+Campo de 
+conocimiento 
+
+Probabilidad y  Estadistica 
+
+Etapa 
+ 
+
+Basica 
+
+Modalidad 
+Curso ( X ) Taller ( ) Lab ( ) Sem ( ) 
+ 
+ 
+
+Tipo T ( X )     P (  )    T/P  (  )  
+
+Caracter 
+Obligatorio ( X )            Optativo ( ) 
+ 
+Obligatorio E ( )        Optativo E ( )  
+
+Horas 
+
+ Semana Semestre  
+
+ Teoricas             5 Teoricas            80 
+
+ Practicas            0 Practicas            0 
+
+ Total                   5 Total                  80 
+
+ 
+
+Seriacion 
+ 
+
+Ninguna (   ) 
+
+Obligatoria (   ) 
+
+Asignatura antecedente 
+ 
+
+ 
+
+Asignatura subsecuente 
+ 
+
+ 
+
+Indicativa ( X ) 
+
+Asignatura antecedente 
+ 
+
+Calculo Diferencial e Integral II 
+
+Asignatura subsecuente 
+ 
+
+Probabilidad II 
+Matematicas Actuariales del Seguro de Personas I 
+
+ 
+
+Objetivos generales: 
+
+ 
+ Conocer los conceptos basicos de la Probabilidad Matematica. 
+
+ Saber ilustrar sobre como una gran variedad de problemas que surgen en diferentes actividades, se pueden 
+modelar y resolver utilizando la teoria de Probabilidad. 
+
+ 
+
+Objetivos especificos: 
+ 
+
+ Explicar las diferentes interpretaciones de la probabilidad,  asi como algunos conceptos y resultados 
+elementales. 
+
+
+
+ Comprender lo que es una variable aleatoria. Estudiar el concepto de funcion de distribucion y 
+densidad. Explicar la naturaleza y caracteristicas de algunas importantes familias de distribuciones. 
+
+ Comprender los conceptos de esperanza, momentos y funcion generadora de momentos. 
+
+ Explicar teoremas limite para variables aleatorias discretas. Leyes de los grandes numeros, el teorema 
+del limite central y algunas aplicaciones.   
+
+ 
+
+ 
+ 
+ 
+ 
+
+Indice tematico 
+
+ Tema  
+
+Horas 
+ semestre  
+
+Teoricas Practicas 
+
+1 Espacio de Probabilidad 15 0 
+
+2 Variables Aleatorias y Funciones de Distribucion 30 0 
+
+3 Momentos de Variables Aleatorias 30 0 
+
+4 
+Teoremas limite para sucesiones de variables 
+
+aleatorias discretas 
+5 0 
+
+Total 80 
+
+ 
+
+Contenido Tematico 
+
+ Tema y subtemas 
+
+1 Espacio de Probabilidad 
+
+ 
+
+1.1  Espacio muestral, eventos y su interpretacion. 
+
+1.2  Panorama historico de la probabilidad, interpretacion frecuentista, 
+
+definicion clasica, probabilidad geometrica. 
+
+1.3  Definicion axiomatica de probabilidad (sin enfasis en sigma-algebras). 
+
+1.4  Propiedades de la probabilidad. 
+
+1.5  Probabilidad condicional e independencia. 
+
+1.6  Formulas de la probabilidad total y de Bayes. 
+
+1.7  Teorema de continuidad de la probabilidad. 
+
+1.8  Simulacion de ejemplos elementales para ilustrar la interpretacion  
+
+           frecuentista. 
+ 
+
+2 Variables Aleatorias y Funciones de Distribucion 
+
+ 
+
+2.1  Definicion de variable aleatoria. 
+
+2.2  Funcion de distribucion y sus propiedades. 
+
+2.3  Variables aleatorias discretas como familias parametricas y su 
+
+interpretacion; funciones de masa o densidad, incluyendo los ejemplos: 
+
+Bernoulli, Binomial, Poisson, Uniforme, Geometrica, Binomial 
+
+negativa, Hipergeometrica y modelos donde estas aparecen. 
+
+Familias parametricas discretas y su interpretacion. 
+
+2.4  Variables aleatorias continuas (o absolutamente continuas) y funciones 
+
+de densidad. Familias parametricas, incluyendo los ejemplos: 
+
+
+
+Uniforme, Normal, Exponencial, Gamma, Cauchy, Beta, 
+
+Weibul, Pareto, Frechet, Gumbel, Logistica, Gausiana inversa y 
+
+modelos donde estas aparecen. 
+
+2.5  Funcion de distribucion de funciones de variables aleatorias. 
+
+2.6  Simulacion de variables aleatorias. 
+ 
+
+3 Momentos de Variables Aleatorias 
+
+ 
+
+3.1 Esperanza, varianza y propiedades. La esperanza minimiza la distancia   
+
+            cuadratica. 
+
+3.2  Momentos de variables aleatorias. 
+
+3.3  Esperanza de funciones de una variable aleatoria. 
+
+3.4  Desigualdades, incluyendo las de Tchebyshev, Jensen, Markov,  
+
+            Chernoff. 
+
+3.5  Funciones Generadoras: 
+
+Funcion generadora de momentos, funcion generadora de 
+
+momentos factoriales (para variables aleatorias con valores en 
+
+los naturales) y aplicaciones. 
+ 
+
+4 Teoremas limite para sucesiones de variables aleatorias discretas 
+
+ 
+
+4.1  Aproximacion Poisson a la Binomial. 
+
+4.2  Vectores aleatorios, funciones de densidad y de distribucion; conjunta  
+
+            y marginales. 
+
+4.3  Sumas de variables aleatorias independientes. 
+
+4.4  Enunciado de algunos teoremas limite: Leyes de los Grandes Numeros, 
+
+Teorema de Limite Central. 
+
+4.5  Demostracion de la ley debil de los grandes numeros. 
+
+4.6  Teorema de Limite Central para la distribucion Bernoulli (Teorema de 
+
+De Movire-Laplace). 
+
+4.7  Contrastar los resultados teoricos con los obtenidos por simulacion. 
+ 
+
+ 
+ 
+
+Estrategias didacticas Evaluacion del aprendizaje 
+
+Exposicion                                                  ( X ) Examenes parciales                ( X ) 
+
+Trabajo en equipo                                       ( X ) Examen final                  ( X ) 
+
+Lecturas                                                      ( X ) Trabajos y tareas                  ( X ) 
+
+Trabajo de investigacion                              (  ) Presentacion de tema                 ( X ) 
+
+Practicas (taller o laboratorio)                     ( X ) Participacion en clase                            (  ) 
+
+Practicas de campo                                      (  ) Asistencia                                                 (  ) 
+
+Aprendizaje por proyectos                            (  ) Rubricas                                                   (  ) 
+
+Aprendizaje basado en problemas             ( X ) Portafolios                                                (  ) 
+
+Casos de ensenanza                                    (  ) Listas de cotejo                                        (  ) 
+
+Otras (especificar) Otras (especificar) 
+
+ 
+ 
+
+Perfil profesiografico 
+
+
+
+Titulo o grado Egresado de la licenciatura en Matematicas, Actuaria o alguna otra carrera afin. 
+Es deseable que cuente con un posgrado en el area. 
+
+Experiencia docente Con experiencia docente en el area. 
+
+Otra caracteristica  
+
+ 
+ 
+
+Bibliografia basica: 
+ 
+
+ Feller, W. (1968). An introduction to probability theory and its applications, Volumen I. New York: 
+John Wiley & Sons Inc. 
+
+ Gnedenko, B. V. (1975). The theory of probability. Chelsea. 
+
+ Hoel, P. G., Port, S. C., Stone, C. J. (1971). Introduction to probability theory. Houghton Mifflin 
+Company. 
+
+ Mood, A. M., Graybill, F. A., Boes, D. C. (1974). Introduction to the theory of Statistics (3a ed.). 
+McGraw-Hill. 
+
+ Ross, S. (1997). A first course in probability theory (5a ed.). Prentice Hall. 
+
+ Casella, G. & Berger, R. L. (2002). Statistical inference. Thomson Learning, la Universidad de 
+Michigan. 
+
+ Stirzaker, D.R. (2003). Elementary Probability (2a ed.). Cambridge University Press. 
+ 
+
+Bibliografia complementaria: 
+ 
+
+ Ash, R. B. (1970). Basic Probability Theory. New York: John Wiley & Sons Inc. 
+
+ Casella, G. & Berger, R. L. (2002). Statistical inference. Thomson Learning, la Universidad de 
+Michigan. 
+
+ Chung, K. L. (2001). A Course in Probability Theory (2a ed.). Academic Press. 
+
+ Chung, K. L. (1974). Elementary probability theory with stochastic processes (3a ed.). Springer-
+Verlag, New York. 
+
+ Grimmet G. R. & Stirzaker, D. R. (2001). Probability and Random Processes (3a ed.). Oxford 
+University Press. 
+
+ Grinstead, S. (1997). Introduction to probability. American Mathematical Soc. 
+
+ Gut, A. (2009).  An intermediate course in Probability, Springer Texts in Statistics (2a ed.). New 
+York: Springer. 
+
+ Isaac, R. (1995). The Pleasures of Probability. Springer-Verlag. 
+
+ Resnick, S. I. (1999). A Probability Path. Birkhauser. Boston. 
+
+ Rincon, L. (2007). Curso Intermedio de Probabilidad. Mexico: Imprenta de la Facultad de Ciencias 
+UNAM. 
+
+ Ross, S. M. (2007). Introduction to probability modelsm (9a ed.). Academic Press. 
+
+ Weaver, W. (1963). Lady Luck: The Theory of Probability. Dover. 
+
+ Stirzaker,D. R. (1999). Probability and Random Processes. Cambridge University Press, Cambridge. 
+
+ 
+
+ 
+
+

@@ -1,0 +1,225 @@
+el plan y programa de estudios de la licenciatura en >Ciencias de la Computacion
+
+
+227 
+ 
+
+ 
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+Licenciatura en Ciencias de la Computacion 
+Facultad de Ciencias 
+
+Programa de la asignatura 
+ 
+
+Denominacion de la asignatura:  
+Linguistica Computacional 
+
+Clave:  
+0819 
+
+Semestre: 
+7-8 
+
+Eje tematico: 
+Inteligencia Artificial 
+
+No. Creditos:   
+10 
+
+Caracter: Optativa Horas Horas por semana 
+Total de 
+Horas  
+
+Tipo: Teorico-Practica Teoria: Practica: 
+7 112 3 4 
+
+Modalidad: Curso Duracion del programa: Semestral 
+ 
+
+ 
+ 
+Asignatura con seriacion indicativa antecedente: Automatas y Lenguajes Formales; 
+Ingenieria de Software; Inteligencia Artificial 
+ 
+Asignatura con seriacion indicativa subsecuente: Ninguna 
+Objetivo general:  
+Proveer a los estudiantes de una amplia descripcion del campo, y prepararlos para el estudio 
+profundo del procesamiento del lenguaje natural.  
+ 
+ 
+
+Indice tematico 
+
+Unidad Temas  
+Horas 
+
+Teoricas Practicas 
+I Introduccion 3 4 
+II Fonologia y fonetica 3 4 
+III Morfologia y transductores de estados finitos 6 8 
+IV Marcado de categorias gramaticales 6 8 
+V Sintaxis 6 8 
+VI Analisis sintactico 6 8 
+VII Semantica 3 4 
+VIII Analisis semantico 3 4 
+IX Discurso 3 4 
+X Aplicaciones: traduccion automatica 3 4 
+XI Aplicaciones: desambiguacion de sentidos 3 4 
+XII Aplicaciones: recuperacion de informacion 3 4 
+
+Total de horas: 48 64 
+Suma total de horas: 112 
+
+
+
+228 
+ 
+
+ 
+Contenido tematico 
+Unidad Tema 
+I Introduccion 
+I.1 Lenguaje, pensamiento y comprension. 
+I.2 Ambiguedad. 
+I.3 Historia. 
+II Fonologia y fonetica 
+II.1 Los fonemas y las reglas fonologicas. 
+II.2 Reglas fonologicas y transductores. 
+II.3 Mapeo de senales acusticas a fonemas. 
+II.4 Mapeo de fonemas a palabras. 
+III Morfologia y transductores de estados finitos 
+III.1 Morfologia (flexiva, derivacional). 
+III.2 Morfotactica y diccionarios. 
+III.3 Transductores y reglas. 
+III.4 Lematizadores. 
+IV Marcado de categorias gramaticales 
+IV.1 Metodos linguisticos. 
+IV.2 Metodos estadisticos. 
+IV.3 Desambiguacion de marcas morfologicas. 
+IV.4 Algoritmo de Viterbi. 
+V Sintaxis 
+V.1 Clases de palabras y construccion de oraciones. 
+V.2 Gramatica de estructura de frases (verbales, nominales, adjetivales, etc.). 
+V.3 Gramatica independiente del contexto para el espanol. 
+V.4 Subcategorizacion. 
+V.5 Gramaticas de dependencias. 
+VI Analisis sintactico 
+VI.1 Mediante busqueda (ascendente, descendente). 
+VI.2 Ambiguedad. 
+VI.3 Transductores de estados finitos. 
+VI.4 Tipo Chart. 
+VI.5 Concordancia y unificacion. 
+VI.6 Metodos probabilisticos. 
+VII Semantica 
+VII.1 Representacion del sentido. 
+VII.2 Problemas en la representacion (no ambiguas, forma canonica, expresividad). 
+VII.3 Estructura predicado - argumento. 
+VII.4 Logica de primer orden (elementos, semantica, cuantificadores, inferencia). 
+VII.5 Conceptos relevantes (categorias, eventos, tiempo, creencias). 
+VIII Analisis semantico 
+VIII.1 Dirigido por la sintaxis. 
+
+
+
+229 
+ 
+
+VIII.2 Calculo lambda. 
+VIII.3 Semantica lexica. 
+VIII.4 Restricciones de seleccion. 
+IX Discurso 
+IX.1 Contexto. 
+IX.2 Referencia. 
+IX.3 Resolucion de referencia. 
+X Aplicaciones: traduccion automatica 
+X.1 Similaridades y diferencias en las lenguas. 
+X.2 Transformaciones. 
+X.3 Traduccion directa. 
+X.4 Interlingua. 
+X.5 Alineacion de corpus. 
+XI Aplicaciones: desambiguacion de sentidos 
+XI.1 Metodos de aprendizaje. 
+XI.2 Metodos basados en diccionarios. 
+XII Aplicaciones: recuperacion de informacion 
+XII.1 Modelo de espacio de vectores. 
+XII.2 Seleccion y creacion de terminos. 
+XII.3 Peso de los terminos. 
+ 
+ 
+
+Bibliografia basica: 
+1. Daniel Jurafsky, James H. Martin, Speech and Language Processing: An Introduction to 
+
+Natural Language Processing, Computational Linguistics and Speech Recognition. Prentice 
+Hall, 2000 (Bib. IIMAS).    
+
+2. Allen, J. F., Natural Language Understanding, The Benjamin/Cummings Publishing 
+Company, Inc., 1995 (Bib. Ciencias). 
+
+Bibliografia complementaria: 
+1. Beristain, H., Gramatica estructural de la lengua espanola, Universidad Autonoma de 
+
+Mexico. LIMUSA Noriega Editores. 1984 (Bib. FyL).   
+2. Charniak, E., Statistical Language Learning, MIT, Cambridge, MA. 1993. (Bib. Ciencias).    
+3. Chomsky, N., Some Concepts and Consequences of the theory of Government and 
+
+Binding. MIT Press, 1982. Editada bajo el titulo de La nueva sintaxis. Teoria de la reccion y 
+el ligamento. Ediciones Paidos, 1988 (Bib. IIMAS).    
+
+4. Grishman, R., Computational linguistics  An introduction, Cambridge University Press. 1986 
+(Bib. Central) .   
+
+5. Manning, C. y Schutze, H. Foundations of Statistical Natural Language Processing, MIT 
+Press. Cambridge, Mass. 1999 (Bib. IIMAS).    
+
+6. Mel'cuk,  I.  A.,  Dependency Syntax: Theory and Practice, State University of New York 
+Press. Albany (Bib. CIC-IPN).    
+
+
+
+230 
+ 
+
+7. Sag, I. A. and Wasow, T., Syntactic Theory: A Formal Introduction, Center for the Study of 
+Language and Information, 1999 (Bib. IIMAS).    
+
+8. Seco, M., Gramatica esencial del espanol, Aguilar ediciones. 1972 (Bib. Central). 
+Sugerencias didacticas: 
+Exposicion oral (X) 
+Exposicion audiovisual (X) 
+Ejercicios dentro de clase (X) 
+Ejercicios fuera del aula (X) 
+Seminarios ( ) 
+Lecturas obligatorias ( ) 
+Trabajo de investigacion ( ) 
+Practicas de taller o laboratorio (X) 
+Practicas de campo ( ) 
+ 
+Otras: __________________________ 
+ 
+
+Metodos  de evaluacion:  
+Examenes parciales (X) 
+Examen final escrito (X) 
+Trabajos y tareas fuera del aula (X) 
+Practicas de laboratorio ( ) 
+Exposicion de seminarios por los alumnos ( ) 
+Participacion en clase ( ) 
+Asistencia ( ) 
+Proyectos de programacion ( ) 
+Proyecto final ( ) 
+Seminario ( ) 
+ 
+Otras: _____________________________ 
+  
+
+Perfil profesiografico:  
+Egresado preferentemente de la Licenciatura en Ciencias de la Computacion o matematico con 
+especialidad en computacion con amplia experiencia de programacion. Es conveniente que 
+posea un posgrado en la disciplina. Con experiencia docente. 
+ 
+  
+
+

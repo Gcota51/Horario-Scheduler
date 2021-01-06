@@ -1,0 +1,126 @@
+DE CIENCIAS
+
+CARRERA DE MATEMATICO
+
+ANALISIS DE ALGORITMOS I
+
+SEMESTRE: Quinto o Sexto
+CLAVE: 0414
+
+HORAS A LA SEMANA/SEMESTRE
+
+TEORICAS PRACTICAS CREDITOS
+4/64 2/32 10
+
+CARACTER: OPTATIVO.
+MODALIDAD: CURSO.
+SERIACION INDICATIVA ANTECEDENTE: Introduccion a Ciencias de la Com-
+putacion II, Probabilidad I.
+SERIACION INDICATIVA SUBSECUENTE: Teoria de la Computacion.
+
+OBJETIVO(S): El alumno conocera los conceptos de complejidad, justificacion, analisis
+y diseno de algoritmos. Para desarrollar estos temas se revisan algoritmos de busqueda,
+ordenamiento y algoritmos que involucran graficas. Se discuten clases de complejidad,
+revisando con detalle la Clase de los Problemas NP.
+
+NUM. HORAS UNIDADES TEMATICAS
+
+15 1. Conceptos basicos
+1.1 Problemas y algoritmos.
+1.2 Tipos de problemas.
+1.3 Complejidad.
+1.4 Modelos de computo.
+
+15 2. Justificacion de algoritmod
+2.1 Introduccion matematica.
+2.2 Algoritmos iterativos.
+2.3 Algoritmos recursivos.
+
+12 3. Diseno de algoritmos
+
+24 4. Algoritmos que involucran secuencias y conjuntos
+
+4.1 Arboles binarios.
+4.2 Busquedas.
+4.3 Ordenamientos.
+4.4 Cota minima de ordenamiento.
+
+109
+
+
+
+15 5. Algoritmos para teoria de graficas
+
+5.1 Arboles generadores.
+
+5.2 Arboles generadores de peso minimo.
+5.3 Ruta mas corta.
+5.4 Teoria de redes.
+
+15 6. La clase de los problemas NP-completos
+6.1 Introduccion.
+6.2 Algoritmos deterministicos y algoritmos no deterministicos.
+6.3 Teoria de los problemas NP-completos.
+6.4 Teorema de Cook.
+6.5 Tecnicas para determinar problemas NP-C.
+6.6 Ejemplos de problemas NP-completos.
+6.7 Algoritmos de aproximacion.
+
+BIBLIOGRAFIA BASICA:
+
+1. Chartran, G., Oellermannd, O. R., Applied and Algorithmic Graph Theory, Singa-
+pore: McGraw-Hill, Inc., 1993.
+
+2. Cormen, T. H., Leierson, C. E., Riverst, R. L., Introduction to Algorithms, New
+York: McGraw-Hill Book Co., 1990.
+
+3. Flamig, B., Practical Algorithms in C++, New York: J. Wiley, 1995.
+
+4. Hoare, C. A. R., "An Axiomatic Basis for Computer Programming", Comm. of the
+ACM, No. 12, 1969: 576-583.
+
+5. Knuth, D. E., The Art of Computer Programing, Vol. I: Fundamental Algorithms,
+Reading, Mass.: Addison Wesley , 1973.
+
+6. Kingston, J., Algorithms and Data Structures: Design, Correctness and Analysis,
+Australia: Addison Wesley Co., 1990.
+
+7. Manber, U., Introduction to Algorithms. A Creative Approach, Reading, Mass.:
+Addison-Wesley Publishing Co., USA, 1989.
+
+8. Mehlhorn, K., Data Structures and Algorithms. Vol I Sorting and Searching, Berlin:
+Springer-Verlag, Monographs on Theorical Computer Science, 1984.
+
+9. Neapolitan, R., Naimipour, K., Foundations of Algorithms, Sudbury, Mass.: Jones
+and Bartlett, 1998.
+
+110
+
+
+
+10. Rawlins, G. J. E., Compared to What? An Introduction to the Analysis of Algorithms,
+New York: Computer Science Press, USA 1991.
+
+11. Skeina, S. S., The Algorithms Design Manual, New York: Springer Verlag, 1998.
+
+12. Weiss, M. A., Data Structures and Algorithms Analysis in C++, Reading, Mass.:
+Addison-Wesley, 1999.
+
+BIBLIOGRAFIA COMPLEMENTARIA:
+
+1. Collins, W. J., Data Structures. An Object Oriented Approach, Reading, Mass.: Ad-
+dison Wesley Co, 1992.
+
+SUGERENCIAS DIDACTICAS: Lograr la participacion activa de los alumnos mediante
+exposiciones.
+
+SUGERENCIA PARA LA EVALUACION DE LA ASIGNATURA: Ademas de las califi-
+caciones en examenes y tareas se tomara en cuenta la participacion del alumno.
+
+PERFIL PROFESIOGRAFICO: Matematico, fisico, actuario o licenciado en ciencias de
+la computacion, especialista en el area de la asignatura a juicio del comite de asignacion
+de cursos.
+
+111
+
+

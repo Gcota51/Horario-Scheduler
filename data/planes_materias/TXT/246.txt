@@ -1,0 +1,122 @@
+FACULTAD DE CIENCIAS
+
+CARRERA DE MATEMATICO
+
+GEOMETRIA DIFERENCIAL I
+
+SEMESTRE: Quinto o sexto
+CLAVE: 0246
+
+HORAS A LA SEMANA/SEMESTRE
+
+TEORICAS PRACTICAS CREDITOS
+5/80 0 10
+
+CARACTER: OPTATIVO.
+MODALIDAD: CURSO.
+SERIACION INDICATIVA ANTECEDENTE: Algebra Lineal I, Calculo Diferencial e
+Integral IV, Ecuaciones Diferenciales I, Introduccion a la Geometria Avanzada.
+SERIACION INDICATIVA SUBSECUENTE: Geometria Diferencial II, Geometria
+Riemanniana I, Geometria Sumatoria.
+
+OBJETIVO(S): Que el estudiante conozca los conceptos fundamentales de esta rama de
+la geometria, como los de curva y superficie diferenciables, los de geometria intrinseca y
+extrinseca de una superficie, el de curvatura de una superficie, asi como los principales
+resultados para la geometria local y global de una superficie.
+
+NUM. HORAS UNIDADES TEMATICAS
+
+15 1. Curvas en R3.
+1.1 Conceptos basicos: Curvas parametrizadas; curvas diferenciables;
+curvas regulares. Longitud de arco como parametro natural.
+1.2 Curvatura y torsion; formulas de Frenet-Serret.
+1.3 Teorema Fundamental de la Teoria Local de Curvas. Forma
+canonica local. Circulo osculador.
+1.4 Ejemplos de curvas: curvas planas; curvatura con signo. Cur-
+vas en dimensiones superiores. Curvas definidas por una ecuacion
+F (x, y) = 0, curvas definidas por F (x, y, y', y'', . . .) = 0.
+1.5 Temas optativos en seleccion y profundidad: Curvas cerradas.
+Teorema de la Curva de Jordan. Indice de un punto respecto a una
+curva. Teorema de la rotacion de la tangente. Teorema de la Des-
+igualdad Isoperimetrica. Teorema de los Cuatro Vertices. Clasifica-
+cion topologica de curvas diferenciables.
+
+1
+
+
+
+30 2. Superficies en R3.
+2.1 Superficie regular en R3 y variedad diferenciable de dimension 2.
+Enunciado del Teorema de Whitney. Sistemas de coordenadas loca-
+les. Superficie como grafica local; ejemplos. Superficie como imagen
+inversa de un valor regular; ejemplos. Teorema del Rango.
+2.2 Funciones diferenciables en una superficie y aplicaciones diferen-
+ciables entre superficies; ejemplos. Teorema de la Funcion Inversa.
+Plano tangente a una superficie en un punto. Vectores tangentes como
+derivaciones de funciones.
+2.3 La primera forma fundamental. Orientabilidad. Teorema de Cla-
+sificacion de Superficies (enunciado). Area.
+
+30 3. La Aplicacion de Gauss.
+3.1 Definicion de la Aplicacion de Gauss. El grado de la Aplicacion
+de Gauss. Curvatura normal y curvatura geodesica. Direcciones prin-
+cipales, direcciones asintoticas.
+3.2 Curvatura gaussiana. Curvatura media. Teorema Egregio y geo-
+metria intrinseca. Esfera osculatriz.
+3.3 Formulas de Mainardi-Codazzi. Teorema Fundamental de la
+Teoria Local de Superficies.
+3.4 Campos tangentes. Derivada covariante. Geodesicas. Curvas in-
+tegrales con potencial y ecuaciones de la Relatividad General.
+
+5 4. El teorema de Gauss-Bonnet y sus consecuencias.
+4.1 Se hara una presentacion descriptiva de este tema con la intencion
+de motivar al alumno a continuar en el estudio de esta rama.
+
+BIBLIOGRAFIA BASICA:
+
+1. Do Carmo, M. P. Differential Geometry of Curves and Surfaces in R3, New Jersey:
+Prentice Hall, 1976. (Trad. Oscar Palmas, Mexico: Vinculos Matematicos 183, 185,
+193, 194, 197, Facultad de Ciencias, UNAM, 1991.)
+
+2. Hilbert, D., Cohn Vossen, S., Geometry and the Imagination, Mexico: Vinculos Ma-
+tematicos No. 150, Facultad de Ciencias, UNAM, 2000.
+
+3. O'Neill, B., Elementary Differential Geometry, San Diego: Academic Press, 1997.
+
+4. Pogorelov, A. V., Geometria Diferencial, Moscu: MIR, 1977.
+
+2
+
+
+
+BIBLIOGRAFIA COMPLEMENTARIA:
+
+1. Arnold, V. I., Mathematical Methods of Classical Mechanics, New York: Springer-
+Verlag, 1989.
+
+2. Landau, L. D., Mecanica, Barcelona: Reverte, 1978.
+
+3. Milnor, J. W., Morse Theory, Princeton: Princeton University Press, 1963.
+
+4. Misner, C. W., Thorn, K. S., Wheeller, J. A., Gravitation, San Francisco: W. H.
+Freeman, 1973.
+
+5. O'Neill, B., Semi-riemannian Geometry with Applications to Relativity, New York:
+Academic, 1983.
+
+6. Spivak. M. A., A Comprehensive Introduction to Differential Geometry, Texas: Pu-
+blish or Perish, 1999.
+
+SUGERENCIAS DIDACTICAS: Lograr la participacion activa de los alumnos mediante
+exposiciones.
+
+SUGERENCIA PARA LA EVALUACION DE LA ASIGNATURA: Ademas de las califi-
+caciones en examenes y tareas se tomara en cuenta la participacion del alumno.
+
+PERFIL PROFESIOGRAFICO: Matematico, fisico, actuario o licenciado en ciencias de
+la computacion, especialista en el area de la asignatura a juicio del comite de asignacion
+de cursos.
+
+3
+
+

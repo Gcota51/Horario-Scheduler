@@ -1,0 +1,276 @@
+A DE MEXICO 
+
+ 
+Facultad de Ciencias 
+
+ 
+Plan de estudios de la Licenciatura en  
+
+Matematicas 
+ 
+
+Geometria Analitica II 
+
+ 
+
+Clave 
+0245 
+
+Semestre 
+2 
+
+Creditos 
+10 
+
+Area de 
+conocimiento 
+
+ 
+
+Campo 
+ 
+
+ 
+
+Etapa 
+ 
+
+ 
+
+Modalidad 
+Curso ( X ) Taller ( ) Lab ( ) Sem ( ) 
+ 
+ 
+
+Tipo T ( X )     P (  )    T/P  (  )  
+
+Caracter 
+Obligatorio ( X )            Optativo ( ) 
+ 
+Obligatorio E ( )        Optativo E ( )  
+
+Horas 
+
+ Semana Semestre  
+
+ Teoricas              5 Teoricas            80  
+
+ Practicas             0 Practicas            0 
+
+ Total                    5 Total                   80 
+
+ 
+
+Seriacion 
+ 
+
+Ninguna (   ) 
+
+Obligatoria (   ) 
+
+Asignatura antecedente 
+ 
+
+ 
+
+Asignatura subsecuente 
+ 
+
+ 
+
+Indicativa ( X  ) 
+
+Asignatura antecedente 
+ 
+
+Geometria Analitica I 
+
+Asignatura subsecuente 
+ 
+
+Algebra Lineal I 
+Calculo Diferencial e Integral III 
+Taller de Modelacion III 
+
+ 
+
+Objetivo general: 
+ 
+
+ Familiarizar con el concepto de geometria como el estudio de invariantes bajo un grupo de 
+transformaciones, aplicandolo en los casos del plano y el espacio cartesiano, el plano afin y el 
+plano hiperbolico.  
+
+ 
+
+Objetivos especificos: 
+ 
+
+
+
+ Explicar el concepto de superficies cuadricas, y las formas de representacion algebraica de 
+cilindros y superficies de revolucion. 
+
+ Explicar el concepto de transformaciones lineales y transformaciones rigidas. 
+
+ Explicar la geometria de la esfera. 
+
+ Explicar las transformaciones de Mobius,  y aplicarlas para representar lugares geometricos. 
+ 
+
+ 
+ 
+
+Indice tematico 
+
+ Tema  
+
+Horas 
+ semestre  
+
+Teoricas Practicas 
+
+1 Superficies cuadricas 20 0 
+
+2 Transformaciones 35 0 
+
+3 La geometria de la esfera 10 0 
+
+4 Transformaciones de Mobius 15 0 
+
+Subtotal 80 0 
+
+Total 80 
+
+ 
+
+Contenido Tematico 
+
+ Tema y subtemas 
+
+1 Superficies cuadricas 
+
+ 
+1.1 Cilindros. Cilindros sobre conicas. 
+1.2 Superficies de revolucion. Superficies de revolucion generadas por conicas. 
+1.3 La ecuacion de 2deg grado sin terminos mixtos. 
+1.4 Simetrias y extension de superficies cuadricas. 
+1.5 Cuadricas con ejes paralelos a los coordenados. 
+1.6 Superficies regladas. 
+1.7  Plano tangente a una cuadrica 
+
+ 
+
+2 Transformaciones 
+
+ 
+
+2.1 Definicion y ejemplos de transformaciones lineales en R2 y en R3. Proyecciones, 
+homotecias. 
+
+2.2 La matriz de una transformacion lineal respecto a una base. Subespacios 
+invariantes. 
+
+2.3 Definicion y ejemplos de transformaciones rigidas en R2 y en R3. Subgrupos. 
+Descomposicion de una transformacion rigida como una lineal seguida de una 
+traslacion. 
+
+2.4 Eliminacion de los terminos mixtos de la ecuacion general de 2deg grado en 3 
+variables por una rotacion adecuada. 
+
+2.5 Transformaciones afines. Perspectiva. 
+ 
+
+3 La geometria de la esfera 
+
+ 
+
+3.1 Geodesicas. 
+3.2 Un poco de trigonometria esferica. 
+ 
+
+4 Transformaciones de Mobius 
+
+ 
+
+4.1 Interpretacion geometrica de la suma y el producto de numeros complejos. 
+
+
+
+4.2 El plano complejo extendido. Transformaciones de Mobius. Principales 
+propiedades. 
+
+4.3 Introduccion a la geometria hiperbolica. 
+
+ 
+ 
+
+Estrategias didacticas  
+
+Exposicion                                                   ( X ) Examenes parciales                ( X ) 
+
+Trabajo en equipo                                         (  ) Examen final                  (X  ) 
+
+Lecturas                                                         (  ) Trabajos y tareas                  ( X ) 
+
+Trabajo de investigacion                               (  ) Presentacion de tema                 (  ) 
+
+Practicas (taller o laboratorio)                       (  ) Participacion en clase                            ( X ) 
+
+Practicas de campo                                       (  ) Asistencia                                                 (  ) 
+
+Aprendizaje por proyectos                            (  ) Rubricas                                                   (  ) 
+
+Aprendizaje basado en problemas               (  ) Portafolios                                                (  ) 
+
+Casos de ensenanza                                    (  ) Listas de cotejo                                        (  ) 
+
+Otras (especificar) Otras (especificar) 
+
+  
+
+  
+
+ 
+ 
+
+Perfil profesiografico 
+
+Titulo o grado Matematico, fisico, actuario o licenciado en ciencias de la computacion. 
+
+Experiencia docente Con experiencia docente. 
+
+Otra caracteristica Especialista en el area de la asignatura a juicio del comite de asignacion 
+de cursos. 
+
+ 
+ 
+
+Bibliografia basica: 
+ 
+
+ Bracho, J. Geometria Analitica. Notas. 
+
+ Efimov, N., Geometria Superior. Moscu: MIR, 1984. 
+
+ Preston, G. C., Lovaglia, A. R., Modern Analytic Geometry. New York: Harper & Row,1971. 
+
+ Ramirez-Galarza, A., Geometria Analitica: Una Introduccion a la Geometria. Mexico: Las 
+Prensas de Ciencias, 1998. 
+
+ 
+
+Bibliografia complementaria: 
+ 
+
+ Eves, H., Estudio de las Geometrias. Mexico: UTEHA, 1969. 
+
+ Hilbert, D., Cohn Vossen, S., Geometry and the Imagination. Mexico: Vinculos Matematicos 
+No. 150, Facultad de Ciencias, UNAM, 2000. 
+
+ 
+
+ 
+ 
+
+

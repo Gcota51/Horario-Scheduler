@@ -1,0 +1,94 @@
+FACULTAD DE CIENCIAS
+
+CARRERA DE MATEMATICO
+
+SEMINARIO DE TOPOLOGIA A
+Ejemplo: Teoria de continuos
+
+SEMESTRE: Septimo u octavo
+CLAVE: 0977
+
+HORAS A LA SEMANA/SEMESTRE
+
+TEORICAS PRACTICAS CREDITOS
+5/80 0 10
+
+CARACTER: OPTATIVO.
+MODALIDAD: CURSO.
+SERIACION INDICATIVA ANTECEDENTE: Algebra Moderna I, Analisis Matemati-
+co II, Topologia I, Variable Compleja I.
+SERIACION INDICATIVA SUBSECUENTE: Ninguna.
+
+OBJETIVO(S): Que el alumno conozca los principales conceptos, resultados y problemas
+de la Teoria de Continuos. Algunos de los temas del programa basico se pueden cambiar
+por temas especializados. En particular si el seminario es un antecedente para que los
+estudiantes realicen tesis de licenciatura conviene que cada estudiante elija uno de estos
+temas.
+
+NUM. HORAS UNIDADES TEMATICAS
+
+7 1. El cubo de Hilbert como continuo universal
+
+7 2. Teorema de Baire
+
+7 3. Teoremas de golpes en la frontera
+3.1 Con tecnicas de hiperespacios y Teorema del Cable Cortado.
+3.2 Con quasi-componentes.
+
+7 4. Teoremas de separacion
+
+7 5. Separacion de continuos con cocientes (lema de transgre-
+sion)
+
+7 6. Continuos irreducibles y composantes
+6.1 Descomponibles.
+6.2 Indescomponibles.
+
+7 7. Conexidad local, Teorema de Hanhn-Mazurkiewitcz
+
+7 8. Caracterizacion de continuos mediante puntos de corte
+
+7 9. Funciones continuas entre continuos
+
+7 10. Retractos y contractibilidad
+
+1
+
+
+
+10 11. Temas especializados
+11.1 Punto fijo. Clasificacion de continuos con la propiedad de punto
+fijo.
+11.2 Continuos homogeneos. Clasificacion de los continuos ho-
+mogeneos planos.
+11.3 Continuos de margen cero y encadenables.
+11.4 Curvas (continuos de dimension 1). Continuos hereditariamente
+localmente conexos, lambda dendroides, dendroides, dendritas.
+11.5 Hiperespacios.
+11.6 Retracciones, selecciones y otras funciones entre X y su hiper-
+espacio de continuos C(X).
+
+BIBLIOGRAFIA BASICA:
+
+1. Escobedo, R., Puga, I., "Continuos". Capitulo IX de Fernandez, Didrichsen, Fraguela
+et al, Topologia General, Mexico: Aportaciones Matematicas, Serie Textos 22, 2003.
+
+2. Nadler, S. B. Jr., Continuum Theory, New York: Marcel Decker, inc., 1998.
+
+BIBLIOGRAFIA COMPLEMENTARIA:
+
+1. Dugundji, J., Topology, Boston: Allyn and Bacon, 1966.
+
+SUGERENCIAS DIDACTICAS: Lograr la participacion activa de los alumnos mediante
+exposiciones.
+
+SUGERENCIA PARA LA EVALUACION DE LA ASIGNATURA: Ademas de las califi-
+caciones en examenes y tareas se tomara en cuenta la participacion del alumno.
+
+PERFIL PROFESIOGRAFICO: Matematico, fisico, actuario o licenciado en ciencias de
+la computacion, especialista en el area de la asignatura a juicio del comite de asignacion
+de cursos.
+
+2
+
+

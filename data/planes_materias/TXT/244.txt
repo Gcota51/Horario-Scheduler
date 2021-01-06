@@ -1,0 +1,317 @@
+NOMA DE MEXICO 
+
+ 
+Facultad de Ciencias 
+
+          
+Plan de estudios de la Licenciatura en  
+
+Matematicas 
+ 
+
+Geometria Analitica I 
+
+ 
+
+Clave 
+0244 
+
+Semestre 
+1 
+
+Creditos 
+10 
+
+Area de 
+conocimiento 
+
+ 
+
+Campo 
+ 
+
+ 
+
+Etapa 
+ 
+
+ 
+
+Modalidad 
+Curso ( X ) Taller ( ) Lab ( ) Sem ( ) 
+ 
+ 
+
+Tipo T ( X )     P (  )    T/P  (  )  
+
+Caracter 
+Obligatorio ( X )            Optativo ( ) 
+ 
+Obligatorio E ( )        Optativo E ( )  
+
+Horas 
+
+ Semana Semestre  
+
+ Teoricas             5 Teoricas           80 
+
+ Practicas            0  Practicas           0 
+
+ Total                   5 Total                 80 
+
+ 
+
+Seriacion 
+ 
+
+Ninguna (   ) 
+
+Obligatoria (   ) 
+
+Asignatura antecedente 
+ 
+
+ 
+
+Asignatura subsecuente 
+ 
+
+ 
+
+Indicativa ( X  ) 
+
+Asignatura antecedente 
+ 
+
+Ninguna 
+
+Asignatura subsecuente 
+ 
+
+Calculo diferencial e Integral II 
+Geometria Analitica II 
+Taller de Modelacion I 
+ 
+
+ 
+
+Objetivo general: 
+ 
+
+ Familiarizar con los conceptos geometricos fundamentales como: simetria, espacio vectorial, 
+dimension y transformaciones, contextuandolos en el tratamiento coordenado de los objetivos 
+geometricos mas sencillos correspondientes a las ecuaciones y desigualdades de primer y 
+segundo grados en dos variables. 
+
+
+
+ 
+
+Objetivos especificos: 
+ 
+
+ Conocer los conceptos geometricos elementales, coordenadas cartesianas y lugares 
+geometricos. 
+
+ Comprender el concepto de trigonometria y su interpretacion geometrica. 
+
+ Recordar el concepto de vector y su interpretacion geometrica, y conocer las principales 
+operaciones que se pueden realizar entre vectores.  
+
+ Entender la manera de expresar algebraicamente la recta, el plano, semiplanos y semiespacios, 
+asi como las ideas geometricas asociadas.   
+
+ Comprender la idea de conica, e interpretar algebraicamente los lugares geometricos conocidos 
+como parabola, elipse e hiperbola. 
+
+ 
+
+ 
+ 
+
+Indice tematico 
+
+ Tema  
+
+Horas 
+ semestre  
+
+Teoricas Practicas 
+
+1 Introduccion 10 0 
+
+2 Trigonometria 15 0 
+
+3 Espacios vectoriales basicos 20 0 
+
+4 Rectas, planos, semiplanos y semiespacios 15 0 
+
+5 Conicas 20 0 
+
+Subtotal 80 0 
+
+Total 80 
+
+ 
+
+Contenido Tematico 
+
+ Tema y subtemas 
+
+1 Introduccion 
+
+ 
+
+1.1   Los conceptos geometricos elementales: distancia entre dos puntos, distancia de 
+un punto a una recta, distancia de un punto a un plano; simetria respecto a un 
+punto, respecto a una recta y respecto a un plano. 
+
+1.2 Introduccion de coordenadas cartesianas en el plano y en el espacio y el metodo 
+analitico. 
+
+1.3 Lugares geometricos del plano y el espacio definidos por ecuaciones y   
+desigualdades elementales. Graficas de funciones de primer y segundo grados 
+en una y dos variables. 
+
+ 
+
+2 Trigonometria 
+
+ 
+
+2.1 Razones trigonometricas; primeras relaciones. El Teorema de Pitagoras. 
+2.2 Resolucion de triangulos. Congruencia. Semejanza. 
+2.3 Rectas y puntos notables de un triangulo. 
+2.4 Angulo central y angulo inscrito. Potencia de un punto respecto a una 
+
+circunferencia. 
+2.5 Funciones trigonometricas. Identidades trigonometricas. 
+2.6 Coordenadas polares. Curvas en coordenadas polares. 
+2.7 Curvas parametricas. 
+2.8 Coordenadas esfericas y cilindricas. Superficies coordenadas. Superficies 
+
+parametricas. 
+
+
+
+3 Espacios vectoriales basicos 
+
+ 
+3.1 Definicion y ejemplos de un espacio vectorial real (R2, R3, las funciones reales 
+
+de variable real; fuerzas planas y espaciales). 
+3.2 Subespacios vectoriales; ejemplos.  
+3.3 Independencia lineal, conjunto generador, base, dimension. Dimension de una 
+
+curva y de una superficie. 
+3.4 Producto escalar, producto vectorial, triple producto escalar. Interpretacion 
+
+geometrica de cada uno y propiedades. 
+ 
+
+4 Rectas, planos, semiplanos y semiespacios 
+
+ 
+
+4.1 Ecuaciones cartesianas y parametricas de la recta en R2. Formula para la 
+distancia de un punto a una recta. Division de un segmento en una razon dada. 
+Semiplanos. 
+
+4.2 Rectas en R3; rectas que se cruzan, distancia de un punto a una recta. Distancia 
+entre dos rectas. 
+
+4.3 Ecuaciones cartesianas y parametricas de un plano en R3. Distancia de un punto 
+a un plano. Semiespacios. 
+
+4.4 Sistemas de ecuaciones lineales. Transversalidad. 
+4.5 Sistemas de desigualdades lineales. 
+ 
+
+5 Conicas 
+
+ 
+5.1 Definicion, trazado y nomenclatura. Simetrias y extension. 
+5.2 Ecuaciones canonicas; sistema coordenado "natural". 
+5.3 Conicas con ejes paralelos a los coordenados. Traslaciones. 
+5.4 Rotaciones en R2. Clasificacion de formas cuadraticas (discriminante). 
+5.5 Definicion general de conica (excentricidad). Secciones de un cono. 
+5.6 La tangente a una conica; propiedad focal. 
+5.7 Conicas parametrizadas. 
+5.8 Familias de conicas.  
+ 
+
+ 
+
+Estrategias didacticas Evaluacion del aprendizaje 
+
+Exposicion                                                   ( X ) Examenes parciales                ( X ) 
+
+Trabajo en equipo                                         (  ) Examen final                  ( X ) 
+
+Lecturas                                                         (  ) Trabajos y tareas                  ( X ) 
+
+Trabajo de investigacion                               (  ) Presentacion de tema                 (  ) 
+
+Practicas (taller o laboratorio)                       (  ) Participacion en clase                            ( X ) 
+
+Practicas de campo                                       (  ) Asistencia                                                 (  ) 
+
+Aprendizaje por proyectos                            (  ) Rubricas                                                   (  ) 
+
+Aprendizaje basado en problemas               (  ) Portafolios                                                (  ) 
+
+Casos de ensenanza                                    (  ) Listas de cotejo                                        (  ) 
+
+Otras (especificar) Otras (especificar)  
+
+  
+
+  
+
+ 
+ 
+
+Perfil profesiografico 
+
+Titulo o grado Matematico, fisico, actuario o licenciado en ciencias de la computacion. 
+
+Experiencia docente Con experiencia docente. 
+
+Otra caracteristica Especialista en el area de la asignatura a juicio del comite de asignacion 
+de cursos 
+
+
+
+ 
+ 
+ 
+
+Bibliografia basica: 
+ 
+
+ Bracho, J. Geometria Analitica. Notas. 
+
+ Efimov, N. Geometria Superior. Moscu: MIR., 1984 
+
+ Preston, G. C., Lovaglia, A. R., Modern Analytic Geometry. New York: Harper & Row, 1971. 
+
+ Ramirez Galarza, A., Geometria Analitica: Una Introduccion a la Geometria. Mexico: Las 
+Prensas de Ciencias, 2004. 
+
+ 
+
+Bibliografia complementaria: 
+ 
+
+ Eves, H., Estudio de las Geometrias. Mexico: UTEHA., 1969. 
+
+ Hilbert, D., Cohn Vossen, S., Geometry and the Imagination. Mexico: Vinculos Matematicos 
+No. 150, Facultad de Ciencias, UNAM., 2000. 
+
+ 
+
+ 
+ 
+ 
+
+

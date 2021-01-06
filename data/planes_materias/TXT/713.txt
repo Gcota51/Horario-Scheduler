@@ -1,0 +1,173 @@
+el plan y programa de estudios de la licenciatura en >Ciencias de la Computacion
+
+
+102 
+ 
+
+ 
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+Licenciatura en Ciencias de la Computacion 
+Facultad de Ciencias 
+
+Programa de la asignatura 
+ 
+
+Denominacion de la asignatura:  
+Sistemas Operativos 
+
+Clave:  
+0713 
+
+Semestre: 
+6 
+
+Eje tematico: 
+Organizacion de Sistemas de Computo 
+
+No. Creditos:   
+10 
+
+Caracter: Obligatoria Horas Horas por semana 
+Total de 
+Horas  
+
+Tipo: Teorico-Practica Teoria: Practica: 7 112 3 4 
+Modalidad: Curso Duracion del programa: Semestral 
+ 
+Asignatura con seriacion obligatoria antecedente: Modelado y Programacion; Probabilidad I 
+ 
+Asignatura con seriacion obligatoria subsecuente: Ninguna 
+ 
+Asignatura con seriacion indicativa antecedente: Analisis de  Algoritmos; Organizacion y 
+Arquitectura de Computadoras; Computacion Distribuida 
+ 
+Asignatura con seriacion indicativa subsecuente: Redes de Computadoras 
+Objetivos generales:  
+Conocer, comprender y aplicar los elementos que conforman un sistema  operativo a fin de 
+entender la forma en que se controlan los recursos  de los sistemas de computo.  Establecer 
+las bases para explotar los recursos de los sistemas de  computo a su maxima capacidad.  
+Conocer los aspectos de seguridad a considerar al disenar e implementar  un sistema 
+operativo.   
+ 
+
+Indice tematico 
+
+Unidad Temas  Horas Teoricas Practicas 
+I Introduccion 6 8 
+II Programacion 3 4 
+III Procesos 10.5 14 
+IV Manejo de memoria 7.5 10 
+V Seguridad 3 4 
+VI Sistemas de archivos 7.5 10 
+VII Entrada-salida 7.5 10 
+VIII Sistemas operativos modernos 3 4 
+
+Total de horas: 48 64 
+Suma total de horas: 112 
+
+
+
+103 
+ 
+
+Contenido tematico 
+Unidad Tema 
+I Introduccion 
+I.1 Funciones de un sistema operativo. Evolucion de los sistemas operativos. Factores 
+
+a considerar al disenar un sistema operativo. 
+I.2 Maquinas virtuales. 
+I.3 Control de recursos. 
+I.4 Elementos que conforman un sistema operativo; estructuras de los sistemas 
+
+operativos. 
+II Programacion 
+II.1 Uso de los servicios de un sistema operativos; API; creacion de procesos; estados 
+
+de los procesos. 
+III Procesos 
+III.1 Ejecucion de procesos; procesos concurrentes; comunicacion entre procesos; 
+
+problemas de manejo de procesos; despacho de procesos. 
+IV Manejo de memoria 
+IV.1 Utilizacion de la memoria; intercambio de bloques de memoria; memoria virtual; 
+
+paginacion y segmentacion. 
+V Seguridad 
+V.1 Politicas y mecanismos; sistemas seguros; mecanismos de proteccion. 
+VI Sistemas de archivos 
+VI.1 Datos y meta-datos; archivos y su organizacion; directorios; problemas de 
+
+implantacion; seguridad. 
+VII Entrada-salida 
+VII.1 Problemas de hardware; problemas de software; manejo de discos; manejo de 
+
+terminales; manejo del reloj. 
+VIII Sistemas operativos modernos 
+VIII.1 Sistemas operativos distribuidos: Caracteristicas generales; problemas de 
+
+comunicacion en sistemas distribuidos; sincronizacion. 
+VIII.2 Nuevas arquitecturas para los sistemas operativos 
+
+Bibliografia basica: 
+1. Tanenbaum, A. S., Modern Operating Systems, 3rd ed., Prentice Hall, 2007. 
+2. Silberschatz, A., Galvin, P. B., Gagne, G., Operating Systems Concepts, 8th ed., John Wiley 
+
+and sons, 2008.  
+3. Tanenbaum, A. S., Woodhull, A. S., Operating Systems: Design and Implementatio, 3rd ed., 
+
+Prentice Hall, 2006.  
+4. Bic, L., Shaw, A., Operating Systems Principles, Pearson Education, 2003. 
+5. Stallings, W., Operating Systems: Internals and Design Principles, 7th ed., Prentice Hall, 
+
+2011. 
+Bibliografia complementaria: 
+1. Bach, M., The Design of the UNIX Operating System, Prentice Hall, 1986.  
+2. Bovet, D. P., Cesati, M., Understanding the Linux Kernel, O'Reilly, 2000.  
+3. Silberschatz, A., Galvin, P. B., Gagne, G., Operating System Concepts with Java, 8th ed., 
+
+John Wiley and sons, 2009. 
+
+
+
+104 
+ 
+
+Sugerencias didacticas: 
+Exposicion oral (X) 
+Exposicion audiovisual (X) 
+Ejercicios dentro de clase (X) 
+Ejercicios fuera del aula (X) 
+Seminarios (X) 
+Lecturas obligatorias (X) 
+Trabajo de investigacion (X) 
+Practicas de taller o laboratorio (X) 
+Practicas de campo (X) 
+ 
+Otras: __________________________ 
+ 
+
+Metodos  de evaluacion:  
+Examenes parciales (X) 
+Examen final escrito (X) 
+Trabajos y tareas fuera del aula (X) 
+Practicas de laboratorio ( ) 
+Exposicion de seminarios por los alumnos (X) 
+Participacion en clase (X) 
+Asistencia ( ) 
+Proyectos de programacion (X) 
+Proyecto final (X) 
+Seminario ( ) 
+ 
+Otras: _____________________________ 
+  
+
+Perfil profesiografico:  
+Egresado preferentemente de la Licenciatura en Ciencias de la Computacion o Matematico con 
+especialidad en Computacion. Es conveniente que posea un posgrado en la disciplina. Con 
+experiencia docente. 
+ 
+  
+
+

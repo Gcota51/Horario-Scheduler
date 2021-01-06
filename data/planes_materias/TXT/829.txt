@@ -1,0 +1,124 @@
+_________________________________________________________________________
+CLAVE: 0829 MODALIDAD: Curso
+OCTAVO SEMESTRE CARACTER: Obligatorio
+CREDITOS: 12 REQUISITOS:   Termodinamica,   Mecanica   Cuantica,
+
+Electromagnetismo II
+_____________________________________________________________________________________
+HORAS POR CLASE TEORICAS: 2
+HORAS POR SEMANA TEORICAS: 6
+HORAS POR SEMESTRE TEORICAS: 96
+_____________________________________________________________________________________
+
+Objetivos
+Esta es una alternativa al punto de vista de la termodinamica, en que se presentan modelos microscopicos de
+sistemas de muchas particulas.  A partir  de  los postulados y   las  tecnicas estadisticas  se generan  tanto   la
+conexion conceptual con la termodinamica como las propiedades de los sistemas fisicos.
+
+Metodologia de la ensenanza
+El curso se basa en la exposicion del temario por el profesor frente al pizarron.
+Se debe establecer un programa de simulaciones numericas que permitan al estudiante dominar este campo.
+
+Evaluacion
+Mediante examenes, tareas y trabajos.
+
+Temario
+1. INTRODUCCION 2 hrs
+
+1.1 El enfoque microscopico.
+1.2 Relacion entre los enfoques micro y macroscopico.
+
+2. PROBABILIDAD EN FISICA ESTADISTICA 10 hrs
+2.1  Camino aleatorio  y  distribucion binomial:   conceptos  estadisticos elementales  y  ejemplos;  el
+
+problema del camino aleatorio en una sola dimension; estudio general de los valores medios;
+calculo   de   los   valores   medios   en   el   problema   del   camino   aleatorio,   distribucion   de   la
+probabilidad  para valores de N grandes; distribucion de probabilidad de Gauss.
+
+2.2  Estudio general   del   problema  del   camino  aleatorio:   distribucion  de  probabilidad   con  varias
+variables; distribuciones continuas de probabilidad; calculo general de los valores medios para el
+camino aleatorio; calculo de la distribucion de probabilidad; distribucion de probabilidad para N
+grandes.
+
+2.3 Aplicaciones: difusion y distribucion de velocidades de Maxwell (como aplicacion del caminante
+al azar en el espacio de velocidades).
+
+3. MECANICA ESTADISTICA A LA GIBBS 18 hrs
+3.1 Sistemas aislados: espacio fase; conjunto microcanonico de Gibbs; postulado de probabilidades a
+
+priori   iguales;  volumen fase accesible al  sistema;  funcion  de particion microcanonica; el  gas
+ideal; interpretacion estadistica de la entropia.
+
+3.2 Sistemas en contacto termico: conjunto canonico; funcion de particion canonica; valor medio y
+dispersion  de   la  energia;  aplicacion al  gas   ideal;  paradoja  de Gibbs;  compatibilidad entre   la
+termodinamica y la mecanica estadistica, interpretacion estadistica del trabajo, la energia interna
+y el calor; propiedades termodinamicas; potenciales termodinamicos; distribucion de Maxwell
+Boltzmann, teorema de la equiparticion de la energia.
+
+3.3 Sistemas con numero variable de particulas: conjunto gran canonico, trabajo y potencial quimico.
+3.4 Otras derivaciones de las funciones de distribucion sujetas a constricciones (por multiplicadores
+
+de Lagrange).
+
+
+
+4. MECANICA ESTADISTICA CUANTICA 12 hrs
+4.1 Determinacion de estados cuanticos; sistemas de muchas particulas; particulas indistinguibles de
+
+FermiDirac y BoseEinstein.
+4.2 Conjunto gran canonico; limite clasico no degenerado; casos degenerados de Fermi y Bose.
+4.3 Fermiones: numero de poblacion; nivel de Fermi; capacidades termicas; aplicaciones.
+4.4   Bosones:   condensacion   de   Bose;   temperatura   critica   en   el   gas   de   Bose   ideal;   capacidades
+
+termicas.
+
+5. UNA APLICACION BASICA: LA RADIACION DEL CUERPO NEGRO 3 hrs
+5.1 Termodinamica de la radiacion del cuerpo negro.
+5.2 Estadistica de la radiacion del cuerpo negro.
+
+6.   SISTEMAS   DE   PARTICULAS   INTERACTUANTES,   TRANSICIONES   DE   FASE   Y   PUNTOS
+CRITICOS 18 hrs
+
+6.1 Solidos: vibraciones de la red y modos normales; aproximacion de Debye.
+6.2   Gases   clasicos   no   ideales:   funcion   de   particion   configuracional;   aproximacion   a   bajas
+
+densidades; ecuacion de estado y coeficientes del virial; deducciones de la ecuacion de van der
+Waals.
+
+6.3 Ferromagnetismo; interaccion entre espines; introduccion al modelo de Ising.
+6.4 Sistemas dielectricos.
+6.4  Magnetismo  y   bajas   temperaturas:   trabajo  magnetico;   refrigeracion  magnetica;  medicion  de
+
+temperaturas muy bajas; superconductividad.
+
+7. FLUCTUACIONES 12 hrs
+7.1 Fluctuaciones: tendencia al  equilibrio; solucion de problemas con ruido;  teorema de Nyquist;
+
+solucion con funciones de correlacion.
+7.2 Movimiento browniano: funciones de correlacion y autocorrelacion; difusion y la ecuacion de
+
+FokkerPlanck
+7.3 Procesos irreversibles: relaciones reciprocas de Onsager.
+
+8. FUNDAMENTOS DE TEORIA CINETICA 12 hrs
+8.1 Ecuacion de Boltzmann.
+8.2 Teoria del transporte, ecuaciones de la hidrodinamica.
+
+9. ALGUNAS APLICACIONES MODERNAS DE LA FISICA ESTADISTICA 12 hrs
+Ecuaciones de estado. Dispersion de luz. Fenomenos criticos. Modelo de Ising, etc.
+
+Bibliografia basica
+Reif, F., 1968, Fundamentos de fisica estadistica y termica, Editorial del Castillo, Madrid, Espana.
+Kittel, C., Kroemer, H., 1980, Thermal physics, second edition, W.H. Freeman & Co., San Francisco, USA.
+Garcia   Colin,   L.,   1995,  Termodinamica   estadistica,   Universidad   Autonoma   MetropolitanaIxtapalapa,
+
+Mexico, D.F.
+
+Bibliografia complementaria
+Andrews, F.C., 1975,  Equilibrium statistical mechanics, second edition, John Wiley & Sons, New York,
+
+USA.
+Mandl, F., 1979, Fisica estadistica, Editorial LIMUSA, Mexico.
+Kubo, R., 1974, Statistical mechanics, fourth edition, NorthHolland Publishing Co., New York.
+
+

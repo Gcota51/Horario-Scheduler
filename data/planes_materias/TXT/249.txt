@@ -1,0 +1,106 @@
+FACULTAD DE CIENCIAS
+
+CARRERA DE MATEMATICO
+
+GEOMETRIA MODERNA I
+
+SEMESTRE: PRIMERO
+CLAVE: 0249
+
+HORAS A LA SEMANA/SEMESTRE
+
+TEORICAS PRACTICAS CREDITOS
+5/80 0 10
+
+CARACTER: OBLIGATORIA.
+MODALIDAD: CURSO.
+SERIACION INDICATIVA ANTECEDENTE: Ninguna.
+SERIACION INDICATIVA SUBSECUENTE: Geometria Moderna II, Geometria Pro-
+yectiva.
+
+OBJETIVO(S): Que el alumno conozca los conceptos y resultados basicos de la Geometria
+Euclidiana, y aprenda a resolver, utilizando el metodo deductivo y resultados ya demos-
+trados, problemas que le ayuden a desarrollar su creatividad
+
+NUM. HORAS UNIDADES TEMATICAS
+
+25 1. Geometria del triangulo
+1.1 Congruencia. Semejanza. Teorema de Tales. Teorema de Pitago-
+ras. Teorema de Stewart.
+1.2 Circuncentro, incentro, excentros, ortocentro, baricentro.
+1.3 Recta de Euler.
+1.4 Triangulos pedales.
+
+15 2. Circunferencia y cuadrilateros ciclicos
+2.1 Cuadrilateros ciclicos.
+2.2 Potencia. Circulos coaxiales(*).
+
+2.3 Angulos en la circunferencia.
+2.4 Antiparalelas.
+2.5 Teorema de Ptolomeo. Linea de Simson.
+2.6 Circunferencia de los nueve puntos.
+
+1
+
+
+
+30 3. Introduccion a la geometria moderna
+3.1 Breve discusion sobre los postulados euclidianos explicitos e
+implicitos.
+3.2 Segmentos y angulos dirigidos(*).
+3.3 Puntos al infinito. Division de un segmento en una razon dada.
+3.4 Teorema de Euler.
+3.5 Puntos armonicos.
+3.6 Dualidad(*).
+3.7 Cuadrilatero y cuadrangulo completos.
+3.8 Homotecia: poligonos homoteticos; puntos homologos y antiho-
+mologos; circulo de similitud.
+
+10 4. Principales teoremas
+4.1 Teorema de Ceva. Teorema de Menelao.
+4.2 Teorema de Desargues.
+4.3 Teorema de Pascal(*).
+4.4 Teorema de Pappus(*).
+4.5 Teorema de Brianchon(*).
+
+BIBLIOGRAFIA BASICA:
+
+1. Efimov, N., Geometria Superior, Moscu: MIR, 1984.
+
+2. Euclides, Euclid's Elements, New York: Dover, 1979.
+
+3. Eves, H., Estudio de las Geometrias, Mexico: UTEHA, 1969.
+
+4. Hilbert, D., Cohn Vossen, S., Geometry and the Imagination, Mexico: Vinculos Ma-
+tematicos No. 150, Facultad de Ciencias, UNAM, 2000.
+
+5. Shively, L., Introduccion a la Geometria Moderna, Mexico: Ed. Continental, 1961.
+
+6. Wentworth, J., Smith, D. E., Geometria Plana y del Espacio, Mexico: Ed. Porrua,
+1976.
+
+BIBLIOGRAFIA COMPLEMENTARIA:
+
+1. Cabri, software. **.
+
+2. Courant, R., Robbins, H., ?Que es la Matematica?, Madrid: Ed. Aguilar, 1967.
+
+3. Coxeter, S. M., Greitzer, S. L., Geometry Revisited, New York: Random House, 1967.
+
+2
+
+
+
+SUGERENCIAS DIDACTICAS: Lograr la participacion activa de los alumnos mediante
+exposiciones.
+
+SUGERENCIA PARA LA EVALUACION DE LA ASIGNATURA: Ademas de las califi-
+caciones en examenes y tareas se tomara en cuenta la participacion del alumno.
+
+PERFIL PROFESIOGRAFICO: Matematico, fisico, actuario o licenciado en ciencias de
+la computacion, especialista en el area de la asignatura a juicio del comite de asignacion
+de cursos.
+
+3
+
+

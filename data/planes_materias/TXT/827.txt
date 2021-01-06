@@ -1,0 +1,118 @@
+_____________________________________________________________________________________
+CLAVE: 0827 MODALIDAD: Curso
+OCTAVO SEMESTRE CARACTER: Obligatorio
+CREDITOS: 12 REQUISITOS:   Mecanica   Analitica,   Matematicas
+
+Avanzadas de la Fisica, Fisica Computacional
+_____________________________________________________________________________________
+HORAS POR CLASE TEORICAS: 2
+HORAS POR SEMANA TEORICAS: 6
+HORAS POR SEMESTRE TEORICAS: 96
+_____________________________________________________________________________________
+
+Objetivos
+Ofrecer las bases de la teoria de campos clasicos para medios materiales elasticos y fluidos. Tras de hacer una
+breve introduccion sobre las matematicas necesarias de analisis tensorial y establecer la notacion, se formula
+la teoria de la elasticidad lineal, partiendo de los principios de conservacion e introduciendo las ecuaciones
+constitutivas que llevan a las ecuaciones de Lame. Se presentan las aplicaciones mas relevantes de extension,
+flexion y torsion y se discute la propagacion de ondas en medios isotropos y homogeneos. Sobre la misma
+base,   con   las   variables   adecuadas   se   formulan   las   ecuaciones   de   NavierStokes.   Se   estudian   los   casos
+especiales   de   fluidos   ideales   y   algunos   flujos   laminares   viscosos   en   forma   exacta   y   otros   en   forma
+aproximada.   Se   introduce   la   teoria   de   la   capa   limite   y   se   revisan   algunos   aspectos   y   resultados   de   la
+turbulencia.
+Dentro  de una  perspectiva  moderna,  el  curso incluira   los elementos necesarios para  iniciar  el  estudio de
+sistemas no lineales y la teoria de perturbaciones, incorporando el uso extenso de metodos numericos que,
+preferentemente, podran apoyarse en el uso de computadoras.
+En el capitulo 6, se sugiere escoger dos temas y dedicar una semana a cada uno.
+
+Metodologia de la ensenanza
+El temario se desarrollara por el profesor en el salon de clase, teoricamente.
+Se debe establecer un programa de simulaciones numericas que permitan al estudiante dominar este campo.
+
+Evaluacion
+Mediante examenes, tareas y trabajos.
+
+Temario
+1. INTRODUCCION 12 hrs
+
+1.1 Analisis tensorial.
+1.2 Descripcion general de un medio continuo.
+1.3 Fuerzas y esfuerzos.
+1.4 Teoremas generales.
+
+2. FUNDAMENTOS DE LA TEORIA DE LA ELASTICIDAD 12 hrs
+2.1 Principios de conservacion.
+2.2 Deformacion.
+2.3 Ecuaciones constitutivas.
+2.4 Termoelasticidad.
+
+3. APLICACIONES 18 hrs
+3.1 Barras y placas
+
+3.1.1 Extension.
+3.1.2 Flexion.
+3.1.3 Torsion.
+
+3.2 Propagacion de ondas.
+
+
+
+
+
+4. FUNDAMENTOS DE LA MECANICA DE FLUIDOS 18 hrs
+4.1 Principios de conservacion.
+4.2 Ecuaciones constitutivas.
+4.3 Fluidos ideales.
+
+5. FLUIDOS VISCOSOS 18 hrs
+5.1 Soluciones exactas.
+5.2 Principio de semejanza.
+5.3 Aproximaciones.
+
+5.3.1 Numero de Reynolds pequenos.
+5.3.2 Perturbaciones singulares.
+
+5.4 Capa limite.
+5.4.1 Ecuaciones.
+5.4 2 Solucion de Blasius.
+
+5.5 Turbulencia.
+5.5.1 Aspectos generales.
+5.5.2 Esfuerzos de Reynolds y cerraduras.
+
+6. TEMAS SELECTOS 18 hrs
+6.1 Estabilidad.
+6.2 Magnetohidrodinamica.
+6.3 Medios viscoelasticos.
+6.4 Deformaciones finitas.
+6.5 Fisica de la atmosfera.
+
+6.5.1 Modelo de Lorentz.
+6.5.2 Modelo de Adem.
+
+Bibliografia basica
+Currie, I.G., 1993, Fundamental mechanics of fluids, McGrawHill, N.Y., USA.
+Faber, T.E., 1995, Fluid dynamics for physicists, Cambridge University Press, UK.
+Filonenko Borodich, M., 1965, Theory of elasticity, Dover, N.Y., USA.
+Nadeau, G., 1964, Introduction to elasticity, Holt, Rinehart & Winston, N.Y., USA.
+
+Bibliografia complementaria
+Batchelor, G.K., 1967, An introduction to fluid dynamics, Cambridge University Press, UK.
+Bird,  R.B.,  Armstrong,  R.C.,  Hassager, O.,  1987,  Dynamics of  polymeric  liquids,   John  Wiley & Sons,
+
+N.Y., USA.
+Drazin, P.G., Reid, W.H., Hydrodynamic stability, Cambridge University Press, UK.
+Hinze, J.O., 1975, Turbulence, 2nd edition, McGrawHill, N.Y., USA.
+Goldstone, Rutherford, 1995, Introduction to plasma physics,
+Landau,  L.D.,  Lifshitz,  E.M.,  1986,  Fluid mechanics,  Pergamon Press; 1965,  Mecanica de fluidos,  Ed.
+
+Reverte, Barcelona, Espana.
+Landau, L.D., Lifshitz, E.M., 1986, Teoria de la elasticidad, Editorial Reverte, Barcelona, Espana.
+Paterson, A.R., 1983, A first course in fluid dynamics, Cambridge University Press, N.Y., USA.
+Sokolnikoff, I.S., 1956, The mathematical theory of elasticity, 2nd edition, McGrawHill, N.Y., USA.
+Sommerfeld, A., 1952, Mechanics of deformable bodies, Lectures on theoretical physics, Vol. II, Academic
+
+Press, N.Y., USA.
+Timoshenko, S.P., Goodier, J.N., 1970, Theory of elasticity, 3rd edition, McGrawHill, N.Y., USA.
+
+

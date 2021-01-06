@@ -1,0 +1,318 @@
+A DE MEXICO 
+
+ 
+         Facultad de Ciencias 
+
+          
+Plan de estudios de la Licenciatura en  
+
+Matematicas  
+ 
+
+Algebra Superior I 
+
+ 
+
+Clave 
+0007 
+
+Semestre 
+1 
+
+Creditos 
+10 
+
+Area de 
+conocimiento 
+
+ 
+
+Campo  
+ 
+
+ 
+
+Etapa 
+ 
+
+ 
+
+Modalidad 
+Curso ( X ) Taller ( ) Lab ( ) Sem ( ) 
+ 
+ 
+
+Tipo T ( X )     P (  )    T/P  (  )  
+
+Caracter 
+Obligatorio ( X )            Optativo ( ) 
+ 
+Obligatorio E ( )        Optativo E ( )  
+
+Horas 
+
+ Semana Semestre  
+
+ Teoricas             5 Teoricas            80 
+
+ Practicas            0   Practicas             0          
+
+ Total                    5   Total                   80 
+
+ 
+
+Seriacion 
+ 
+
+Ninguna (   ) 
+
+Obligatoria (   ) 
+
+Asignatura antecedente 
+ 
+
+ 
+
+Asignatura subsecuente 
+ 
+
+ 
+
+Indicativa ( X ) 
+
+Asignatura antecedente 
+ 
+
+Ninguna 
+
+Asignatura subsecuente 
+ 
+
+Algebra Superior II 
+Calculo Diferencial e Integral III 
+Taller de Modelacion I 
+
+ 
+
+Objetivo general: 
+ 
+
+ Conocer y manejar los conceptos fundamentales del algebra, como son: conjuntos, funciones, 
+y los numeros naturales. Resolver sistemas de ecuaciones lineales. 
+
+ 
+
+Objetivos especificos: 
+ 
+
+ Conocer los fundamentos de la Teoria de Conjuntos y sus aplicaciones en numerosos campos 
+de las matematicas. 
+
+
+
+ Comprender los conceptos de funcion y relacion asi como sus principales propiedades. 
+
+ Conocer las propiedades de los numeros naturales y sus aplicaciones, asi como los principios 
+del calculo combinatorio. 
+
+ Comprender los conceptos fundamentales del Algebra Lineal y sus aplicaciones. 
+
+ Conocer y aplicar los conceptos elementales del algebra de matrices. 
+
+ Comprender las ideas relacionadas con la solucion de sistemas de ecuaciones lineales. 
+ 
+
+ 
+ 
+
+Indice tematico 
+
+ Tema  
+
+Horas 
+ semestre  
+
+Teoricas Practicas 
+
+1 Conjuntos 12 0 
+
+2 Relaciones y funciones 19 0 
+
+3 Numeros naturales y calculo combinatoria 12 0 
+
+4 Espacios vectoriales 12 0 
+
+5 Matrices y determinantes 13 0 
+
+6 Sistemas de ecuaciones lineales 12 0 
+
+Subtotal 80 0 
+
+Total 80 
+
+ 
+
+Contenido Tematico 
+
+ Tema y subtemas 
+
+1 Conjuntos 
+
+ 
+
+1.1 Nocion intuitiva e igualdad de conjuntos. Subconjuntos. Conjunto vacio, 
+Conjunto Universal. 
+
+1.2 Operaciones con conjuntos: union, interseccion, complemento y diferencia. 
+1.3 Conjunto potencia. Producto cartesiano. Familias de conjuntos. 
+ 
+
+2 Relaciones y funciones 
+
+ 
+
+2.1 Relaciones (dominio, codominio e imagen). 
+2.2 Funciones (imagenes e imagines inversas). 
+2.3 Composicion de funciones. Funcion inversa. 
+2.4 Funciones inyectias, suprayectivas y biyectivas. 
+2.5 Cardinalidad. Conjuntos finitos e infinitos. Funciones entre conjuntos finitos. 
+2.6 Relaciones de equivalencia y particiones. 
+ 
+
+3 Numeros naturales y calculo combinatoria 
+
+ 
+
+3.1 Los numeros naturales. Principio de induccion.  
+3.2 Calculo combinatorio: ordenaciones con repeticion, ordenaciones, 
+
+permutaciones y combinaciones. 
+3.3 Teorema del binomio. Relaciones entre coeficientes binomiales. 
+ 
+
+4 Espacios vectoriales 
+
+ 
+
+4.1 Los espacios R2 y R3. Interpretacion geometrica. 
+4.2 El espacio vectorial Rn. 
+
+
+
+4.3 Subespacios. Combinaciones lineales. Subespacio generado por un conjunto de 
+vectores. 
+
+4.4 Dependencia e independencia lineal. 
+4.5 Bases. Dimension. 
+ 
+
+5 Matrices y determinantes 
+
+ 
+
+5.1 Matrices, definicion y operaciones. Transpuesta de una matriz. 
+5.2 Operaciones elementales: Matrices escalon reducidas. Rango de una matriz.  
+5.3 El determinante de una matriz cuadrada: definicion y propiedades.  
+5.4 Calculo de determinantes. 
+5.5 Caracterizacion del rango de una matriz por medio del determinante. 
+ 
+
+6 Sistemas de ecuaciones lineales 
+
+ 
+
+6.1 Sistemas, soluciones, matriz y matriz aumentada. 
+6.2 Criterios de existencia de soluciones. 
+6.3 Regla de Cramer. 
+6.4 Espacio de soluciones de un sistema no homogeneo. 
+6.5 Resolucion de sistemas (eliminacion). 
+ 
+
+ 
+ 
+
+Estrategias didacticas Evaluacion del aprendizaje 
+
+Exposicion                                                   ( X ) Examenes parciales                ( X ) 
+
+Trabajo en equipo                                         (  ) Examen final                  ( X ) 
+
+Lecturas                                                         (  ) Trabajos y tareas                  ( X ) 
+
+Trabajo de investigacion                               (  ) Presentacion de tema                 (  ) 
+
+Practicas (taller o laboratorio)                       (  ) Participacion en clase                            ( X ) 
+
+Practicas de campo                                       (  ) Asistencia                                                 (  ) 
+
+Aprendizaje por proyectos                            (  ) Rubricas                                                   (  ) 
+
+Aprendizaje basado en problemas               (  ) Portafolios                                                (  ) 
+
+Casos de ensenanza                                    (  ) Listas de cotejo                                        (  ) 
+
+Otras (especificar) Otras (especificar)  
+
+  
+
+  
+
+ 
+ 
+
+Perfil profesiografico 
+
+Titulo o grado Matematico, fisico, actuario o licenciado en ciencias de la computacion. 
+
+Experiencia docente Con experiencia docente 
+
+Otra caracteristica Especialista en el area de la asignatura a juicio del comite de asignacion 
+de cursos 
+
+ 
+ 
+
+Bibliografia basica: 
+ 
+
+ Cardenas, H., Lluis, E., Raggi, F., Tomas, F., Algebra Superior. Mexico: Ed. Trillas, 1974. 
+
+ Nachbin, L., Algebra Elemental. Washington, USA: Secretaria General de la OEA, Programa 
+Regional de Desarrollo Cientifico y Tecnologico.,1986 
+
+ 
+ 
+
+
+
+Bibliografia complementaria: 
+ 
+
+ Dodge, C. W., Logic and Numbers. Boston: Weber & Schmidt, 1969. 
+
+ Friedberg, S. H., Insel, A. J., Spence, L. E., Algebra Lineal. Mexico: Publicaciones Cultural, 
+1986. 
+
+ Gentile, E. R., Aritmetica Elemental. Washington: OEA, 1985. 
+
+ Grimaldi, R. P., Matematicas Discreta y Combinatoria. Mexico: Sistemas Tecnicos de 
+Edicion, 1998. 
+
+ Grossman, S. I., Algebra Lineal. Mexico: McGraw-Hill, 1996. 
+
+ Halmos, P. R., Teoria Intuitiva de los Conjuntos. Mexico: Ed. Continental, 1973. 
+
+  Hoffman, K., Kunze, R.,  Algebra Lineal. Bogota: Prentice Hall Internacional, 1973. 
+
+ Lang, S., Algebra Lineal. Mexico: Sistemas Tecnicos de Edicion, 1986. 
+
+  Niven, I. M., Zuckerman, H. S., Introduccion a la Teoria de los Numeros. Mexico: Limusa-
+Wiley, 1969. 
+
+ 
+
+ 
+ 
+ 
+
+

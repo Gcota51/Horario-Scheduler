@@ -1,0 +1,201 @@
+el plan y programa de estudios de la licenciatura en >Ciencias de la Computacion
+
+
+119 
+ 
+
+ 
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+Licenciatura en Ciencias de la Computacion 
+Facultad de Ciencias 
+
+Programa de la asignatura 
+ 
+
+Denominacion de la asignatura: 
+ Redes de Computadoras 
+
+Clave:  
+0714 
+
+Semestre: 
+7 
+
+Eje tematico: 
+Organizacion de Sistemas de Computo 
+
+No. Creditos:   
+10 
+
+Caracter: Obligatoria Horas Horas por semana 
+Total de 
+Horas  
+
+Tipo: Teorico-Practica Teoria: Practica: 
+7 112 3 4 
+
+Modalidad: Curso Duracion del programa: Semestral 
+ 
+
+ 
+Asignatura con seriacion obligatoria antecedente: Probabilidad I; Organizacion y 
+Arquitectura de Computadoras  
+ 
+Asignatura con seriacion obligatoria subsecuente: Ninguna 
+ 
+Asignatura con seriacion indicativa antecedente: Sistemas Operativos 
+ 
+Asignatura con seriacion indicativa subsecuente: Computacion Concurrente; Criptografia y 
+Seguridad 
+Objetivos generales: 
+Comprender los conceptos mas importantes de las redes de   computadoras.   Conocer los 
+modelos de referencia que se emplean para la   especificacion de redes de computadoras.   
+Conocer las caracteristicas de las redes mas distinguidas. Conocer las posibilidades para el 
+desarrollo de  aplicaciones basadas en el uso de redes de computadoras.  
+ 
+
+Indice tematico 
+
+Unidad Temas  Horas Teoricas Practicas 
+I Conceptos generales 6 8 
+II Nivel de enlace de datos 6 8 
+III Redes locales 12 16 
+IV Interconexion de redes de computadoras 6 8 
+V Transporte 9 12 
+VI Aplicaciones 6 8 
+VII Temas opcionales 3 4 
+
+Total de horas: 48 64 
+Suma total de horas: 112 
+
+
+
+120 
+ 
+
+ 
+Contenido tematico 
+Unidad Tema 
+I Conceptos generales 
+I.1 Redes de computadoras. Uso de las redes de computadoras. Internet. 
+
+Conectividad, la influencia de los medios de comunicacion Clasificacion de las 
+redes de computadoras: por estructura, por espacio geografico. 
+
+I.2 Clasificacion de las redes de computadoras: por estructura, por espacio geografico. 
+I.3 Arquitectura de redes. Definicion, ejemplos de arquitecturas (cerradas). 
+I.4 Software para redes de computadoras. Protocolos. Especificacion y verificacion. 
+
+Interfaces y servicios. 
+I.5 Modelos de referencia: Modelo OSI de ISO. Estandar 802 de IEEE. Arquitectura de 
+
+Internet. Protocolos TCP/IP. 
+II Nivel de enlace de datos 
+II.1 Creacion de paquetes. Deteccion de errores. Control de flujo. Ejemplos de 
+
+protocolos a nivel de enlace. 
+III Redes locales 
+III.1 Caracteristicas generales. 
+III.2 Protocolos de acceso a un medio de comunicacion compartido. 
+III.3 Ethernet. Propiedades fisicas; protocolo de acceso al medio; servicios de acceso a 
+
+Ethernet. 
+III.4 Token Ring. 
+III.5 Redes inalambricas. 
+III.6 Redes de alta velocidad. 
+IV Interconexion de redes de computadoras 
+IV.1 Retransmision de informacion. Circuitos virtuales y datagramas; algoritmos de 
+
+ruteo; problemas de congestion. 
+IV.2 Interconexion de redes locales.  Repetidores, puentes, ruteadores, pasarelas. 
+IV.3 Internet.  Caracteristicas generales; manejo de direcciones (fisicas y logicas); IPv4; 
+
+redes virtuales y tuneles; subredes; caracteristicas generales. 
+V Transporte 
+V.1 Caracteristicas generales. 
+V.2 Protocolo TCP. 
+V.3 Protocolo UDP. 
+VI Aplicaciones 
+VI.1 Problemas de representacion de la informacion (XDR, ASN.1). 
+VI.2 Transferencias seguras. Cifrado (DES, RSA, MD5); mecanismos de seguridad 
+
+(PGP, SSL, HTTPS). 
+VI.3 Protocolos para aplicaciones especificas (DNS, SMTP, HTTP, SNMP). 
+VI.4 Protocolos para aplicaciones generales (FTAM, ROSE, RPC, RSVP). 
+VII Temas opcionales 
+VII.1 Sistemas operativos para redes de computadoras. 
+VII.2 Sistemas distribuidos.  Caracteristicas generales; problemas de comunicacion en 
+
+sistemas distribuidos. 
+
+
+
+121 
+ 
+
+Bibliografia basica: 
+1. James F. Kurose and Keith W. Ross, Computer Networking: A Top-Down Approach, 
+
+Addison-Wesley, 5th edition, 2010.  
+2. Andrew S. Tanenbaum, David J. Wetherall, Computer Networks,  Prentice Hall, 5th edition, 
+
+2010.   
+3. Larry L. Peterson and Bruce S. Davie. Computer Networks: A Systems Approach, Morgan 
+
+Kaufmann Publishers, 5th edition, 2011.  
+4. William Stallings. Data and Computer Communications, Prentice Hall, 9th edition, 2010.  
+5. Uyless D. Black. Computer Networks: Protocols, Standards, and Interfaces, Prentice Hall, 
+
+2nd edition, 1993.   
+6. Fred Halsall. Data Communications, Computer Networks and Open Systems, Addison-
+
+Wesley, 5th edition, 2005.  
+7. Douglas E. Comer. Computer Networks and Internets, Prentice-Hall, 5th edition, 2009. 
+Bibliografia complementaria: 
+1. Uyless D. Black. IP Routing Protocols: RIP, OSPF, BGP, PNNI and Cisco Routing 
+
+Protocols, Prentice-Hall, 2000.   
+2. Gerard J. Holzmann. Design and Validation of Computer Protocols, Prentice-Hall, 1991. 
+3 Uyless D. Black. Computer Networks: Protocols, Standards, and Interfaces, Prentice Hall, 
+
+2nd edition, 1993.   
+ 
+
+Sugerencias didacticas: 
+Exposicion oral (X) 
+Exposicion audiovisual (X) 
+Ejercicios dentro de clase (X) 
+Ejercicios fuera del aula (X) 
+Seminarios (X) 
+Lecturas obligatorias (X) 
+Trabajo de investigacion (X) 
+Practicas de taller o laboratorio (X) 
+Practicas de campo (X) 
+ 
+Otras: __________________________ 
+ 
+
+Metodos  de evaluacion:  
+Examenes parciales (X) 
+Examen final escrito (X) 
+Trabajos y tareas fuera del aula (X) 
+Practicas de laboratorio ( ) 
+Exposicion de seminarios por los alumnos (X) 
+Participacion en clase (X) 
+Asistencia ( ) 
+Proyectos de programacion ( ) 
+Proyecto final ( ) 
+Seminario ( ) 
+ 
+Otras: _____________________________ 
+  
+
+Perfil profesiografico:  
+Egresado preferentemente de la Licenciatura en Ciencias de la Computacion o Matematico con 
+especialidad en Computacion. Es conveniente que posea un posgrado en la disciplina. Con 
+experiencia docente. 
+ 
+  
+
+

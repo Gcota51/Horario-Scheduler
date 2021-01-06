@@ -1,0 +1,171 @@
+FACULTAD DE CIENCIAS
+
+CARRERA DE MATEMATICO
+
+HISTORIA DE LAS MATEMATICAS II
+
+SEMESTRE: Quinto o sexto
+CLAVE: 0287
+
+HORAS A LA SEMANA/SEMESTRE
+
+TEORICAS PRACTICAS CREDITOS
+5/80 0 10
+
+CARACTER: OPTATIVO.
+MODALIDAD: CURSO.
+SERIACION INDICATIVA ANTECEDENTE: Algebra Moderna I, Analisis Matemati-
+co I, Historia de las Matematicas I, Variable Compleja I.
+SERIACION INDICATIVA SUBSECUENTE: Ninguna.
+
+OBJETIVO(S): Presentar el desarrollo de las ideas matematicas mas relevantes en el pe-
+riodo que cubre del siglo XVII hasta la epoca contemporanea.
+
+NUM. HORAS UNIDADES TEMATICAS
+
+25 1. El calculo: de los indivisibles a Newton y Leibniz
+1.1 El metodo de los indivisibles: Kepler, Cavallieri, Torricelli, Pascal,
+Barrow y Newton.
+1.2 Tangentes, areas, volumenes, series de potencias: Fermat, Wallis,
+Newton, L'Hospital.
+1.3 El calculo diferencial e integral de Newton y Leibniz.
+
+25 2. Analisis y algebra en los siglos XVIII y XIX
+2.1 La teoria analitica de los numeros: Euler y Gauss.
+2.2 La fundamentacion del analisis: Euler, Cauchy, d'Alembert, los
+Bernoulli.
+2.3 Galois y el desarrollo de la teoria de grupos.
+2.4 Numeros imaginarios y complejos.
+
+10 3. Geometrias no euclidianas
+3.1 Gauss, Bolya y Lovachevsky.
+
+10 4. Teoria de conjuntos y fundamentos de las matematicas.
+4.1 Conjuntos y aritmetica: Frege, Cantor y Dedekind.
+4.2 Intuicionismo vs. Logicismo. La crisis de los fundamentos: Klein,
+Hilbert, Russell y Godel.
+
+1
+
+
+
+10 5. Temas selectos de la historia de las matematicas, tales
+como Los inicios de la Topologia, El ultimo teorema de
+Fermat
+
+BIBLIOGRAFIA BASICA:
+
+1. Bashmakova, I., Smirnova, G., The Beginnings and Evolution of Algebra, Washing-
+ton, D. C.: MAA., 2000.
+
+2. Birkhoff, G. (Ed.), A Source Book in Classical Analysis, Cambridge, Mass.: Harvard
+University Press,1973
+
+3. Bos, H.J., Lectures in the History of Mathematics . (History of Mathematics Series).
+Providence, RI: American Mathematical Society, 1993.
+
+4. Bourbaki, N., Elementos de Historia de las Matematicas, Madrid: Alianza Editorial,
+1969.
+
+5. Boyer, C.B., The History of Calculus and its Conceptual Development, NY: Dover,
+1959.
+
+6. Boyer, C.B., History of Analytic Geometry, Princeton: The Scholar's Bookshelf, 1988.
+
+7. Cauchy, A., Curso de Analisis, Trad. de Carlos Alvarez. Col. Mathema. Mexico D.F.:
+Facultad de Ciencias, UNAM, 1994.
+
+8. Collette, J.P., Historia de las Matematicas, Vol. II. Mexico: Siglo XXI Editores, 1986.
+
+9. Dauben, J.W., Mathematical Perspectives: Essays on Mathematics and Its Historical
+Development, USA: Academic Press, 1981.
+
+10. Dunham, W., Euler: El Maestro de Todos los Matematicos, Madrid: Nivola, 2000.
+
+11. Duran, J.A., Historia, con Personajes, de los Conceptos del Calculo, Madrid: Alianza
+Editorial, 1996.
+
+12. Edwards, C. H., The Historical Development of the Calculus, NY: Springer-Verlag,
+1979.
+
+13. Goldman, J., The Queen of Mathematics. A Historically Motivated Guide to Number
+Theory, Welleslay, Mass.: A. K. Peters, 1998.
+
+14. Goldstine, H. H., The Computer from Pascal to von Neumann, Princeton: Princeton
+University Press, 1972.
+
+2
+
+
+
+15. Grattan-Guinness, I. (Com.)., Companion Encyclopedia of the History and Philo-
+sophy of the Mathematical Sciences, Londres: Routledge, 1994.
+
+16. Grattan-Guinness, I. (Com.)., Del Calculo a la Teoria de Conjuntos 1630-1910. Una
+introduccion historica, Madrid: Alianza Editorial, 1980
+
+17. Katz, V., A History of Mathematics, an Introduction, New York: Harper Collins
+College Publishers, 1998.
+
+18. Kline, M., El Pensamiento Matematico de la Antiguedad a Nuestros Dias, 3 volume-
+nes. Madrid: Alianza Editorial, 1992.
+
+19. Mahoney, M., The Mathematical Career of Pierre de Fermat (1601-1665), Princeton:
+Princeton University Press, 1994.
+
+20. Malet, A., From Indivisibles to Infinitesimals. Studies in Seventeenth-Century Mat-
+hematization of Infinitely Small Quantities, Bellaterra (Barcelona): Universitat
+Autonoma de Barcelona, 1996.
+
+21. Miguel, P., Gonzalez, U., Las Raices del Calculo Infinitesimal en el Siglo XVII,
+Madrid: Alianza Editorial, 1992.
+
+22. Newton, I., Newton's Principia. A Revision of Motte's Translation by Florian Cajori,
+Berkeley: U. of California Press (sin fecha de edicion).
+
+23. ------ Tratado de Metodos de Series y Fluxiones. Con una Introduccion de Marco
+Panza y trad. de I. Vargas, Col. Mathema. Mexico DF: Facultad de Ciencias, UNAM,
+2001.
+
+24. Ore, O., Number Theory and its History, New York: Dover Publications, INC., 1976.
+
+25. Shea, W.R., The Magic of Numbers and Motion. The Scientific Career of Rene Des-
+cartes, Canton, MA: Science History Pub., 1991.
+
+26. Singh, S., Fermat's Last Theorem, London: Fourth State, 1997.
+
+27. Sommerville, D. M., The Elements of Non-Euclidean Geometry, New York: Dover,
+1958.
+
+28. Stewart, I., The Problems of Mathematics, Oxford: Oxford University Press, 1992.
+
+29. Struik, D., A Source Book in Mathematics 1200-1800, Cambridge, Mass.: Harvard
+University Press, 1886.
+
+30. Van Heijenoort, J., From Frege to Godel: A Source Book in Mathematical Logic
+1879-1931, Cambridge, Mass.: Harvard University Press, 1970.
+
+3
+
+
+
+BIBLIOGRAFIA COMPLEMENTARIA:
+
+1. McLeish, J., Number, London: Bloomsbury, 1991.
+
+2. Nahin, P.J., An Imaginary Tale, the Story of (-1), Princeton, New Jersey: Princeton
+University Press, 1998.
+
+SUGERENCIAS DIDACTICAS: Lograr la participacion activa de los alumnos mediante
+exposiciones.
+
+SUGERENCIA PARA LA EVALUACION DE LA ASIGNATURA: Ademas de las califi-
+caciones en examenes y tareas se tomara en cuenta la participacion del alumno.
+
+PERFIL PROFESIOGRAFICO: Matematico, fisico, actuario o licenciado en ciencias de
+la computacion, especialista en el area de la asignatura a juicio del comite de asignacion
+de cursos.
+
+4
+
+

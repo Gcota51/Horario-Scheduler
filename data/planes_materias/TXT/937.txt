@@ -1,0 +1,106 @@
+FACULTAD DE CIENCIAS
+
+CARRERA DE MATEMATICO
+
+TOPOLOGIA DIFERENCIAL I
+
+SEMESTRE: Septimo u octavo
+CLAVE: 0937
+
+HORAS A LA SEMANA/SEMESTRE
+
+TEORICAS PRACTICAS CREDITOS
+5/80 0 10
+
+CARACTER: OPTATIVO.
+MODALIDAD: CURSO.
+SERIACION INDICATIVA ANTECEDENTE: Analisis Matematico I, Topologia I.
+SERIACION INDICATIVA SUBSECUENTE: Topologia Diferencial II.
+
+OBJETIVO(S): Introducir al alumno a los conceptos de variedades diferenciables, funciones
+diferenciables y transversalidad, y a los resultados mas importantes como los teoremas de
+Sard y Whitney. Se ve tambien la Teoria de interseccion (orientada y no orientada) y sus
+principales consecuencias. Se repartiran ciertos temas a grupos de dos o tres alumnos para
+completar el temario, a fin de que los alumnos aprendan a transmitir los temas asignados.
+
+NUM. HORAS UNIDADES TEMATICAS
+
+5 1. Definicion de variedad topologica y dimension y de varie-
+dad diferenciable
+1.1 Ejemplos de variedades no-Hausdorff y no 2o numerables.
+1.2 Atlas y estructuras diferenciables (mencionar las estructuras
+exoticas de S7).
+1.3 Subvariedades y variedades con frontera.
+1.4 Ejemplos: esfera, espacio proyectivo, bolas cerradas y semiespa-
+cios, matrices de rango constante.
+1.5 Opcional: variedades de Stieffel y Grassman.
+
+10 2. Espacio tangente en un punto por curvas (Opcional: deri-
+vaciones)
+2.1 Espacios tangentes en conjuntos que no necesariamente son sub-
+variedades de Rn.
+2.2 El haz tangente.
+2.3 Opcional: functores suaves y ejemplos de suma de Whitney, pro-
+ductos multilineales y multilineales alternantes.
+
+1
+
+
+
+10 3. Recordatorio de los teoremas de la funcion inversa, de la
+funcion implicita, del rango, y del rango constante en Rn, y
+prueba de los mismos teoremas en variedades
+3.1 Inmersiones 1 a 1 y encajes.
+3.2 Puntos criticos y puntos regulares, valores criticos y valores re-
+gulares.
+3.3 Transversalidad.
+
+15 4. Los teoremas de Sard: debil y general
+4.1 El Teorema de encaje de Whitney, inmersiones de Rn a Rm (n >=
+2m).
+
+5 5. Clasificacion de 1-variedades conexas compactas
+5.1 Teoremas de punto fijo.
+5.2 Matrices cuadradas con entradas no negativas.
+
+5 6. Homotopia y transversalidad
+6.1 Teorema de vecindad tubular.
+6.2 Teoria de interseccion no orientada.
+6.3 Teoria de grado y consecuencias: Teorema de Jordan-Brower. Teo-
+rema de Borsuk-Ulam.
+
+15 7. Orientacion de variedades conexas
+7.1 Teoria de interseccion orientada y sus consecuencias.
+
+15 8. Temas selectos.
+
+BIBLIOGRAFIA BASICA:
+
+1. Brocker, T., Janick, K., Introduction to Differential Topology, Cambridge: Cambridge
+University Press, 1982.
+
+2. Guillemin, V.W., Pollack, A., Topologia Diferencial. Traduccion de Oscar Palmas.
+Mexico: Aportaciones de la SMM, Textos volumen 20, 2003.
+
+BIBLIOGRAFIA COMPLEMENTARIA:
+
+1. Warner, F.W., Foundations of Differentiable Manifolds and Lie Groups, New York:
+Springer-Verlag, 1983.
+
+SUGERENCIAS DIDACTICAS: Lograr la participacion activa de los alumnos mediante
+exposiciones.
+
+2
+
+
+
+SUGERENCIA PARA LA EVALUACION DE LA ASIGNATURA: Ademas de las califi-
+caciones en examenes y tareas se tomara en cuenta la participacion del alumno.
+
+PERFIL PROFESIOGRAFICO: Matematico, fisico, actuario o licenciado en ciencias de
+la computacion, especialista en el area de la asignatura a juicio del comite de asignacion
+de cursos.
+
+3
+
+

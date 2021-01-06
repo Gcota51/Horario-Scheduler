@@ -1,0 +1,351 @@
+NOMA DE MEXICO 
+
+ 
+Facultad de Ciencias 
+
+ 
+Plan de estudios de la Licenciatura en 
+
+ Matematicas 
+ 
+
+Calculo Diferencial e Integral II 
+
+ 
+
+Clave 
+0092 
+
+Semestre 
+2 
+
+Creditos 
+18 
+
+Area de 
+conocimiento 
+
+ 
+
+Campo 
+ 
+
+ 
+
+Etapa 
+ 
+
+ 
+
+Modalidad 
+Curso ( X ) Taller ( ) Lab ( ) Sem ( ) 
+ 
+ 
+
+Tipo T ( X )     P (  )    T/P  (  )  
+
+Caracter 
+Obligatorio (X )             Optativo ( ) 
+ 
+Obligatorio E ( )        Optativo E ( )  
+
+Horas 
+
+ Semana Semestre  
+
+ Teoricas             9 Teoricas           144 
+
+ Practicas            0  Practicas             0 
+
+ Total                   9 Total                  144 
+
+ 
+
+Seriacion 
+ 
+
+Ninguna (   ) 
+
+Obligatoria (   ) 
+
+Asignatura antecedente 
+ 
+
+ 
+
+Asignatura subsecuente 
+ 
+
+ 
+
+Indicativa ( X  ) 
+
+Asignatura antecedente 
+ 
+
+Calculo Diferencial e Integral I 
+Geometria Analitica I 
+
+Asignatura subsecuente 
+ 
+
+Calculo Diferencia e Integral III 
+Probabilidad I 
+
+ 
+ 
+
+Objetivo general: 
+ 
+
+ Introducir a los conceptos y metodos de la matematica superior, poniendo enfasis en la idea de 
+limite como herramientas indispensables para modelar fenomenos relativos al cambio y 
+familiarizar con la presentacion formal de las matematicas recurriendo a demostraciones 
+constructivas y no muy extensas. 
+  
+
+
+
+Objetivos especificos: 
+ 
+
+ Explicar el concepto y las propiedades de la integral.  
+
+ Reconocer la relacion entre la derivada y la integral a traves del teorema fundamental del 
+calculo.  
+
+ Explicar el concepto y las propiedades de las funciones logaritmo y exponencial. 
+
+ Conocer el concepto y las propiedades de las funciones trigonometricas a traves de la integral. 
+
+ Aplicar los principales metodos para integracion de funciones.  
+
+ Identificar algunas aplicaciones fisicas y geometricas de la integral. 
+
+ Ampliar el concepto de series y sucesiones. Comprender los resultados que establecen las 
+condiciones para su existencia. 
+ 
+
+ 
+ 
+
+Indice tematico 
+
+ Tema  
+
+Horas 
+ semestre  
+
+Teoricas Practicas 
+
+1 Integral definida 28 0 
+
+2 Teorema Fundamental del Calculo 19 0 
+
+3 Las funciones logaritmo y exponencial 19 0 
+
+4 
+Las funciones trigonometricas a traves de la integral 
+(Opcional) 
+
+7 0 
+
+5 
+Metodos de integracion y aplicaciones de la integral 
+definida 
+
+28 0 
+
+6 Aplicaciones 19 0 
+
+7 Series 24 0 
+
+Subtotal 144 0 
+
+Total 144 
+
+ 
+
+Contenido Tematico 
+
+ Tema y subtemas 
+
+1 Integral definida 
+
+ 
+
+1.1 Ejemplos que conducen al concepto de integral definida (area bajo una curva, 
+trabajo).  
+
+1.2 Sumas superiores e inferiores (o sumas de Riemann).  
+1.3 Definicion y ejemplos de la integral definida de una funcion continua. 
+1.4 Propiedades basicas de la integral definida. 
+1.5 Teorema del valor medio para la integral. 
+1.6 Ejemplos de funciones integrables con un numero finito de puntos de 
+
+discontinuidad. 
+1.7 Ejemplos de funciones integrables con un numero infinito de puntos de 
+
+discontinuidad. 
+1.8 La funcion de Riemann. 
+ 
+
+2 Teorema Fundamental del Calculo 
+
+ 
+
+2.1 La integral como funcion del limite superior (integral indefinida).  
+2.2 Propiedades de la integral indefinida.  
+2.3 Demostracion de los teoremas fundamentales del calculo. 
+2.4 Integracion directa. 
+2.5 Integrales impropias. 
+
+
+
+2.6 Criterios de convergencia de las integrales impropias. 
+ 
+
+3 Las funciones logaritmo y exponencial 
+
+ 
+
+3.1 Definicion de la funcion logaritmo a traves de la integral.  
+3.2 Propiedades de las funciones logaritmicas.  
+3.3 La funcion exponencial como inversa de la funcion logaritmo. 
+3.4 Propiedades de las funciones exponenciales. 
+3.5 Derivacion logaritmica. 
+3.6 Funciones que solo pueden expresarse en terminos de una integral: Funciones 
+
+elipticas. 
+ 
+
+4 Las funciones trigonometricas a traves de la integral.(Opcional) 
+
+ 
+
+4.1 Definicion de  por medio de una integral.  
+4.2 Propiedades de las funciones trigonometricas.  
+4.3 Funciones trigonometricas inversas. 
+ 
+
+5 Metodos de integracion y aplicaciones de la integral definida 
+
+ 
+
+5.1 Metodos de sustitucion o cambio de variable.  
+5.2 Integracion por partes.  
+5.3 Teorema del valor medio para integrales. 
+5.4 Polinomios de Taylor y forma de Cauchy del residuo. 
+5.5 Fracciones parciales; metodo de coeficientes indeterminados para la integracion 
+
+de funciones racionales. 
+5.6 Metodos numericos de integracion. 
+ 
+
+6 Aplicaciones 
+
+ 
+
+6.1 Calculo de areas de regiones planas. 
+6.2 Area en coordenadas polares.  
+6.3 Longitud de una curva y distancia recorrida por una particula.  
+6.4 Volumen y area de solidos de revolucion. 
+6.5 Trabajo, densidad y masa. 
+6.6 Calculo de momentos. 
+6.7 Problemas de decaimiento radioactivo, ley de Malthus, oscilacion de un resorte, 
+
+ecuacion logistica. 
+ 
+
+7 Series 
+
+ 
+
+7.1 Definicion y ejemplos de sucesiones y series convergentes y no convergentes. 
+7.2 Criterios de convergencia para sucesiones y para series con terminos positivos. 
+7.3 Series alternantes y convergencia absoluta de una serie. 
+7.4 Criterio de Leibniz. 
+7.5 Reordenamiento de los terminos de una serie. 
+7.6 Ejemplos elementales de series de potencias. 
+7.7 Ejemplos de series de Fourier. 
+ 
+
+ 
+ 
+ 
+
+Estrategias didacticas Evaluacion del aprendizaje 
+
+
+
+Exposicion                                                   ( X ) Examenes parciales                ( X ) 
+
+Trabajo en equipo                                         (  ) Examen final                  ( X ) 
+
+Lecturas                                                         (  ) Trabajos y tareas                  (X  ) 
+
+Trabajo de investigacion                               (  ) Presentacion de tema                 (  ) 
+
+Practicas (taller o laboratorio)                       (  ) Participacion en clase                            ( X ) 
+
+Practicas de campo                                       (  ) Asistencia                                                 (  ) 
+
+Aprendizaje por proyectos                            (  ) Rubricas                                                   (  ) 
+
+Aprendizaje basado en problemas               (  ) Portafolios                                                (  ) 
+
+Casos de ensenanza                                    (  ) Listas de cotejo                                        (  ) 
+
+Otras (especificar) Otras (especificar) 
+
+  
+
+  
+
+ 
+ 
+
+Perfil profesiografico 
+
+Titulo o grado Matematico, fisico, actuario o licenciado en ciencias de la computacion. 
+
+Experiencia docente Con experiencia docente. 
+
+Otra caracteristica Especialista en el area de la asignatura a juicio del comite de asignacion 
+de cursos. 
+
+ 
+ 
+ 
+
+Bibliografia basica: 
+ 
+
+ Arizmendi, H., Carrillo, H., Lara. M., Calculo. Primer Curso. Mexico: Addison Wesley 
+Iberoamericana, 1987. 
+
+ Courant, R., John, F., Introduccion al Calculo y al Analisis. Mexico: Editorial Limusa, 1996. 
+
+ Lang. S., Calculo I. Mexico: Fondo Educativo Interamericano, 1990. 
+
+ Spivak, M., Calculo Infinitesimal (2a ed.). Mexico: Reverte, 1998. 
+
+ Thomas, G. B., Finney, R. L., Calculo con Geometria Analitica (9a ed.). Mexico: Addison-
+Wesley, 1987. 
+
+ 
+
+Bibliografia complementaria: 
+ 
+
+ Apostol, T. M., Calculus. Volumen I. Mexico: Ed. Reverte S. A., 2001. 
+
+ Banach, S., Calculo Diferencial e Integral. Mexico: UTEHA, 1991. 
+
+ Kuratowski, K., Introduccion al Calculo. Mexico: Limusa-Wiley, 1970. 
+ 
+
+ 
+ 
+
+

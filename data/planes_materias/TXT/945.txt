@@ -1,0 +1,129 @@
+FACULTAD DE CIENCIAS
+
+CARRERA DE MATEMATICO
+
+TEORIA DE INVENTARIOS, MANTENIMIENTO Y REEMPLAZO
+
+SEMESTRE: Septimo u octavo
+CLAVE: 0945
+
+HORAS A LA SEMANA/SEMESTRE
+
+TEORICAS PRACTICAS CREDITOS
+5/80 0 10
+
+CARACTER: OPTATIVO.
+MODALIDAD: CURSO.
+SERIACION INDICATIVA ANTECEDENTE: Investigacion de Operaciones.
+SERIACION INDICATIVA SUBSECUENTE: Ninguna.
+
+OBJETIVO(S): Al finalizar el curso el alumno conocera la naturaleza y el desarrollo de
+la Teoria de Inventarios. Comprendera y sera capaz de explicar la naturaleza de los pro-
+blemas de inventarios. Conocera y aplicara metodos deterministicos y probabilisticos para
+la solucion de problemas de inventarios. Comprendera la naturaleza del reemplazo y el
+mantenimiento, sus diferentes tipos y su funcion economica.
+
+NUM. HORAS UNIDADES TEMATICAS
+
+5 1. Introduccion
+1.1 Ubicacion e historia de los problemas de inventarios.
+1.2 Funciones de los inventarios.
+1.3 Contexto.
+
+12 2. Caracteristicas esenciales de los problemas de inventarios
+2.1 Definicion y estructura de un problema de inventarios.
+2.2 Analisis de caracteristicas.
+2.3 Caracteristicas y representacion grafica.
+2.4 Decisiones graficas.
+2.5 Variables controlables y no controlables.
+2.6 Analisis de costos.
+2.7 Division.
+
+1
+
+
+
+12 3. Modelos deterministicos
+3.1 Problema general. Discreto y continuo.
+3.2 Lote economico con deficit.
+3.3 Lote economico clasico.
+3.4 Lote economico con costos proporcionales al almacenamiento y
+produccion.
+3.5 Modelo general para cuando los costos son no proporcionales.
+3.6 Aplicacion de la programacion lineal a los problemas de inventa-
+rios.
+3.7 Problema general para varios articulos.
+
+12 4. Modelos probabilisticos
+4.1 Generalidades y calculo de probabilidades.
+4.2 Modelo con probabilidades por excedentes o deficits.
+4.3 Modelo con costos por almacenamiento o deficits.
+4.4 Lapso entre ordenes y aprovisionamiento.
+4.5 Modelo S-s..
+
+6 5. Modelos dinamicos
+
+4 6. Introduccion al problema de reemplazo y mantenimiento
+
+4 7. Estructura general y clasificacion
+
+4 8. Renovacion con desgaste no aleatorio
+
+6 9. Renovacion con desgaste aleatorio
+
+4 10. Curva de supervivencia
+
+4 11. Probabilidad de consumo
+
+3 12. Tasa de aprovechamiento
+
+2 13. Tasa de mantenimiento
+
+2 14. Funcion economica de mantenimiento
+
+2
+
+
+
+BIBLIOGRAFIA BASICA:
+
+1. Kauffman, D., Metodos y Modelos de la Investigacion de Operaciones, Mexico: Con-
+tinental, 1976.
+
+2. Ackoff, Russel L., Sasieni, M. W., Fundamentos de la Investigacion de Operaciones,
+Mexico: Limusa, 1977.
+
+3. Thierauf, R. J., Grosse R.A., Toma de Decisiones por Medio de la Investigacion de
+Operaciones, Mexico: Limusa, 1990.
+
+4. Hillier, F., Lieberman, G. S., Introduccion a la Investigacion de Operaciones, Mexico:
+McGraw-Hill, 1997.
+
+5. Lynwood, J. D., et. al., Operations Research in Production Planning Scheduling and
+Inventory Control, New York: John Wiley & Sons, 1974.
+
+6. Starr, M. R., Miller, D. N., Inventory Control. Theory and Practice, New Jersey:
+Prentice Hall, 1978.
+
+7. Taha, H. A., Operation Research: An Introduction, New Jersey: Prentice Hall, 1997.
+
+BIBLIOGRAFIA COMPLEMENTARIA:
+
+1. Arrow, K. J., Studies in the Mathematical Theory of Inventory and Production, Stan-
+ford: Standford University, 1958.
+
+2. Hadley, G., Analysis of Inventory Systems, New Jersey: Prenticed Hall, 1973.
+
+SUGERENCIAS DIDACTICAS: Lograr la participacion activa de los alumnos mediante
+exposiciones.
+
+SUGERENCIA PARA LA EVALUACION DE LA ASIGNATURA: Ademas de las califi-
+caciones en examenes y tareas se tomara en cuenta la participacion del alumno.
+
+PERFIL PROFESIOGRAFICO: Matematico, fisico, actuario o licenciado en ciencias de
+la computacion, especialista en el area de la asignatura a juicio del comite de asignacion
+de cursos.
+
+3
+
+

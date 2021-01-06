@@ -1,0 +1,87 @@
+FACULTAD DE CIENCIAS
+
+CARRERA DE MATEMATICO
+
+SEMINARIO DE ANALISIS MATEMATICO B
+Ejemplo: Operadores lineales en espacios de Hilbert
+
+SEMESTRE: Septimo u octavo
+CLAVE: 0706
+
+HORAS A LA SEMANA/SEMESTRE
+
+TEORICAS PRACTICAS CREDITOS
+5/80 0 10
+
+CARACTER: OPTATIVO.
+MODALIDAD: CURSO.
+SERIACION INDICATIVA ANTECEDENTE: Algebra Moderna I, Analisis Matemati-
+co II, Variable Compleja I.
+SERIACION INDICATIVA SUBSECUENTE: Ninguna.
+
+OBJETIVO(S): Que el alumno conozca los problemas que aborda esta rama del Analisis
+y los principales metodos para resolverlos.
+
+NUM. HORAS UNIDADES TEMATICAS
+
+15 1. Espacios de Hilbert
+
+15 2. Funcionales lineales y operadores lineales acotados
+2.1 Funcionales lineales.
+2.2 El teorema de Riesz.
+2.3 Operadores lineales acotados.
+2.4 Funcionales bilineales.
+2.5 Operador adjunto.
+2.6 Operador completamente continuo.
+
+20 3. Conceptos generales en la teoria de operadores lineales
+3.1 El operador proyeccion.
+3.2 Operadores unitarios.
+3.3 Operadores isometricos.
+3.4 Operadores cerrados.
+3.5 Espectro de un operador auto-adjunto.
+3.6 El resolvente.
+3.7 Operadores simetricos.
+3.8 Representacion matricial de operadores simetricos.
+
+1
+
+
+
+20 4. Espectro de operadores completamente continuos
+4.1 Propiedades de los valores propios de operadores completamente
+continuos en R.
+4.2 Existencia de vectores propios de operadores auto-adjuntos com-
+pletamente continuos.
+4.3 Espectro de operadores auto-adjuntos completamente continuos
+en R.
+
+10 5. Espectro de operadores auto-adjuntos
+
+BIBLIOGRAFIA BASICA:
+
+1. Akhiezer, N. I., Glazman, I. M., Theory of Linear Operators in Hilbert Spaces, New
+York: Dover Publications, 1993.
+
+2. Kreyszig, E., Introductory Functional Analysis with Applications, Malabar, Florida:
+Krieger, 1989.
+
+3. Rudin, W., Functional Analysis, New York: McGraw-Hill, 1991.
+
+BIBLIOGRAFIA COMPLEMENTARIA:
+
+1. Jost, J., Postmodern Analysis, New York: Springer-Verlag, 1998.
+
+SUGERENCIAS DIDACTICAS: Lograr la participacion activa de los alumnos mediante
+exposiciones.
+
+SUGERENCIA PARA LA EVALUACION DE LA ASIGNATURA: Ademas de las califi-
+caciones en examenes y tareas se tomara en cuenta la participacion del alumno.
+
+PERFIL PROFESIOGRAFICO: Matematico, fisico, actuario o licenciado en ciencias de
+la computacion, especialista en el area de la asignatura a juicio del comite de asignacion
+de cursos.
+
+2
+
+

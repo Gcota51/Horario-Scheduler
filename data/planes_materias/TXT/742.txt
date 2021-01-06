@@ -1,0 +1,80 @@
+FACULTAD DE CIENCIAS
+
+CARRERA DE MATEMATICO
+
+SEMINARIO DE ALGEBRA A
+Ejemplo: Modulos sobre anillos no singulares
+
+SEMESTRE: Septimo u octavo
+CLAVE: 0742
+
+HORAS A LA SEMANA/SEMESTRE
+
+TEORICAS PRACTICAS CREDITOS
+5/80 0 10
+
+CARACTER: OPTATIVO.
+MODALIDAD: CURSO.
+SERIACION INDICATIVA ANTECEDENTE: Algebra Moderna I, Analisis Matemati-
+co I, Variable Compleja I.
+SERIACION INDICATIVA SUBSECUENTE: Ninguna.
+
+OBJETIVO(S): Que el alumno conozca los principales conceptos, resultados y problemas
+que se estudian en esta rama del algebra
+
+NUM. HORAS UNIDADES TEMATICAS
+
+20 1. Submodulos esenciales
+1.1 Definiciones y ejemplos.
+1.2 Propiedades de los submodulos esenciales.
+1.3 Pseudocomplementos y complementos en la reticula de submodu-
+los.
+
+20 2. Modulos inyectivos
+2.1 Definicion y ejemplos.
+2.2 El criterio de Baer.
+2.3 Inyectivos en Z-Mod.
+2.4 Capsulas inyectivas.
+
+20 3. El prerradical singular
+3.1 El submodulo singular.
+3.2 Modulos singulares.
+3.3 Modulos no singulares.
+
+20 4. Anillos no singulares
+4.1 Modulos de cocientes.
+4.2 El anillo maximo de cocientes de un anillo no singular.
+4.3 Modulos de cocientes sobre anillos no singulares.
+
+1
+
+
+
+BIBLIOGRAFIA BASICA:
+
+1. Anderson, F., Fuller, K. Rings and Categories of Modules, 2nd. edition, New York:
+Springer-Verlag, 1992.
+
+2. Goodearl, K., Ring Theory, Nonsingular Rings and Modules, New York: Marcel Dek-
+ker, 1976.
+
+3. Stenstrom, B., Rings of Quotients, New York: Springer-Verlag, 1975.
+
+BIBLIOGRAFIA COMPLEMENTARIA:
+
+1. Lam, T. Y., A First Course in Noncommutative Rings, 2nd. edition, New York:
+Springer-Verlag, 2001.
+
+SUGERENCIAS DIDACTICAS: Lograr la participacion activa de los alumnos mediante
+exposiciones.
+
+SUGERENCIA PARA LA EVALUACION DE LA ASIGNATURA: Ademas de las califi-
+caciones en examenes y tareas se tomara en cuenta la participacion del alumno.
+
+PERFIL PROFESIOGRAFICO: Matematico, fisico, actuario o licenciado en ciencias de
+la computacion, especialista en el area de la asignatura a juicio del comite de asignacion
+de cursos.
+
+2
+
+

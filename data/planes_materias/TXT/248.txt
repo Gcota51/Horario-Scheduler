@@ -1,0 +1,79 @@
+FACULTAD DE CIENCIAS
+
+CARRERA DE MATEMATICO
+
+GEOMETRIA DIFERENCIAL III (ejemplo)
+
+SEMESTRE: Septimo u octavo
+CLAVE: 0248
+
+HORAS A LA SEMANA/SEMESTRE
+
+TEORICAS PRACTICAS CREDITOS
+5/80 0 10
+
+CARACTER: OPTATIVO.
+MODALIDAD: CURSO.
+SERIACION INDICATIVA ANTECEDENTE: Geometria Diferencial II.
+SERIACION INDICATIVA SUBSECUENTE: Ninguna.
+
+OBJETIVO(S): Introducir el formalismo de los tensores y las formas en Rn para utilizarlo
+en el estudio de las variedades diferenciables.
+
+NUM. HORAS UNIDADES TEMATICAS
+
+25 1. Tensores y formas en Rn
+1.1 Tensores en Rn. Operaciones, dimension, bases, tensores alter-
+nantes.
+1.2 Formas diferenciales en Rn. Definicion, operaciones basicas (suma,
+producto, pull-back), derivada exterior.
+1.3 Teorema de Stokes en Rn.
+
+30 2. Variedades diferenciales
+2.1 Definiciones y propiedades basicas.
+2.2 Campos vectoriales. Distribuciones y Teorema de Frobenius.
+2.3 Tensores y formas en variedades. Ideales diferenciales.
+2.4 Ecuaciones de Estructura.
+
+25 3. Integracion en variedades
+3.1 Teorema de Stokes y Lema de Poincare.
+3.2 Teorema de Gauss-Bonnet
+
+1
+
+
+
+BIBLIOGRAFIA BASICA:
+
+1. Do Carmo, M. P., Differential Forms and Applications, New York: Springer-Verlag,
+1994.
+
+2. Guillemin, V. W., Pollack, A., Differential Topology, New Jersey: Prentice-Hall, 1974.
+
+3. Spivak, M. A., A Comprehensive Introduction to Differential Geometry, Vols. I-V,
+Houston, Texas: Publish or Perish, 1999.
+
+4. Warner, F. W., Foundations of Differentiable Manifolds and Lie Groups, New York:
+Springer-Verlag, 1983.
+
+BIBLIOGRAFIA COMPLEMENTARIA:
+
+1. Arnold, V. I., Mathematical Methods of Classical Mechanics, New York: Springer-
+Verlag, 1989.
+
+2. Kobayashi, S., Nomizu, K., Foundations of Differential Geometry, Vols. I, New York:
+Wiley, 1963.
+
+SUGERENCIAS DIDACTICAS: Lograr la participacion activa de los alumnos mediante
+exposiciones.
+
+SUGERENCIA PARA LA EVALUACION DE LA ASIGNATURA: Ademas de las califi-
+caciones en examenes y tareas se tomara en cuenta la participacion del alumno.
+
+PERFIL PROFESIOGRAFICO: Matematico, fisico, actuario o licenciado en ciencias de
+la computacion, especialista en el area de la asignatura a juicio del comite de asignacion
+de cursos.
+
+2
+
+

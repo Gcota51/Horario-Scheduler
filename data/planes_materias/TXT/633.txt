@@ -1,0 +1,289 @@
+           UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+ 
+                          Facultad de Ciencias 
+
+          
+                      Plan de estudios de la Licenciatura en Actuaria 
+
+ 
+ 
+
+Programacion Entera 
+ 
+Clave 
+0633 
+
+Semestre 
+7 u 8 
+
+Creditos 
+10 
+
+Area 
+  
+
+Campo de 
+conocimiento Investigacion de Operaciones 
+
+Etapa 
+ Profundizacion 
+
+Modalidad 
+Curso ( X ) Taller ( ) Lab ( ) Sem ( ) 
+ 
+ 
+
+Tipo T ( X )     P (  )    T/P  (  )  
+
+Caracter 
+Obligatorio (  )           Optativo ( X ) 
+ 
+Obligatorio E ( )        Optativo E ( )  
+
+Horas 
+
+ Semana Semestre  
+ Teoricas           5 Teoricas           80 
+ Practicas          0 Practicas           0 
+ Total                 5 Total                  80 
+
+ 
+Seriacion 
+
+ 
+Ninguna (   ) 
+
+Obligatoria (   ) 
+Asignatura antecedente 
+ 
+
+ 
+
+Asignatura subsecuente 
+ 
+
+ 
+
+Indicativa ( X ) 
+Asignatura antecedente 
+ 
+
+Asignaturas del campo de Investigacion de Operaciones. 
+
+Asignatura subsecuente 
+ 
+
+Optativas del campo de Investigacion de Operaciones. 
+
+ 
+Objetivos generales: 
+ 
+* Conocer los antecedentes historicos de la Programacion Lineal Entera. 
+* Tener una vision general de los modelos de optimizacion lineal discreta. 
+* Conocer los elementos necesarios para analizar y formular y resolver problemas enteros.  
+ 
+Objetivos especificos: 
+ 
+* Conocer algoritmos exactos. 
+* Conocer algoritmos especializados en casos particulares. 
+* Conocer la teoria de complejidad. 
+
+
+
+* Tener una vision general de los algoritmos heuristicos. 
+ 
+
+ 
+Indice tematico 
+
+ Tema  
+Horas 
+
+ semestre  
+Teoricas Practicas 
+
+1 Introduccion 10 0 
+
+2 Programacion lineal y su relacion con los problemas 
+de programacion entera  
+
+10 0 
+
+3 Metodos de corte 10 0 
+4 Ramificacion y acotamiento                                                                                   10 0 
+5 Teoria de Complejidad.  10 0 
+6 Problemas especificos 15 0 
+7 Algoritmos de aproximacion. 10 0 
+8 Aplicaciones 5 0 
+
+Total 80 
+ 
+
+Contenido Tematico 
+ Tema y subtemas 
+1 Introduccion          
+
+ 
+1.1 Panorama general de la Programacion Entera.  
+1.2  Optimizacion combinatoria. 
+1.3  Formulacion de problemas. 
+ 1.3.1 Problemas binarios. 
+ 1.3.2 Problemas mixtos. 
+1.4 Problemas enteros clasicos. Entre otros: 
+
+1.4.1 El Problema de la Mochila. 
+1.4.2 El Problema de Seleccion de Capitales de Inversion. 
+1.4.3 Problemas de horarios de trabajadores. 
+1.4.4 Problemas de cobertura. 
+1.5 Aplicaciones: Funcion lineal por pedazos, cargo fijo, dicotomias,  
+restricciones condicionales y conjuntos no convexos. 
+
+ 
+2 Programacion lineal y su relacion con los problemas de programacion 
+
+entera                                 
+ 
+2.1 Optimalidad y relajacion. 
+2.2  Cotas: busqueda local. 
+2.3  Dualidad. 
+2.4 Analisis de sensibilidad. 
+ 
+
+3 Metodos de corte 
+                               
+
+3.1.El concepto de corte y su profundidad. 
+3.2.Ejemplos de cortes. 
+
+
+
+3.3.Algoritmos de planos de corte. 
+3.4.La cortadura fraccional de Gomory. 
+3.5.Algoritmo entero puro. 
+3.6.Algoritmo mixto. 
+
+ 
+4 Ramificacion y acotamiento                                                                                   
+
+ 
+4.1 El concepto de ramificacion y acotamiento. 
+4.2  Ramificacion y acotamiento en el contexto general. 
+4.3 Ramificacion y acotamiento para Programacion Lineal Entera. 
+4.4 Enumeracion implicita.  
+
+ 
+5 Teoria de Complejidad.                                                
+
+ 
+       5.1 Introduccion. 
+
+5.2  Problemas de decision. 
+5.2  Clases P, NP, NP Completo y NP Duro. 
+5.3  Algoritmos pseudopolinomiales y NP Completez. 
+
+ 
+6 Problemas especificos.                      
+
+ 
+6.1  El Problema de Acoplamiento.  
+
+6.1.1 Acoplamiento en graficas bipartitas. 
+6.1.2 Acoplamiento en graficas no bipartitas. 
+6.1.3 El corte de Edmonds. 
+
+6.2 El Problema de la Mochila. 
+6.2.1 Problema de la Mochila general y acotado. 
+6.2.2 Problema de la Mochila binario. 
+
+6.3  El Problema de asignacion. 
+6.3.1 Formulacion como problema entero. 
+6.3.2 Matrices totalmente unimodulares. 
+6.3.3 Formulacion como modelo de transporte. 
+6.3.4 Algoritmo hungaro. 
+6.3.5 Algoritmo de subastas. 
+
+6.3  El Problema del Agente Viajero. 
+6.2.1 El problema relajado. 
+6.2.2 Ramificacion y acotamiento para el agente viajero. 
+
+7 Algoritmos de aproximacion                          
+ 
+
+ 7.1 Algoritmo gloton.              
+ 7.2 Mejoras sucesivas. 
+ 7.3 Recocido simulado. 
+
+ 
+8 Aplicaciones.          
+
+ 
+8.1 Aplicacion de programacion entera en distintos problemas. 
+
+
+
+ 
+ 
+ 
+
+Estrategias didacticas Evaluacion del aprendizaje 
+Exposicion                                                   (  ) Examenes parciales                ( X ) 
+Trabajo en equipo                                       ( X ) Examen final                  ( X ) 
+Lecturas                                                      ( X ) Trabajos y tareas                  ( X ) 
+Trabajo de investigacion                               (  ) Presentacion de tema                 (  ) 
+Practicas (taller o laboratorio)                       (  ) Participacion en clase                            ( X ) 
+Practicas de campo                                       (  ) Asistencia                                                 (  ) 
+Aprendizaje por proyectos                            (  ) Rubricas                                                   (  ) 
+Aprendizaje basado en problemas             ( X ) Portafolios                                                (  ) 
+Casos de ensenanza                                    (  ) Listas de cotejo                                        (  ) 
+Otras (especificar) Otras (especificar)  
+
+ 
+ 
+
+Perfil profesiografico 
+Titulo o grado El profesor que impartira el curso debera ser egresado de las licenciaturas de 
+
+Actuaria, Matematicas, Matematicas aplicadas o alguna afin.. 
+Experiencia docente Con experiencia docente en el area de la Investigacion de Operaciones. 
+Otra caracteristica  
+
+ 
+ 
+
+Bibliografia basica: 
+ 
+* Chen, D.S., Batson, R.G. and Dang, Y. (2010). Applied Integer Programming: Modeling and Solution. 
+
+John Wiley & Sons. 
+* Hillier, F.S. and Lieberman, G.J. (2009). Introduction to Operations Research (9a edicion). Mc Graw 
+
+Hill. 
+* Luenberger, D.G. and Ye, Y. (2010). Linear and Nonlinear Programming (3a edicion). Springer. 
+* Nemhauser, G.L., and Wolsey, L.A. (1999). Integer and Combinatorial Optimization. John Wiley & 
+
+Sons. 
+* Papadimitriou, C.H. and Steiglitz, K. (1998). Combinatorial Optimization: Algorithms and Complexity. 
+
+Dover Publications. 
+* Taha, H.A. (2010). Operations Research: an Introduction (9a edicion). Prentice Hall/Pearson 
+
+Education. 
+* Winston, W.L. (2003). Operations Research: Applications and Algorithms (4a edicion). Prentice Hall-
+
+Kent. 
+* Wolsey, L.A. (1998).  Integer Programming. John Wiley & Sons. 
+ 
+Bibliografia complementaria: 
+ 
+* Ackoff, R.L. (2008).  El Paradigma de Ackoff: Una Administracion Sistemica. Limusa. 
+* (1987). The Art of Problem Solving: Accompanied by Ackoff's Fables. John Wiley & Sons. 
+* (1999).  Ackoff's Best: His Classic Writings on Management. John Wiley & Sons. 
+* Karlof, J.K. (2006). Integer Programming: Theory and Practice. Taylor & Francis Group. 
+ 
+
+ 
+
+
+	Programacion Entera
+

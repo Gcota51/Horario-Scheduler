@@ -1,0 +1,84 @@
+FACULTAD DE CIENCIAS
+
+CARRERA DE MATEMATICO
+
+SEMINARIO DE ANALISIS MATEMATICO A
+Ejemplo: Analisis aplicado a Ecuaciones Diferenciales Parciales
+
+SEMESTRE: Septimo u octavo
+CLAVE: 0743
+
+HORAS A LA SEMANA/SEMESTRE
+
+TEORICAS PRACTICAS CREDITOS
+5/80 0 10
+
+CARACTER: OPTATIVO.
+MODALIDAD: CURSO.
+SERIACION INDICATIVA ANTECEDENTE: Algebra Moderna I, Analisis Matemati-
+co II, Ecuaciones Diferenciales Parciales I, Variable Compleja I.
+SERIACION INDICATIVA SUBSECUENTE: Ninguna.
+
+OBJETIVO(S): Que el alumno conozca los problemas que aborda esta rama del Analisis
+y los principales metodos para resolverlos.
+
+NUM. HORAS UNIDADES TEMATICAS
+
+16 1. Espacios de Hilbert
+1.1 Repaso de espacio vectorial normado, completo etc.
+1.2 Producto escalar. Espacios de Hilbert.
+1.3 Teorema de la proyeccion ortogonal.
+1.4 Espacios de Hilbert separables.
+1.5 Dual de un espacio de Hilbert y Teorema de representacion de
+Riesz.
+
+16 2. Algunos espacios clasicos
+2.1 Espacios Ck.
+2.2 Espacios de Lebesgue.
+2.3 Teoremas Fundamentales.
+2.4 Convolucion en Rn.
+
+16 3. Introduccion a las distribuciones
+3.1 Definicion de D' y subconjuntos notables..
+3.2 Propiedades.
+
+16 4. Espacios de Sobolev en dimension 1
+4.1 Motivacion, definicion.
+4.2 Desigualdades de Sobolev.
+
+1
+
+
+
+16 5. Resolucion de problemas con valores en la frontera
+5.1 Teorema de Lax-Milgram.
+5.2 Ejemplos.
+5.3 Introduccion al metodo de elementos finitos.
+
+BIBLIOGRAFIA BASICA:
+
+1. Brezis, H., Analisis Funcional, Madrid: Alianza Universidad Textos, 1984.
+
+2. Rakotoson, J.E., Rakotoson, J.M., Analyse Fonctionnelle Appliquee aux Equations
+aux Derivees Partielles, Paris: Presses Universitaires de France, 1999.
+
+BIBLIOGRAFIA COMPLEMENTARIA:
+
+1. Kreyszig, E., Introductory Functional Analysis with Applications, Malabar, Florida:
+Krieger, 1989.
+
+2. Jost, J., Postmodern Analysis, New York: Springer-Verlag, 1998.
+
+SUGERENCIAS DIDACTICAS: Lograr la participacion activa de los alumnos mediante
+exposiciones.
+
+SUGERENCIA PARA LA EVALUACION DE LA ASIGNATURA: Ademas de las califi-
+caciones en examenes y tareas se tomara en cuenta la participacion del alumno.
+
+PERFIL PROFESIOGRAFICO: Matematico, fisico, actuario o licenciado en ciencias de
+la computacion, especialista en el area de la asignatura a juicio del comite de asignacion
+de cursos.
+
+2
+
+

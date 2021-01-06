@@ -1,0 +1,86 @@
+FACULTAD DE CIENCIAS
+
+CARRERA DE MATEMATICO
+
+ALGEBRA LINEAL II
+
+SEMESTRE: CUARTO
+CLAVE: 0006
+
+HORAS A LA SEMANA/SEMESTRE
+
+TEORICAS PRACTICAS CREDITOS
+5/80 0 10
+
+CARACTER: OBLIGATORIA.
+MODALIDAD: CURSO.
+SERIACION INDICATIVA ANTECEDENTE: Algebra Lineal I.
+SERIACION INDICATIVA SUBSECUENTE: Algebra Moderna I, Analisis Matemati-
+co I, Calculo de Variaciones, Historia de las Matematicas I, Introduccion Ma-
+tematica a la Mecanica Celeste, Logica Matematica I, Seminario de Ciencia y
+Sociedad I, Teoria de la Computacion, Teoria de las Graficas I, Topologia I.
+
+OBJETIVO(S): Introducir al alumno a los conceptos fundamentales del algebra multilineal.
+
+NUM. HORAS UNIDADES TEMATICAS
+
+15 1. Formas bilineales y operadores
+1.1 Formas bilineales.
+1.2 Formas cuadraticas.
+1.3 Operadores autoadjuntos (simetricos y hermitianos).
+1.4 Operadores unitarios y ortogonales.
+1.5 Teorema de Sylvester sobre la signatura de una forma.
+
+15 2. Diagonalizacion
+2.1 Vectores y valores propios.
+2.2 Polinomio caracteristico.
+2.3 Diagonalizacion y bases de vectores propios.
+
+10 3. Triangulacion
+3.1 Existencia de una triangulacion sobre C.
+3.2 Teorema de Hamilton-Cayley.
+3.3 Diagonalizacion de operadores unitarios.
+
+15 4. El Teorema Espectral
+4.1 Operadores simetricos sobre R.
+4.2 Operadores normales sobre C.
+
+1
+
+
+
+25 5. Forma canonica de Jordan
+5.1 Descomposicion primaria.
+5.2 Forma canonica de Jordan.
+
+BIBLIOGRAFIA BASICA:
+
+1. Curtis, C.W., Linear Algebra, New York: Springer, 1984.
+
+2. Lang, S., Algebra Lineal, Mexico: Sistemas Tecnicos de Edicion, 1986.
+
+3. Nomizu, K., Fundamentals of Linear Algebra. New York: McGraw-Hill, 1966.
+
+4. Rincon, H. A., Algebra Lineal, Mexico: Las Prensas de Ciencias, UNAM, 2002.
+
+BIBLIOGRAFIA COMPLEMENTARIA:
+
+1. Lluis, E., Algebra Lineal, Algebra Multilineal y K-Teoria Algebraica Clasica, Mexico:
+Addison-Wesley Iberoamericana, 1990.
+
+2. Nickerson, H. K., Spencer, D. C., Steenrod, N. E., Advanced Calculus, Princeton:
+Van Nostrand, 1959.
+
+SUGERENCIAS DIDACTICAS: Lograr la participacion activa de los alumnos mediante
+exposiciones.
+
+SUGERENCIA PARA LA EVALUACION DE LA ASIGNATURA: Ademas de las califi-
+caciones en examenes y tareas se tomara en cuenta la participacion del alumno.
+
+PERFIL PROFESIOGRAFICO: Matematico, fisico, actuario o licenciado en ciencias de
+la computacion, especialista en el area de la asignatura a juicio del comite de asignacion
+de cursos.
+
+2
+
+

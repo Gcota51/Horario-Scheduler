@@ -1,0 +1,200 @@
+FACULTAD DE CIENCIAS
+
+CARRERA DE MATEMATICO
+
+ALGEBRA MODERNA III (ejemplo)
+
+SEMESTRE: Septimo u octavo
+CLAVE: 0003
+
+HORAS A LA SEMANA/SEMESTRE
+
+TEORICAS PRACTICAS CREDITOS
+5/80 0 10
+
+CARACTER: OPTATIVO.
+MODALIDAD: CURSO.
+SERIACION INDICATIVA ANTECEDENTE: Algebra Moderna II.
+SERIACION INDICATIVA SUBSECUENTE: Algebra Moderna IV.
+
+OBJETIVO(S): Introducir al alumno a la teoria de categorias, a la teoria general de modu-
+los y empezar a profundizar en la teoria de anillos.
+
+NUM. HORAS UNIDADES TEMATICAS
+
+10 1. Categorias y funtores
+1.1 Categorias.
+1.2 Ejemplos.
+1.3 Funtores.
+1.4 Transformaciones naturales y funtores adjuntos.
+1.5 Propiedades universales.
+1.6 Productos y coproductos.
+1.7 Categorias aditivas.
+1.8 Funtores aditivos.
+
+12 2. Modulos, submodulos, cocientes
+2.1 Anillos.
+2.2 Ideales izquierdos, derechos, bilaterales.
+2.3 Submodulos.
+2.4 La reticula de submodulos de un modulo.
+2.5 Sumas directas.
+2.6 Complementos, seudocomplementos.
+2.7 Cocientes de modulos, anillos cocientes.
+
+1
+
+
+
+12 3. La categoria R-mod
+3.1 Morfismos de anillos y sus propiedades.
+3.2 Monomorfismos, epimorfismos.
+3.3 Productos de anillos.
+3.4 Teoremas de isomorfismos.
+3.5 Generadores y cogeneradores de R-mod.
+3.6 Sucesiones exactas.
+3.7 Sucesiones exactas cortas.
+3.8 Lema de los 5, Lema de la serpiente. Cacerias en diagramas.
+3.9 Escision de una sucesion exacta corta y sumas directas.
+3.10 Construccion del producto y del coproducto en R-mod.
+3.11 Sumas directas internas y sumas directas externas.
+3.12 Modulos libres.
+3.13 Un modulo es libre si y solo si tiene base.
+3.14 Todo modulo es cociente de un libre.
+3.15 Un anillo es anillo con division si y solo si cada modulo tiene
+base.
+3.16 Productos y sumas fibradas.
+
+2
+
+
+
+14 4. Modulos inyectivos y proyectivos
+4.1 Modulos inyectivos y escision de sucesiones exactas cortas.
+4.2 Modulos inyectivos y Hom.
+4.3 Criterio de Baer para inyectividad.
+4.4 Productos y factores de modulos inyectivos.
+4.5 Inyectivos en Z-mod= grupos abelianos divisibles.
+4.6 Q/Z es un cogenerador para Z-mod.
+4.7 Capsulas inyectivas.
+4.8 Todo modulo tiene capsula inyectiva
+4.9 Capsulas inyectivas y extensiones esenciales maximas.
+4.10 Cubiertas proyectivas.
+4.11 Submodulos superfluos.
+4.12 Radical de Jacobson.
+4.13 No siempre hay cubiertas proyectivas.
+4.14 Modulos proyectivos.
+4.15 Modulos proyectivos y sucesiones exactas cortas.
+4.16 Los modulos proyectivos son los sumandos directos de los libres.
+4.17 Submodulos esenciales de un modulo.
+4.18 El submodulo singular.
+4.19 El zoclo de un modulo es la interseccion de sus submodulos
+esenciales.
+4.20 Complementos.
+4.21 La reticula [0,M] de submodulos de M tiene seudocomplementos.
+4.22 Submodulos esencialmente cerrados.
+4.23 El (seudo) complemento del (seudo) complemento de un modulo
+es esencialmente cerrado.
+4.24 Anillos semiartinianos.
+4.25 Modulos proyectivos y coproductos.
+4.26 Modulos proyectivos y Hom.
+4.27 Anillos hereditarios.
+4.28 Caracterizacion por medio de proyectivos.
+4.29 Caracterizacion por medio de inyectivos.
+
+8 5. Anillos y modulos semisimples
+5.1 Caracterizaciones de los anillos semisimples.
+5.2 Propiedades de los modulos semisimples.
+
+3
+
+
+
+14 6. Modulos artinianos y modulos neterianos
+6.1 Definiciones.
+6.2 Condiciones de cadena.
+6.3 Submodulos finitamente generados.
+6.4 La condicion maxima (minima).
+6.5 La clase de los modulos neterianos (artinianos) es una clase de
+Serre (cerrada bajo submodulos, cocientes y extensiones).
+6.6 Anillos artinianos y neterianos.
+6.7 Anillos neterianos. Anillos semiartinianos.
+6.8 Anillos semiprimarios.
+6.9 Son equivalentes para un anillo: i) R es artiniano izquierdo; ii) R
+es neteriano y semiartiniano.
+6.10 El Radical de Jacobson de un artiniano es nilpotente.
+6.11 Modulos finitamente cogenerados.
+6.12 Caracterizacion de los modulos finitamente cogenerados por me-
+dio de propiedades de su zoclo.
+6.13 Un anillo es neteriano si y solo si sumas directas de inyectivos
+son inyectivas si y solo si todo modulo inyectivo es una suma directa
+de submodulos inescindibles.
+6.14 Un anillo es artiniano si y solo si todo modulo inyectivo es suma
+directa de capsulas inyectivas de simples.
+
+10 7. Anillos semilocales
+7.1 Anillos semilocales y el radical de Jacobson.
+7.2 Anillos buenos (Rad(M)=Rad(R)M). Anillos locales.
+7.3 Anillos de endomorfismos locales.
+7.4 Teorema de Krull-Schmidt Azumaya.
+
+BIBLIOGRAFIA BASICA:
+
+1. Anderson, F., Fuller, K., Rings and Categories of Modules, 2nd edition, New York:
+Springer Verlag, 1992.
+
+2. Gentile, E.R., Estructuras Algebraicas II, Washington: OEA, 1971.
+
+3. Kasch, F., Modules Rings, London: Academic Press 1982.
+
+4. Lam, T.Y., A First Course in Non-commutative Rings, Berlin: Springer Verlag, 1991.
+
+5. Lambek, J., Lectures on Rings and Modules, Waltham, Mass.: Blaisdell, 1966.
+
+4
+
+
+
+6. Rotman, J.J., An Introduction to Homological Algebra, New York: Academic Press,
+1979.
+
+7. Wisbauer, R., Foundations of Module and Ring Theory, Philadelphia: Gordon and
+Breach, 1991.
+
+BIBLIOGRAFIA COMPLEMENTARIA:
+
+1. Bican, L., Kepka, T., Nemec, P., Rings, Modules and Preradicals, New York: Marcel
+Dekker, 1982.
+
+2. Dauns, J., Modules and Rings, Cambridge: Cambridge University Press, 1994.
+
+3. Faith, C.C., Algebra II. Ring Theory, New York: Springer Verlag, 1976.
+
+4. Goodearl, K.R., Ring Theory, Nonsingular Rings and Modules, New York: Marcel
+Dekker, 1976.
+
+5. Goodearl, K.R., Von Neumann Regular Rings, Marshfield, Mass.: Pitman.
+
+6. Lam, T.Y., Lectures on Modules and Rings, New York: Springer Verlag, 1998.
+
+7. Lam, T.Y., Exercises in Classical Ring Theory, New York: Springer Verlag, 1995.
+
+8. McLane, S., Categories for the Working Mathematician, New York: Springer Verlag,
+1972.
+
+9. Rowen, L.H., Ring Theory, I, II, Boston: Academic Press, 1998.
+
+10. Stenstrom, B., Rings of Quotients, New York: Springer Verlag, 1975.
+
+SUGERENCIAS DIDACTICAS: Lograr la participacion activa de los alumnos mediante
+exposiciones.
+
+SUGERENCIA PARA LA EVALUACION DE LA ASIGNATURA: Ademas de las califi-
+caciones en examenes y tareas se tomara en cuenta la participacion del alumno.
+
+PERFIL PROFESIOGRAFICO: Matematico, fisico, actuario o licenciado en ciencias de
+la computacion, especialista en el area de la asignatura a juicio del comite de asignacion
+de cursos.
+
+5
+
+

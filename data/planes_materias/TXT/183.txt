@@ -1,0 +1,246 @@
+A DE MEXICO 
+
+ 
+Facultad de Ciencias 
+
+ 
+Plan de estudios de la Licenciatura en 
+
+ Matematicas  
+ 
+
+Ecuaciones Diferenciales Parciales II 
+ 
+
+Clave 
+0183 
+
+Semestre 
+ 7 u 8 
+
+Creditos 
+10 
+
+Area de 
+concentracion 
+
+ 
+
+Campo de 
+conocimiento 
+
+ 
+
+Etapa 
+ 
+
+VII y VIII 
+
+Modalidad 
+Curso ( X ) Taller ( ) Lab ( ) Sem ( ) 
+ 
+ 
+
+Tipo T ( X )     P (  )    T/P  (  )  
+
+Caracter 
+Obligatorio (  )           Optativo ( X ) 
+ 
+Obligatorio E ( )        Optativo E ( )  
+
+Horas 
+
+ Semana Semestre  
+
+ Teoricas          5 Teoricas           80 
+
+ Practicas         0 Practicas           0 
+
+ Total                5 Total                  80 
+
+ 
+
+Seriacion 
+ 
+
+Ninguna (   ) 
+
+Obligatoria (   ) 
+
+Asignatura antecedente 
+ 
+
+ 
+
+Asignatura subsecuente 
+ 
+
+ 
+
+Indicativa ( x ) 
+
+Asignatura antecedente 
+ 
+
+Calculo de Variaciones, Ecuaciones Diferenciales Parciales I 
+
+Asignatura subsecuente 
+ 
+
+Ninguna 
+
+ 
+ 
+
+Objetivo general: 
+En este curso se introduce al alumno a la teoria de Ecuaciones Diferenciales Parciales en forma 
+mas analitica. El programa esta orientado principalmente a la teoria de Ecuaciones Elipticas y 
+metodos Variacionales en Ecuaciones Diferenciales Parciales 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+Indice tematico 
+
+ Tema  
+
+Horas 
+ semestre  
+
+Teoricas Practicas 
+
+1 Espacios de Hilbert 27 0 
+
+2 Metodos variacionales 27 0 
+
+3 Ecuaciones elipticas 26 0 
+
+Subtotal 80 0 
+
+Total 80 
+
+ 
+
+Contenido Tematico 
+
+ Tema y subtemas 
+
+1 Espacios de Hilbert. 
+
+1.1 Espacios vectoriales. 
+
+1.2 Dependencia lineal, bases. 
+
+1.3 Proyecciones. 
+
+1.4 Funcionales y operadores, teorema de Riesz. 
+
+1.5 Operadores simetricos, positivos, autoadjuntos, compactos,espectro. 
+
+2 Metodos variacionales 
+
+2.1 Problemas variacionales de la Fisica, Lax-Milgram. 
+
+2.2 Metodos de aproximacion, sucesiones minimizantes, series ortogonales, 
+
+      Ritz, Galerkin, minimos cuadrados, Courant,gradiente, gradiente conjugada 
+
+2.3 Aplicaciones a ecuaciones diferenciales. 
+
+2.4 Desigualdades de Friedrich, de Poincare 
+
+2.5 Ecuaciones ordinarias: Sturm-Liouville. 
+2.6 Ecuaciones parciales: 2do. Orden: 
+
+      compacidad de Rellich, teorema de traza. Biarmonica. Elasticidad. 
+
+3 Ecuaciones elipticas 
+
+3.1 Soluciones debiles, desigualdades a priori. 
+
+3.2 Soluciones generalizadas, alternativa de Fredholm, valores propios, minimax 
+
+3.3 Regularidad en el interior, desigualdades de Sobolev, estimaciones de 
+
+      Schauder. 
+
+ 
+ 
+
+Estrategias didacticas Evaluacion del aprendizaje 
+
+Exposicion                                                   ( X ) Examenes parciales                ( X ) 
+
+Trabajo en equipo                                         (  ) Examen final                  ( X ) 
+
+Lecturas                                                         (  ) Trabajos y tareas                  ( X ) 
+
+Trabajo de investigacion                               (  ) Presentacion de tema                 (  ) 
+
+Practicas (taller o laboratorio)                     ( X ) Participacion en clase                            ( X ) 
+
+Practicas de campo                                       (  ) Asistencia                                                 (  ) 
+
+Aprendizaje por proyectos                          ( X ) Rubricas                                                   (  ) 
+
+Aprendizaje basado en problemas             ( X ) Portafolios                                                (  ) 
+
+Casos de ensenanza                                  ( X ) Listas de cotejo                                        (  ) 
+
+Otras (especificar) Otras (especificar)  
+
+ 
+ 
+
+Perfil profesiografico 
+
+Titulo o grado Matematico, fisico, actuario o licenciado en ciencias de la computacion. 
+
+Experiencia docente  
+
+
+
+Otra caracteristica Especialista en el area de la asignatura a juicio del comite de asignacion 
+de cursos 
+
+ 
+ 
+ 
+
+Bibliografia basica: 
+
+ Rektorys, K., Variational Methods in Mathematics, Science and Engineering, Dordrecht; 
+Holland: D. Reidel Publishing Company, 1977 
+
+ Courant, R., Hilbert, D., Methods of Mathematical Physics, New York: Wiley Interscience, 
+1953 
+
+ Ize, J., Las ecuaciones en derivadas parciales y sus aplicaciones, Teoria de existencia 
+para ecuaciones en derivadas parciales, Comunicaciones Tecnicas, serie verde Mexico: 
+IIMAS. 1978. 
+
+ 
+
+Bibliografia complementaria: 
+
+ Mikhlin, S. C., Variational Methods in Mathematical Physics, New York: Pergamon, 1964. 
+
+ Reed, M., Simon, B., Methods of Modern Mathematical Physics, New York: Academic 
+Press, 1972. 
+
+ 
+
+ 
+ 
+
+
+
+ 
+
+

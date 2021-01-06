@@ -1,0 +1,121 @@
+TIVOS
+
+CLAVE: 0302 MODALIDAD: Curso
+TERCER SEMESTRE CARACTER: Obligatorio 
+CREDITOS: 12 REQUISITOS: Mecanica Vectorial, 
+
+Laboratorio de Mecanica Vectorial, 
+Computacion, Calculo Diferencial I y II
+
+______________________________________________________________________
+HORAS POR CLASE TEORICAS: 2
+HORAS POR SEMANA TEORICAS: 6 
+HORAS POR SEMESTRE TEORICAS: 96
+
+Objetivo
+Introducir al estudiante al analisis de los fenomenos, resultado de interacciones termicas 
+y mecanicas, que se manifiestan en sistemas macroscopicos, en los diferentes estados 
+de  agregacion  de  la  materia:  solido,  liquido  y  gaseoso;  tanto  en  condiciones  de 
+equilibrio como fuera de el.
+
+Metodologia de la ensenanza
+
+Siendo  un  curso  introductorio  relacionado  con  el  estudio  de  sistemas  de  muchas 
+particulas es conveniente incorporar, de ser posible, experimentos demostrativos para 
+ilustrar la fenomenologia que se esta analizando. Asimismo, seria deseable mostrar la 
+interaccion  entre  los  fenomenos  termicos,  fluido-dinamicos  y  acusticos  que  se 
+manifiestan como respuesta del sistema para alcanzar un estado de equilibrio.
+
+Evaluacion del curso
+
+Examenes, tareas, reportes de lectura de articulos y proyectos semestrales.
+
+Temario
+
+1. Introduccion  6 hrs.
+1.1 Cuerpos deformables.
+1.2 Estados de agregacion de la materia.
+1.3 Metodos de descripcion de sistemas macroscopicos.
+1.4 Propiedades de las fronteras que limitan a los sistemas macroscopicos.
+1.5 Variables macroscopicas, su medicion y su clasificacion.
+1.6 Concepto de estado de equilibrio de un sistema macroscopico.
+
+2. Equilibrio termodinamico de sistemas compuestos  12 hrs. 
+2.1 Ecuacion de estado termica.
+2.2 Concepto de temperatura.
+2.3 Funciones de respuesta "mecanica", (coeficientes de dilatacion, modulos 
+
+elasticos, susceptibilidades, etc.).
+2.4 Termometros.
+
+3. Estatica en sistemas macroscopicos  12 hrs.
+3.1 Deformaciones.
+3.2 Principio de Pascal.
+
+
+
+3.3 Principio de Arquimedes.
+3.4 Fenomenos interfaciales.
+
+4. Cambios de un estado de equilibrio a otro (Procesos)  14 hrs.
+4.1 Concepto de trabajo.
+4.2 Concepto de calor.
+4.3 Concepto de energia interna.
+4.4 Primera Ley de la termodinamica.
+4.5 Funciones de respuesta termica (calores especificos).
+
+5. Cambios "naturales" de un estado de equilibrio a otro  14 hrs.
+5.1 Segunda Ley de la termodinamica.
+5.2 Escala absoluta de temperatura.
+5.3 Conceptos de reversibilidad e irreversibilidad.
+5.4 Concepto de entropia.
+
+6. Mecanismos presentes en la ruta al equilibrio  14 hrs.
+6.1 Concepto de equilibrio local.
+6.2 Fenomenos de transporte.
+6.3 Principios de conservacion.
+
+7. Oscilaciones en sistemas macroscopicos  12 hrs.
+7.1 Ecuacion de onda.
+7.2 Caracteristicas de una onda.
+7.3 Fenomenos ondulatorios.
+7.4 Interaccion onda - sistema.
+
+8. Introduccion a la descripcion microscopica de un sistema macroscopico  12 hrs.
+8.1 Conceptos basicos de probabilidad.
+8.2 Concepto de distribucion estadistica.
+8.3 Distribucion de velocidades de Maxwell-Boltzmann.
+8.4 Calculo de la presion de una coleccion de particulas libres.
+8.5 Calculo de la energia interna de una coleccion de particulas libres.
+
+Bibliografia basica
+
+* Ingard, U., Kraushaar, W.I., Introduccion al estudio de la mecanica, materia y 
+ondas, Reverte, S.A., Mexico (1973).
+
+* G. Carmona, Termodinamica Clasica, Fac. de Ciencias-UNAM, Mexico (2007).
+* E. Guyon, J.P. Hullin, L. Petit y C.D. Mitescu, Physical hydrodynamics, Oxford 
+
+University Press (2001).
+* Elmore W.C., Heald M.A., Physics of Waves, Dover Publications Inc., New York, 
+
+Schaums (1985).
+
+Bibliografia complementaria
+
+* Walker, J., The flying circus of physics, JohnWiley&Sons, New York (1974).
+* Garcia-Colin, S. L., Introduccion a la termodinamica clasica, Editorial Trillas , 
+
+Mexico (2002).
+
+
+
+* Homsy, G.M. et al., Multimedia Fluid Mechanics, Cambridge University Press 
+(2007).
+
+* Perez Cruz, J.R., La termodinamica de Galileo a Gibbs, Fundacion Canaria 
+Orotova de Historia de la Ciencia, Tenerife (2005).
+
+
+	FENOMENOS COLECTIVOS
+

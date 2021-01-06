@@ -1,0 +1,130 @@
+FACULTAD DE CIENCIAS
+
+CARRERA DE MATEMATICO
+
+SEMINARIO DE ALGEBRA B
+Ejemplo: Teoria de reticulas
+
+SEMESTRE: Septimo u octavo
+CLAVE: 0705
+
+HORAS A LA SEMANA/SEMESTRE
+
+TEORICAS PRACTICAS CREDITOS
+5/80 0 10
+
+CARACTER: OPTATIVO.
+MODALIDAD: CURSO.
+SERIACION INDICATIVA ANTECEDENTE: Algebra Moderna I, Analisis Matemati-
+co I, Variable Compleja I.
+SERIACION INDICATIVA SUBSECUENTE: Ninguna.
+
+OBJETIVO(S): Introducir al alumno a los principales conceptos, resultados y problemas
+que se abordan en esta rama del algebra.
+
+NUM. HORAS UNIDADES TEMATICAS
+
+5 1. Conjuntos y relaciones
+1.1 Conjuntos.
+1.2 Numeros naturales.
+1.3 Relaciones y operaciones.
+1.4 Relaciones de equivalencia.
+1.5 Congruencias.
+
+10 2. Definiciones de reticulas
+
+2.1 Ordenes parciales.
+2.2 Cadenas y anticadenas.
+2.3 Reticulas.
+2.4 Ejemplos: Reticulas finitas pequenas. Reticulas booleanas. Pro-
+ductos. Reticulas de equivalencia o particion. Cadenas.
+
+1
+
+
+
+15 3. Conceptos basicos
+3.1 Dualidad.
+3.2 Intersecciones y uniones.
+
+3.3 Atomos y coatomos, seudocomplementos, complementos.
+3.4 Subreticulas.
+3.5 Morfismos.
+3.6 Condiciones de cadena y completez.
+3.7 Completaciones.
+3.8 Productos.
+3.9 Congruencias.
+3.10 Lema de Zorn y elementos maximos.
+
+20 4. Reticulas modulares y distributivas
+4.1 Modularidad.
+4.2 Condiciones de longitud y cubrimiento.
+4.3 Elementos irreducibles.
+4.4 Grupos y modulos.
+4.5 Semimodularidad.
+4.6 Complementos y atomos.
+4.7 Distributividad.
+
+4.8 Algebras de Boole. Complementos. Atomos. Subalgebras. Ideales.
+
+4.9 Algebras de Skolem.
+4.10 Logica.
+4.11 Caracterizacion de distributividad y modularidad mediante
+prohibicion de subreticulas.
+
+10 5. Ideales y filtros
+5.1 Ideales primos, ideales maximos y ultrafiltros.
+5.2 Existencia.
+
+10 6. Representaciones
+6.1 Mediante reticulas de conjuntos.
+6.2 Espacios ideales primos.
+6.3 Dualidad.
+
+10 7. Aplicaciones a otras areas de la Matematica
+7.1 Grupos, anillos, topologia.
+
+2
+
+
+
+BIBLIOGRAFIA BASICA:
+
+1. Davey, P., Introduction to Lattices and Order, Cambridge: Cambridge University,
+1990.
+
+2. Donnellan, T., Lattice Theory, Oxford: Pergamon Press, 1968.
+
+3. Gratzer, G., General Lattice Theory, Boston : Birkhauser, 1998.
+
+BIBLIOGRAFIA COMPLEMENTARIA:
+
+1. Birkhoff, G., Lattice Theory, Providence, Rhode Island: American Mathematical So-
+ciety, 1973.
+
+2. Blyth, T.S., Ockham Algebras, Oxford: Oxford University, 1994.
+
+3. Freese, R., Jezek, J., Nation, J.B., Free Lattices, Providence, Rhode Island: American
+Mathematical Society, 1995.
+
+4. Halmos, P.R., Lectures on Boolean Algebras, New York: Springer-Verlag, 1974.
+
+5. Kalmbach, G., Orthomodular Lattices, London: Academic, 1983.
+
+6. Stern, M., Semimodular Lattices, Cambridge: Cambridge University, 1999.
+
+7. Szasz, G., Theorie des Treillies, Paris: Dunod, 1971
+
+SUGERENCIAS DIDACTICAS: Lograr la participacion activa de los alumnos mediante
+exposiciones.
+
+SUGERENCIA PARA LA EVALUACION DE LA ASIGNATURA: Ademas de las califi-
+caciones en examenes y tareas se tomara en cuenta la participacion del alumno.
+
+PERFIL PROFESIOGRAFICO: Matematico, fisico, actuario o licenciado en ciencias de
+la computacion, especialista en el area de la asignatura a juicio del comite de asignacion
+de cursos.
+
+3
+
+

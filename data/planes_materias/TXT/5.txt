@@ -1,0 +1,330 @@
+A DE MEXICO 
+
+ 
+Facultad de Ciencias 
+
+            
+Plan de estudios de la Licenciatura en 
+
+ Matematicas 
+ 
+
+Algebra Lineal 1 
+ 
+
+Clave 
+0005 
+
+Semestre 
+3 
+
+Creditos 
+10 
+
+Area de 
+conocimiento 
+
+ 
+
+Campo 
+ 
+
+ 
+
+Etapa 
+ 
+
+ 
+
+Modalidad 
+Curso ( X ) Taller ( ) Lab ( ) Sem ( ) 
+ 
+ 
+
+Tipo T ( X )     P (  )    T/P  (  )  
+
+Caracter 
+Obligatorio ( X )            Optativo ( ) 
+ 
+Obligatorio E ( )        Optativo E ( )  
+
+Horas 
+
+ Semana Semestre  
+
+ Teoricas              5 Teoricas             80 
+
+ Practicas             0  Practicas             0 
+
+ Total                    5 Total                   80 
+
+ 
+
+Seriacion 
+ 
+
+Ninguna (   ) 
+
+Obligatoria (   ) 
+
+Asignatura antecedente 
+ 
+
+ 
+
+Asignatura subsecuente 
+ 
+
+ 
+
+Indicativa ( X  ) 
+
+Asignatura antecedente 
+ 
+
+Algebra Superior II 
+Geometria Analitica II 
+
+Asignatura subsecuente 
+ 
+
+Calculo Diferencial e Integral IV 
+Ecuaciones Diferenciales I 
+Investigacion de Operaciones 
+Probabilidad II 
+Analisis Numerico 
+Taller de Modelacion III 
+
+ 
+
+Objetivo general: 
+ 
+
+ Introducir a los espacios vectoriales, transformaciones lineales y sus principales aplicaciones. 
+ 
+
+Objetivos especificos: 
+ 
+
+
+
+ Identificar los conceptos de espacio y subespacio vectorial, base, dimension, dependencia y 
+combinacion lineal, asi como las aplicaciones geometricas de tales conceptos. 
+
+ Identificar el concepto de  matrices, asi como las aplicaciones geometricas de tal concepto. 
+ Reconocer el concepto de transformacion lineal y sus aplicaciones principales. 
+
+ Reconocer el concepto de transformacion lineal y marices, y sus aplicaciones principales. 
+
+ Comprender las caracteristicas de los espacios con producto escalar y los principales elementos 
+y resultados que estan relacionados con ellos. 
+
+ Reconocer el concepto de determinantes y sus aplicaciones principales. 
+
+ Reconocer el concepto de transformaciones simetricas y sus aplicaciones principales. 
+ 
+
+ 
+ 
+
+Indice tematico 
+
+ Tema  
+
+Horas 
+ semestre  
+
+Teoricas Practicas 
+
+1 Espacios vectoriales 15 0 
+
+2 Matrices 10 0 
+
+3 Transformaciones lineales 12 0 
+
+4 Transformaciones lineales y matrices 12 0 
+
+5 Producto escalar 17 0 
+
+6 Determinantes 10 0 
+
+7 Transformaciones simetricas 4 0 
+
+Subtotal 80 0 
+
+Total 80 
+
+ 
+ 
+
+Contenido Tematico 
+
+ Tema y subtemas 
+
+1 Espacios vectoriales 
+
+ 
+
+1.1 Campos. 
+1.2 Espacios vectoriales. 
+1.3 Subespacios vectoriales. 
+1.4 Dependencia lineal. 
+1.5 Bases y dimension. 
+1.6 Sumas directas. 
+ 
+
+2 Matrices 
+
+ 
+
+2.1 El espacio de las matrices. 
+2.2 Multiplicacion de matrices. Matrices elementales. Matriz inversa. 
+2.3 Sistemas de ecuaciones lineales. 
+ 
+
+3 Transformaciones lineales 
+
+ 
+
+3.1 El espacio de las transformaciones lineales. 
+3.2 Nucleo e imagen de una transformacion lineal. 
+3.3 Composicion de transformaciones lineales. 
+3.4 La transformacion inversa. 
+3.5 Espacios isomorfos. 
+ 
+
+
+
+4 Transformaciones lineales y matrices 
+
+ 
+
+4.1 La transformacion lineal asociada a una matriz. 
+4.2 La matriz asociada a una transformacion lineal. 
+4.3 Isomorfismos entre el espacio de matrices y el de transformaciones lineales. 
+4.4 Cambios de base. 
+ 
+
+5 Producto escalar 
+
+ 
+
+5.1 Productos escalares y hermitianos. 
+5.2 Ortogonalidad. 
+5.3 Productos positivos, normas y angulos. 
+5.4 Coeficientes de Fourier. 
+5.5 Bases ortogonales (caso positivo). 
+5.6 Complemento ortogonal de un subespacio. Aplicacion a los sistemas de 
+
+ecuaciones. 
+5.7 Bases ortogonales (caso general). 
+5.8 Espacio dual. 
+ 
+
+6 Determinantes 
+
+ 
+
+6.1 Unicidad del determinante. 
+6.2 Determinante de un producto. 
+6.3 Invertibilidad de matrices y determinantes. 
+6.4 Determinante de un operador lineal. 
+ 
+
+7 Transformaciones simetricas 
+
+ 
+
+7.1 Definicion y propiedades elementales de valores y vectores propios. 
+7.2 Polinomio caracteristico. 
+7.3 Existencia de valores propios reales de transformaciones simetricas. 
+7.4 Teorema espectral para transformaciones simetricas. 
+7.5 Ejemplos. 
+ 
+
+ 
+ 
+
+Estrategias didacticas Evaluacion del aprendizaje 
+
+Exposicion                                                  ( X ) Examenes parciales                ( X ) 
+
+Trabajo en equipo                                       (  ) Examen final                  ( X ) 
+
+Lecturas                                                         (  ) Trabajos y tareas                  ( X ) 
+
+Trabajo de investigacion                               (  ) Presentacion de tema                 (  ) 
+
+Practicas (taller o laboratorio)                       (  ) Participacion en clase                            ( X ) 
+
+Practicas de campo                                       (  ) Asistencia                                                 (  ) 
+
+Aprendizaje por proyectos                            (  ) Rubricas                                                   (  ) 
+
+Aprendizaje basado en problemas               (  ) Portafolios                                                (  ) 
+
+Casos de ensenanza                                    (  ) Listas de cotejo                                        (  ) 
+
+Otras (especificar) Otras (especificar) 
+
+  
+
+  
+
+ 
+ 
+ 
+ 
+
+
+
+Perfil profesiografico 
+
+Titulo o grado Matematico, fisico, actuario o licenciado en ciencias de la computacion. 
+
+Experiencia docente Con experiencia docente. 
+
+Otra caracteristica Especialista en el area de la asignatura a juicio del comite de asignacion 
+de cursos. 
+
+ 
+ 
+
+Bibliografia basica: 
+ 
+
+ Curtis, C.W., Linear Algebra. New York: Springer, 1984. 
+
+ Friedberg, S. H., Insel, A. J., Spence, L. E., Algebra Lineal. Mexico: Publicaciones Cultural, 
+1982. 
+
+ Hoffman, K., Kunze, R., Algebra Lineal. Bogota: Prentice Hall Internacional, 1973. 
+
+ Lang, S., Algebra Lineal. Mexico: Sistemas Tecnicos de Edicion, 1986. 
+
+ Nomizu, K., Fundamentals of Linear Algebra. New York: McGraw-Hill, 1966. 
+
+ Rincon, H. A., Algebra Lineal. Mexico: Las Prensas de Ciencias, 2002. 
+ 
+
+Bibliografia complementaria: 
+ 
+ 
+
+ Birkhoff, G., MacLane, S., A Survey of Modern Algebra. New York: Macmillan, 1977. 
+
+ Jacobson, N., Lectures in Abstract Algebra, Volumen II. New York: Van Nostrand, 1951. 
+
+ Lluis, E., Algebra Lineal, Algebra Multilineal y K-Teoria Algebraica Clasica. Mexico: Addison-
+Wesley Iberoamericana, 1990. 
+
+ Nickerson, H. K., Spencer, D. C., Steenrod, N. E., Advanced Calculus. Princeton: Van 
+Nostrand,1959. 
+
+ 
+ 
+
+ 
+ 
+
+

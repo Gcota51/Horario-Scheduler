@@ -1,0 +1,377 @@
+VERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+ 
+                          Facultad de Ciencias 
+
+          
+                      Plan de estudios de la Licenciatura en Actuaria 
+
+ 
+ 
+
+Analisis Multivariado 
+ 
+
+Clave 
+1815 
+
+Semestre 
+7 u 8 
+
+Creditos 
+10 
+
+Area 
+ 
+
+ 
+
+Campo de 
+conocimiento 
+
+Probabilidad y Estadistica 
+
+Etapa 
+ 
+
+Profundizacion 
+
+Modalidad 
+Curso ( X ) Taller ( ) Lab ( ) Sem ( ) 
+ 
+ 
+
+Tipo T ( X )     P (  )    T/P  (  )  
+
+Caracter 
+Obligatorio ( )            Optativo ( X ) 
+ 
+Obligatorio E ( )        Optativo E ( )  
+
+Horas 
+
+ Semana Semestre  
+
+ Teoricas           5 Teoricas           80 
+
+ Practicas          0 Practicas           0 
+
+ Total                 5 Total                  80 
+
+ 
+
+Seriacion 
+ 
+
+Ninguna (   ) 
+
+Obligatoria (   ) 
+
+Asignatura antecedente 
+ 
+
+ 
+
+Asignatura subsecuente 
+ 
+
+ 
+
+Indicativa ( X ) 
+
+Asignatura antecedente 
+ 
+
+Inferencia Estadistica 
+
+Asignatura subsecuente 
+ 
+
+Optativas del campo de probabilidad y estadistica 
+
+ 
+
+Objetivo general: 
+ 
+
+ Conocer las principales tecnicas del analisis estadistico multivariado para resolver diversos problemas 
+de aplicacion de la Estadistica. 
+
+ 
+
+Objetivos especificos: 
+ 
+
+ Estudiar propiedades relacionadas con el algebra de matrices y algunas distribuciones multivariadas 
+
+ Comprender el concepto de datos multivariados y sus representaciones graficas 
+
+ Conocer y aplicar algunos metodos basicos del analisis multivariado 
+
+
+
+ Identificar los fundamentos del analisis de conglomerados y explicar las principales ideas y usos del 
+analisis discriminante 
+
+ 
+
+ 
+
+Indice tematico 
+
+ Tema  
+
+Horas 
+ semestre  
+
+Teoricas Practicas 
+
+1 Algebra de Matrices y Distribuciones Multivariadas 15 0 
+
+2 Analisis descriptivo de datos multivariados  5 0 
+
+3 Tecnicas de reduccion de dimension 40 0 
+
+4 Metodos de clasificacion 20 0 
+Total 80 
+
+ 
+
+Contenido Tematico 
+
+ Tema y subtemas 
+
+1 Algebra de Matrices y Distribuciones Multivariadas 
+ 
+
+1.1 Descomposicion en valor singular y valor espectral. 
+
+1.2 Propiedades de la traza y el determinante. 
+
+1.3 Propiedades de las matrices definidas positivas. 
+
+1.4 La distribucion normal multivariada. 
+
+1.5 La densidad Wishart. 
+
+1.5 La densidad T2 de Hotelling. 
+
+1.6 La densidad  de Wilks 
+ 
+
+2 Analisis descriptivo de datos multivariados 
+
+ 
+
+2.1 Introduccion a los datos multivariados. 
+
+2.2 Representacion grafica de datos multivariados. 
+
+ 2.2.1 Diagramas de estrellas. 
+
+ 2.2.2 Caritas de Chernoff. 
+
+ 2.2.3 Curvas de Andrews. 
+ 
+
+3 Tecnicas de reduccion de dimension 
+
+ 
+
+3.1 Analisis de componentes principales (ACP). 
+
+ 3.1.1 Objetivos del ACP. 
+
+ 3.1.2 Fundamentacion teorica del ACP. 
+
+ 3.1.3 Estimacion del ACP. 
+
+ 3.1.4 Usos del ACP. 
+
+3.2 Analisis de Factores (AF). 
+
+ 3.2.1 Objetivos del AF. 
+
+ 3.2.2 Fundamentacion teorica del AF. 
+
+ 3.2.3 Estimacion del AF. 
+
+ 3.2.4 Interpretacion y usos del AF. 
+
+3.3 Analisis de correspondencias (AC). 
+
+ 3.3.1 Objetivos del AC. 
+
+
+
+ 3.3.2 Fundamentacion teorica del AC. 
+
+ 3.3.3 Implementacion del AC. 
+
+ 3.3.4 Interpretacion del AC. 
+
+ 3.3.5 Usos del AC. 
+
+3.4.  Escalamiento multidimensional (EM). 
+
+ 3.4.1 Objetivos del EM. 
+
+ 3.4.2 Fundamentacion teorica del EM. 
+
+ 3.4.3 Escalamiento metrico. 
+
+ 3.4.4 Escalamiento no metrico. 
+
+ 3.4.5 Usos del EM. 
+ 
+
+4 Metodos de clasificacion 
+
+ 
+
+4.1 Analisis de conglomerados (AC). 
+
+ 4.1.1 Objetivos del AC. 
+
+ 4.1.2 Fundamentacion teorica del AC. 
+
+ 4.1.3 Metodos jerarquicos de AC. 
+
+ 4.1.4 Basado en modelos. 
+
+ 4.1.4 Usos del AC. 
+
+4.2 Analisis discriminante (AD). 
+
+ 4.2.1 Objetivos del AD. 
+
+ 4.2.2 Fundamentacion teorica del AD. 
+
+ 4.2.3 Discriminante cuadratico. 
+
+ 4.2.4 Estimacion en el AD. 
+
+ 4.2.5 Usos del AD.  
+ 
+
+ 
+
+Estrategias didacticas Evaluacion del aprendizaje 
+
+Exposicion                                                   ( X ) Examenes parciales                ( X ) 
+
+Trabajo en equipo                                         (  ) Examen final                  ( X ) 
+
+Lecturas                                                      ( X )  Trabajos y tareas                  ( X ) 
+
+Trabajo de investigacion                             ( X ) Presentacion de tema                 (  ) 
+
+Practicas (taller o laboratorio)                     ( X ) Participacion en clase                            (  ) 
+
+Practicas de campo                                       (  ) Asistencia                                                 (  ) 
+
+Aprendizaje por proyectos                          ( X ) Rubricas                                                   (  ) 
+
+Aprendizaje basado en problemas               (  ) Portafolios                                                (  ) 
+
+Casos de ensenanza                                    (  ) Listas de cotejo                                        (  ) 
+
+Otras (especificar) Otras (especificar)  
+
+  
+
+Todos los analisis de datos que se desarrollen 
+
+durante el curso, asi como tareas y reportes se 
+
+realizaran con el paquete estadistico R. 
+
+Se recomiendan tareas regulares en las cuales el 
+
+alumno aplique el material visto en clase y este 
+
+obligado a revisar diversas fuentes bibliograficas 
+
+para que amplie sus conocimientos con diferentes 
+
+enfoques.  
+
+Asimismo se sugiere que, al final del curso, el 
+
+alumno haga un analisis completo de un conjunto de 
+
+Se recomiendan de 3 a 4 examenes parciales y un 
+
+examen final, asi como la realizacion de tareas sobre 
+
+los temas  vistos en clase para reforzar los 
+
+conocimientos teoricos adquiridos. 
+
+ 
+
+
+
+datos y presente los resultados de manera oral y 
+
+escrita. 
+
+ 
+
+ 
+ 
+
+Perfil profesiografico 
+
+Titulo o grado Egresado preferentemente de las licenciaturas en Actuaria, Matematicas o alguna 
+afin. Es deseable que cuente con un posgrado en Estadistica 
+
+Experiencia docente Con experiencia docente. 
+
+Otra caracteristica Con conocimientos y practica en las principales tecnicas del analisis estadistico 
+multivariado. 
+
+ 
+ 
+ 
+
+Bibliografia basica: 
+ 
+
+ Dallas E. Johnson (1998). Applied Multivariate Methods for Data Analysts. Duxbury Press, pp 425. 
+
+ Briant S. Everitt (2010). Applied Multivariate Data Analysis (2a ed.). Wiley, pp. 342. 
+
+ Mardia, K. V., Kent, J. T. and Bibby, J. M. (1980). Multivariate Analysis. London: Academic Press. 
+
+ Rencher A. C. (2012). Methods of Multivariate Analysis (3a ed.). New York: John Wiley & Sons, Inc. 
+
+ Anderson, T.W. (2003). An Introduction to Multivariate Statistical Analysis (3a ed.). New York : Wiley. 
+
+ Krzanowski, W. J. and Marriot, F. H. C. (1994). Multivariate Analysis. Part I and Part II (2a ed.). Edward 
+Arnold, London. 
+
+ Seber, G. A. F. (2004). Multivariate Observations. New York: Wiley. 
+
+ Kendall, M. G. (1980). Multivariate Analysis. McMillan. 
+ 
+
+Bibliografia complementaria: 
+ 
+
+ Giri, N. C. (2003). Multivariate Statistical Analysis (2a ed, revisada y expndida). EE. UU.: CRC Press.  
+
+ Tenko Raykov & George A. Marcoulides (2008). Introduction to applied multivariate analysis. 
+Routledge Taylor & Francis Group. pp. 498. 
+
+ W. Hardle & L. Simar (2007). Applied Multivariate Statistical Analysis. New York: Springer Berlin 
+Heidelberg. pp. 455. 
+
+ 
+
+ 
+ 
+
+ 
+
+

@@ -1,0 +1,106 @@
+FACULTAD DE CIENCIAS
+
+CARRERA DE MATEMATICO
+
+GEOMETRIA MODERNA II
+
+SEMESTRE: Segundo al cuarto
+CLAVE: 0250
+
+HORAS A LA SEMANA/SEMESTRE
+
+TEORICAS PRACTICAS CREDITOS
+5/80 0 10
+
+CARACTER: OPTATIVO.
+MODALIDAD: CURSO.
+SERIACION INDICATIVA ANTECEDENTE: Geometria Moderna I.
+SERIACION INDICATIVA SUBSECUENTE: Seminario sobre la Ensenanza de las
+Matematicas I.
+
+OBJETIVO(S): Que el alumno tenga un manejo claro y agil de las propiedades principales
+de las circunferencias coaxiales, de la inversion, de la razon cruzada, de los polos y polares,
+mostrando que puede resolver problemas clasicos de geometria moderna. Los conceptos
+son basicos para Geometria Moderna, Proyectiva, Hiperbolica y Analitica.
+
+NUM. HORAS UNIDADES TEMATICAS
+
+15 1. Circunferencias coaxiales
+1.1 Potencia de un punto con respecto a una circunferencia.
+1.2 Eje radical de dos circunferencias.
+1.3 Circunferencias ortogonales.
+1.4 Familias coaxiales.
+1.5 Circunferencia de similitud.
+1.6 Aplicacion al cuadrilatero completo.
+
+15 2. Inversion
+2.1 Puntos inversos con respecto a una circunferencia.
+2.2 Inversion de rectas y circunferencias.
+2.3 Conservacion de angulos y razon cruzada.
+2.4 Inversion de un teorema.
+2.5 Construcciones.
+
+1
+
+
+
+15 3. Polos y polares
+3.1 La polar de un punto y el polo de una recta.
+3.2 Relaciones armonicas.
+3.3 Principio de dualidad.
+3.4 Triangulo autopolar. Circunferencia polar.
+3.5 Polos y polares para conicas.
+3.6 Los diez problemas de Apolonio.
+
+15 4. Razon cruzada
+4.1 Razon cruzada para hileras y haces.
+4.2 Construccion del cuarto elemento dada la razon.
+4.3 Razon cruzada en la circunferencia.
+4.4 Regla de la falsa posicion.
+4.5 Teorema de Pascal, Briandhon, Pappus.
+
+20 5. Introduccion a la Geometria Hiperbolica
+5.1 Los elementos de Euclides.
+5.2 El 5o postulado de los elementos.
+5.3 Los axiomas de la geometria hiperbolica.
+5.4 Modelos de la geometria hiperbolica.
+5.5 El modelo de Poincare del semiplano.
+5.6 La distancia en el plano hiperbolico (y el 2o postulado).
+5.7 Mediatrices y bisectrices.
+5.8 Isometrias en el plano hiperbolico.
+5.9 Construcciones.
+
+BIBLIOGRAFIA BASICA:
+
+1. Altshiller, C. N., An Introduction to the Modern Geometry of the Triangle and the
+Circle, New York: Barnes and Noble Inc., 1965.
+
+2. Menschkowsky, H., Non-euclidean Geometry, New York: Academic Press, 1972.
+
+3. Shively, L. S., Introduccion a la Geometria Moderna, Mexico: CECSA, 1968.
+
+BIBLIOGRAFIA COMPLEMENTARIA:
+
+1. Fernandez-Roman, L., Jugando con el Triangulo Hiperbolico, Mexico: Tesis de Li-
+cenciatura, Facultad de Ciencias, UNAM, 2001.
+
+2. Garcia Campos, M., Geometria Hiperbolica para Principiantes, Mexico: Tesis de
+Licenciatura, Facultad de Ciencias, UNAM, 2001.
+
+2
+
+
+
+SUGERENCIAS DIDACTICAS: Lograr la participacion activa de los alumnos mediante
+exposiciones.
+
+SUGERENCIA PARA LA EVALUACION DE LA ASIGNATURA: Ademas de las califi-
+caciones en examenes y tareas se tomara en cuenta la participacion del alumno.
+
+PERFIL PROFESIOGRAFICO: Matematico, fisico, actuario o licenciado en ciencias de
+la computacion, especialista en el area de la asignatura a juicio del comite de asignacion
+de cursos.
+
+3
+
+

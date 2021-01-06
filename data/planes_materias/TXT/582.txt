@@ -1,0 +1,247 @@
+CCION A LA FISICA CUANTICA
+
+________________________________________________________________________
+CLAVE: 0582 MODALIDAD: Curso
+QUINTO SEMESTRE CARACTER: Obligatorio 
+CREDITOS: 12 REQUISITOS: Ecuaciones Diferenciales I,
+
+Calculo Diferencial e Integral IV, 
+Electromagnetismo I,
+Fenomenos Colectivos.
+
+________________________________________________________________________
+________________________________________________________________________
+HORAS POR CLASE TEORICAS: 2 
+HORAS POR SEMANA TEORICAS: 6 
+HORAS POR SEMESTRE TEORICAS: 96 
+________________________________________________________________________
+
+Objetivos
+El curso tiene como objetivo dar al alumno un concepto actual y unificado  de la estructura 
+de la materia, mediante una vision cuantica del mundo microscopico.  Para lograr este 
+proposito  se  usara  la  evidencia  experimental  y  algunos  conceptos  elementales  de  la 
+mecanica cuantica con aplicaciones en la fisica atomica, molecular, el estado solido y la 
+fisica nuclear,  concluyendo con un panorama moderno de la  estructura de la  materia 
+basada en el modelo estandar y la fisica de las particulas elementales.
+
+Metodologia de la ensenanza 
+El  maestro  debera  motivar  la  participacion  activa  de  los  alumnos  por  medio  de 
+exposiciones y trabajos escritos.
+
+Evaluacion del curso. 
+La calificacion final tomara en cuenta las calificaciones de examenes parciales, de las 
+tareas, asi como la participacion de los alumnos.
+
+Temario
+
+1. ?DE QUE ESTA HECHA LA MATERIA?  4 hrs.
+ Tratamiento cualitativo y descriptivo del contenido del curso.
+
+1.1 Atomos: primeras evidencias (Dalton). Pesos moleculares, pesos atomicos, el 
+numero de Avogadro.
+
+1.2 La tabla periodica.
+1.3 Estructura de los atomos: Nucleos y electrones.
+1.4 Los electrones son particulas sin tamano ni estructura.
+1.5 Estructura de los nucleos: Protones y neutrones (las fuerzas nucleares son 
+
+fuerzas efectivas como las fuerzas moleculares).
+1.6 Estructura de los nucleones: Quarks (fuerza electromagnetica, fuerza fuerte y 
+
+fuerza debil como fuerzas fundamentales).
+
+1
+
+
+
+Antecedentes de la Fisica Cuantica.
+
+2. TEORIA CUANTICA DE LA LUZ (PUNTO DE VISTA DISCRETO DE LA 
+RADIACION)  12 hrs.
+2.1 Emision y absorcion de radiacion.
+2.2 Radiacion de cuerpo negro +.
+2.3 Ley de Rayleigh-Jeans. Ley de Planck de la radiacion de cuerpo negro +.
+2.4 * Conceptos basicos de Teoria Especial de la Relatividad +.
+2.5 Cuantizacion de la luz y el Efecto Fotoelectrico (Fotones).
+2.6 Rayos X (fotones de alta energia)
+2.7 Efecto Compton.
+2.8 Produccion de pares.
+
+3. NATURALEZA ATOMICA DE LA MATERIA  10 hrs.
+3.1 Espectros atomicos.
+3.2 Modelo atomico de Thomson.
+3.3 Experimento de Rutherford.
+3.4 Teoria de Bohr del atomo de Hidrogeno.
+3.5 Confirmacion directa de los niveles de energia atomicos: Experimento de 
+
+Franck-Hertz.
+3.6 Principio de Correspondencia.
+
+4. PROPIEDADES ONDULATORIAS DE LAS PARTICULAS  14 hrs. 
+4.1 La hipotesis de de Broglie, dualidad onda-particula. Ondas de materia.
+4.2 Medida de la longitud de onda de particulas: Experimento de Davisson-
+
+Germer.
+
+Introduccion al formalismo de la Fisica Cuantica y algunas aplicaciones
+
+5. ELEMENTOS DE MECANICA CUANTICA  16 hrs.
+5.1 La ecuacion de Schrodinger dependiente del tiempo.
+5.2 Condiciones para tener una funcion de onda aceptable.
+5.3 Experimentos de las dos rendijas y de interferencia de Aspect. Interpretacion 
+
+probabilistica de la funcion de onda.
+5.4 Operadores, linearidad y superposicion, valores esperados de los observables.
+5.5 Principio de Incertidumbre de Heisenberg y aplicaciones elementales.
+5.6 Ecuacion de Schrodinger independiente del tiempo.
+5.7 La caja de potencial. Condiciones a la frontera y normalizacion.
+5.8 Efecto Tunel: barrera cuadrada de potencial, coeficientes de transmision y de 
+
+reflexion. * Microscopio de barrido por tunelaje.
+5.9 El oscilador armonico simple.
+
+6. TEORIA CUANTICA DEL ATOMO DE HIDROGENO  12 hrs. 
+6.1 La ecuacion de Schrodinger para el atomo de Hidrogeno.
+6.2 Metodo de separacion de variables. Soluciones de las ecuaciones radial y 
+
+angulares, cuantizacion de la energia y cuantizacion del momento angular 
+orbital.
+
+6.3 Numeros cuanticos: principal, orbital y magnetico.
+6.4 Densidad de probabilidad electronica.
+6.5 Transiciones radiativas. Reglas de seleccion.
+
+2
+
+
+
+6.6 Cuantizacion espacial del momento angular orbital y Efecto Zeeman.
+
+7. ATOMOS DE MUCHOS ELECTRONES Y MOLECULAS: CONCEPTOS 
+FUNDAMENTALES  10 hrs.
+7.1 El espin del electron. Experimento de Stern-Gerlach.
+7.2 Principio de exclusion de Pauli.
+7.3 Configuraciones electronicas y la tabla periodica.
+7.4 Momento angular total, interaccion espin-orbita y espectros atomicos.
+7.5 Moleculas. Enlaces.
+7.6 Moleculas diatomicas. La molecula de Hidrogeno.
+7.7 Niveles de energia electronicos: rotacionales, vibracionales y espectros 
+
+moleculares.
+7.8 * Moleculas complejas.
+
+8. SISTEMAS DE MUCHAS PARTICULAS: CONCEPTOS FUNDAMENTALES  4 hrs. 
+8.1 Distribucion de Fermi-Dirac y Distribucion de Bose-Einstein.
+
+9. ESTADO SOLIDO: CONCEPTOS FUNDAMENTALES  6 hrs.
+9.1 Clasificacion de los solidos: solidos cristalinos y solidos amorfos.
+9.2 Gas de electrones libres.
+9.3 Teoria de bandas de energia en solidos cristalinos. Evidencia experimental de 
+
+la existencia de bandas: Conductores, semiconductores y dielectricos.
+9.4 Teorema de Bloch. Potencial de Kronig-Penney.
+9.5 * Semiconductores, dispositivos semiconductores, transistores y chips.
+9.6 * Superconductividad, Superfluidez y Condensacion de Bose-Einstein.
+9.7 * Corrales cuanticos y puntos cuanticos.
+
+10. FISICA NUCLEAR: CONCEPTOS FUNDAMENTALES  8 hrs.
+10.1 Propiedades de los nucleos:  
+
+a) Composicion de los nucleos. 
+b)  Propiedades de los nucleones. 
+c) La fuerza nuclear (como fuerza derivada, no fundamental).
+
+10.2 Distribucion de carga, radio nuclear y distribucion de materia nuclear en los 
+nucleos. Experimentos de dispersion elastica de electrones de alta energia por 
+nucleos.
+
+10.3 Las masas y las energias de amarre de los nucleos en sus estados base. 
+Energia de amarre por nucleon.
+
+10.4 Modelo de la gota del liquido: La formula de masas semiempirica y valle de 
+estabilidad b.
+
+10.5 Modelo de capas:
+ a) Pozos de potencial nuclear.
+ b) Estimacion de las energias de los nucleones.
+ c) Energia de las capas y momento angular.
+ d) Interaccion espin-orbita, numeros magicos y espectros nucleares.
+ e) * Momento dipolar magnetico de los nucleos.
+ f) * El momento cuadrupolar electrico de los nucleos (forma de los 
+nucleos).
+
+10.6 Decaimientos radiactivos.
+
+3
+
+
+
+11. PARTICULAS ELEMENTALES: CONCEPTOS FUNDAMENTALES  10 hrs.  
+Tratamiento descriptivo basado en la teoria del campo y la evidencia experimental.
+
+11.1 Clasificacion de las particulas elementales y las interacciones 
+fundamentales.
+
+11.2 Cuantizacion de las interacciones fundamentales (bosones de norma, W+- , 
+Z0, gluones, el Higgs).
+
+11.3 Leyes de conservacion y simetrias
+11.4 El Modelo Estandar.
+11.5 *Fisica mas alla del Modelo Estandar: Masas de los neutrinos. 
+
+Supersimetria, Super-cuerdas y otros topicos.
+
+* Estos temas  son optativos y se dejan al criterio del maestro.
+
++ Estos temas se discuten ampliamente en otros cursos.
+
+Bibliografia basica 
+* Arthur Beiser, Concepts of Modern Physics, 6th edition,  McGraw-Hill, USA 
+
+(2003).
+* Paul A. Tipler and Ralph A. Llewellyn, Modern Physics, 4th edition, W. H. Free-
+
+man and Company, New York (2003).
+* Raymond A. Serway, Clement J. Moses and Curt A. Moyer, Modern
+
+ Physics, 3rd. edition, Thomson Brooks-Cole (2005).
+* Stephen T. Thornton and Andrew Rex, Modern Physics for Scientist and 
+
+Engineers, 2nd edition, Thomson Learning Inc. (2002).
+* Frank Blatt, Modern Physics, McGraw-Hill, Co. USA (1992).
+
+Bibliografia complementaria 
+* Walter A. Harrison, Applied Quantum Mechanics, World Scientific (2001).
+* T. Hey y P. Walters, The New Quantum Universe, Cambridge University Press 
+
+(2003).
+* Richard Turton, The Physics of Solids, Oxford University Press (2000).
+* Charles Ruhla, The Physics of Chance. From Pascal to Niels Bohr, Oxford 
+
+University Press (1995).
+* J. P. McKelvey, Fisica del Estado Solido y Semiconductores, Limusa, Mexico 
+
+(1988).
+* W. N. Cottingham and D.A. Greenwood, An Introduction to Nuclear Physics, 
+
+Cambridge Univesity Press (2001).
+* Richard A. Dunlap, An Introduction to the Physics of Nuclei and Particles, 
+
+Thomson. Brooks-Cole (2004).
+* Jean-Louis Basdevant, James Rich, Michel Spiro, Fundamentals in Nuclear 
+
+Physics.  From Nuclear Structure to Cosmology, Springer (2004).
+* J. G. Martinus Veltman, Facts and Mysteries in Elementary Particle  Physics, 
+
+1st edition, World Scientific Co. Pte ltd, Singapore (2003).
+* W. N. Cottingham and D. A. Greenwood, An Introduction to the Standard Model 
+
+of Particle Physics, Cambridge University Press (2007).
+* Anthony W. Thomas, Wolfram Weise, The Structure of the Nucleon, J. Wiley-
+
+VCH (2001).
+* G. Kane, The Particle Garden, Addison Wesley USA (1995).
+
+4
+
+

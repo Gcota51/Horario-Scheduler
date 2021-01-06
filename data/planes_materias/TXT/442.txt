@@ -1,0 +1,382 @@
+VERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+ 
+                          Facultad de Ciencias 
+
+          
+                      Plan de estudios de la Licenciatura en Actuaria 
+
+ 
+ 
+
+Teoria de Redes 
+ 
+
+Clave 
+0442 
+
+Semestre 
+7 u 8 
+
+Creditos 
+10 
+
+Area 
+ 
+
+ 
+
+Campo de 
+conocimiento 
+
+Investigacion de Operaciones  
+
+Etapa 
+ 
+
+Profundizacion 
+
+Modalidad 
+Curso ( X ) Taller ( ) Lab ( ) Sem ( ) 
+ 
+ 
+
+Tipo T ( X )     P (  )    T/P  (  )  
+
+Caracter 
+Obligatorio ( )           Optativo ( X ) 
+ 
+Obligatorio E ( )        Optativo E ( )  
+
+Horas 
+
+ Semana Semestre 
+
+ Teoricas           5 Teoricas           80 
+
+ Practicas          0 Practicas          0 
+
+ Total                 5 Total                 80 
+
+ 
+
+Seriacion 
+ 
+
+Ninguna (   ) 
+
+Obligatoria (   ) 
+
+Asignatura antecedente 
+ 
+
+ 
+
+Asignatura subsecuente 
+ 
+
+ 
+
+Indicativa ( X ) 
+
+Asignatura antecedente 
+ 
+
+Asignaturas del campo de Investigacion de Operaciones. 
+
+Asignatura subsecuente 
+ 
+
+Asignaturas optativas del campo de Investigacion de 
+Operaciones. 
+
+ 
+
+Objetivos generales: 
+ 
+
+ Conocer los antecedentes historicos de la Teoria de Graficas y la Teoria de Redes. 
+
+ Tener una vision general de los modelos de optimizacion  de redes.  
+
+ Conocer los elementos necesarios para analizar y formular problemas, asi como aplicar los algoritmos 
+para resolverlos. 
+
+ Aprender el enfoque de la programacion lineal para resolver problemas de redes. 
+
+ Conocer los conceptos de dualidad y analisis de sensibilidad para utilizarlos como herramientas de 
+optimalidad.  
+
+ Aprender el enfoque de coloraciones en graficas para resolver problemas de redes 
+ 
+
+
+
+Objetivos especificos: 
+ 
+
+ Conocer los principales conceptos de teoria de graficas que permiten la formulacion de los 
+problemas de optimizacion en redes. 
+
+ Formular los problemas de optimizacion de arbol de expansion de peso minimo y los resolvera 
+con algoritmos tipo gloton. 
+
+ Discutir problemas de ruta mas corta y los algoritmos mas eficientes para su solucion 
+
+ Conocer los aspectos de dualidad que pueden ser utilizados como herramientas de optimalidad y 
+los aplicara a la resolucion del problema de flujo maximo. 
+
+ Comprender el concepto de red marginal y lo utilizara para resolver el problema de flujo con costo 
+minimo con enfoques primal y dual. 
+
+ Aplicar propiedades de arboles para la caracterizacion grafica de las soluciones basicas y 
+especializar en el algoritmo simplex para la resolucion del problema de flujo en redes. 
+
+ Conocer los algoritmos de coloracion en graficas y los aplicara en la solucion de problemas de 
+flujo. 
+
+ 
+ 
+
+ 
+Indice tematico 
+
+ Tema  
+
+Horas 
+semestre 
+
+Teoricas Practicas 
+
+1 Introduccion 10 0 
+
+2 Arbol de Expansion de Peso Minimo 10 0 
+
+3 Ruta mas corta      15 0 
+
+4 Flujo maximo     15 0 
+
+5 Flujo con costo minimo  10 0 
+
+6 Algoritmo simplex especializado en redes 10 0 
+
+7 Coloraciones en redes 10 0 
+Total 80 
+
+ 
+
+Contenido Tematico 
+
+ Tema y subtemas 
+
+1 Introduccion 
+
+ 
+
+1.1  Antecedentes historicos de la Teoria de Graficas y de la Teoria de Redes.                   
+
+1.2  Conceptos basicos y propiedades. 
+
+1.3Aplicaciones. 
+ 
+
+2 Arbol de Expansion de Peso Minimo 
+
+ 
+
+2.1  Definicion del problema. 
+
+2.2  Propiedades de los arboles. 
+
+2.3  Problema del arbol de peso minimo. 
+
+2.4  Algoritmo de Kruskal. 
+
+2.5  Algoritmo de Prim. 
+
+2.6  Analisis de sensibilidad. 
+ 
+
+
+
+3 Ruta mas corta  
+        
+3.1 Descripcion del problema.                  
+
+3.2 Tipos de problemas y existencia de solucion. 
+
+3.3 Caracterizacion de arborescencias. 
+
+3.4 Algoritmo de Dijkstra. 
+
+3.5 Algoritmo general. 
+
+3.6Algoritmo de Floyd. 
+ 
+
+4 Flujo Maximo 
+
+ 
+
+4.1Descripcion del problema.                  
+
+4.2  Cadenas aumentantes y sus propiedades. 
+
+4.3  Problema del corte minimo y su relacion con flujos. 
+
+4.4  Teorema de Flujo Maximo y Corte Minimo (Ford y Fulkerson). 
+
+4.5  Algoritmo de Ford-Fulkerson. 
+
+4.6  Variantes del problema. 
+ 
+
+5 Flujo con costo minimo 
+
+ 
+
+5.1  Descripcion del problema. 
+
+5.2  La red marginal. 
+
+5.3  Algoritmo primal (eliminacion de circuitos negativos). 
+
+5.4  Algoritmo dual (rutas mas cortas). 
+ 
+
+6 Algoritmo simplex especializado en redes   
+
+ 
+
+6.1  Descripcion del problema. 
+
+6.2  Caracterizacion de bases. 
+
+6.3  Algoritmo simplex especializado en redes. 
+
+6.4Variables acotadas. 
+ 
+
+7 Coloraciones en redes  
+       
+7.1 Flujos y potenciales. 
+
+7.2 Cadenas y cortes coloreados. 
+
+7.3 Algoritmo de enrutamiento. 
+
+7.4 Teorema de la red coloreada. 
+
+7.5 Problemas de flujo maximo. 
+
+7.6 Flujo factible. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+Estrategias didacticas Evaluacion del aprendizaje 
+
+Exposicion                                              ( X ) Examenes parciales                ( X ) 
+
+Trabajo en equipo                                  ( X ) Examen final                  ( X ) 
+
+Lecturas                                                  ( X ) Trabajos y tareas                  ( X ) 
+
+Trabajo de investigacion                         ( X ) Presentacion de tema                 (  ) 
+
+Practicas (taller o laboratorio)                 (  ) Participacion en clase                            (  ) 
+
+Practicas de campo                                 (  ) Asistencia                                                 (  ) 
+
+Aprendizaje por proyectos                       (  ) Rubricas                                                   (  ) 
+
+Aprendizaje basado en problemas             ( X ) Portafolios                                                (  ) 
+
+Casos de ensenanza                                   (  ) Listas de cotejo                                        (  ) 
+
+Otras (especificar) Otras (especificar) 
+
+ 
+ 
+
+Perfil profesiografico 
+
+Titulo o grado Egresado de las licenciaturas de Actuaria, Matematicas, Matematicas Aplicadas 
+o alguna afin.  
+
+Experiencia docente Experiencia docente en el area de la Investigacion de Operaciones.  
+ 
+
+Otra caracteristica  
+
+ 
+ 
+ 
+
+Bibliografia basica: 
+ 
+
+ Ahuja, R. K, Magnanti, T. L. y Orlin, J. B, 1993. Network Flows: Theory, Algorithms and Applications. 
+Prentice Hall. 
+
+ Bazaraa, M. S. y Jarvis, J. J. 2010. Linear Programming and Network Flows. (4a. edicion). John 
+Wiley&Sons,  
+
+ Christofides, N. 1975. Graph Theory: An algorithmic approach. AcademicPress, 1975. 
+
+ Hernandez, Ma. del Carmen. 2005. Introduccion a la Teoria de Redes.(2a. edicion). (Serie textos de 
+Aportaciones Matematicas. Sociedad Matematica Mexicana. 
+
+ Minieka, E., 1978. Optimization Algorithms for Networks and Graphs. Marcel Dekker. 
+
+ Rockafellar, R. T., 1984. Network Flows and Monotropic Optimization. John Wiley and Sons. 
+(Reeditado por Athena Scientific, 1998) 
+
+ Bertsekas, D. 1991. Linear Network Optimization: Algorithms and codes. Massachusetts Institute of 
+Technology. 
+
+ 
+
+Bibliografia complementaria: 
+ 
+
+ Bland, R. G. y Las Vernas, M., 1979.  Minty coloring and orientations of matroids. Annals New York 
+Academy of Sciences 319, pp. 86--92. 
+
+ Bollobas, B. (1998). Modern Graph Theory. Springer. 
+
+ Ford, L. R. y Fulkerson, D. R., 1962. Flows in Networks. Princeton University Press. 
+
+ Hiller, F. S. y Lieberman, C. J. 1980. Introduction to Operations Research. Holden-Day, Inc.  
+
+ Hu, T. C., 1969.  Integer Programming and Network Flows. Addison-Wesley. 
+
+ Lawler, E. L., 1976. Combinatorial Optimization: Networks and Matroids. Holt, Rinehart& Winston. 
+
+ Minty, G. J., 1966. On the axiomatic foundations of the theories of directed linear graphs, electrical 
+networks and network programming. J. Math. Mech. 15, pp. 420--485. 
+
+ Newman, M.E.J. (2010).Networks. An Introduction. Oxford: University Press. 
+
+ Papadimitrou, C. H. y Steiglitz, K., 1982. Combinatorial Optimization: Algorithms and Complexity. 
+Prentice Hall. 
+
+ Ravindran, A. y Solberg, J. J. 2008. Operations Research and Management Science Handbook. CRC 
+Press, Taylor and Francis Group. 
+
+ 
+
+
+
+ 
+
+

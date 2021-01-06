@@ -1,0 +1,101 @@
+FACULTAD DE CIENCIAS
+
+CARRERA DE MATEMATICO
+
+LOGICA MATEMATICA I
+
+SEMESTRE: Quinto o sexto
+CLAVE: 0445
+
+HORAS A LA SEMANA/SEMESTRE
+
+TEORICAS PRACTICAS CREDITOS
+5/80 0 10
+
+CARACTER: OPTATIVO.
+MODALIDAD: CURSO.
+SERIACION INDICATIVA ANTECEDENTE: Algebra Lineal II, Calculo Diferencial
+e Integral IV, Conjuntos y Logica, Ecuaciones Diferenciales I.
+SERIACION INDICATIVA SUBSECUENTE: Logica Matematica II.
+
+OBJETIVO(S): Que el alumno conozca y maneje el lenguaje de la logica proposicional;
+que comprenda el concepto de sistema formal y conozca y maneje el calculo proposicional.
+Que se inicie en el concepto de consecuencia logica y algunos metodos de decision.
+
+NUM. HORAS UNIDADES TEMATICAS
+
+2 1. Introduccion
+1.1 Naturaleza de la Logica Matematica. Estructura de los lenguajes
+natural y formal. Lenguaje y metalenguaje.
+
+39 2. Logica proposicional
+2.1 El lenguaje formal. Letras proposicionales, conectivos y simbolos
+auxiliares.
+2.2 Traduccion de enunciados del lenguaje natural al lenguaje formal
+y viceversa.
+2.3 Semantica. Asignaciones. Tautologias, contingentes y contradic-
+ciones.
+2.4 Metodos de evaluacion. Tablas y/o arboles semanticos.
+2.5 Consecuencia logica y equivalencia logica.
+2.6 Conjuntos minimos de conectivos. Formas normales.
+2.7 Analisis de argumentos.
+2.8 Teorema de Compacidad.
+2.9 Sugerencia: Circuitos logicos.
+
+1
+
+
+
+39 3. Un Calculo Proposicional
+3.1 Concepto de Sistema Formal. Axiomas, reglas de inferencia y
+derivacion formal.
+3.2 Un sistema formal para la logica proposicional. Ejemplos de de-
+rivaciones.
+3.3 Metateorema de la Deduccion.
+3.4 Caracteristicas de los Sistemas Formales: Consistencia, correctud
+y completud.
+3.5 Metateorema de Correctud (consistencia).
+3.6 Metateorema de Completud. Decidibilidad del sistema.
+3.7 Sugerencia: Metodos de decision algoritmica: Hao Wang, Davis
+Putnam, Resolucion.
+
+BIBLIOGRAFIA BASICA:
+
+1. Amor, J. A., Rojas, R., Sistemas Formales, Mexico: Vinculos Matematicos No. 149,
+Facultad de Ciencias UNAM, 1991.
+
+2. Amor, J. A., Logica Proposicional dentro de la Logica de Primer Orden, Mexico:
+Vinculos Matematicos No. 113, Facultad de Ciencias UNAM, 1993.
+
+3. DeLong, H., A Profile of Mathematical Logic, Reading, Mass.: Addison Wesley, 1971.
+
+4. Enderton, H., A Mathematical Introduction to Logic, Boston: Academic Press, 1972.
+Traduccion editada por la UNAM: Una introduccion matematica a la logica.
+
+5. Kleene, S. C., Mathematical Logic, New York: Wiley, 1967.
+
+6. Mendelson, E., Introduction to Mathematical Logic, Tercera Edicion. Pacific Grove,
+California: Wadsworth Books, 1987.
+
+BIBLIOGRAFIA COMPLEMENTARIA:
+
+1. Solis, J., Torres, Y., Logica con Aplicaciones a las Ciencias Computacionales, Mexi-
+co: Ed. UAM-Iztapalapa, 1993.
+
+SUGERENCIAS DIDACTICAS: Lograr la participacion activa de los alumnos mediante
+exposiciones.
+
+SUGERENCIA PARA LA EVALUACION DE LA ASIGNATURA: Ademas de las califi-
+caciones en examenes y tareas se tomara en cuenta la participacion del alumno.
+
+2
+
+
+
+PERFIL PROFESIOGRAFICO: Matematico, fisico, actuario o licenciado en ciencias de
+la computacion, especialista en el area de la asignatura a juicio del comite de asignacion
+de cursos.
+
+3
+
+

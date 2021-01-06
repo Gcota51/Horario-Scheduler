@@ -1,0 +1,285 @@
+A DE MEXICO 
+
+ 
+Facultad de Ciencias 
+
+ 
+Plan de estudios de la Licenciatura en  
+
+Matematicas 
+ 
+ 
+
+Teoria de Juegos I 
+ 
+
+Clave 
+0946 
+
+Semestre 
+7 u 8 
+
+Creditos 
+10 
+
+Area de 
+concentracion 
+
+ 
+
+Campo de 
+conocimiento 
+
+ 
+
+Etapa 
+ 
+
+VII y VIII 
+
+Modalidad 
+Curso ( X ) Taller ( ) Lab ( ) Sem ( ) 
+ 
+ 
+
+Tipo T ( X )     P (  )    T/P  (  )  
+
+Caracter 
+Obligatorio (  )           Optativo ( X ) 
+ 
+Obligatorio E ( )        Optativo E ( )  
+
+Horas 
+
+ Semana Semestre  
+
+ Teoricas           5 Teoricas           80 
+
+ Practicas          0 Practicas           0 
+
+ Total                 5 Total                  80 
+
+ 
+
+Seriacion 
+ 
+
+Ninguna (   ) 
+
+Obligatoria (   ) 
+
+Asignatura antecedente 
+ 
+
+ 
+
+Asignatura subsecuente 
+ 
+
+ 
+
+Indicativa ( X ) 
+
+Asignatura antecedente 
+ 
+
+Analisis Matematico I, Investigacion de Operaciones. 
+
+Asignatura subsecuente 
+ 
+
+ 
+
+ 
+
+Objetivos generales:  
+Hacer comprender al alumno la fuerza que tiene la teoria de Juegos no Cooperativos como 
+instrumento de analisis en la Economia, la Politica y otros campos que se ocupan de los 
+conflictos humanos. Que el alumno comprenda y aplique los conceptos basicos de la teoria, 
+utilice diversos algoritmos para calcular la solucion de un juego y se introduzca en los temas 
+actuales de investigacion. Es importante que conozca muchos ejemplos, simples pero 
+interesantes, sobre una gama amplia de conflictos y trabaje con juegos que los modelen 
+captando lo esencial de cada conflicto 
+
+ 
+
+ 
+
+
+
+ 
+
+Indice tematico 
+
+ Tema  
+
+Horas 
+ semestre  
+
+Teoricas Practicas 
+
+1 Introduccion 5 0 
+
+2 Modelos extensivos 20 0 
+
+3 Modelos rectangulares o estrategicos 10 0 
+
+4 Las estrategias mixtas 20 0 
+
+5 Comportamiento conservador en estrategias mixtas 15 0 
+
+6 Seleccion de equilibrios 10 0 
+
+Subtotal 80 0 
+
+Total 80 
+
+ 
+
+Contenido Tematico 
+
+ Tema y subtemas 
+
+1 Introduccion 
+
+2 Modelos extensivos 
+
+2.1 Elementos que considera el modelo: alternancia, azar e informacion. Ejemplos. 
+
+2.2 Algo de teoria de graficas. Definicion de juego extensivo. 
+
+2.3 Definicion de estrategia en un juego extensivo. 
+
+2.4 Subjuegos. El algoritmo de Zermelo construye una buena estrategia en un juego 
+de informacion perfecta. 
+
+2.5 La forma normal de un juego extensivo finito. 
+
+3 Modelos rectangulares o estrategicos 
+
+3.1 Presentacion del modelo y definicion. 
+
+3.2 Equilibrio de Nash en estrategias puras. 
+
+3.3 Ejemplos. 
+
+3.4 Estrategias conservadoras y maximo asegurable en juegos de una 
+
+sola tirada 
+
+3.5 Juegos exhaustivos o antagonicos en estrategias puras. ?Cuando jugar 
+conservadoramente es la solucion de juego? ?Cuando la paranoia colectiva es 
+Equilibrio de Nash?  
+
+3.6 Equilibrio de subjuego perfecto. Generalizacion del algoritmo de Zermelo 
+
+4 Las estrategias mixtas 
+
+4.1 El juego ficticio, una motivacion 
+
+4.2 Estrategias mixtas, esperanza de pago y mejores respuestas. 
+
+4.3 Equilibrio de Nash en estrategias mixtas. Algunos metodos para calcularlos. 
+
+4.4 Propiedades geometricas de los conjuntos de estrategias mixtas y de la esperanza 
+de pago. 
+
+4.5 Teorema de Nash de existencia de equilibrio 
+
+4.6 El algoritmo de Scarf (un vistazo). 
+
+5 Comportamiento conservador en estrategias mixtas 
+
+5.1 Discusion del problema 
+
+5.2 Maximo asegurable y estrategias conservadoras a "largo plazo". 
+
+5.3 Juegos exhaustivos o antagonicos en estrategias mixtas. 
+
+5.4 Metodos para calcular el maximo asegurable y las estrategias mixtas 
+conservadoras de un jugador 
+
+6 Seleccion de equilibrios 
+
+
+
+6.1 ?Que hacer cuando existe mas de un equilibrio? 
+
+6.2 Seleccion de equilibrios como resultado de una dinamica de aprendizaje. 
+
+ 
+ 
+
+Estrategias didacticas Evaluacion del aprendizaje 
+
+Exposicion                                                     (  ) Examenes parciales                (  ) 
+
+Trabajo en equipo                                         (  ) Examen final                  (  ) 
+
+Lecturas                                                         (  ) Trabajos y tareas                  (  ) 
+
+Trabajo de investigacion                               (  ) Presentacion de tema                 (  ) 
+
+Practicas (taller o laboratorio)                       (  ) Participacion en clase                            (  ) 
+
+Practicas de campo                                       (  ) Asistencia                                                 (  ) 
+
+Aprendizaje por proyectos                            (  ) Rubricas                                                   (  ) 
+
+Aprendizaje basado en problemas               (  ) Portafolios                                                (  ) 
+
+Casos de ensenanza                                    (  ) Listas de cotejo                                        (  ) 
+
+Otras (especificar) Otras (especificar) 
+
+  
+
+  
+
+ 
+ 
+
+Perfil profesiografico 
+
+Titulo o grado Matematico, fisico, actuario o licenciado en ciencias de la computacion, 
+
+Experiencia docente Con experiecia docente. 
+
+Otra caracteristica Especialista en el area de la asignatura a juicio del comite de asignacion 
+de cursos. 
+
+ 
+ 
+
+Bibliografia basica: 
+
+ Binmore, K., Teoria de Juegos, New York: McGraw-Hill, 1994. 
+
+ McKinsey. J.C.C., Introduccion a la Teoria Matematica de los Juegos, Mexico: Aguilar, 
+1966. 
+
+ Zapata, P., Los Juegos no Cooperativos (texto en proceso de elaboracion) 
+
+ Ventsel, E.S., Introduccion a la Teoria de Juegos, Mexico: Limusa, 1963. 
+ 
+
+Bibliografia complementaria: 
+
+ Fudenberg, D., Tirole. J., Game Theory, Boston: The MIT Press, 1991 
+
+ Bierman, H.S., Fernandez, L., Game Theory with Economic Applications, Reading 
+Mass.: Addison-Wesley, 1993. 
+
+ Gibons, R., Un Primer Curso de Teoria de Juegos, Barcelona: Antoni Bosch, 1993 
+
+ Rasmusen, E., Juegos e Informacion. Una Introduccion a la Teoria de Juegos, Mexico: 
+Fondo de Cultura Economica, 1996. 
+
+ Gardner, R., Juegos para Empresarios y Economistas, Barcelona: Antoni Bosch, 1996. 
+
+ Davis, M.D., Introduccion a la Teoria de Juegos, Madrid: Alianza Editorial, 1986 
+ 
+
+ 
+
+

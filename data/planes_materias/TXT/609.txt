@@ -1,0 +1,198 @@
+___________________________________________________________________________
+CLAVE: 0609 MODALIDAD: Curso
+SEPTIMO SEMESTRE CARACTER: Obligatorio
+CREDITOS: 12 REQUISITOS: Electromagnetismo I,  Optica, Mecanica
+
+Analitica,   Ecuaciones   Diferenciales   I,   Variable
+Compleja, Matematicas Avanzadas de la Fisica
+
+_____________________________________________________________________________________
+HORAS POR CLASE TEORICAS: 2
+HORAS POR SEMANA TEORICAS: 6
+HORAS POR SEMESTRE TEORICAS: 96
+_____________________________________________________________________________________
+
+Objetivos
+Familiarizar al estudiante con la teoria electromagnetica destacando la descripcion matematica unificada de
+los   fenomenos   electricos  y  magneticos,   en   el   vacio  y   en  medios  materiales.  Reconocer   las   propiedades
+dinamicas   del   campo   electromagnetico   incluyendo   las   leyes   de   conservacion   correspondientes,   como
+consecuencia  de   las   leyes  del   campo  y  de   las   relaciones   constitutivas.  Estudiar  diversas   situaciones  de
+electrostatica, magnetostatica y electromagnetismo, incluyendo sistemas de radiacion, y sus aplicaciones.
+
+Metodologia de la ensenanza
+El curso consistira en la exposicion teorica de los temas por el profesor, frente al pizarron, aunque se pueden
+dejar lecturas de articulos cientificos como material informativo complementario.
+Se debe establecer un programa de simulaciones numericas que permitan al estudiante dominar este campo.
+
+Evaluacion del curso
+Mediante examenes, tareas y eventuales reportes de lecturas complementarias.
+
+Temario
+
+1. EL CAMPO ELECTROSTATICO EN EL VACIO 6 hrs
+1.1 Ley de Coulomb.
+1.2 Principio de superposicion.
+1.3 El campo de intensidad electrica.
+1.4 Ley de Gauss en sus formas integral, diferencial y de condiciones de frontera.
+1.5 Caracter conservativo del campo electrostatico y su expresion en formas integral, diferencial y de
+
+condiciones de frontera.
+1.6 El campo de potencial electrostatico.
+1.7 Ecuaciones de Poisson y de Laplace.
+1.8 Densidad de energia y tensor de esfuerzos de Maxwell en el campo electrostatico.
+
+2. METODOS DE SOLUCION DE PROBLEMAS DE ELECTROSTATICA 9 HRS
+2.1 El teorema de unicidad y su aplicacion a problemas de condiciones de frontera de Dirichlet y de
+
+Neumann.
+2.2   La   funcion   de   Green   y   sus   caracteristicas   para   condiciones   de   frontera   de   Dirichlet   y   de
+
+Neumann.
+2.3 Metodo de imagenes.
+2.4  Metodo de funciones analiticas de variable compleja para problemas bidimensionales.
+2.5   Metodo   de   solucion   usando   funciones   armonicas   en   coordenadas   cartesianas,   cilindricas   y
+
+esfericas.
+2.6 El desarrollo multipolar.
+
+3. EL CAMPO ELECTROSTATICO EN MEDIOS DIELECTRICOS 9 hrs
+
+
+
+3.1 Momentos dipolares permanentes e inducidos. Polarizabilidad.
+3.2 Polarizacion y susceptibilidad electrica.
+3.3 Cargas libres y cargas de polarizacion.
+3.4 LEy de Gauss en medios dielectricos.
+3.5 El campo de desplazamiento electrico. Permeabilidad electrica y dielectrica.
+3.6   Problemas   de   electrostatica   en   presencia   de   dielectricos   y   conductores,   incluyendo
+
+condensadores.
+3.7 Ecuaciones de ClausiusMossotti, Langevin y Debye.
+3.8 Densidad de energia y tensor de esfuerzos de Maxwell en presencia de dielectricos.
+
+4. EL CAMPO MAGNETOSTATICO EN EL VACIO 8 hrs
+4.1 Fuerza de Lorentz  sobre cargas en movimiento y sobre elementos de corriente. El campo de
+
+induccion magnetica.
+4.2 Ley de Biot y Savart. Corrientes estacionarias y campos magneticos asociados.
+4.3 Ley circuital de Ampere en sus formas integral, diferencial y de condiciones de frontera.
+4.4  No existencia de monopolos magneticos.  Caracter solenoidal del campo magnetostatico y su
+
+expresion en formas integral, diferencial y de condiciones de frontera.
+4.5 El campo de potencial vectorial magnetico. Transformaciones de norma. Su significado fisico
+
+como potencial de cantidad de movimiento y de energia por unidad de carga y de velocidad.
+4.6 Norma transversal. Ecuacion de Poisson. Forma integral.
+4.7 Desarrollo multipolar. Torcas, fuerzas y energias de momentos dipolares.
+
+5. EL CAMPO MAGNETOSTATICO EN MEDIOS PERMEABLES 8 hrs
+5.1 Diamagnetos, paramagnetos y ferromagnetos.
+5.2 Momentos magneticos dipolares inducidos y permanentes.
+5.3 Magnetizacion.
+5.4 Corrientes libres y corrientes de magnetizacion.
+5.5 Ley de Ampere en medios permeables.
+5.6 El campo de intensidad magnetica. Susceptibilidad magnetica y permeabilidad magnetica.
+5.7 Ferromagnetismo. Histeresis.
+
+6. INDUCCION ELECTROMAGNETICA 6 hrs
+6.1 Fuerza electromotriz.
+6.2   Induccion   electromagnetica.   Ley   de   FaradayLenzHenry   en   sus   formas   fenomenologica,
+
+integral, diferencial y de condiciones de frontera.
+6.3 Inductancia. Inductancia mutua y autoinductancia.
+6.4 Energia almacenada en un sistema de solenoides con corrientes estacionarias.
+6.5 Densidad de energia y tensor de esfuerzos de Maxwell en el campo magnetostatico.
+
+7. ECUACIONES DE MAXWELL Y PROPIEDADES DINAMICAS DEL CAMPO 
+ELECTROMAGNETICO 10 hrs
+
+7.1 Ley de Gauss electrica y magnetica para fuentes y campos variables en el tiempo.
+7.2 Ley de FaradayLenzHenry.
+7.3 Conservacion de carga electrica. Corriente de desplazamiento. Ley de AmpereMaxwell.
+7.4 Potenciales vectorial y escalar. Transformaciones de norma.
+7.5 Norma transversal o de Coulomb. Ecuaciones de onda y de Poisson.
+7.6 Norma de Lorentz. Ecuaciones de onda de los potenciales.
+7.7 Ecuaciones de onda para los campos de fuerza.
+7.8 Teorema de Poynting. Densidad de energia del campo electromagnetico y vector de Poyting.
+7.9 Balance de cantidad de movimiento. Densidad de cantidad de movimiento y tensor de esfuerzos
+
+de Maxwell en el campo electromagnetico.
+7.10 Modificaciones en presencia de medios dielectricos y permeables, y de conductores.
+
+8. ONDAS ELECTROMAGNETICAS PLANAS 10 hrs
+
+
+
+8.1 En el vacio: velocidades de fase y de transporte de energia; transversalidad y polarizacion 
+(lineal, circular, eliptica).
+
+8.2 En medios dielectricos: indice de refraccion; velocidades de fase y de transporte de energia;
+birefringencia.
+
+8.3 Al pasar de un medio a otro, separados por una frontera plana: leyes de reflexion y refraccion
+(ley  de  Snell);   ecuaciones  de  Fresnel;   efectos  de  polarizacion;   reflexion   total   interna;  ondas
+evanescentes.
+
+8.4 En medios conductores: atenuacion y profundidad de la piel; efectos de disipacion.
+8.5 En plasmas: conductividad de un gas ionizado; frecuencia de plasma.
+
+9. ONDAS ELECTROMAGNETICAS CONFINADAS 6 hrs
+9.1   Guias   de   onda:   ondas   transversales   electromagneticas;   ondas   transversales   electricas   y
+
+transversales magneticas; transmision y atenuacion; fibras opticas.
+9.2 Cavidades de resonancia: paralelepipedo rectangulo; cilindro; valor Q.
+
+10. SISTEMAS RADIANTES 10 hrs
+10.1 Plano con corrientes oscilantes como fuente de ondas planas.
+10.2 Linea con corrientes oscilantes como fuente de ondas cilindricas.
+10.3 Solenoide recto con corrientes oscilantes como fuente de ondas cilindricas.
+10.4 Funcion de Green retardada.
+10.5 Dipolo de Hertz electrico y magnetico.
+10.6 Antenas.
+10.7 Particulas cargadas aceleradas.
+10.8 Potenciales y campos de LienardWiechert.
+
+11. DESCRIPCION COVARIANTE DE LA ELECTRODINAMICA 10 hrs
+11.1 Teoria de la relatividad. Cinematica y dinamica relativista.
+11.2. Espaciotiempo de Minkowski. Cuadriescalares, cuadrivectores y cuadritensores.
+11.3 Cuadrivector de densidad de corriente y densidad de carga. Ecuacion de continuidad.
+11.4 Cuadrivector de potencial. Condicion de norma de Lorentz. Ecuacion de onda.
+11.5 Densidad de energia de interaccion de fuentes distribuidas en presencia del campo de potencial
+
+electromagnetico. Acoplamiento minimo.
+11.6 Cuadritensor de campo electromagnetico. Invariantes asociados y sus aplicaciones.
+11.7 Cuadritensor de esfuerzos, densidad de cantidad de movimiento, vector de Poynting y densidad
+
+de energia. Ecuaciones de conservacion de cantidad de movimientoenergia.
+
+Bibliografia basica
+Reitz, J.R., Milford, F.J., Christy, R.W., 1979, Foundations of electromagnetic theory, AddisonWesley 
+
+Pub. Co., Reading, Mass, USA.
+Lorrain, P., Corson, D.R., 1970, Electromagnetic fields and waves, W.H. Freeman and Company, San 
+
+Francisco, USA.
+Jelimenko, O.D., 1966, Electricity and magnetism, Appleton Century Cooft Meredith Corporation, N.Y., 
+
+USA.
+Vanderlinde, J., Classical elctromagnetic theory, 1993, John Wiley & Sons, Inc. New York, USA.
+Cook, D.M., 1975, The theory of the electromagnetic field, PrenticeHall, Inc. Englewoods Cliffs, New 
+
+York, USA.
+Wangsness, R.K., 1979, Electromagnetic fields, John Wiley & Sons, Inc. New York, USA.
+Clemow, P.C., 1973, An introduction to electromagnetic theory, Cambridge University Press, USA.
+
+Bibliografia complementaria
+Hauser, W., 1971, Introduction to the principles of electromagnetism, AddisonWesley 
+
+Pub. Co., Reading, Mass, USA.
+Shadowitz, A., 1988, The electromagnetic field, Dover Publications Inc., New York, USA.
+
+
+
+Griffiths, D.J., 1989, Introduction to electrodynamics, PrenticeHall, Inc. Englewoods Cliffs, New 
+York, USA.
+
+Heald, M.A., Marion, J.B., 1995, Classical electromagnetic radiation, Saunders College Publishing, USA.
+
+

@@ -1,0 +1,136 @@
+FACULTAD DE CIENCIAS
+
+CARRERA DE MATEMATICO
+
+TEORIA DE LA MEDIDA II (ejemplo)
+
+SEMESTRE: Septimo u octavo
+CLAVE: 0948
+
+HORAS A LA SEMANA/SEMESTRE
+
+TEORICAS PRACTICAS CREDITOS
+5/80 0 10
+
+CARACTER: OPTATIVO.
+MODALIDAD: CURSO.
+SERIACION INDICATIVA ANTECEDENTE: Teoria de la Medida I.
+SERIACION INDICATIVA SUBSECUENTE: Ninguna.
+
+OBJETIVO(S): Tender puentes entre el enfoque analitico de la teoria de la medida con
+algunos aspectos de la teoria de la probabilidad. El objetivo es adquirir un manejo adecuado
+de la teoria de la medida y de la integral abstracta (sin profundizar en los teoremas de
+existencia) para lograr una adecuada introduccion a la teoria de la probabilidad.
+
+NUM. HORAS UNIDADES TEMATICAS
+
+10 1. Sigmas algebras de conjuntos
+1.1 s algebra de conjuntos, conjuntos medibles o eventos; espacios
+medibles, propiedades y ejemplos.
+1.2 s algebra de Borel en un espacio metrico.
+1.3 s algebra generada por una funcion medible.
+1.4 Funciones medibles o variables aleatorias con valores en los reales
+extendidos.Funcion simple medible (o variable aleatoria discreta).
+1.5 Propiedades y ejemplos. Aproximacion de una funcion medible
+positiva por una sucesion de simples medibles.
+
+1
+
+
+
+10 2. Definicion de medida, espacios de medida.
+2.1 Medidas y medidas de probabilidad. Ejemplos. Medidas discretas:
+de contar,de Dirac, de Poisson etc.
+2.2 Propiedades de una medida, propiedades de una medida de pro-
+babilidad. En particular: teoremas de continuidad para sucesiones
+monotonas de eventos.
+2.3 Medida de Lebesque y medida de Lebesque-Stieljes en los bo-
+relianos de R (sin demostrar su existencia solo mencionar que es
+consecuencia del teorema de Caratheodory). Medidas absolutamente
+continuas con respecto a la medida de Lebesque.
+2.4 Eventos independientes.
+2.5 Medida de probabilidad inducida por una variable aleatoria. Com-
+pletacion de una medida. Propiedades casi seguras, cargas o medidas
+con signo.
+
+5 3. Funciones de distribucion
+3.1 Definicion general y propiedades basicas. Los casos discreto y con
+densidad. Ejemplos usuales en teoria de la probabilidad. Relacion
+entre funcion de distribucion y medida de probabilidad en R.
+
+15 4. Concepto de integral (o esperanza en su caso).
+4.1 Definicion de la integral para una funcion simple medible (o va-
+riable aleatoria discreta) y propiedades basicas.
+4.2 Definicion de integral de una funcion medible positiva.
+4.3 Propiedades de la integral.
+4.4 Teorema de convergencia monotona, Lema de Fatou y aplicacio-
+nes.
+4.5 Funciones integrables y su integral.
+4.6 Propiedades.
+4.7 Teorema de convergencia dominada.
+4.8 Dependencia de un parametro.
+
+5 5. Aplicaciones en el caso de medida de probabilidad
+5.1 Teorema de cambio de variable para medidas de probabilidad
+inducidas por una variable aleatoria.
+5.2 Medidas discretas y series. Caso en que hay densidad. Integral de
+Lebesque-Stieljes.
+5.3 Funcion caracteristica de una variable aleatoria y propiedades.
+Calculo de la funcion caracteristica de algunas variables aleatorias.
+
+2
+
+
+
+10 6. Teorema de Fubini e independencia en teoria de la proba-
+bilidad.
+6.1 Variables aleatorias independientes.Espacios producto: s algebra
+producto y medidas producto.Teoremas de Tonelli-Fubini y de Fu-
+bini. Teoremas de Borel-Cantelli. Suma de variables aleatorias inde-
+pendientes y funcion caracteristica.
+
+5 7. Espacios Lp con p mayor o igual a 1.
+7.1 Desigualdades de Holder, de Schwarz y de Minkowski.
+7.2 Clases de equivalencia y espacios Lpcomo espacios metricos
+7.3 Sucesiones de Cauchy y completez de estos espacios.
+
+15 8. Formas de convergencia y sus relaciones.
+8.1 Definicion de convergencia casi-segura, convergencia en Lp, con-
+vergencia en medida (en probabilidad), convergencia debil (para el
+caso de medidas de probabilidad).
+8.2 Relaciones entre las diversas formas de convergencia, en el caso
+de una medida finita y en el caso de una medida arbitraria. Ejemplos
+8.3 Funcion caracteristica y convergencia debil
+
+5 9. Descomposicion de medidas e introduccion al teorema de
+Radon-Nikodym.
+9.1 Interpretacion de la densidad de Probabilidad como derivada de
+Radon-Nikodym.
+
+BIBLIOGRAFIA BASICA:
+
+1. Billingsley, P., Probability amd Measure, New York: J. Wiley, 1995.
+
+2. Jacod, J., Protter, Ph., Probability Essentials, New York: Springer Verlag, 2000.
+
+BIBLIOGRAFIA COMPLEMENTARIA:
+
+1. Bartle, R. G., Elements of Integration and Lebesque Measure, New York: Wiley, 1995.
+
+SUGERENCIAS DIDACTICAS: Lograr la participacion activa de los alumnos mediante
+exposiciones.
+
+SUGERENCIA PARA LA EVALUACION DE LA ASIGNATURA: Ademas de las califi-
+caciones en examenes y tareas se tomara en cuenta la participacion del alumno.
+
+3
+
+
+
+PERFIL PROFESIOGRAFICO: Matematico, fisico, actuario o licenciado en ciencias de
+la computacion, especialista en el area de la asignatura a juicio del comite de asignacion
+de cursos.
+
+4
+
+

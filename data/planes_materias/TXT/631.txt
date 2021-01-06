@@ -1,0 +1,328 @@
+VERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+ 
+                          Facultad de Ciencias 
+
+          
+                      Plan de estudios de la Licenciatura en Actuaria 
+
+ 
+ 
+
+Procesos Estocasticos II 
+ 
+
+Clave 
+0631 
+
+Semestre 
+7 u 8 
+
+Creditos 
+10 
+
+Area 
+ 
+
+ 
+
+Campo de 
+conocimiento 
+
+Probabilidad y Estadistica 
+
+Etapa 
+ 
+
+Profundizacion 
+
+Modalidad 
+Curso ( X ) Taller ( ) Lab ( ) Sem ( ) 
+ 
+ 
+
+Tipo T ( X )     P (  )    T/P  (  )  
+
+Caracter 
+Obligatorio ( )            Optativo ( X ) 
+ 
+Obligatorio E ( )        Optativo E ( )  
+
+Horas 
+
+ Semana Semestre  
+
+ Teoricas           5 Teoricas           80 
+
+ Practicas          0 Practicas           0 
+
+ Total                 5 Total                  80 
+
+ 
+
+Seriacion 
+ 
+
+Ninguna (   ) 
+
+Obligatoria (   ) 
+
+Asignatura antecedente 
+ 
+
+ 
+
+Asignatura subsecuente 
+ 
+
+ 
+
+Indicativa ( X ) 
+
+Asignatura antecedente 
+ 
+
+Procesos Estocasticos I 
+Analisis Matematico I 
+
+Asignatura subsecuente 
+ 
+
+Optativas del campo de probabilidad y estadistica 
+
+ 
+
+Objetivos generales: 
+
+  
+
+ Ser capaz de modelar y simular fenomenos fisicos y financieros mas complejos, con tiempo 
+continuo, utilizando procesos estocasticos. 
+
+ Conocer ejemplos y resultados basicos de la teoria de procesos estocasticos a tiempo continuo. 
+ 
+
+Objetivos especificos: 
+ 
+
+ Explicar conceptos basicos, definiciones, ejemplos, resultados y aplicaciones de estos procesos 
+
+ Explicar conceptos basicos, definiciones, ejemplos y aplicaciones de los procesos de renovacion 
+
+ Definir y trabajar con procesos Gaussianos 
+
+
+
+ 
+
+ 
+
+Indice tematico 
+
+ Tema  
+
+Horas 
+ semestre  
+
+Teoricas Practicas 
+
+1 Cadenas de Markov en tiempo continuo 30 0 
+
+2 Teoria de Renovacion  20 0 
+
+3 Procesos de segundo orden 30 0 
+Total 80 
+
+ 
+
+Contenido Tematico 
+
+ Tema y subtemas 
+
+1 Cadenas de Markov en tiempo continuo 
+
+ 
+
+1.1  Introduccion. 
+
+1.2  Cadenas de Markov en tiempo continuo. 
+
+1.3  Procesos de nacimiento y muerte. 
+
+1.3.1  Proceso de Poisson. 
+
+1.3.2  Proceso de nacimiento con tasa lineal. 
+
+1.3.3  Colas M/M/1. 
+
+1.3.4  Sistema de colas con servidor multiple exponencial. 
+
+1.4  Probabilidades de transicion, sistemas de ecuaciones de Kolmogorov y 
+
+su calculo para cada uno de los ejemplos anteriores. 
+
+1.5  Probabilidades limite para cada uno de los ejemplos. 
+
+1.6  Simulacion. 
+ 
+
+2 Teoria de Renovacion 
+
+ 
+
+1.1  Definiciones elementales, la distribucion del proceso de conteo. 
+
+1.2  Teoremas limite y sus aplicaciones. Enunciar los teoremas de 
+
+Renovacion y el del Limite Central. 
+
+1.3  Proceso de renovacion con premios. 
+
+1.4  Regeneracion. 
+
+1.5  Aplicaciones. 
+ 
+
+3 Procesos de segundo orden 
+ 
+
+3.1  Definicion de procesos con segundo momento finito. 
+
+3.2  Procesos Gaussianos. 
+
+3.2.1. Matrices de varianza y covarianza. 
+3.2.2. Caracterizaciones de la distribucion normal multivariada. 
+3.2.3. Definicion de procesos Gaussianos. 
+3.2.4. Ejemplos: browniano, Puente browniano, Ornstein y 
+
+Uhlenbeck. 
+
+3.3  Funciones de media y covarianza. 
+
+3.4  Continuidad de las funciones de media y covarianza. 
+
+
+
+3.5  Continuidad de las trayectorias. 
+
+3.6  Diferenciacion. 
+
+3.7  Integracion. 
+
+3.8  Definiciones de estacionariedad y estacionariedad de segundo orden. 
+ 
+
+ 
+
+Estrategias didacticas Evaluacion del aprendizaje 
+
+Exposicion                                                   ( X ) Examenes parciales                ( X ) 
+
+Trabajo en equipo                                         ( ) Examen final                  ( X ) 
+
+Lecturas                                                      ( X ) Trabajos y tareas                  ( X ) 
+
+Trabajo de investigacion                             ( X ) Presentacion de tema                 ( ) 
+
+Practicas (taller o laboratorio)                     ( X ) Participacion en clase                            ( X ) 
+
+Practicas de campo                                      ( ) Asistencia                                                 ( ) 
+
+Aprendizaje por proyectos                          ( X ) Rubricas                                                   ( ) 
+
+Aprendizaje basado en problemas             ( X ) Portafolios                                                ( ) 
+
+Casos de ensenanza                                    (  ) Listas de cotejo                                        ( ) 
+
+Otras (especificar) Otras (especificar)  
+
+Se recomiendan tareas regulares en las cuales el 
+
+alumno aplique el material visto en clase y este 
+
+obligado a revisar diversas fuentes bibliograficas 
+
+para que amplie sus conocimientos con diferentes 
+
+enfoques. 
+
+Se recomiendan de 3 a 4 examenes parciales y un 
+
+examen final, asi como la realizacion de tareas 
+
+sobre los temas  vistos en clase para reforzar los 
+
+conocimientos teoricos adquiridos 
+
+ 
+ 
+
+Perfil profesiografico 
+
+Titulo o grado Egresado de alguna de las licenciaturas en Matematicas, Actuaria o alguna afin, 
+preferentemente con algun posgrado en el area 
+
+Experiencia docente Con experiencia docente. 
+
+Otra caracteristica  
+
+ 
+ 
+ 
+
+Bibliografia basica: 
+
+ 
+
+Los Feller y los de Karlin y Taylor, son clasicos: 
+
+ William Feller (1968). An introduction to probability theory and its applications. Vol. I (3a ed.). New 
+York: John Wiley & Sons Inc. 
+
+ William Feller (1971). An introduction to probability theory and its applications. Vol. II (2a ed.). New 
+York: John Wiley & Sons Inc. 
+
+ Samuel Karlin and Howard M. Taylor (1975). A first course in stochastic processes (2a ed.). New York-
+London: Academia Press [A subsidiary of Harcourt Brace Jovanovich, Publishers]. 
+
+ Samuel Karlin and Howard M. Taylor (1981). A second course in stochastic processes. New York: 
+Academic Press Inc. [Harcourt Brace Jovanovich Publishers]. 
+
+ Howard M. Taylor and Samuel Karlin (1994). An introduction to stochastic modeling. Boston, MA: 
+Academic Press Inc. 
+
+ 
+
+El libro de Norris para cadenas de Markov: 
+
+ J. R. Norris (1998). Markov chains. Cambridge Series in Statistical and Probabilistic Mathematics. 
+Cambridge: Cambridge University Press. 
+
+ 
+
+Muchos temas de este programa se basan en capitulos del libro de Ross: 
+
+ Sheldon M. Ross (2000). Introduction to probability models (7a ed.). Burlington, MA: 
+Harcourt/Academic Press. 
+
+Otros libros muy reconmendables son los de Resnick: 
+
+
+
+ Resnick, Sidney I (1992). Adventures in Stochastic Processes. Boston: Birkhauser. 
+
+ Resnick, Sidney I (1999). A Probability Path. Boston: Birkhauser. 
+ 
+
+Bibliografia complementaria: 
+
+ 
+
+ Zdzis law Brzezniak and Tomasz Zastawniak (1999). Basic stochastic processes. Springer 
+Undergraduate Mathematics Series. London: Springer-Verlag London Ltd.  
+
+ 
+
+ 
+
+

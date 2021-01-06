@@ -1,0 +1,166 @@
+FACULTAD DE CIENCIAS
+
+CARRERA DE MATEMATICO
+
+HISTORIA DE LAS MATEMATICAS I
+
+SEMESTRE: Quinto o sexto
+CLAVE: 0286
+
+HORAS A LA SEMANA/SEMESTRE
+
+TEORICAS PRACTICAS CREDITOS
+5/80 0 10
+
+CARACTER: OPTATIVO.
+MODALIDAD: CURSO.
+SERIACION INDICATIVA ANTECEDENTE: Algebra Lineal II, Calculo Diferencial
+e Integral IV, Ecuaciones Diferenciales I.
+SERIACION INDICATIVA SUBSECUENTE: Historia de las Matematicas II.
+
+OBJETIVO(S): Presentar las ideas, metodos y resultados mas relevantes para la cultura
+matematica en el periodo que abarca desde la antiguedad griega hasta el Renacimiento.
+
+NUM. HORAS UNIDADES TEMATICAS
+
+5 1. Matematicas en la antiguedad.
+1.1 Las matematicas en Babilonia y en Egipto. El papiro Rhind.
+
+30 2. Matematicas griegas
+2.1 Pitagoras y los inconmensurables.
+2.2 Logica y matematicas en Zenon, Platon y Aristoteles.
+2.3 Euclides y los Elementos de geometria.
+2.4 Arquimedes y el metodo heuristico.
+2.5 La aritmetica de Diofanto.
+2.6 Eudoxo y el metodo de exhausion.
+2.7 Apolonio y las conicas.
+2.8 La geometria del universo de Ptolomeo.
+
+15 3. Matematicas medievales y arabes
+3.1 Las contribuciones de los arabes al algebra y a la trigonometria.
+3.2 La optica geometrica.
+3.3 El Islam y la transmision del conocimiento matematico a occi-
+dente.
+3.4 Las escuelas de abaco y las matematicas de los comerciantes.
+
+1
+
+
+
+15 4. El renacimiento europeo
+4.1 Los abacistas italianos.
+4.2 La geometria de la perspectiva.
+4.3 La controversia acerca de la ecuacion cubica y de las ecuaciones
+algebraicas:Tartaglia, Bombelli, Cardano.
+4.4 El algebra de Viete y Stevin.
+
+15 5. Las nuevas matematicas (Siglo XVII)
+5.1 Fermat, Descartes y su arte analitico. La geometria.
+5.2 Fermat, Mersenne y el renacimiento de la teoria de los numeros.
+5.3 Desargues y la geometria proyectiva.
+
+BIBLIOGRAFIA BASICA:
+
+1. Archimedes, Aristarchus of Samos, Eratosthenes, Apollonius of Perga, Heron of Ale-
+xandria, Diophantus, Pappus of Alexandria; Ivor Thomas (trans) Cambridge: Har-
+vard University Press, 1957
+
+2. Artmann, B., Euclid, the Creation of Mathematics, New York: Springer Verlag, 1999.
+
+3. Baron, M., History of Mathematics, Oxford: Pergamon Press, 1969.
+
+4. Bashmakova, I., Smirnova, G., The Beginnings and Evolution of Algebra, Washing-
+ton, D. C.: MAA., 2000.
+
+5. Casalderey, F.M., Cardano y Tartaglia. Las Matematicas en el Renacimiento Ita-
+liano, Madrid: Nivola, 2000.
+
+6. Cohen, M., A Source Book in Greek Science, Cambridge, Mass.: Harvard University
+Press, 1966.
+
+7. Eves, H., An Introduction to the History of Mathematics, Philadelphia: Sunders
+College, 1976.
+
+8. Field, J. V., The Invention of Infinity. Mathematics and Art in the Renaissance,
+Oxford: Oxford University Press, 1997.
+
+9. Gilklings, R.J., Mathematics in the Time of the Pharaohs, Cambridge, Mass.: MIT
+Pres, 1972.
+
+10. Goldman, J., The Queen of Mathematics. A Historically Motivated Guide to Number
+Theory, Welleslay Massachusetts: A. K. Peters, 1998.
+
+2
+
+
+
+11. Grattan-Guinness, I. (Com.)., Companion Encyclopedia of the History and Philo-
+sophy of the Mathematical Sciences, Londres: Routledge, 1994.
+
+12. Joseph, G., La Cresta del Pavo Real. Las Matematicas y sus Raices no Europeas,
+Madrid: Piramide,1996
+
+13. Katz, V., A History of Mathematics, An Introduction, New York: Harper Collins
+College Publishers, 1998.
+
+14. Kline, M., El Pensamiento Matematico de la Antiguedad a Nuestros Dias, 3 volume-
+nes. Madrid: Alianza Editorial, 1992.
+
+15. Knorr, W., Textual Studies in Ancient and Medieval Geometry, Boston: Birkhauser,
+1989.
+
+16. Mahoney, M.S., Mathematics. En Science in the Middle Ages, D. C. Lindberg
+(ed.). Chicago: The University of Chicago Press, 1978, pp.145-178.
+
+17. Mankiewicz, R., Historia de las Matematicas. Del Calculo al Caos, Barcelona:
+Paidos, 2000.
+
+18. Maor, E., To Infinity and Beyond. A Cultural History of the Infinite, Princeton:
+Princeton University Press, 1991.
+
+19. Ore, O., Number Theory and its History, New York: Dover Publications, INC., 1976.
+
+20. Sanchez R., A., Astronomia y Matematicas en el Antiguo Egipto, Madrid: Aldebaran,
+2000.
+
+21. Sarton, G., A History of Science, Capitulos III (Euclides), V (Arquimedes y Apolo-
+nio), XVIII (Hiparco, Zenon, etc.), 1952.
+
+22. Struik, D., A Source Book in Mathematics 1200-1800, Cambridge, Mass.: Harvard
+University Press.,1886.
+
+23. Swetz, F.J., Capitalism and Arithmetic. The New Mathematics of the 15th Century
+(The Treviso Arithmetic, 1478), Lasalle: Open Court, 1989.
+
+24. Szabo, A., The Beginnings of Greek Mathematics, Budapest: Akademiai Kiado, 1978.
+
+25. Waerden, B. L. van der, Science Awakening, Amsterdam: Noordhoff, 1954.
+
+26. Youschkevitch, A., Les Mathematiques Arabes (VIIIe a Xve siecles), Paris: Vrin,
+1976.
+
+3
+
+
+
+BIBLIOGRAFIA COMPLEMENTARIA:
+
+1. Menninger, K., Number Words and Number Symbols, A Cultural History of Numbers.
+New York: Dover, 1992.
+
+2. Nahin, P.J., An Imaginary Tale, the Story of (-1), Princeton, New Jersey: Princeton
+University Press,1998.
+
+SUGERENCIAS DIDACTICAS: Lograr la participacion activa de los alumnos mediante
+exposiciones.
+
+SUGERENCIA PARA LA EVALUACION DE LA ASIGNATURA: Ademas de las califi-
+caciones en examenes y tareas se tomara en cuenta la participacion del alumno.
+
+PERFIL PROFESIOGRAFICO: Matematico, fisico, actuario o licenciado en ciencias de
+la computacion, especialista en el area de la asignatura a juicio del comite de asignacion
+de cursos.
+
+4
+
+

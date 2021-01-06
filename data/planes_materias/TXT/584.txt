@@ -1,0 +1,227 @@
+_______________________________________________________________
+
+CLAVE: 0584 MODALIDAD: Curso 
+QUINTO SEMESTRE CARACTER: Obligatorio 
+CREDITOS: 12 REQUISITOS:  Electromagnetismo I, Mecanica      
+
+Vectorial, Geometria   Analitica   II,   Algebra 
+Superior   I,   Algebra   Lineal   I,   Calculo   
+Diferencial e Integral IV, Ecuaciones Diferenciales 
+I 
+
+________________________________________________________________________
+HORAS POR CLASE TEORICAS: 2 
+HORAS POR SEMANA TEORICAS: 6 
+HORAS POR SEMESTRE TEORICAS: 96 
+
+Objetivos 
+
+Ensenar  los  fundamentos  de  la  optica  geometrica  y  la  optica  fisica,  asi  como  sus 
+aplicaciones. 
+
+Metodologia de la ensenanza 
+
+El  profesor  explica  la  tematica  teoricamente  en  el  salon  de  clase,  pero  procurara 
+desarrollar el curso en colaboracion con el Laboratorio de Optica correspondiente.
+Se debe establecer un programa de simulaciones numericas que permitan al estudiante 
+dominar este campo.
+
+Evaluacion del curso
+ 
+Mediante examenes, tareas y lecturas. 
+
+Temario
+
+ OPTICA GEOMETRICA
+
+1. FUNDAMENTOS DE LA OPTICA GEOMETRICA  10 hrs.
+1.1. Limites de aplicabilidad de la optica geometrica.
+1.2. Camino optico. Principio de Fermat.
+1.3. Leyes de la optica geometrica: reflexion y refraccion en superficies planas y 
+curvas.
+
+2. OPTICA GAUSSIANA  12 hrs.
+2.1. Reflexion y refraccion en superficies esfericas.
+
+ 2.2.  Lentes  delgadas  y  espejos.  Aproximacion  paraxial.  Ecuacion  de  Gauss. 
+Formula del fabricante de lentes.
+2.3. Formacion de imagenes. Amplificacion transversal y longitudinal.
+2.4. Sistemas opticos: Ojo humano, microscopio, telescopio, camara fotografica, 
+numero F.
+2.5. Prismas, diferentes tipos y aplicaciones.
+2.6. Aberraciones.
+
+1
+
+
+
+ OPTICA FISICA
+
+ FUNDAMENTOS
+
+3. ONDAS  10 hrs.
+3.1. Conceptos basicos y propiedades de las ondas.
+3.2. La ecuacion de onda. Solucion general. Superposicion.
+3.3. Teorema de Fourier (discusion). Ondas armonicas.
+3.4. Principio de Huygens, rayos y superficies de onda.
+3.5.  Notacion  compleja.  Metodo  de  fasores.  Adicion  de  ondas  de  la  misma 
+frecuencia.
+3.6. Adicion de ondas de frecuencia casi identicas. Velocidad de fase y velocidad 
+de grupo.
+
+4. ELECTROMAGNETISMO  10 hrs.
+4.1. Las ecuaciones de Maxwell y las ecuaciones materiales.
+4.2. Ondas electromagneticas en el vacio. Naturaleza electromagnetica de la luz.
+4.3. Energia en el campo electromagnetico (descripcion).
+4.4. Radiacion de una particula cargada (descripcion).
+4.5. Polarizacion. Ley de Malus. Vectores de Jones. 
+
+TEORIA VECTORIAL
+
+5. ECUACIONES DE FRESNEL  10 hrs.
+5.1. Condiciones de frontera para los campos electromagneticos.
+5.2.  Reflexion  y  refraccion  de  ondas  electromagneticas  en  medios  dielectricos 
+isotropicos.
+5.3. Las ecuaciones de Fresnel. Coeficientes de amplitud e intensidad.
+5.4. Consecuencias: Angulo de Brewster, cambios de fase, reflexion total interna 
+frustrada.
+
+6. TEORIA DE LA DISPERSION  10 hrs.
+6.1. Propagacion de la luz en medios dielectricos isotropicos.
+6.2. Dispersion normal y anomala. Absorcion.
+6.3. Propagacion de ondas electromagneticas en medios conductores.
+6.4. Comparacion entre dielectricos y conductores. Frecuencia de plasma.
+
+7. OPTICA DE CRISTALES  10 hrs.
+7.1. Propagacion de la luz en medios cristalinos.
+7.2. Superficie numero de ondas y superficie indice de refraccion (descripcion).
+7.3. Birrefringencia, dicroismo, retardadores, compensadores y polarizadores.
+7.4. Actividad optica.
+7.5. Efectos opticos inducidos. (Faraday, Kerr, Pockels, foto-elasticidad).
+
+2
+
+
+
+TEORIA ESCALAR
+
+8. INTERFERENCIA  12 hrs.
+8.1. Definiciones y conceptos preliminares.
+8.2. Condiciones para observar interferencia. Leyes de Fresnel-Arago.
+8.3. Interferencia por division de frente de onda.
+8.4. Interferencia por division de amplitud.
+8.5. Tipo y localizacion de franjas.
+8.6. Interferometros y sus aplicaciones.
+8.7. Peliculas delgadas. Aplicaciones.
+
+9. DIFRACCION  12 hrs.
+9.1. Introduccion. Principio de Huygens-Fresnel.
+9.2. Obstaculos. Principio de Babinet.
+9.3. Difraccion de Fraunhoffer.
+9.4. Difraccion de Fresnel. Espiral de Cornu (descripcion).
+9.5. Rejillas de difraccion. Aplicaciones.
+
+Bibliografia basica 
+* Hecht E., Optics, 3a. Ed. Addison-Wesley (1998).
+* Malacara D., Optica Basica, Fondo de Cultura Economica, Mexico (1990).
+* Jenkins  F.A.,  White  H.  E.,  Fundamentals  of  Optics,  4a.  edicion,  McGraw-Hill 
+
+(1976).
+
+* Fowles G. R., Introduction to Modern Optics, 2nd. Edition, Dover (1989). 
+* Strong J., Concepts of Classical Optics, Freeman (1958).
+* Resnick R.,  Halliday D., Physics, Vol. II, Wiley (1966).
+* Meyer-Arendt J. R., Introduction to Classical and Modern Optics, Prentice Hall 
+
+(1995).
+
+* Saleh B.E.A., Teich M.C.,  Fundamentals of Photonics, John Wiley & Sons, Inc. 
+USA (1991).
+
+* Sommerfeld  A.,  Optics:  Lectures  on  theoretical  physics,  Vol.  IV,  Academic 
+Press, Inc., New York (1949).
+
+Bibliografia complementaria
+
+* Guenther R., Modern Optics, Wiley (1990).
+* Born M., Wolf E.,  Principles of Optics, 7a Ed. exp., Cambridge University Press 
+
+(1999).
+
+* Gathak A. K., Thyagarajan K.,  Optical Electronics, Cambridge University Press 
+(1989).
+
+* Marion  J.  B.,  Heald  M.  A.,  Classical  Electromagnetic  Radiation,  2nd Ed., 
+Academic Press (1980).
+
+* Yariv A., Yeh P., Optical waves in Crystals, John Wiley & Sons, Inc. USA (1984). 
+
+3
+
+
+
+LECTURA Y DIVULGACION
+
+* Scientific American Books, Light and Lasers, Freeman (1969)
+
+* Libros de la Coleccion "La Ciencia Desde Mexico", Fondo de Cultura Economica, 
+Mexico:
+
+* Ana Maria Cetto, La Luz, No. 32 (1987).
+* Daniel Malacara, Optica Tradicional y Moderna, No. 84 (1989).
+* Virgilio Beltran L., Para Atrapar un Foton, No. 107 (1992).
+* Vicente Aboites, El Laser, No. 105, 2a. Ed. (1998).
+
+REVISTAS
+
+Scientific American 
+
+American Journal of Physics.
+
+The Physics Teacher.
+
+Optics and Photonics News.
+
+Photonics Spectra.
+
+Laser Focus.
+
+PAGINAS WEB: 
+http://www.bidi.unam.mx/             Informacion acerca de la localizacion de libros y revistas 
+en la UNAM.
+http://www.cio.mx/    Centro  de  Investigaciones  en  Optica,  A.  C. 
+http://www.inaoep.mx/             Instituto Nacional de Astrofisica, Optica y Electronica
+http://www.smf.mx Sociedad Mexicana de Fisica
+http://amo.iico.uaslp.mx/ Academia Mexicana de Optica
+http://www.osa.org/ Optical Society of America
+http://www.nature.com/nature/  Revista Nature
+http://www.sciam.com  Revista Scientific American
+
+4
+
+http://www.bidi.unam.mx/
+http://www.sciam.com/
+http://www.nature.com/nature/
+http://www.osa.org/
+http://amo.iico.uaslp.mx/
+http://www.smf.mx/
+http://www.inaoep.mx/
+http://www.cio.mx/
+
+	OPTICA GEOMETRICA
+	OPTICA FISICA
+	FUNDAMENTOS
+	TEORIA VECTORIAL
+	TEORIA ESCALAR
+	LECTURA Y DIVULGACION
+	REVISTAS
+	Scientific American
+	American Journal of Physics.
+	The Physics Teacher.
+	Optics and Photonics News.
+	Photonics Spectra.
+	Laser Focus.
+
+
+
+

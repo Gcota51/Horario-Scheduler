@@ -1,0 +1,480 @@
+IVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+ 
+                          Facultad de Ciencias 
+
+          
+                      Plan de estudios de la Licenciatura en Actuaria 
+
+ 
+ 
+
+Analisis Numerico  
+ 
+
+Clave 
+1707 
+
+Semestre 
+6 
+
+Creditos 
+10 
+
+Area 
+ 
+
+ 
+
+Campo de 
+conocimiento 
+
+Computacion 
+
+Etapa 
+ 
+
+Profundizacion 
+
+Modalidad 
+Curso ( X ) Taller ( ) Lab ( ) Sem ( ) 
+ 
+ 
+
+Tipo T (  )     P (  )    T/P  ( X )  
+
+Caracter 
+Obligatorio ( X )            Optativo ( ) 
+ 
+Obligatorio E ( )        Optativo E ( )  
+
+Horas 
+
+ Semana Semestre  
+
+ Teoricas         3 Teoricas          48 
+
+ Practicas        4 Practicas         64 
+
+ Total               7 Total                112 
+
+ 
+
+Seriacion 
+ 
+
+Ninguna (   ) 
+
+Obligatoria (   ) 
+
+Asignatura antecedente 
+ 
+
+ 
+
+Asignatura subsecuente 
+ 
+
+ 
+
+Indicativa ( X ) 
+
+Asignatura antecedente 
+ 
+
+ Calculo Diferencial e Integral IV, Algebra Lineal I y 
+Programacion. 
+
+ 
+Asignatura subsecuente 
+ 
+
+Analisis del Mexico Contemporaneo, Optativas del campo de 
+computacion. 
+
+ 
+
+Objetivos generales: 
+ 
+
+ El estudio de los metodos directos e iterativos basicos, estables, rapidos y de bajo costo 
+computacional. 
+
+ Lograr que el estudiante sea capaz de diagnosticar cuando un problema matematico es de datos 
+bien o mal-comportados numericamente. 
+
+ Hacer que el estudiante aprenda a realizar experimentacion numerica desarrollando programas en 
+MATLAB, Fortran, C o Python. 
+
+
+
+ Entrenar al estudiante en la resolucion numerica de problemas elementales de interes en la ciencia 
+y la tecnologia. 
+
+ 
+
+Objetivos especificos: 
+ 
+
+ Comprender los fundamentos del analisis numerico. 
+
+ Reconocer y aplicar algunos metodos del analisis numerico para la resolucion de problemas 
+asociados con sistemas de ecuaciones lineales. 
+
+ Identificar las ideas centrales de la interpolacion, los distintos tipos que existen, su importancia 
+practica con ventajas y desventajas. 
+
+ Profundizar sus conocimientos acerca de los metodos de integracion numerica. 
+
+ Aplicar algunos metodos numericos en el ajuste de datos. 
+
+ Utilizar algunos algoritmos del analisis numerico a la resolucion de sistemas de ecuaciones no 
+lineales 
+
+ Comprender los conceptos relacionados al Metodo de Monte Carlo, generacion de numeros 
+aleatorios y simulacion de variables aleatorias. 
+ 
+
+ 
+ 
+
+Indice tematico 
+
+ Tema  
+
+Horas 
+ semestre  
+
+Teoricas Practicas 
+
+1 Aritmetica de punto flotante 7 10 
+
+2 
+Resolucion de sistemas lineales de ecuaciones 
+algebraicas: Metodos directos 
+
+8 10 
+
+3 Interpolacion 7 10 
+
+4 Cuadratura numerica 6 10 
+
+5 Ajuste de datos por minimos cuadrados lineales 6 7 
+
+6 Resolucion de ecuaciones no lineales 7 7 
+
+7 Metodo de Monte Carlo 7 10 
+
+Total 112 
+
+ 
+
+Contenido Tematico 
+
+ Tema y subtemas 
+
+1 Aritmetica de punto flotante 
+
+ 
+
+1.1 Numeros de punto flotante y unidad de redondeo.  
+
+1.2 Aritmetica de punto flotante. Operaciones aritmeticas basicas y nocion 
+
+de metodo numericamente estable. 
+
+1.3 Errores de redondeo y sus efectos. Cancelacion numerica: la ecuacion 
+
+de 2o. grado, calculo de ex via su desarrollo en serie de Taylor. 
+
+1.4 Practica experimental. 
+
+ 
+2 Resolucion de sistemas lineales de ecuaciones algebraicas: Metodos directos 
+
+ 
+
+2.1 Normas vectoriales y de matrices. Singularidad numerica de una  
+
+            matriz. 
+
+2.2 Analisis de sensibilidad numerica y de error para sistemas lineales de 
+
+ecuaciones algebraicas. 
+
+
+
+2.3 Factorizacion LU con y sin pivoteo. 
+
+2.4 Sistemas lineales de ecuaciones Algebraicas con matriz simetrica y 
+
+positiva definida y Metodo de Cholesky: Bosquejo de su analisis de 
+
+error y Aplicaciones. 
+
+2.5 Practica experimental. 
+
+ 
+3 Interpolacion 
+
+ 
+
+3.1 Planteamiento del problema y metodos monomiales, de Lagrange y de 
+
+Newton: Ventajas e inconvenientes.  
+
+3.2  Estimacion del error de aproximacion. 
+
+3.3 El fenomeno de Runge, interpolacion polinomial sobre nodos de Gauss 
+
+y Tchebyshev y teoremas de Faber: Discusion. 
+
+3.4   Interpolacion polinomial a pedazos e interpolacion spline. 
+
+3.5   Practica experimental. 
+
+ 
+4 Cuadratura numerica 
+
+ 
+
+4.1 Reglas de cuadratura elementales: Punto medio, trapecio y Simpson; y 
+
+sus estimaciones de error. 
+
+4.2  Reglas de cuadratura compuestas y sus estimaciones de error. 
+
+4.3  Cuadraturas de Newton y Cotes. 
+
+4.4  Cuadratura de Gauss. 
+
+4.5  Algoritmos de tipo adaptativo. 
+
+4.6  Practica experimental. 
+
+ 
+5 Ajuste de datos por minimos cuadrados lineales 
+
+ 
+
+5.1 Las ecuaciones normales y Metodo de Cholesky: sus inconvenientes. 
+
+5.2 Descomposicion QR. 
+
+ 5.2.1 Metodo de Gram y Schmidt. 
+
+5.2.2 Transformaciones de Householder y la descomposicion QR 
+
+Housholder y Golub: bosquejo de su analisis de error y 
+
+aplicaciones. 
+
+5.3 Analisis de sensibilidad del problema de minimo de cuadrados lineales 
+
+y la hipotesis del angulo agudo. 
+
+5.4  Practica experimental.   
+
+ 
+6 Resolucion de ecuaciones no lineales 
+
+ 
+
+6.1 Metodo de aproximaciones sucesivas y convergencia lineal. 
+
+6.2 El algoritmo de biseccion, de Newton y de la secante; con sus 
+
+respectivas velocidades de convergencia. 
+
+6.3 Metodos hibridos. 
+
+6.4 Newton en varias dimensiones. 
+
+6.5 Practica experimental. 
+ 
+
+
+
+7 Metodo Monte Carlo 
+
+7.1 Obtencion de numeros aleatorios. Generadores de numeros aleatorios. 
+
+7.2 Variables aleatorias. Simulacion de variables aleatorias, continuas y  
+
+            discretas. 
+
+7.3 Practica experimental  
+
+ 
+
+ 
+ 
+
+Estrategias didacticas Evaluacion del aprendizaje 
+
+Exposicion                                                   ( X ) Examenes parciales                ( X ) 
+
+Trabajo en equipo                                         (  ) Examen final                  ( X ) 
+
+Lecturas                                                      ( X ) Trabajos y tareas                  ( X ) 
+
+Trabajo de investigacion                               (  ) Presentacion de tema                 (  ) 
+
+Practicas (taller o laboratorio)                     ( X ) Participacion en clase                            ( X ) 
+
+Practicas de campo                                       (  ) Asistencia                                                 (  ) 
+
+Aprendizaje por proyectos                          ( X ) Rubricas                                                   (  ) 
+
+Aprendizaje basado en problemas             ( X ) Portafolios                                                (  ) 
+
+Casos de ensenanza                                    ( ) Listas de cotejo                                        (  ) 
+
+Otras (especificar) Otras (especificar) 
+
+Es recomendable que tanto las clases teoricas como 
+
+las practicas se impartan en el laboratorio de 
+
+computo, tanto para fines de ilustracion como para 
+
+que el alumno ponga en practica la teoria 
+
+desarrollando o adaptando software afin a la materia. 
+
+ 
+
+Se recomienda que la evaluacion tome en cuenta los 
+
+reportes de las practicas y las tareas. Ademas de 
+
+llevar a cabo al menos 4 examenes parciales y en su 
+
+caso, un examen parcial. 
+
+ 
+
+Se recomiendan tareas regulares en las cuales el 
+
+alumno profundice y amplie los conocimientos 
+
+vistos en clase, realice experimentos numericos 
+
+ilustrativos y resuelva problemas matematicos  
+
+mediante los metodos numericos. 
+
+ 
+
+ 
+
+ 
+ 
+
+Perfil profesiografico 
+
+Titulo o grado Egresado de las licenciaturas en Matematicas, Actuaria o alguna afin 
+
+Experiencia docente Con experiencia docente en el area o areas afines.  
+
+Otra caracteristica Con conocimientos en Metodos Numericos y Software utilizado para el Analisis 
+Numerico. 
+
+ 
+ 
+ 
+
+Bibliografia basica: 
+ 
+
+ Heath, M. (1997). Scientific computing an introductory survey.  McGraw-Hill.   
+
+ Ascher U.M, and C. Greif (2011). A First course in Numerical Methods. SIAM. 
+
+ Moler C. (2004). Numerical Computing with MATLAB. SIAM. 
+
+ Suli E. and D. Mayers. An Introduction to Numerical Analysis. Cambridge University Press. 
+
+  Elden, L., Linde, W. K. (1990). Numerical Analysis: An introduction. Boston. Academic Press. 
+
+ Higham N.J. (1996). Accuracy and Stability of Numerical Algorithms. SIAM. 
+
+ Kahaner D., Moler C.B., Nash S. (1989). Numerical Methods and Software. New Jersey. Prentice Hall. 
+
+ Overton, M. L. (2002). Computo numerico con aritmetica de punto flotante IEEE. SIAM. (Aportaciones 
+Matematicas SMM No. 19) 
+
+
+
+ Forshythe G.E., Malcolm M.A., Moler C.B. (1977). Computer Methods for Mathematical 
+Computations. Prentice-Hall, N.J. 
+
+ Forshythe G.E., Moler C.B. (1967). Computer Solution of Linear Algebraic Systems. Prentice-Hall, 
+N.J. 
+
+ Golub G. H., and V. Loan (1996). Matrix computations (3a ed.). John Hopkins University Press. 
+
+ Quarteroni A., R. Sacco and F. Saleri (2007). Numerical mathematics. Springer Verlag. 
+
+ Metropolis and S. Ulam (1949). The Monte Carlo method. Journal of the American Statistical 
+Association 44:335-341. 
+
+ Shampine L.F., Allen R.C. Jr., Pruess S. (1997). Fundamentals of Numerical Computing.Wiley & Sons. 
+
+ Stewart, G.W. (1996). Afternotes on Numerical Analysis. SIAM. 
+
+ Ulam (1950). Random processes and transforma- tions. Proceedings of the International Congress of 
+Mathematicians 2:264-275. 
+
+ Van Loan, Ch.F. (1997). Introduction to Scientific Computing. Prentices-Hall. 
+
+ 
+
+Bibliografia complementaria: 
+ 
+
+ Won Y. Y., Wenwu Cao, Tae-Sang Chung and J. Morris (2005). Applied Numerical Methods using 
+Matlab. Wiley-Interscience. 
+
+ Stoer, J. and R. Bulirsch (2002). Introduction to Numerical Analysis (3a ed.). Springer Verlag. 
+
+ Plato, R. (2003). Concise Numerical Mathematics. American Mathematical Society. 
+
+ Meyer C. D. (2000). Matrix Analysis and Applied Linear Algebra. SIAM. 
+
+ Trefethen L. N. (1997). Numerical Linear Algebra. SIAM. 
+
+ Datta B. N. (2010). Numerical Linear Algebra and Applications (2a ed.). SIAM. 
+
+ Ipsen I. C. F. (2009). Numerical Matrix Analysis Linear Systems and Least Squares. SIAM. 
+
+ Nash J. C. (1990). Compact Numerical Methods for Computers Linear Algebra and Function 
+Minimization. Adam Hilger, Bristol and N.Y. 
+
+ Skiba Y. (2005). Metodos y esquemas numericos un analisis computacional U.N.A.M.  
+
+ Ralston A and P. Rabinowitz (1965). A first course in numerical analysis. Dover Press. 
+
+ Collins R. E. (2011). Mathematical methods for physicists and engineers. Dover Press. 
+
+ Burden R. L. y J. Douglas Faires (2001). Analisis numerico. Cengage Learning. 
+
+ Mathews J. H. y K. D. Fink (2000). Metodos numericos con Matlab. Madrid: Pearson Prentice Hall. 
+
+   
+
+Software recomendado: 
+ 
+
+ C o C++. 
+
+ MATLAB, (o equivalentes libres: Scilab, Octave). 
+
+ Python. 
+
+ Fortran. 
+ 
+
+ 
+
+

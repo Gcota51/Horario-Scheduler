@@ -1,0 +1,109 @@
+FACULTAD DE CIENCIAS
+
+CARRERA DE MATEMATICO
+
+LOGICA MATEMATICA II
+
+SEMESTRE: Septimo u octavo
+CLAVE: 0446
+
+HORAS A LA SEMANA/SEMESTRE
+
+TEORICAS PRACTICAS CREDITOS
+5/80 0 10
+
+CARACTER: OPTATIVO.
+MODALIDAD: CURSO.
+SERIACION INDICATIVA ANTECEDENTE: Logica Matematica I.
+SERIACION INDICATIVA SUBSECUENTE: Introduccion a las Funciones Recursivas
+y Computabilidad, Logica Matematica III.
+
+OBJETIVO(S): Que el alumno conozca y maneje el lenguaje de la logica de predicados
+con igualdad; que comprenda el concepto de sistema formal de primer orden y conozca el
+calculo de predicados con igualdad. Que profundice en el concepto de consecuencia logica,
+los metodos de decision y los semialgoritmos asociados a esta logica. Que adquiera las
+nociones basicas de la teoria de modelos.
+
+NUM. HORAS UNIDADES TEMATICAS
+
+10 1. Estructuras y lenguajes de primer orden
+1.1 Analisis logico del lenguaje natural. Lenguajes formales y traduc-
+ciones.
+1.2 Estructuras elementales.
+1.3 Lenguajes adecuados para las estructuras elementales.
+1.4 Los lenguajes formales de primer orden.
+
+30 2. Satisfaccion y verdad
+2.1 Interpretacion de lenguajes de primer orden.
+2.2 Definicion de satisfactibilidad de Tarski.
+2.3 Nocion de verdad relativa a la estructura. Modelos y validez logi-
+ca.
+2.4 Consecuencia logica y equivalencia logica.
+2.5 Sugerencia: Prenexacion. Formas normales de Skolem. Forma
+clausular.
+
+1
+
+
+
+35 3. Un Calculo de Predicados de primer orden
+A. Enfoque semantico.
+3.1 Teorema de Compacidad. Aplicaciones.
+3.2 Teorema de Herbrand. Aplicaciones.
+3.3 Existencia de un Calculo Correcto y Completo, para la nocion de
+consecuencia logica.
+B. Enfoque sintactico.
+3.1 Un Calculo de Predicados: Axiomas, reglas de inferencia y defini-
+ciones de derivacion y de prueba. Reglas derivadas. Teorias de primer
+orden.
+3.2 Teorema de la Deduccion. Teorema de la regla de eleccion.
+3.3 Correctud y Completud del Calculo respecto a la nocion de con-
+secuencia logica.
+3.4 Teorema de Compacidad. Aplicaciones.
+
+5 4. Teorema de Lowenheim-Skolem
+
+BIBLIOGRAFIA BASICA:
+
+1. Amor, J. A., Compacidad en la logica de primer orden y su relacion con el Teorema
+de Completud, Mexico: Servicios Editoriales, Facultad de Ciencias UNAM, 1999.
+
+2. Bridge, J., Beginning Model Theory, Oxford: Oxford University Press, 1977.
+
+3. DeLong H., A Profile of Mathematical Logic, Reading, Mass.:Addison Wesley, 1971.
+
+4. Enderton, H., A Mathematical Introduction to Logic, Boston: Academic Press, 1972.
+
+5. Kleene, S. C., Mathematical Logic, New York: Ed. Wiley, 1967.
+
+6. Malitz J., Introduction to Mathematical Logic Part III, New York: Springer Verlag,
+1979.
+
+7. Mendelson, E., Introduction to Mathematical Logic, Tercera Edicion. Pacific Grove,
+California: Wadsworth Books, 1987.
+
+8. Solis, J., Torres, Y., Logica con aplicaciones a las ciencias computacionales, Mexico:
+Ed. UAM-Iztapalapa, 1993.
+
+BIBLIOGRAFIA COMPLEMENTARIA:
+
+1. DeLong, H., A profile of Mathematical Logic, Reading, Mass.: Addison-Wesley, USA,
+1970.
+
+2
+
+
+
+SUGERENCIAS DIDACTICAS: Lograr la participacion activa de los alumnos mediante
+exposiciones.
+
+SUGERENCIA PARA LA EVALUACION DE LA ASIGNATURA: Ademas de las califi-
+caciones en examenes y tareas se tomara en cuenta la participacion del alumno.
+
+PERFIL PROFESIOGRAFICO: Matematico, fisico, actuario o licenciado en ciencias de
+la computacion, especialista en el area de la asignatura a juicio del comite de asignacion
+de cursos.
+
+3
+
+

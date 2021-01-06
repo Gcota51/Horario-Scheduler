@@ -1,0 +1,324 @@
+VERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+ 
+                          Facultad de Ciencias 
+
+          
+                      Plan de estudios de la Licenciatura en Actuaria 
+
+ 
+ 
+
+Programacion Dinamica 
+ 
+
+Clave 
+0632 
+
+Semestre 
+7 u 8 
+
+Creditos 
+10 
+
+Area 
+ 
+
+ 
+
+Campo de 
+conocimiento 
+
+Investigacion de Operaciones 
+
+Etapa 
+ 
+
+Profundizacion 
+
+Modalidad 
+Curso ( X ) Taller ( ) Lab ( ) Sem ( ) 
+ 
+ 
+
+Tipo T ( X )     P (  )    T/P  (  )  
+
+Caracter 
+Obligatorio (  )           Optativo ( X ) 
+ 
+Obligatorio E ( )        Optativo E ( )  
+
+Horas 
+
+ Semana Semestre  
+
+ Teoricas           5 Teoricas           80 
+
+ Practicas          0 Practicas           0 
+
+ Total                 5 Total                  80 
+
+ 
+
+Seriacion 
+ 
+
+Ninguna (   ) 
+
+Obligatoria (   ) 
+
+Asignatura antecedente 
+ 
+
+ 
+
+Asignatura subsecuente 
+ 
+
+ 
+
+Indicativa ( X ) 
+
+Asignatura antecedente 
+ 
+
+Asignaturas del campo de Investigacion de Operaciones. 
+
+Asignatura subsecuente 
+ 
+
+Optativas del campo de Investigacion de Operaciones. 
+
+ 
+
+Objetivo general: 
+ 
+
+ Conocer los principios sobre los que se sustenta la programacion dinamica, asi como sus principales 
+metodos y aplicaciones. 
+
+ 
+
+Objetivos especificos: 
+ 
+
+ Discutir los fundamentos de la programacion dinamica. 
+
+ Explicar los problemas y algoritmos de solucion bajo horizonte limitado. 
+
+ Explicar los problemas y algoritmos de solucion bajo horizonte ilimitado. 
+
+ Identificar algunas aplicaciones de la programacion dinamica. 
+
+
+
+ 
+
+Indice tematico 
+
+ Tema  
+
+Horas 
+ semestre  
+
+Teoricas Practicas 
+
+1 Introduccion 10 0 
+
+2 Programacion dinamica en horizonte limitado.  20 0 
+
+3 Programacion dinamica en horizonte ilimitado. 25 0 
+
+4 
+Otras aplicaciones o implicaciones de la 
+
+programacion dinamica. 
+25 0 
+
+Total 80 
+
+ 
+
+Contenido Tematico 
+
+ Tema y subtemas 
+
+1 Introduccion.          
+ 
+
+1.1  Principios de teoria de redes. 
+
+1.2  Representacion de los principios de programacion dinamica. 
+
+1.3  Principio de optimalidad. 
+
+ 
+
+2 Programacion dinamica en horizonte limitado.    
+  
+
+ 
+
+2.1 Caso discreto con futuro determinado. 
+
+ 2.1.1 Ejemplo y presentacion del modelo. 
+
+ 2.1.2 Interpretacion segun la teoria de redes y redes secuenciales. 
+
+2.1.3 Casos particulares. 
+
+ 2.1.4 Comparacion de metodos. 
+
+2.2 Caso discreto con futuro aleatorio. 
+
+ 2.2.1 Ejemplo de un programa dinamico decision-azar. 
+
+ 2.2.2 Modelo de programa dinamico decision-azar y forma separada. 
+
+ 2.2.3 Modelo de programa dinamico azar-decision y forma separada. 
+
+2.3 Algunos ejemplos. 
+
+ 
+
+3 Programacion dinamica en horizonte ilimitado.    
+ 
+
+3.1 Caso discreto con futuro determinado. 
+
+ 3.1.1 Convergencia por reduccion del dominio de decision. 
+
+ 3.1.2 Criterio del valor presente. 
+
+ 3.1.3 Criterio del valor medio por periodo. 
+
+3.2 Caso discreto con futuro aleatorio. 
+
+ 3.2.1 Criterio de esperanza matematica del valor presente total. 
+
+ 3.2.2 Aproximacion en el espacio de estrategias. 
+
+ 3.2.3 Convergencia del valor presente total de una estrategia 
+
+arbitraria. 
+
+ 3.2.4 Influencia del estado inicial. 
+
+
+
+ 3.2.5 Criterio de esperanza matematica del valor total no presente. 
+
+ 3.2.6 Criterio de esperanza matematica del valor medio por periodo. 
+
+ 3.2.7 Optimizacion del valor medio por periodo. 
+
+ 
+
+4 Otras aplicaciones o implicaciones de la programacion dinamica.             
+ 
+
+4.1 Programacion dinamica discreta en casos decision-azar en cadenas 
+
+finitas de Markov. 
+
+4.2 Estructura de las cadenas finitas de Markov. 
+
+4.3 Cadenas finitas de Markov irreductibles. 
+
+4.4 Funcion generatriz. 
+
+4.5 Estudio cuantitativo de las cadenas finitas de Markov. 
+
+4.6 Valor de la estrategia permanente. 
+
+4.7 Optimizacion del valor presente total. 
+
+4.8 Optimizacion del valor medio por periodo. 
+
+ 
+ 
+
+Estrategias didacticas Evaluacion del aprendizaje 
+
+Exposicion                                                   (  ) Examenes parciales                ( X ) 
+
+Trabajo en equipo                                       ( X ) Examen final                  ( X ) 
+
+Lecturas                                                      ( X ) Trabajos y tareas                  ( X ) 
+
+Trabajo de investigacion                               (  ) Presentacion de tema                 (  ) 
+
+Practicas (taller o laboratorio)                       (  ) Participacion en clase                            ( X ) 
+
+Practicas de campo                                       (  ) Asistencia                                                 (  ) 
+
+Aprendizaje por proyectos                            (  ) Rubricas                                                   (  ) 
+
+Aprendizaje basado en problemas             ( X ) Portafolios                                                (  ) 
+
+Casos de ensenanza                                    (  ) Listas de cotejo                                        (  ) 
+
+Otras (especificar) Otras (especificar)  
+
+ 
+ 
+
+Perfil profesiografico 
+
+Titulo o grado El profesor que impartira el curso debera ser egresado de las licenciaturas de 
+Actuaria, Matematicas, Matematicas aplicadas o alguna afin.. 
+
+Experiencia docente Debera tener experiencia docente en el area de programacion dinamica. 
+
+Otra caracteristica  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+Bibliografia basica: 
+ 
+
+ Bellman, R. & Dreyfus, S. (2010). Dynamic Programming. Princeton University Press.  
+
+ Bertsekas, D.P. (2007). Dynamic Programming and Optimal Control, Volumen II (4a ed.). Athena 
+Scientific. 
+
+ Dreyfus, S.E. & Law, A.M. (1977). The Art and Theory of Dynamic Programming. Academic Press. 
+
+ Lew, A. & Mauch, H. (2010). Dynamic Programming: A Computational Tool. Springer. 
+
+ Sniedovich, M. (2011). Dynamic Programming: Foundations and Principles (2a ed.). CRC Press. 
+
+ Stachurski, J. (2009). Economics Dynamics: Theory and Computation. Massachusetts Institute of 
+Tecnology. 
+
+ 
+
+Bibliografia complementaria: 
+ 
+
+ Powell, W.B. (2010). Approximate Dynamic Programming: Solving the Curses of Dimensionality. 
+John Wiley & Sons. 
+
+ Puterman, M.L. (2005). Markov Decision Processes: Discrete Stochastic Dynamic Programming. 
+John Wiley & Sons. 
+
+ Ross, S.M. (1995). Introduction to Stochastic Dynamic Programming. Academic Press. 
+ 
+
+ 
+
+

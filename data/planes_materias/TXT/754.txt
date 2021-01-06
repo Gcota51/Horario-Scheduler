@@ -1,0 +1,197 @@
+FACULTAD DE CIENCIAS
+
+CARRERA DE MATEMATICO
+
+SEMINARIO SOBRE LA ENSENANZA DE LAS MATEMATICAS II
+Ejemplo: Teorias sobre el aprendizaje de las matematicas
+
+SEMESTRE: Septimo u octavo
+CLAVE: 0754
+
+HORAS A LA SEMANA/SEMESTRE
+
+TEORICAS PRACTICAS CREDITOS
+5/80 0 10
+
+CARACTER: OPTATIVO.
+MODALIDAD: CURSO.
+SERIACION INDICATIVA ANTECEDENTE: Seminario sobre la Ensenanza de las
+Matematicas I.
+SERIACION INDICATIVA SUBSECUENTE: Seminario sobre la Ensenanza de las
+Matematicas III.
+
+OBJETIVO(S): Identificar y examinar tendencias, cuestiones y retos actuales sobre pro-
+cesos de aprendizaje de las matematicas.
+Abordar el analisis de distintas posiciones que explican la naturaleza de las matematicas,
+los aspectos sobre los que estas ponen enfasis, asi como sus implicaciones para la ensenanza
+de las matematicas.
+Identificar y describir usos de las nuevas tecnologias en la ensenanza y el aprendizaje de
+las matematicas.
+Preparar una bibliografia anotada como evidencia de la identificacion de publicaciones
+periodicas importantes en el area de matematica educativa.
+
+NUM. HORAS UNIDADES TEMATICAS
+
+20 1. Naturaleza de las matematicas, como producto y como
+proceso
+
+20 2. Conceptos epistemologicos del conocimiento matematico
+
+20 3. Controversias actuales sobre el enfoque constructivista del
+aprendizaje de las matematicas
+
+20 4. Influencia de las nuevas tecnologias en la ensenanza y el
+aprendizaje de las matematicas
+
+1
+
+
+
+BIBLIOGRAFIA BASICA:
+
+1. Bkouche, R. Epistemologie, histoire et enseignement des mathematiques. For the
+learning of mathematics 17 (1), pp. 34-42, 1997.
+
+2. Bloor, D. Los fundamentos vivos de las matematicas, Mathesis 6 (4), pp. 499-522,
+1990.
+
+3. Bloor, D. Conocimiento e imaginario social. Barcelona, 1998: Gedisa. [David Bloor,
+Knowledge and social imagery, 1971/1991. Tr.: E. Lizcano y R. Blanco.]
+
+4. Carraher, T., Carraher, D., Schliemann, A. En la vida diez, en la escuela cero, Siglo
+veintiuno, Mexico, 1999.
+
+5. Case, B. A. (comp.) You're the professor, What next? Ideas and resources for prepa-
+ring college teachers, The Mathematical Association of America, Washington, DC.,
+1994. [MAA Notes and Reports Series No. 35]
+
+6. Courant, R., Robbins, H. ?Que son las matematicas? Conceptos y metodos funda-
+mentales, Fondo de Cultura Economica, Mexico, 2002. [Version en castellano de la
+2a ed. en ingles (1996); Prefacio y Avances recientes: Ian Stewart.]
+
+7. D'Ambrosio, U. Ethnomathematics: An explanation, en R. Calinger (comp.) Vita
+mathematica: Historical research and integration with teaching, The Mathematical
+Association of America, Washington, DC, pp. 245-250, 1996.
+
+8. De Lorenzo, J. La matematica: de sus fundamentos y crisis, Tecnos, Madrid, 1998.
+
+9. English, L. D. (ed.) Handbook of International Research in Mathematics Education.
+Lawrence Erlbaum Associates, Londres, 2002.
+
+10. Ernest, P. Forms of knowledge in mathematics and mathematics education: philosop-
+hical and rhetorical perspectives, Educational Studies in Mathematics 38, pp. 67-83,
+1999.
+
+11. Ferreiro, E. Vigencia de Jean Piaget, Siglo veintiuno editores, Mexico, 1999.
+
+12. Gomez, P. (ed.) Ingenieria didactica en educacion matematica. Un esquema para
+la investigacion en la ensenanza y el aprendizaje de las matematicas, Una empresa
+docente, Bogota / Grupo Editorial Iberoamerica, Mexico, 1995.
+
+13. Hamming, R. W. Mathematics on a distant planet, The American Mathematical
+Monthly 105 (7), pp. 640-650, 1998.
+
+14. Jones, C. V. A complex adaptive model for learning [AERA paper on objects-based
+learning.] 11 p., 1996.
+
+2
+
+
+
+15. Lovell, K. Desarrollo de los conceptos basicos matematicos y cientificos en los ninos,
+Morata, Madrid, 1977.
+
+16. Meier, J., Rishel, T. Writing in the teaching and learning of mathematics, The Mat-
+hematica Associaton of America, Washington, DC, 1998. [MAA Notes Series N. 48]
+
+17. National Council of Teachers of Mathematics, Principles and standards for school
+mathematics, NCTM, Reston, VA, 2000.
+
+18. Orton, A. Didactica de las matematicas. Cuestiones, teoria y practica en el aula,
+Ministerio de Educacion y Ciencia, Morata, Madrid, 1990.
+
+19. Otte, M. Mathematics, semiotics, and the growth of social knowledge, For the Lear-
+ning of Mathematics 17 (1), pp. 47-54, 1997.
+
+20. Piaget, J., Garcia, R. Psicogenesis e historia de la ciencia, Siglo XXI, Mexico, 1982.
+
+21. Puy Perez, E. M. del, La solucion de problemas en matematicas, en J. I. Pozo M
+(coord.), 1999, La solucion de problemas, Aula XXI/Santillana, Mexico, 1999.
+
+22. Radford, L. Lizcano y el problema de la creacion matematica, Mathesis 12 (4), pp.
+399-413, 1996.
+
+23. Radford, L. On psychology, historical epistemology, and the teaching of mathematics:
+Towards a socio-cultural history of mathematics, For the Learning of Mathematics
+17 (1), pp. 26-33, 1997.
+
+24. Resnick, L. B., Ford, W.W. La ensenanza de las matematicas y sus fundamentos
+psicologicos, Paidos y Ministerio de Educacion y Ciencia, Barcelona, 1990.
+
+25. Rodriguez-Consuegra, F. Filosofia de la matematica: Tres preguntas fundamentales,
+Mathesis, Serie II, I (1), pp. 79-114, 2001.
+
+26. Romberg, T. A. Problematic features of the school mathematics curriculum, en P.
+W. Jackson (comp.), Handbook of research on curriculum. A project of the American
+Educational Research Association, MacMillan, Nueva York, pp. 749-788, 1992.
+
+27. Santos, L. M. La naturaleza de las matematicas y sus implicaciones didacticas, Mat-
+hesis 9 (4), pp. 419-432, 1993.
+
+28. Santos, L. M. Principios y metodos de la resolucion de problemas en el aprendizaje
+de las matematicas, Grupo Editorial Iberoamerica, Mexico, 1997.
+
+29. Schoenfeld, A. H. (ed.) A source book for college mathematics teaching. A report from
+the MAA Committee on the teaching of undergraduate mathematics, The Mathe-
+matical Association of America, Washington, DC., 1990.
+
+3
+
+
+
+30. Skemp, R. R. Psicologia del Aprendizaje de las Matematicas, Morata, Madrid, 1993.
+
+31. Steffe, L. P., Gale, J. (eds.) Constructivism in education, LEA, Hillsdale, NJ., 1995.
+
+32. Steffe, L. P., Wood, T. (eds.) Transforming children's mathematics education. Inter-
+national perspectives, LEA, Hillsdale, NJ., 1990.
+
+33. Swetz, F. To know and to teach: Mathematical pedagogy from a historical context,
+Educational Studies in Mathematics 29, pp. 73-88., 1995.
+
+34. Tymoczko, T. (comp.) New directions in the philosophy of mathematics. An antho-
+logy, Princeton University Press, Princeton, NJ., 1998.
+
+35. Vygotsky, L. Pensamiento y lenguaje, Paidos, Barcelona, 1995.
+
+36. Waldegg, G. Histoire, epistemologie et methodologie dans la recherche en didactique,
+For the learning of mathematics 17 (1), pp. 43-46, 1997.
+
+BIBLIOGRAFIA COMPLEMENTARIA:
+
+1. American Psychological Association, 2001 (5a ed.), The publication manual of the
+American Psychological Association, APA, Washington, DC. [Version en espanol:
+Manual de estilo de publicaciones de la American Psychological Association, 2002
+(2a ed.), Manual Moderno, Mexico.]
+
+2. De Buen U., J., 2000, Manual de diseno editorial, Santillana, Mexico.
+
+3. Sanchez y Gandara, A., F. Magarinos L. y K. B. Wolf, 2000, El arte editorial en la
+literatura cientifica, SyG y UNAM, Mexico.
+
+4. Zavala R., R., 2002, El libro y sus orillas. Tipografia, originales, redaccion, correccion
+de estilo y de pruebas, UNAM, Mexico.
+
+SUGERENCIAS DIDACTICAS: Lograr la participacion activa de los alumnos mediante
+exposiciones.
+
+SUGERENCIA PARA LA EVALUACION DE LA ASIGNATURA: Ademas de las califi-
+caciones en examenes y tareas se tomara en cuenta la participacion del alumno.
+
+PERFIL PROFESIOGRAFICO: Matematico, fisico, actuario o licenciado en ciencias de
+la computacion, especialista en el area de la asignatura a juicio del comite de asignacion
+de cursos.
+
+4
+
+

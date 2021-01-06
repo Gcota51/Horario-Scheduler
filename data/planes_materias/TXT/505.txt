@@ -1,0 +1,123 @@
+LAVE: 
+AREA: ASTRONOMIA 
+CARACTER: OPTATIVO 
+CREDlTOS: 6 
+
+MODALIDAD: CURSO 
+HRS. TEORJCAS: 3 
+HRS. PRACTICAS: 
+REQUISITOS: Ninguno 
+
+ 
+ 
+
+ 
+
+O BJE T IV O: 
+ 
+
+Dar un panorama global de la Astronomia moderna. Se pretende presentar las bases fisicas del conocimiento del 
+Universo. Se intenta lograr un curso atractivo que motive a los estudiantes a proseguir estudios en Astronomia. 
+
+ 
+TEMARIO: 
+
+ 
+I. PRINCIPIOS BASICOS 
+
+* Esfera Celeste 
+* Calendario 
+- Constelaciones y movimientos en el ciclo 
+- Telescopios (opticos, radio y otras longitudes de onda) 
+* Determinacion de las posiciones, brillo y velocidad de las estrellas 
+
+ 
+11. LAS ESTRE LLAS 
+
+- Espectros, magnitudes y colores 
+- El interior de las estrellas 
+- Diagrama II-R 
+- Evolucion y muerte de las estrellas 
+- El Sol como estrella 
+
+ 
+111. LA VIA LACTEA 
+
+- Cumulos y asociaciones 
+- Determinacion de distancias y estadistica estelar 
+- Movimientos de las estrellas 
+- Rotacion de la Via Lactea 
+- Estructura y evolucion 
+
+ 
+IV. MEDIO INTERESTELAR 
+
+- Fases del medio interestelar 
+* Gas atomico 
+* Gas ionizado (regiones H 11, nebulosas planetarias, remanentes de SN, gas coronal) 
+- Nubes moleculares 
+- Polvo 
+
+ 
+V. GALAXIAS 
+
+- Clasificacion 
+- Luminosidad y masa 
+- Sistemas de galaxias 
+- Distancias 
+* Galaxias activas y cuasares 
+. Origen y evolucion de las galaxias 
+
+ 
+\'l. COSMOLOGIA 
+
+- La expansion del Universo 
+. El principio cosmologico 
+
+
+
+ 
+ 
+ 
+
+
+
+- Modelos del Universo 
+- La Gran Explosion 
+
+ 
+VII. EL SISTEMA SOLAR 
+
+- El Sol 
+- Planetas terrestres 
+- Planetas jovianos 
+- Cometas y cue rpos menores 
+- Origen del sistema solar 
+
+ 
+VIII. LA ASTRONOMIA DEL FUTURO 
+
+- La Astronomia en Mexico 
+ 
+
+BIBLIOGRAFIA BASICA: 
+ 
+
+H. KARTUNEN, P. KROGER, H. OJA, M. POUTANEN y K. J. DONNER, (Eds.) 1984, 
+Fundamental Astronomy, Springer-Verlag. 
+
+L.F. RODRIGUEZ, Astronomia Contemporanea, 1984, UNAM. 
+G. ABELL, D. MORRISON y S. WOLFF, Exploration ofthe Universe 1987, 5a. edicion. 
+J.M. PASACHOFF, University Astronomy, 1988, 3a. ed. 
+
+ 
+BIBLI OGRAFIA COMPLEMENTARIA: 
+
+ 
+L.F. RODRIGUEZ, Un Universo en Expansion, 1985, Fondo de Cultura Economica. 
+A.M. CETIO; la Luz, 1986, Fondo de Cultura Economica. 
+J. FIERRO y M.A. HERRERA, La Familia del Sol, 1987, Fondo de 
+
+Cultura Economica. 
+
+

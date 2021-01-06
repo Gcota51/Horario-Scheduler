@@ -1,0 +1,116 @@
+DE CIENCIAS
+
+CARRERA DE MATEMATICO
+
+SEMINARIO DE TEMAS SELECTOS DE COMPUTACION
+Ejemplo: Reconocimiento de imagenes en 3D
+
+SEMESTRE: Septimo u octavo
+CLAVE: 0810
+
+HORAS A LA SEMANA/SEMESTRE
+
+TEORICAS PRACTICAS CREDITOS
+5/80 0 10
+
+CARACTER: OPTATIVO.
+MODALIDAD: CURSO.
+SERIACION INDICATIVA ANTECEDENTE: Teoria de la Computacion.
+SERIACION INDICATIVA SUBSECUENTE: Ninguna.
+
+OBJETIVO(S): Familiarizar al alumno con las tecnicas de reconocimiento de patrones que
+le permiten emular los procesos visuales para identificar formas en imagenes digitales.
+
+NUM. HORAS UNIDADES TEMATICAS
+
+10 1. Conceptos basicos
+1.1 Clasificacion de patrones.
+1.2 Decisiones de contorno. Funciones discriminantes.
+1.3 Densidades de probabilidad.
+1.4 Clasificacion, usando el vecino mas cercano.
+1.5 Reconocimiento de la forma de los objetos.
+
+15 2. Imagenes binarias
+2.1 Conectividad.
+2.2 Caracteristicas topologicas de objetos 3D.
+2.3 Medidas de similitud.
+2.4 Operaciones en imagenes binarias.
+2.5 Codigos de cadena.
+2.6 Compacidad.
+
+15 3. Teoria de invariantes
+3.1 Momentos e invariantes algebraicos.
+3.2 Momentos invariantes de escala y ortogonales.
+3.3 Cuerpo rigido y ejes principales.
+
+419
+
+
+
+20 4. Graficas bipartitas y asignacion optima
+4.1 Graficas bipartitas.
+4.2 Apareo.
+4.3 Problema de asignacion optima.
+4.4 Algoritmo Hungaro.
+
+20 5. Transformacion de un objeto a otro
+5.1 Representacion por superficie y volumen.
+5.2 Voxelizacion.
+5.3 Transformacion de figuras en 2 y 3 dimensiones.
+5.4 Medidas de similitud.
+5.5 Aplicacion de algoritmos en la transformacion de objetos.
+
+BIBLIOGRAFIA BASICA:
+
+1. Batchelor, B.G., Pattern Recognition, Ideas in Practice, New York: Plenum Press.
+1978.
+
+2. Ballard, D.H., Brown, C.M., Computer Vision. New Jersey: Prentice Hall, Inc. 1982.
+
+3. Bondy, J.A., Murty, U.S.R., Graph Theory with Applications. Ontario, Canada: Uni-
+versity of Waterloo, 1992.
+
+4. Gould, R., Graph Theory, New York: The Benjamin Cummings Publishing Company.
+1988.
+
+5. Jain, A.K., Fundamentals of Digital Processing, New Jersey: Prentice Hall, 1989.
+
+6. Kanatani, K., Group of Theoretical Methods in Image Understanding, New York:
+Springer-verlag. 1990.
+
+7. Lohmann, G., Volumetric Image Analysis, New York: Wiley & Teubner.
+
+8. Meisel, W.S., Computer Oriented Approaches to Pattern Recognition, Boston: Aca-
+demic Press, 1974.
+
+9. Pavel, M., Fundamentals of Pattern Recognition, New York: Marcel Dekker, Inc.
+1989.
+
+10. Tou, J.T., Pattern Recognition Principles, Reading, Mass.: Addison-Wesley. 1974.
+
+11. Tzay, Y.Y., Handbook of Pattern Recognition, San Diego: Academic, 1994.
+
+420
+
+
+
+BIBLIOGRAFIA COMPLEMENTARIA:
+
+1. Haralick, R.L., Shapiro, L.G. "Glosary of Computer Vision Terms", Pattern Recog-
+nition, Vol. 24, 1991: 69-93.
+
+2. Konig, D. "Graph and Matrices (Hungarian)" Mat. Fig. Lapok, vol. 38, 1931: 26-30.
+
+SUGERENCIAS DIDACTICAS: Lograr la participacion activa de los alumnos mediante
+exposiciones.
+
+SUGERENCIA PARA LA EVALUACION DE LA ASIGNATURA: Ademas de las califi-
+caciones en examenes y tareas se tomara en cuenta la participacion del alumno.
+
+PERFIL PROFESIOGRAFICO: Matematico, fisico, actuario o licenciado en ciencias de
+la computacion, especialista en el area de la asignatura a juicio del comite de asignacion
+de cursos.
+
+421
+
+

@@ -1,0 +1,76 @@
+FACULTAD DE CIENCIAS
+
+CARRERA DE MATEMATICO
+
+SEMINARIO DE TOPOLOGIA B
+Ejemplo: Anillos de funciones continuas
+
+SEMESTRE: Septimo u octavo
+CLAVE: 0712
+
+HORAS A LA SEMANA/SEMESTRE
+
+TEORICAS PRACTICAS CREDITOS
+5/80 0 10
+
+CARACTER: OPTATIVO.
+MODALIDAD: CURSO.
+SERIACION INDICATIVA ANTECEDENTE: Algebra Moderna I, Analisis Matemati-
+co II, Topologia I, Variable Compleja I.
+SERIACION INDICATIVA SUBSECUENTE: Ninguna.
+
+OBJETIVO(S): Iniciar a los alumnos en varios de los conceptos, tecnicas y teoremas de
+topologia, algebra y teoria de conjuntos que tienen una gran aplicacion a varias ramas de la
+topologia, del analisis funcional y del analisis real: conjuntos nulos, ultrafiltros, anillos de
+funciones continuas, espacios pseudocompactos, espacios realcompactos, compactaciones y
+espacios de ultrafiltros.
+
+NUM. HORAS UNIDADES TEMATICAS
+
+6 1. Ideales y z-filtros
+
+6 2. Espacios Tychonoff
+
+6 3. Ideales fijos y espacios compactos
+
+9 4. Anillos ordenados
+
+9 5. Compactacion de Stone-Cech
+
+10 6. Caracterizacion de ideales maximales
+
+10 7. Espacios realcompactos
+
+12 8. Espacios de ultrafiltros
+
+12 9. Espacios discretos y cardinales no-medibles
+
+1
+
+
+
+BIBLIOGRAFIA BASICA:
+
+1. Arkhangel'skii, A.V., Topological Function Spaces, New York: Kluwer Academic Pu-
+blishers, 1992.
+
+2. Gillman, L., Jerison, M., Rings of Continuous Functions, New York: Springer-Verlag,
+1976.
+
+BIBLIOGRAFIA COMPLEMENTARIA:
+
+1. Engelking, R., General Topology, Berlin: Heldermann Verlag, 1989.
+
+SUGERENCIAS DIDACTICAS: Lograr la participacion activa de los alumnos mediante
+exposiciones.
+
+SUGERENCIA PARA LA EVALUACION DE LA ASIGNATURA: Ademas de las califi-
+caciones en examenes y tareas se tomara en cuenta la participacion del alumno.
+
+PERFIL PROFESIOGRAFICO: Matematico, fisico, actuario o licenciado en ciencias de
+la computacion, especialista en el area de la asignatura a juicio del comite de asignacion
+de cursos.
+
+2
+
+

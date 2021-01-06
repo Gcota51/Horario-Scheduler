@@ -1,0 +1,377 @@
+IVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+ 
+                          Facultad de Ciencias 
+
+          
+                      Plan de estudios de la Licenciatura en  
+
+                          Matematicas Aplicadas 
+ 
+
+Ecuaciones Diferenciales Parciales I 
+ 
+
+Clave 
+0165 
+
+Semestre 
+7 
+
+Creditos 
+10 
+
+Area de 
+conocimiento 
+
+Ecuaciones Diferenciales y Dinamica de 
+Sistemas 
+
+Campo 
+ 
+
+ 
+
+Etapa 
+ 
+
+Profundizacion 
+
+Modalidad 
+Curso ( X ) Taller ( ) Lab ( ) Sem ( ) 
+ 
+ 
+
+Tipo T ( X )     P (  )    T/P  (  )  
+
+Caracter 
+Obligatorio ( X )            Optativo ( ) 
+ 
+Obligatorio E ( )        Optativo E ( )  
+
+Horas 
+
+ Semana Semestre  
+
+ Teoricas                5     Teoricas               80 
+
+ Practicas               0        Practicas               0 
+
+ Total                      5 Total                     80       
+
+ 
+
+Seriacion 
+ 
+
+Ninguna (   ) 
+
+Obligatoria (   ) 
+
+Asignatura antecedente 
+ 
+
+ 
+
+Asignatura subsecuente 
+ 
+
+ 
+
+Indicativa ( X ) 
+
+Asignatura antecedente 
+ 
+
+Calculo Diferencial e Integral IV 
+Ecuaciones Diferenciales I. 
+
+Asignatura subsecuente 
+ 
+
+Proyecto II 
+
+ 
+ 
+
+Objetivo general: 
+ 
+
+ Introducir al alumno al estudio de las ecuaciones diferenciales parciales y sus 
+aplicaciones, asi como familiarizarlo con algunas tecnicas de matematicas aplicadas.. 
+ 
+
+ 
+ 
+ 
+ 
+
+Indice tematico 
+
+
+
+ Tema  
+Horas 
+
+ semestre  
+
+Teoricas Practicas 
+
+1 Ecuaciones diferenciales parciales de primer orden. 18 0 
+
+2 Ecuaciones diferenciales parciales de segundo orden. 4 0 
+
+3 Ecuaciones de tipo hiperbolico. 20 0 
+
+4 Ecuaciones de tipo eliptico. 20 0 
+
+5 Ecuaciones de tipo parabolico 18 0 
+
+6 Ecuaciones diferenciales Parciales no lineales (optativo)   
+
+Subtotal 80 0 
+
+Total 80 0 
+
+ 
+
+Contenido Tematico 
+
+ Tema y subtemas 
+
+1 Ecuaciones diferenciales parciales de primer orden. 
+
+ 
+
+1.1       Problemas que llevan a las ecuaciones diferenciales parciales de primer  
+
+           orden (dinamica de poblaciones con estructura de edades, trafico en una  
+
+           carretera) 
+
+1.2        Conceptos y definiciones basicas. 
+
+1.3        Ecuaciones lineales y casi lineales. 
+
+1.4        El problema de condiciones iniciales y de frontera. 
+
+1.5        Metodo de las caracteristicas. 
+
+1.6        Existencia y unicidad de la soluciones. 
+
+1.7        Ecuaciones no lineales (optativo) 
+
+ 
+
+2 Ecuaciones diferenciales parciales de segundo orden. 
+ 
+
+2.1        Clasificacion de las ecuaciones de segundo orden. 
+
+2.2        Reduccion de la ecuacion de segundo orden con coeficientes constantes a  
+
+             su forma canonica. 
+
+ 
+
+3 Ecuaciones de tipo hiperbolico. 
+ 
+
+3.1       Problemas que llevan a las ecuaciones de tipo hiperbolico (la cuerda    
+
+            vibrante, lineas de transmision, olas en aguas poco profundas, ecuaciones   
+
+            de Maxwell, membrana vibrante, propagacion de ondas en el espacio) 
+
+3.2       Ecuacion de onda eb una dimension. Solucion por caracteristicas.   
+
+            Separacion de variables. Problemas de Sturm Lioville (optativo). 
+
+            Metodo de la energia. Unicidad de las soluciones. 
+
+3.3       Sistemas simetricos hiperbolicos. El metodo de las caracteristicas.  
+
+            Unicidad de las soluciones. 
+
+3.4       Ecuacion de onda en mas dimensiones. Ondas planas y esfericas.  
+
+            Problemas de valores iniciales. Promedios esfericos.  
+
+            Metodo del descenso de Hadamard. Separacion de variables. 
+
+ 
+
+4 Ecuaciones de tipo eliptico.  
+ 
+
+4.1      Problemas que llevan a las ecuaciones de tipo eliptico (configuraciones de  
+
+
+
+           equilibrio en membranas oscilantes, potenciales electrostatico y  
+
+           gravitacional). 
+
+4,2      Ecuacion de Laplace y problemas de valores a la frontera.  
+
+           Existencia y unicidad. 
+
+4.3      Funciones armonicas y sus propiedades. Principio del maximo. Formulas de    
+
+           Green. Solucion del problema de Dirichlet usando funciones de Green. 
+
+4.4      Metodo de separacion de variables en el disco y el cuadrado. 
+
+4.5      El nucleo de Poisson. 
+
+4.6      Mapeo Conforme.  
+ 
+
+5 Ecuaciones de tipo parabolico 
+ 
+
+4.1      Problemas que llevan a las ecuaciones de tipo parabolico (transmicion de  
+
+           calor, difusion molecular, caminatas aleatorias). 
+
+4,2      Problemas con condiciones iniciales y de frontera. (Dirichlet, Neumann y  
+
+           Robin). 
+
+4.3      El principio del maximo y la unicidad de las soluciones. 
+
+4.4      Continuidad de las soluciones respecto a condiciones iniciales. 
+
+4.5      Solucion del problema de condiciones iniciales para la ecuacion de calor en   
+
+           una dimension. 
+
+4.6      La solucion fundamental. Separacion de variables. Transformada de Fourier.  
+           Soluciones de similaridad. 
+ 
+
+6 Ecuaciones diferenciales Parciales no lineales (optativo) 
+
+ 
+ 
+
+Estrategias didacticas Evaluacion del aprendizaje 
+
+Exposicion                                                   ( X ) Examenes parciales                ( X ) 
+
+Trabajo en equipo                                       (  ) Examen final                  ( X ) 
+
+Lecturas                                                      ( X ) Trabajos y tareas                  ( X ) 
+
+Trabajo de investigacion                             (  ) Presentacion de tema                 (X ) 
+
+Practicas (taller o laboratorio)                       (  ) Participacion en clase                            ( X ) 
+
+Practicas de campo                                       (  ) Asistencia                                                 (  ) 
+
+Aprendizaje por proyectos                          (  ) Rubricas                                                   (  ) 
+
+Aprendizaje basado en problemas             (  ) Portafolios                                                (  ) 
+
+Casos de ensenanza                                    (  ) Listas de cotejo                                        (  ) 
+
+Otras (especificar) Otras (especificar) 
+
+  
+
+ 
+ 
+
+Perfil profesiografico 
+
+Titulo o grado Matematico, fisico, actuario o licenciado en Ciencias de la Computacion.  
+
+Experiencia docente Con experiencia docente  
+
+Otra caracteristica Especialista en el area de la asignatura a juicio del comite de asignacion 
+de cursos. 
+
+ 
+ 
+ 
+
+Bibliografia basica: 
+ 
+
+ Farlow, S.J.,. Partial Differential Equations for Scientists and Engineers, New York: Dover Pub, 
+
+1993. 
+
+
+
+ Greenspan, D., Introduction to Partial Differential Equations, New York: Dover Pub., 1961 
+
+ Haberman, R., Mathematical models, New Jersey: Prentice Hall, 1987. 
+
+ Haberman, R., Partial Differential Equations, New Jersey, Prentice Hall, 1977. 
+
+ Lamb, G.L., Introductory applications of PDE: with enphasis on wavw propagation an diffusion, 
+
+New York, Wiley-Interscience. 1995. 
+
+ Minzoni, A., Topicos en ecuaciones diferenciales parciales, Serie Verde, Comunicaciones 
+
+Tecnicas del IIMAS no. 12. Mexico: UNAM. 
+
+ Strauss, W., Partial Differential Equations, New York: John Wiley and Sons, 1992. 
+
+ Tijonov, A. y Samarki, A., Ecuaciones de la fisica Matematica, Moscu: Ed. MIR, 1983. 
+
+ Vvedenski, D., Partial Differential Equations with Mathematica, New York: Addison-Wesley, 
+
+1993. 
+
+ Weinberger, H.,  A first course in Partial Differential Equations with complex variables and 
+
+Transform Methods, New York: Dover Pub., 1995. 
+
+ Young, E., Partial Differential Equations, Boston: Allyn and Bacon, 1972. 
+
+ Zachmanoglu, E.C. y Thoe, W., Introduction to Partial Differential Equations with applications, 
+
+New York: Dover Pub., 1986. 
+
+ 
+
+Bibliografia complementaria: 
+ 
+* Copson, E.T., Partial Differential Equations, Cambridge, Cambridge Business Research,1975. 
+
+* Carrier, G. y Pearson, C. Partial Differential Equations. Theory and Technique, New York: 
+
+Academic Press, 1964. 
+
+* Courant, R. y Hilbert, D., Methods of Mathematical Physics, vol II, New York: Wiley 
+
+Interscience Publishers, New York, 1953. 
+
+* Duff-Naylor, Differential equations and applied mathematics, New York, John Wiley and Sons, 
+
+1966. 
+
+* Epstein, B., Partial Differential Equations: an introdiction, Krieger Pub, 1975. 
+
+* Folland, G., Introduction to Partial Differential Equations, Princeton: Princeton University 
+
+Press, 1995. 
+
+* Gufstafson, K., Introduction to Patial Differential Equations and Hilvert space methods, New 
+
+York: Dover Pub., 1999. 
+
+* John, F., Partial Differential Equations, New York: Springer Verlag, 1980. 
+
+* Somerfeld, A., Partial Differential Equations in Physics: Lectures on Theoretical Physiscs, New 
+
+York: Academic Press, 1994. 
+
+ 
+
+ 
+
+

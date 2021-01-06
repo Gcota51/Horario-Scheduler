@@ -1,0 +1,172 @@
+FACULTAD DE CIENCIAS
+
+CARRERA DE MATEMATICO
+
+ALGEBRA MODERNA IV (ejemplo)
+
+SEMESTRE: Septimo u octavo
+CLAVE: 0004
+
+HORAS A LA SEMANA/SEMESTRE
+
+TEORICAS PRACTICAS CREDITOS
+5/80 0 10
+
+CARACTER: OPTATIVO.
+MODALIDAD: CURSO.
+SERIACION INDICATIVA ANTECEDENTE: Algebra Moderna III.
+SERIACION INDICATIVA SUBSECUENTE: Ninguna.
+
+OBJETIVO(S): Profundizar en el conocimiento de la teoria de categorias, la teoria de
+modulos y la de anillos.
+
+NUM. HORAS UNIDADES TEMATICAS
+
+10 1. Prerradicales en R-mod
+1.1 Orden. Operaciones: composicion, ":", interseccion, union. Pre-
+rradicales idempotentes, radicales, prerradicales exactos izquierdos,
+radicales que preservan epimorfismos. Zoclo, Radical de Jacobson,
+torsion de grupos abelianos, la parte divisible de un grupo abeliano.
+1.2 Clases de torsion hereditarias. La clase de torsion hereditaria
+generada por una clase de modulos. T-nilpotencia. Clases de torsion
+hereditarias cerradas bajo productos.
+
+14 2. Anillos semiartinianos
+2.1 El radical generado por un prerradical.
+2.2 El mayor prerradical idempotente por debajo de un prerradical.
+2.3 El radical generado por el zoclo.
+2.4 El mayor prerradical idempotente por debajo del Radical de Ja-
+cobson.
+2.5 Caracterizacion de los anillos semiartinianos.
+2.6 El Radical de Jacobson es T-nilpotente en cada modulo semiar-
+tiniano.
+2.7 Anillos Max.
+2.8 V-anillos.
+
+1
+
+
+
+14 3. Anillos semilocales
+3.1 Clases de torsion hereditarias de tipo simple. Si toda clase de
+torsion hereditaria es de tipo simple entonces el anillo es semilocal.
+Anillos buenos (Rad(M)=Rad(R)M, para todo modulo). Los anillos
+semilocales son buenos.
+3.2 Anillos locales.
+3.3 Idempotentes, idempotentes primitivos.
+3.4 Anillos de endomorfismos de anillos locales.
+3.5 Radical de Jacobson de anillos semilocales y de anillos locales.
+3.6 Levantamiento de idempotentes. Se pueden levantar idempoten-
+tes modulo un nilideal. Si se pueden levantar idempotentes, modulo
+un subideal del Radical de Jacobson, entonces se pueden levantar
+familias numerables de idempotentes ortogonales.
+
+14 4. Anillos semiperfectos
+4.1 Modulos superfluos y capsulas inyectivas. Un modulo simple es
+inyectivo o es superfluo pero no ambas cosas a la vez. Propiedades
+basicas de los modulos superfluos. Modulos huecos. Modulos super-
+fluos y el radical de Jacobson.
+4.2 Cubiertas proyectivas y epimorfismos superfluos. No todo modulo
+tiene cubiertas proyectivas.
+4.3 Un anillo es semiperfecto si es semilocal y se pueden levantar
+idempotentes modulo el radical de Jacobson.
+4.4 Modulos semiperfectos. Modulos con suplementos (todo
+submodulo tiene un suplemento en el modulo). Modulos semiperfec-
+tos (todo cociente del modulo tiene cubierta proyectiva). Un modulo
+con cubierta proyectiva es semiperfecto si y solo si es suplementado.
+4.5 Un anillo R es semiperfecto si y solo si R es semiperfecto como
+modulo izquierdo.
+4.6 Un anillo R es semiperfecto si y solo si todo modulo finitamente
+generado tiene cubierta proyectiva.
+4.7 Modulos proyectivos para anillos semiperfectos.
+
+2
+
+
+
+14 5. Anillos perfectos
+5.1 La caracterizacion de Bass.
+5.2 Anillos perfectos caracterizados mediante sus clases de torsion
+hereditarias.
+5.3 Anillos perfectos y condicion de cadena descendente en ideales
+principales.
+5.4 Clases importantes de anillos perfectos.
+5.5 Anillos QF (proyectivos = inyectivos). Caracterizaciones de
+anillos QF.
+5.6 Anillos uniseriados.
+5.7 Anillos para los que coinciden la capsula inyectiva y la cubierta
+proyectiva.
+
+14 6. Producto tensorial y anillos regulares
+6.1 Producto tensorial. Construccion.
+6.2 Exactitud derecha del producto tensorial en cada variable.
+6.3 El producto tensorial y el funtor Hom.
+6.4 Modulos planos.
+6.5 Pureza.
+6.6 Anillos regulares.
+6.7 Cuando todo modulo es plano.
+6.8 Cuando todo plano es proyectivo.
+6.9 Cuando la clase de los modulos proyectivos es cerrada bajo pro-
+ductos.
+6.10 Anillos coherentes.
+
+BIBLIOGRAFIA BASICA:
+
+1. Anderson, F., Fuller, K., Rings and Categories of Modules, 2nd edition, New York:
+Springer Verlag, 1992.
+
+2. Gentile, E.R., Estructuras Algebraicas II, Washington: OEA, 1971.
+
+3. Kasch, F., Modules Rings, London: Academic Press 1982.
+
+4. Lam, T.Y., A First Course in Non-commutative Rings, Berlin: Springer Verlag, 1991.
+
+5. Lambek, J., Lectures on Rings and Modules, Waltham, Mass.: Blaisdell, 1966.
+
+6. Rotman, J.J., An Introduction to Homological Algebra, New York: Academic, 1979.
+
+7. Wisbauer, R., Foundations of Module and Ring Theory, Philadelphia: Gordon and
+Breach, 1991.
+
+3
+
+
+
+BIBLIOGRAFIA COMPLEMENTARIA:
+
+1. Bican, L., Kepka, T., Nemec, P., Rings, Modules and Preradicals, New York: Marcel
+Dekker, 1982.
+
+2. Dauns, J., Modules and Rings, Cambridge: Cambridge University Press, 1994.
+
+3. Faith, C.C., Algebra II. Ring Theory, New York: Springer Verlag, 1976.
+
+4. Goodearl, K.R., Ring Theory, Nonsingular Rings and Modules, New York: Marcel
+Dekker, 1976.
+
+5. Goodearl, K.R., Von Neumann Regular Rings, Marshfield, Mass.: Pitman.
+
+6. Lam, T.Y., Lectures on Modules and Rings, New York: Springer Verlag, 1998.
+
+7. Lam, T.Y., Exercises in Classical Ring Theory, New York: Springer Verlag, 1995.
+
+8. McLane, S., Categories for the Working Mathematician, New York: Springer Verlag,
+1972.
+
+9. Rowen, L.H., Ring Theory, I, II, Boston: Academic Press, 1998.
+
+10. Stenstrom, B., Rings of Quotients, New York: Springer Verlag, 1975.
+
+SUGERENCIAS DIDACTICAS: Lograr la participacion activa de los alumnos mediante
+exposiciones.
+
+SUGERENCIA PARA LA EVALUACION DE LA ASIGNATURA: Ademas de las califi-
+caciones en examenes y tareas se tomara en cuenta la participacion del alumno.
+
+PERFIL PROFESIOGRAFICO: Matematico, fisico, actuario o licenciado en ciencias de
+la computacion, especialista en el area de la asignatura a juicio del comite de asignacion
+de cursos.
+
+4
+
+

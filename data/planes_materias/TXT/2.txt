@@ -1,0 +1,80 @@
+FACULTAD DE CIENCIAS
+
+CARRERA DE MATEMATICO
+
+ALGEBRA MODERNA II
+
+SEMESTRE: Quinto o sexto
+CLAVE: 0002
+
+HORAS A LA SEMANA/SEMESTRE
+
+TEORICAS PRACTICAS CREDITOS
+5/80 0 10
+
+CARACTER: OPTATIVO.
+MODALIDAD: CURSO.
+SERIACION INDICATIVA ANTECEDENTE: Algebra Moderna I, Calculo Diferen-
+cial e Integral IV.
+SERIACION INDICATIVA SUBSECUENTE: Algebra Moderna III, Geometria Alge-
+braica I.
+
+OBJETIVO(S): Introducir al alumno a la teoria general de anillos, campos y Teoria de
+Galois.
+
+NUM. HORAS UNIDADES TEMATICAS
+
+40 1. Anillos
+1.1 Definicion y ejemplos. Clases especiales de anillos. Propiedades
+basicas.
+1.2 Subanillos, ideales y anillos cociente.
+1.3 Homomorfismos de anillos.
+1.4 El campo de cocientes de un anillo entero.
+1.5 Anillos Euclidianos, principales y de factorizacion unica.
+1.6 Anillos de polinomios.
+
+40 2. Campos y Teoria de Galois
+2.1 Extensiones de campos. Grado de una extension.
+2.2 Construcciones con regla y compas.
+2.3 Campos de descomposicion y extensiones normales.
+2.4 Extensiones separables.
+2.5 El teorema fundamental de la Teoria de Galois.
+2.6 Soluciones por radicales.
+2.7 Campos finitos.
+
+1
+
+
+
+BIBLIOGRAFIA BASICA:
+
+1. Fraleigh, J.B., Algebra Abstracta, Mexico: Sistemas Tecnicos de Edicion, 1988.
+
+2. Herstein, I.N., Algebra Moderna, Mexico: Editorial Trillas, 1970.
+
+3. Stewart, I., Galois Theory, Florida: Chapman and Hall, 2004.
+
+BIBLIOGRAFIA COMPLEMENTARIA:
+
+1. Artin, E., Modern Higher Algebra Galois Theory, New York: Courant Institute of
+Mathematical Sciences, 1947.
+
+2. MacLane, S., Birkhoff, G., Algebra, Providence, Rhode Island: American Mathema-
+tical Society, 1999.
+
+3. Rotman, J.J., A First Course in Abstract Algebra, Upper Saddle River, New Jersey:
+Prentice Hall, 2000.
+
+SUGERENCIAS DIDACTICAS: Lograr la participacion activa de los alumnos mediante
+exposiciones.
+
+SUGERENCIA PARA LA EVALUACION DE LA ASIGNATURA: Ademas de las califi-
+caciones en examenes y tareas se tomara en cuenta la participacion del alumno.
+
+PERFIL PROFESIOGRAFICO: Matematico, fisico, actuario o licenciado en ciencias de
+la computacion, especialista en el area de la asignatura a juicio del comite de asignacion
+de cursos.
+
+2
+
+

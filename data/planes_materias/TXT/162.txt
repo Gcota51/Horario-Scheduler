@@ -1,0 +1,400 @@
+A DE MEXICO 
+
+ 
+Facultad de Ciencias 
+
+ 
+Plan de estudios de la Licenciatura en  
+
+Matematicas 
+ 
+
+Ecuaciones Diferenciales I 
+ 
+
+Clave 
+0162 
+
+Semestre 
+4 
+
+Creditos 
+10 
+
+Area de 
+conocimiento 
+
+ 
+
+Campo 
+ 
+
+ 
+
+Etapa 
+ 
+
+ 
+
+Modalidad 
+Curso ( X ) Taller ( ) Lab ( ) Sem ( ) 
+ 
+ 
+
+Tipo T ( X )     P (  )    T/P  (  )  
+
+Caracter 
+Obligatorio ( X )            Optativo ( ) 
+ 
+Obligatorio E ( )        Optativo E ( )  
+
+Horas 
+
+ Semana Semestre  
+
+ Teoricas             5 Teoricas          80 
+
+ Practicas            0 Practicas          0 
+
+ Total                   5 Total                80 
+
+ 
+
+Seriacion 
+ 
+
+Ninguna (   ) 
+
+Obligatoria (   ) 
+
+Asignatura antecedente 
+ 
+
+ 
+
+Asignatura subsecuente 
+ 
+
+ 
+
+Indicativa ( X  ) 
+
+Asignatura antecedente 
+ 
+
+Algebra Lineal I 
+Calculo Diferencial e Integral III 
+
+Asignatura subsecuente 
+ 
+
+Dinamica de Sistemas no Lineales 
+Ecuaciones Diferrenciales Parciales I 
+Analisis Matematico Aplicado 
+
+ 
+ 
+
+Objetivos generales: 
+ 
+
+ Introducir a la teoria de las ecuaciones diferenciales y sus aplicaciones en los problemas de 
+la vida real. 
+
+ Iniciar en la modelacion matematica de problemas a traves de la formulacion de ecuaciones 
+diferenciales. 
+
+ Proporcionar metodos analiticos, numericos y cualitativos para analisis de ecuaciones 
+diferenciales. 
+
+ 
+
+
+
+Objetivos especificos: 
+ 
+
+ Repasar y plantear problemas generales y dar algunos conceptos basicos. 
+
+ Explicar algunos fenomenos naturales desde la perspectiva matematica, como motivacion para 
+el estudio de las ecuaciones diferenciales. 
+
+ Comprender la naturaleza de las ecuaciones diferenciales no lineales de primer orden y sus 
+principales caracteristicas y propiedades. 
+
+ Explicar los conceptos y caracteristicas fundamentales de las ecuaciones diferenciales lineales 
+de segundo orden y su resolucion.  
+
+ Discutir algunos conceptos y metodos de solucion relacionados con esta clase de ecuaciones 
+diferenciales. 
+
+ Explicar los conceptos y caracteristicas de la transformada de Laplace y de Fourier y su 
+resolucion 
+
+ Comprender los problemas asociados con sistemas de ecuaciones diferenciales ordinarias. 
+
+ Comprender la teoria cualitativa de ecuaciones diferenciales.  
+
+ Explicar el concepto de ecuaciones en diferencias y metodos numericos, asi como algunos 
+resultados importantes. 
+
+ 
+
+ 
+ 
+
+Indice tematico 
+
+ Tema  
+
+Horas 
+ semestre  
+
+Teoricas Practicas 
+
+1 Introduccion 4 0 
+
+2 Ecuaciones diferenciales lineales de primer orden 5 0 
+
+3 Ecuaciones diferenciales no lineales de  primer orden 10 0 
+
+4 Ecuaciones diferenciales lineales de segundo orden 10 0 
+
+5 
+Ecuaciones lineales de segundo orden con coeficientes 
+variables 
+
+10 0 
+
+6 Optativo: Transformada de Laplace y de Fourier  6 0 
+
+7 Sistemas de ecuaciones de primer orden lineales 17 0 
+
+8 
+Introduccion a la teoria cualitativa de ecuaciones 
+diferenciales 
+
+12 0 
+
+9 Optativo: Ecuaciones en diferencias y metodos numericos 6 0 
+
+Subtotal 80 0 
+
+Total 80 
+
+ 
+
+Contenido Tematico 
+
+ Tema y subtemas 
+
+1 Introduccion 
+
+ 
+
+1.1 Repaso de nociones basicas y planteamiento de problemas generales. 
+1.2 Campos vectoriales en Rn y su ecuacion diferencial asociada. 
+1.3 Definicion de espacio fasico espacio fase extendido, solucion y retrato fase de 
+
+una ecuacion diferencial. 
+1.4 Ejemplos de metodos geometricos para analizar el retrato fase de una ecuacion 
+
+diferencial: isoclinas, familias de curvas parametricas tangentes al campo 
+vectorial.  
+
+1.5 Planteamiento de problemas generales: Existencia y unicidad de soluciones; 
+aproximacion de la solucion y cuantificar el error. 
+
+ 
+
+
+
+2 Ecuaciones diferenciales lineales de primer orden 
+
+  
+2.1 Ecuaciones homogeneas. 
+2.2 Ecuaciones no homogeneas y metodos de variacion de parametros. 
+2.3 Teorema de Existencia y Unicidad y dependencia continua respecto a 
+
+condiciones iniciales para este caso, ejemplos. 
+ 
+
+3 Ecuaciones diferenciales no lineales de  primer orden 
+
+ 
+3.1 Ecuaciones separables, ecuaciones exactas y el metodo del factor integrante. 
+3.2 Ejemplos y aplicaciones.  
+3.3 Teorema de Existencia y Unicidad de Picard. 
+3.4 Ecuacion integral, iterados de Picard. 
+3.5 Convergencia de los iterados de Picard. 
+3.6 Lema de Gronwall, dependencia de las condiciones iniciales. 
+ 
+
+4 Ecuaciones diferenciales lineales de segundo orden 
+
+ 
+4.1 Ecuaciones diferenciales homogeneas con coeficientes constantes.  
+4.2 Propiedades del conjunto de soluciones, Independencia lineal de soluciones, 
+
+wronskiano. 
+4.3 Solucion general. 
+4.4 Ecuaciones no homogeneas, metodos de variacion de parametros (coeficientes 
+
+indeterminados). 
+4.5 Interpretacion geometrica de las soluciones en el plano, ejemplos. 
+4.6 Vibraciones mecanicas. 
+4.7 Oscilaciones amortiguadas y forzadas, resonancias. 
+ 
+
+5 Ecuaciones lineales de segundo orden con coeficientes variables 
+
+ 
+
+5.1 Metodos de solucion por series de potencia. 
+5.2 Calculo del radio de convergencia.  
+5.3 Ecuaciones singulares y el metodo de Frobenius.  
+5.4 Ejemplos de ecuaciones de Hermite, Laguerre, Euler, Bessel, Legendre, 
+
+Tchebycheff, Ecuacion Hipergeometrica. 
+ 
+
+6 Optativo: Transformada de Laplace y de Fourier 
+
+ 
+
+6.1 Metodos de solucion y aplicaciones para resolver ecuaciones de segundo orden.  
+ 
+
+7 Sistemas de ecuaciones de primer orden lineales 
+
+ 
+
+7.1 Reduccion de ecuaciones de orden n a un sistema de n ecuaciones de primer 
+orden, ejemplos. 
+
+7.2 Sistema de ecuaciones de primer orden homogeneas. 
+7.3 Soluciones lineales independientes. 
+7.4 Ecuacion del wronskiano y su solucion. 
+7.5 Matriz fundamental y solucion general. 
+7.6 Ecuaciones con coeficientes constantes, exponencial de una matriz, valores y 
+
+vectores propios. 
+7.7 Nucleo de la matriz y vector propio generalizado, teorema de Cayley-Hamilton. 
+7.8 Sistema de ecuaciones de primer orden no homogeneas. 
+7.9 Metodo de variacion de parametros, ejemplos. 
+
+
+
+7.10 Teorema de existencia y unicidad para sistemas de ecuaciones homogeneas de 
+primer orden caso con coeficientes constantes y coeficientes continuos. 
+
+7.11 Aplicaciones, osciladores acoplados y modos normales de oscilacion. 
+7.12 Tanques de salmueras. 
+7.13 Circuitos electricos. 
+7.14 Sistemas de poblaciones, etc. 
+
+8 Introduccion a la teoria cualitativa de ecuaciones diferenciales 
+
+ 
+
+8.1 Estabilidad de la solucion de equilibrio de sistemas lineales homogeneos con 
+coeficientes constantes.  
+
+8.2 Clasificacion de los puntos de equilibrio en el plano y en el espacio. 
+8.3 Plano fase. 
+
+8.4  Linearizacion de los puntos de equilibrio de un sistema de ecuaciones 
+diferenciales no lineales.  
+
+8.5 Descripcion cualitativa de los conjuntos limites y el Teorema de Poincare 
+Bendixon en el plano. 
+
+8.6 Dibujo cualitativo del plano fase, ejemplos. 
+ 
+
+9 Optativo: Ecuaciones en diferencias y metodos numericos 
+
+ 
+
+9.1 Ecuaciones lineales en diferencias. 
+9.2 Aplicaciones de ecuaciones de diferencias: el metodo de Newton. 
+9.3 Metodo de Euler. 
+9.4 Metodos de Runge-Kutta. 
+ 
+
+ 
+ 
+
+Estrategias didacticas Evaluacion del aprendizaje 
+
+Exposicion                                                  ( X ) Examenes parciales                ( X ) 
+
+Trabajo en equipo                                       ( X ) Examen final                  (X  ) 
+
+Lecturas                                                      ( X )  Trabajos y tareas                  ( X ) 
+
+Trabajo de investigacion                               (  ) Presentacion de tema                 (  ) 
+
+Practicas (taller o laboratorio)                       (  ) Participacion en clase                            ( X ) 
+
+Practicas de campo                                       (  ) Asistencia                                                 (  ) 
+
+Aprendizaje por proyectos                          ( X ) Rubricas                                                   (  ) 
+
+Aprendizaje basado en problemas             ( X )  Portafolios                                                (  ) 
+
+Casos de ensenanza                                    (  ) Listas de cotejo                                        (  ) 
+
+Otras (especificar) Otras (especificar) 
+
+  
+
+  
+
+ 
+ 
+
+Perfil profesiografico 
+
+Titulo o grado Matematico, fisico, actuario o licenciado en ciencias de la computacion. 
+
+Experiencia docente Con experiencia docente 
+
+Otra caracteristica Especialista en el area de la asignatura a juicio del comite de asignacion 
+de cursos. 
+
+ 
+ 
+ 
+
+Bibliografia basica: 
+ 
+
+ Arnold, V.I., Ordinary Differential Equations (3a ed.). Berlin: Springer-Verlag, 1992. 
+
+
+
+ Blanchard, P., Devaney, R., Hall, G.,. Ecuaciones Diferenciales. Mexico: International 
+Thomson Editores, 1999. 
+
+ Braun, M., Differential Equations and their Applications. New York: Springer-Verlag,1993. 
+
+ Derrick, W., Grossman, S., Ecuaciones Diferenciales con Aplicaciones. Mexico: Addison-
+Wesley Iberamericana, 1986. 
+
+ 
+
+Bibliografia complementaria: 
+ 
+
+ Boyce, W., Diprima, R., Elementary Differential Equations and Boundary Value Problems. 
+New York: J. Wiley, 2001. 
+
+ Hasser, N.B., LaSalle, J.P., Sullivan, J.A., Analisis Matematico. Vol. 2. Mexico: Ed. Trillas, 
+1977. 
+
+ 
+
+ 
+
+

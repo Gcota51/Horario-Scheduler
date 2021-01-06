@@ -1,0 +1,94 @@
+FACULTAD DE CIENCIAS
+
+CARRERA DE MATEMATICO
+
+CONJUNTOS CONVEXOS
+
+SEMESTRE: Segundo al cuarto
+CLAVE: 0088
+
+HORAS A LA SEMANA/SEMESTRE
+
+TEORICAS PRACTICAS CREDITOS
+5/80 0 10
+
+CARACTER: OPTATIVO.
+MODALIDAD: CURSO.
+SERIACION INDICATIVA ANTECEDENTE: Algebra Superior II, Calculo Diferen-
+cial e Integral II, Geometria Analitica II.
+SERIACION INDICATIVA SUBSECUENTE: Ninguna.
+
+OBJETIVO(S): Mostrar que la matematica surge, se descubre y evoluciona conjuntando
+diversas areas de las matematicas. En este caso la geometria, el calculo y la combinatoria
+se unen para introducir al alumno en el estudio de las figuras convexas planas y espaciales,
+deduciendo las principales propiedades y caracteristicas. Al final el alumno debera manejar
+los conceptos de plano soporte, puntos extremos, envolvente convexa, asi como el diametro,
+el ancho, el volumen y la superficie de una figura convexa. Tambien debera poder generar
+figuras convexas a partir de otras.
+
+NUM. HORAS UNIDADES TEMATICAS
+
+20 1. Propiedades elementales
+1.1 Hiperplanos soporte.
+1.2 Funcion soporte.
+1.3 Teoremas de Separacion.
+1.4 Puntos extremos y Teorema de Krein-Milman.
+
+15 2. Teorema de Helly
+2.1 Teoremas de Radon, Helly y Caratheodory.
+2.2 Aplicaciones.
+
+10 3. Suma de Minkowski
+
+20 4. Figuras de ancho constante
+4.1 Definicion y caracterizaciones.
+4.2 Ejemplos.
+4.3 Completez.
+
+1
+
+
+
+15 5. Volumen, superficie y curvatura media
+5.1 Teoremas de aproximacion.
+5.2 Simetrizacion de Steiner.
+5.3 Problemas isoperimetricos.
+
+BIBLIOGRAFIA BASICA:
+
+1. Benson, R., Euclidean Geometry and Convexity, New York: McGraw-Hill, 1966.
+
+2. Boltianski, V., Golberg, I., Division de Figuras en Partes Menores, Moscu: MIR,
+1973.
+
+3. Kazarinoff, N., Geometric Inequalities, Washington, D.C.: The Mathematical Asso-
+ciation of America, New Math. Library Vol. 4, 1961.
+
+4. Hadwiger, H., Lo Antiguo y lo Nuevo acerca de los Conjuntos Convexos, Mexico:
+Aportaciones Matematicas. Sociedad Matematica Mexicana, Textos 10, 1998. (Tra-
+duccion de Luis Montejano Peimbert.)
+
+5. Hadwiger, H., Debrunner, H., Combinatorial Geometry in the Plane, New York: Holt,
+Reinhart and Winston, 1964.
+
+6. Yaglom, I., Boltianski, V., Convex Figures, New York: Holt, Reinhart and Winston,
+1961.
+
+BIBLIOGRAFIA COMPLEMENTARIA:
+
+1. Montejano, L., Cuerpos de Ancho Constante, Mexico: Ediciones Cientificas Univer-
+sitarias, UNAM-FCE, 1998.
+
+SUGERENCIAS DIDACTICAS: Lograr la participacion activa de los alumnos mediante
+exposiciones.
+
+SUGERENCIA PARA LA EVALUACION DE LA ASIGNATURA: Ademas de las califi-
+caciones en examenes y tareas se tomara en cuenta la participacion del alumno.
+
+PERFIL PROFESIOGRAFICO: Matematico, fisico, actuario o licenciado en ciencias de
+la computacion, especialista en el area de la asignatura a juicio del comite de asignacion
+de cursos.
+
+2
+
+

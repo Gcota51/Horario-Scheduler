@@ -1,0 +1,215 @@
+el plan y programa de estudios de la licenciatura en >Ciencias de la Computacion
+
+
+206 
+ 
+
+ 
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+Licenciatura en Ciencias de la Computacion 
+Facultad de Ciencias 
+
+Programa de la asignatura 
+ 
+
+Denominacion de la asignatura:  
+Graficacion por Computadora 
+
+Clave:  
+0803 
+
+Semestre: 
+6-8 
+
+Eje tematico: 
+Imagenes y Ambientes Virtuales 
+
+No. Creditos:   
+10 
+
+Caracter: Optativa Horas Horas por semana 
+Total de 
+Horas  
+
+Tipo: Teorico-Practica Teoria: Practica: 
+7 112 3 4 
+
+Modalidad: Curso Duracion del programa: Semestral 
+ 
+
+ 
+ 
+Asignatura con seriacion indicativa antecedente: Matematicas para las Ciencias de la 
+Tierra III; Modelado y Programacion 
+ 
+Asignatura con seriacion indicativa subsecuente: Ninguna 
+Objetivo general:  
+Aprender los principios fundamentales, tecnicas y aproximaciones que dan un cuerpo estable y 
+coherente de conocimientos en el campo de Graficacion por Computadora. El alumno sera 
+capaz de disenar y producir significativamente programas graficos. 
+ 
+ 
+
+Indice tematico 
+
+Unidad Temas  Horas Teoricas Practicas 
+I Introduccion 3 4 
+II Modelado geometrico 6 8 
+III Transformaciones geometricas 3 4 
+IV Transformaciones de vision 6 8 
+V Proyecciones geometricas planas 6 8 
+VI Realismo 6 8 
+VII Modelos de iluminacion 6 8 
+VIII Mapeo de texturas 3 4 
+IX Foto-realismo y NPR 3 4 
+X Animacion por computadora 3 4 
+XI Realidad virtual 3 4 
+
+Total de horas: 48 64 
+Suma total de horas: 112 
+
+
+
+207 
+ 
+
+ 
+Contenido tematico 
+Unidad Tema 
+I Introduccion 
+I.1 Panorama de la graficacion por computadora. 
+I.2 Hardware grafico. 
+I.3 Modelos graficos. 
+I.4 Transformaciones visuales. 
+I.5 Transformaciones de imagen. 
+II Modelado geometrico 
+II.1 Curvas y superficies parametricas. 
+II.2 Superficies de tipo swept. 
+II.3 Superficies implicitas. 
+III Transformaciones geometricas 
+III.1 Coordenadas homogeneas y su representacion matricial. 
+III.2 Transformaciones sobre objetos jerarquicos. 
+III.3 Transformaciones en 3D. 
+III.4 Composicion de transformaciones. 
+IV Transformaciones de vision 
+IV.1 Modelando una camara virtual. 
+IV.2 Posicionando la camara en OpenGL. 
+IV.3 Definicion de la camara a traves de otras aproximaciones. 
+IV.4 Definicion de trayectorias para el manejo de camara. 
+V Proyecciones geometricas planas 
+V.1 Clasificacion de las proyecciones geometricas planas. 
+V.2 Proyecciones ortograficas. 
+V.3 Proyecciones axonometricas. 
+V.4 Vista en perspectiva. 
+V.5 Proyeccion estereopar. 
+V.6 Proyecciones en OpenGL. 
+V.7 Recorte en 3D. 
+VI Realismo 
+VI.1 Introduccion. 
+VI.2 Metodos de color. 
+VI.3 Superficies ocultas. 
+VII Modelos de iluminacion 
+VII.1 Modelo de iluminacion basico. 
+VII.2 Sombreado poligonal. 
+VIII Mapeo de texturas 
+VIII.1 Mapeo de texturas 2D en objetos poligonales. 
+VIII.2 Mapeo inverso por interpolacion bilineal. 
+VIII.3 Mapeo inverso utilizando superficies intermedias. 
+VIII.4 Bump Mapping. 
+
+
+
+208 
+ 
+
+VIII.5 Texturas procedurales. 
+IX Foto-realismo y NPR 
+IX.1 Foto-realismo. 
+IX.2 Ray Tracing. 
+IX.3 NPR. 
+X Animacion por computadora 
+X.1 Principios basicos. 
+X.2 Animacion basada en cuadros claves (key-frame animation). 
+X.3 Morphing. 
+X.4 Animacion procedural. 
+X.5 Animacion de cuerpos articulados. 
+X.6 Cinematica inversa. 
+XI Realidad virtual 
+XI.1 Introduccion. 
+XI.2 Dispositivos de realidad virtual. 
+XI.3 Sistemas de realidad virtual y aplicaciones. 
+ 
+
+Bibliografia basica: 
+1. Angel, Edwaa, Interactive Computer Graphics: A top-down approach with OpenGL, 5a Ed., 
+
+McGraw Hill, 2008.   
+2. Shirley, Peter and Marschner, Steve, Fundamentals of Computer Graphics, 3a Ed.,. A. K. 
+
+Peters, 2009.  
+3. Guha, Sumanta, Computer Graphics Through OpenGL: From Theory to Experiments, CRC 
+
+Press, 2010.   
+4. Shreiner, Woo, Neider and Davis, OpenGL Programming Guide: The Official Guide to 
+
+Learning OpenGL, 7th ed., Addison Wesley, 2009. 
+ 
+
+Bibliografia complementaria: 
+1. Watt, Alan, 3D Computer Graphics, 3a Ed., Addison Wesley, 1999.  
+2. Rogers, David y Adams, J. Alan, Mathematical Elements for Computer Graphics, 2a Ed., 
+
+Addison Wesley, 1989.  
+3. Foley, van Dam, Feiner y Hughes, Computer Graphics: Principles and Practice, Addison 
+
+Wesley, 1990.   
+4. Hearn, Donald y Baker, Pauline, Computer Graphics with OpenGL, 3a Ed., Prentice Hall, 
+
+2003.   
+5. Bailey, M. and Cunningham, S., Graphics Shaders: Theory and Practice, A. K. Peters, 2009. 
+ 
+  
+
+
+
+209 
+ 
+
+Sugerencias didacticas: 
+Exposicion oral (X) 
+Exposicion audiovisual (X) 
+Ejercicios dentro de clase (X) 
+Ejercicios fuera del aula (X) 
+Seminarios (X) 
+Lecturas obligatorias (X) 
+Trabajo de investigacion (X) 
+Practicas de taller o laboratorio (X) 
+Practicas de campo ( ) 
+ 
+Otras: __________________________ 
+ 
+
+Metodos  de evaluacion:  
+Examenes parciales (X) 
+Examen final escrito (X) 
+Trabajos y tareas fuera del aula (X) 
+Practicas de laboratorio ( ) 
+Exposicion de seminarios por los alumnos (X) 
+Participacion en clase (X) 
+Asistencia (X) 
+Proyectos de programacion ( ) 
+Proyecto final ( ) 
+Seminario ( ) 
+ 
+Otras: _____________________________ 
+  
+
+Perfil profesiografico: Egresado preferentemente de la Licenciatura en Ciencias de la 
+Computacion o matematico con especialidad en computacion con amplia experiencia de 
+programacion. Es conveniente que posea un posgrado en la disciplina. Con experiencia 
+docente. 
+ 
+  
+
+

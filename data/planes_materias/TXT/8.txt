@@ -1,0 +1,287 @@
+A DE MEXICO 
+
+ 
+Facultad de Ciencias 
+
+ 
+Plan de estudios de la Licenciatura en 
+
+Matematicas 
+ 
+
+Algebra Superior II 
+
+ 
+
+Clave 
+0008 
+
+Semestre 
+2 
+
+Creditos 
+10 
+
+Area de 
+conocimiento 
+
+ 
+
+Campo 
+ 
+
+ 
+
+Etapa 
+ 
+
+ 
+
+Modalidad 
+Curso ( X ) Taller ( ) Lab ( ) Sem ( ) 
+ 
+ 
+
+Tipo T ( X )     P (  )    T/P  (  )  
+
+Caracter 
+Obligatorio ( X )            Optativo ( ) 
+ 
+Obligatorio E ( )        Optativo E ( )  
+
+Horas 
+
+ Semana Semestre  
+
+ Teoricas             5 Teoricas             80 
+
+ Practicas            0  Practicas             0 
+
+ Total                   5 Total                    80 
+
+ 
+
+Seriacion 
+ 
+
+Ninguna (   ) 
+
+Obligatoria (   ) 
+
+Asignatura antecedente 
+ 
+
+ 
+
+Asignatura subsecuente 
+ 
+
+ 
+
+Indicativa (  X ) 
+
+Asignatura antecedente 
+ 
+
+Algebra Superior I 
+
+Asignatura subsecuente 
+ 
+
+Algebra Lineal I, Taller de Modelacion II 
+
+ 
+
+Objetivo general: 
+ 
+
+ Conocer y manejar las propiedades de los siguientes anillos: el dominio entero de los numeros 
+enteros, el campo de los numeros complejos y el anillo de los polinomios. 
+
+ 
+
+Objetivos especificos: 
+ 
+
+ Explicar lo que es un anillo y sus principales propiedades. Reconocer esa estructura en los 
+numeros enteros y las consecuencias que de esto se derivan. 
+
+
+
+ Explicar la divisibilidad, asi como las propiedades mas importantes relacionadas con este 
+concepto. 
+
+ Comprender el concepto de campo y su aplicacion en los numeros complejos, asi como las 
+propiedades, representaciones y principales resultados asociados a estos 
+
+ Comprender y aplicar los principales conceptos relacionados con los polinomios y  la 
+divisibilidad, asi como los resultados mas importantes relacionados con estos conceptos. 
+
+  
+ 
+ 
+
+Indice tematico 
+
+ Tema  
+
+Horas 
+ semestre  
+
+Teoricas Practicas 
+
+1 Numeros enteros 15 0 
+
+2 Divisibilidad 25 0 
+
+3 Numeros complejos 15 0 
+
+4 Polinomios y ecuaciones polinomiales 25 0 
+
+Subtotal 80 0 
+
+Total 80 
+
+ 
+
+Contenido Tematico 
+
+ Tema y subtemas 
+
+1 Numeros enteros 
+
+ 
+
+1.1  El anillo de los numeros enteros. 
+1.2 ZZ como dominio entero. 
+1.3 El orden en ZZ.  
+1.4 Principio de induccion. Principio del buen orden. 
+1.5 Unidades en ZZ. 
+ 
+
+2 Divisibilidad 
+
+ 
+
+2.1  Propiedades elementales. 
+2.2 Algoritmo de la division. 
+2.3 Maximo comun divisor. Algoritmo de Euclides. Minimo comun multiplo.  
+2.4 Soluciones enteras de una ecuacion lineal. 
+2.5 Numeros primos. Factorizacion unica. 
+
+ 2.6 Congruencias. Congruencias lineales. Teorema chino del residuo. 
+ 
+
+3 Numeros complejos 
+
+ 
+
+3.1 El campo de los numeros complejos. 
+3.2 Conjugacion. Modulo o norma. 
+3.3 Raices cuadradas. La ecuacion de 2deg grado. 
+3.4 Representacion polar. Teorema de De Moivre. Raices n-esimas. 
+ 
+
+4 Polinomios y ecuaciones polinomiales 
+
+ 
+
+4.1 Polinomios con coeficientes en un campo K. Operaciones. El dominio entero 
+K[x]. 
+
+4.2 Divisibilidad. Algoritmo de la division. 
+4.3 Maximo comun divisor. Algoritmo de Euclides. 
+
+
+
+4.4 Polinomios irreducibles. Factorizacion unica. 
+4.5 Evaluacion. Raices de un polinomio. Teorema del residuo. Teorema del factor. 
+
+Factorizacion de polinomios. Division sintetica. 
+4.6 Raices multiples. Derivadas y multiplicidad. 
+4.7 Teorema fundamental del algebra. Consecuencias. 
+ 
+
+ 
+ 
+
+Estrategias didacticas Evaluacion del aprendizaje 
+
+Exposicion                                                   ( X ) Examenes parciales                ( X ) 
+
+Trabajo en equipo                                         (  ) Examen final                  ( X ) 
+
+Lecturas                                                         (  ) Trabajos y tareas                  ( X ) 
+
+Trabajo de investigacion                               (  ) Presentacion de tema                 (  ) 
+
+Practicas (taller o laboratorio)                       (  ) Participacion en clase                            (  ) 
+
+Practicas de campo                                       (  ) Asistencia                                                 (  ) 
+
+Aprendizaje por proyectos                            (  ) Rubricas                                                   (  ) 
+
+Aprendizaje basado en problemas               (  ) Portafolios                                                (  ) 
+
+Casos de ensenanza                                    (  ) Listas de cotejo                                        (  ) 
+
+Otras (especificar) Otras (especificar) 
+
+  
+
+  
+
+ 
+ 
+
+Perfil profesiografico 
+
+Titulo o grado Matematico, fisico, actuario o licenciado en Ciencias de la Computacion. 
+
+Experiencia docente Con experiencia docente. 
+
+Otra caracteristica Especialista en el area de la asignatura a juicio del comite de asignacion 
+de cursos. 
+
+ 
+ 
+
+Bibliografia basica: 
+ 
+
+ Cardenas, H., Lluis, E., Raggi, F., Tomas, F., Algebra Superior. Mexico: Ed. Trillas, 1974. 
+
+ Nachbin, L., Algebra Elemental. Washington, USA: Secretaria General de la OEA, Programa 
+Regional de Desarrollo Cientifico y Tecnologico, 1986. 
+
+ 
+
+Bibliografia complementaria: 
+ 
+
+ Dodge, C. W., Sets, Logic and Numbers. Boston: Weber & Schmidt, 1969. 
+
+ Friedberg, S. H., Insel, A. J., Spence, L. E., Algebra Lineal. Mexico: Publicaciones Cultural 
+1982. 
+
+ Gentile, E. R., Aritmetica Elemental. Washington: OEA., 1985. 
+
+ Grimaldi, R. P., Matematicas Discreta y Combinatoria. Mexico: Sistemas Tecnicos de Edicion, 
+1998. 
+
+ Grossman, S. I., Algebra Lineal. Mexico: McGraw-Hill, 1996. 
+
+ Halmos, P. R., Teoria Intuitiva de los Conjuntos. Mexico: Ed. Continental,1966. 
+
+ Hoffman, K., Kunze, R., Algebra Lineal. Bogota: Prentice Hall Internacional, 1973. 
+
+ Lang, S., Algebra Lineal. Mexico: Sistemas Tecnicos de Edicion, 1986. 
+
+ Niven, I. M., Zuckerman, H. S., Introduccion a la Teoria de los Numeros. Mexico: Limusa-
+Wiley, 1969. 
+
+ 
+
+ 
+
+

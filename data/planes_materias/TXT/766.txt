@@ -1,0 +1,104 @@
+FACULTAD DE CIENCIAS
+
+CARRERA DE MATEMATICO
+
+TOPOLOGIA II
+Ejemplo: Topologia general
+
+SEMESTRE: Septimo u octavo
+CLAVE: 0766
+
+HORAS A LA SEMANA/SEMESTRE
+
+TEORICAS PRACTICAS CREDITOS
+5/80 0 10
+
+CARACTER: OPTATIVO.
+MODALIDAD: CURSO.
+SERIACION INDICATIVA ANTECEDENTE: Algebra Moderna I, Topologia I.
+SERIACION INDICATIVA SUBSECUENTE: Ninguna.
+
+OBJETIVO(S): Dar al alumno una base solida en Topologia y mostrar algunas aplicaciones
+de esta area a otras ramas de las matematicas.
+
+NUM. HORAS UNIDADES TEMATICAS
+
+16 1. Convergencia
+1.1 Redes o filtros (a elegir, de acuerdo con el gusto del profesor).
+1.2 Insuficiencia de sucesiones para definir topologias, continuidad,
+etc., en general.
+1.3 Caracterizacion de cerraduras y de continuidad.
+1.4 Caracterizacion de compacidad.
+1.5 Compacidad de productos.
+1.6 Compactacion de Stone-Cech.
+
+16 2. Espacios topologicos metrizables
+2.1 Axiomas de separacion en espacios metricos.
+2.2 Metrizabilidad de productos.
+2.3 Completacion de espacios metricos.
+2.4 Teorema de Baire.
+2.5 Paracompacidad.
+2.6 Teoremas de metrizacion.
+
+16 3. Espacios Uniformes
+3.1 Estructuras Uniformes.
+3.2 Productos y subespacios uniformes.
+3.3 Espacios uniformizables.
+3.4 Espacios uniformemente completos y extensiones uniformes com-
+pletas.
+
+1
+
+
+
+16 4. Espacios de Funciones
+4.1 Topologia de la Convergencia Puntual.
+4.2 Topologia Compacto-Abierta.
+4.3 Topologia de la Convergencia Uniforme.
+4.4 Teoremas de aproximacion.
+
+16 5. Homotopia y Grupo Fundamental
+5.1 Definicion de Grupo Fundamental.
+5.2 Grupo Fundamental de la Circunferencia.
+5.3 Retractos y Retractos Fuertes por Deformacion.
+5.4 Teorema de Punto Fijo de Brouwer, aplicaciones.
+
+BIBLIOGRAFIA BASICA:
+
+1. Dugundji, J.,Topology, Boston: Allyn and Bacon, 1966.
+
+2. Garcia-Maynez, A., Tamariz, A., Topologia General, Mexico: Porrua, 1988.
+
+3. Hocking, J.G., Young, G.S., Topology, Reading, Mass.: Addison-Wesley, 1961.
+
+4. Hu, S.T., Introduction to General Topology, San Francisco: Holden-Day, 1966.
+
+5. Kelley, J.L., General Topology, GTM, New York: Springer-Verlag, 1955 (reimpresion
+del original de Van Nostrand).
+
+6. Steen, L.A., Seebach, J.A. Jr., Counterexamples in Topology, second edition, New
+York: Springer-Verlag, 1978.
+
+7. Willard, S., General Topology, New York: Dover, 2004.
+
+BIBLIOGRAFIA COMPLEMENTARIA:
+
+1. Armstrong, M.A.,Basic Topology, UTM, New York: Springer-Verlag, 1983.
+
+SUGERENCIAS DIDACTICAS: Lograr la participacion activa de los alumnos mediante
+exposiciones.
+
+SUGERENCIA PARA LA EVALUACION DE LA ASIGNATURA: Ademas de las califi-
+caciones en examenes y tareas se tomara en cuenta la participacion del alumno.
+
+2
+
+
+
+PERFIL PROFESIOGRAFICO: Matematico, fisico, actuario o licenciado en ciencias de
+la computacion, especialista en el area de la asignatura a juicio del comite de asignacion
+de cursos.
+
+3
+
+

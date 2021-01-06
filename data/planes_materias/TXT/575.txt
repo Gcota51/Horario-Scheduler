@@ -1,0 +1,203 @@
+el plan y programa de estudios de la licenciatura en >Ciencias de la Computacion
+
+
+105 
+ 
+
+ 
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+Licenciatura en Ciencias de la Computacion 
+
+Facultad de Ciencias 
+
+Programa de la asignatura 
+
+ 
+
+Denominacion de la asignatura:  
+Ingenieria de Software 
+
+Clave:  
+0575 
+
+Semestre:  
+6 
+
+Eje tematico: 
+Ingenieria de Software 
+
+No. Creditos:   
+10 
+
+Caracter: Obligatoria Horas Horas por semana 
+Total de 
+Horas  
+
+Tipo: Teorico-Practica Teoria: Practica: 
+7 112 3 4 
+
+Modalidad: Curso Duracion del programa: Semestral 
+ 
+
+ 
+Asignatura con seriacion obligatoria antecedente: Algebra Superior II; Modelado y 
+Programacion 
+Asignatura con seriacion obligatoria subsecuente: Ninguna 
+ 
+Asignatura con seriacion indicativa antecedente: Fundamentos de Bases de Datos 
+ 
+Asignatura con seriacion indicativa subsecuente: Ninguna 
+Objetivo general:  
+Comprender  para aplicar los componentes del proceso de desarrollo de software con especial 
+enfasis en los roles que de acuerdo al perfil de egreso es probable que desempenen.  
+ 
+
+Indice tematico 
+
+Unidad Temas  Horas Teoricas Practicas 
+I Introduccion a la ingenieria de software 6 8 
+II Elementos de diseno de sistemas 8 10 
+III Procesos de desarrollo de software 9 12 
+IV Requerimientos y especificaciones 6 8 
+V Arquitectura de software 9 12 
+VI Validacion y verificacion 6 8 
+VII Evolucion de los sistemas de software 4 6 
+
+Total de horas: 48 64 
+Suma total de horas: 112 
+
+ 
+
+
+
+106 
+ 
+
+Contenido tematico 
+Unidad Tema 
+I Introduccion a la ingenieria de software 
+I.1 Objetivos y campo de accion de la ingenieria de software. 
+I.2 Ciclo de vida del software. 
+I.3 Roles comunes en el desarrollo de software. 
+I.4 Principales modelos de desarrollo de software. 
+I.5 Disciplinas de la ingenieria de software. 
+II Elementos de diseno de sistemas 
+II.1 Caracteristicas y beneficios del uso de componentes. 
+II.2 Cualidades deseables en APIs. 
+II.3 Diseno de APIs. 
+II.4 Patrones de diseno. 
+II.5 Herramientas para el manejo de dependencias. 
+III Procesos de desarrollo de software 
+III.1 Modelo de cascada. 
+III.2 Modelo iterativo. 
+III.3 Herramientas de colaboracion y control de versiones. 
+III.4 Metodos guiados por plan. 
+III.5 Metodologias agiles. 
+III.6 Tecnicas y herramientas de planeacion. 
+IV Requerimientos y especificaciones 
+IV.1 Beneficios de la formalizacion de requerimientos. 
+IV.2 Clasificaciones de requerimientos. 
+IV.3 Proceso de formalizacion de requerimientos. 
+IV.4 Casos de uso. 
+IV.5 Alternativas y complementos para la formalizacion de requerimientos. 
+IV.6 Aceptabilidad de incertidumbre en los requerimientos. 
+IV.7 Rastreo de requerimientos. 
+IV.8 Herramientas para el desarrollo acelerado de aplicaciones. 
+V Arquitectura de software 
+V.1 Capas y componentes. 
+V.2 Caracteristicas sistemicas. 
+V.3 Enfoque de vistas para documentacion de arquitecturas de software. 
+V.4 Metodos tradicionales para el diseno de arquitecturas de software. 
+V.5 Enfoques emergentes para el desarrollo de arquitecturas de software. 
+V.6 Caracterizacion y uso de patrones arquitectonicos. 
+VI  Validacion y verificacion 
+VI.1 Diferencias entre validacion y verificacion. 
+VI.2 Tipos de pruebas. Herramientas para pruebas. 
+VI.3 Consideraciones de diseno para facilitar las pruebas. 
+VI.4 Manejo de errores. 
+
+
+
+107 
+ 
+
+VI.5 Herramientas de integracion continua. 
+VI.6 Procesos de validacion y aseguramiento de la calidad. 
+VI.7 Desarrollo guiado por pruebas. 
+VI.8 Validacion de elementos auxiliares (non-code). 
+VII Evolucion de los sistemas de software 
+VII.1 Conceptos y principios de mantenibilidad. 
+VII.2 Analisis de riesgo e impacto. 
+VII.3 Pruebas de regresion. 
+VII.4 Reutilizacion de software. 
+VII.5 Reingenieria de sistemas. 
+VII.6 Refactoring. 
+ 
+
+Bibliografia basica: 
+1. Sommerville, Ian, Software Engineering (9th edition). Addison Wesley, 2010. 
+2. Shari Lawrence Pfleeger y Joanne M. Atlee, Software Engineering: Theory and Practice, 
+
+Fourth Edition. Prentice Hall, 2010. 
+Bibliografia complementaria: 
+1. Cockburn, Alistair, Crystal Clear: A Human-Powered Methodology for Small Teams. 
+
+Addison-Wesley Professional; 1st edition, 2004. 
+2. Barry W. Boehm, Richard Turner, Balancing agility and discipline: a guide for the perplexed. 
+
+Addison-Wesley, 2003. 
+3. Shari Lawrence Pfleeger y Joanne M. Atlee, Software Engineering: Theory and Practice, 
+
+Fourth Edition. Prentice Hall, 2010. 
+4. Eric Evans, Domain-Driven Design: Tackling Complexity in the Heart of Software.  Addison-
+
+Wesley.  
+5. Alistair Cockburn, Agile Software Development: The Cooperative Game (2nd edition). 
+
+Addison-Wesley Professional, 2nd edition, 2006. 
+6. Collective Wisdom from the Experts. 97 Things Every Software Architect Should Know. 
+
+Edited By Richard Monson-Haefel, O'Reilly Media Released: February 2009. 
+  
+
+
+
+108 
+ 
+
+Sugerencias didacticas: 
+Exposicion oral (X) 
+Exposicion audiovisual (X) 
+Ejercicios dentro de clase (X) 
+Ejercicios fuera del aula (X) 
+Seminarios (  ) 
+Lecturas obligatorias (  ) 
+Trabajo de investigacion (  ) 
+Practicas de taller o laboratorio (X) 
+Practicas de campo (  ) 
+ 
+Otras: __________________________ 
+ 
+
+Metodos  de evaluacion:  
+Examenes parciales (X) 
+Examen final escrito (X) 
+Trabajos y tareas fuera del aula (X) 
+Exposicion de seminarios por los alumnos (  ) 
+Participacion en clase (  ) 
+Asistencia (  ) 
+Seminario (  ) 
+ 
+Otras: Practicas de laboratorio. Desarrollo de una 
+aplicacion. 
+  
+
+ 
+Perfil profesiografico:  
+Egresado preferentemente de la Licenciatura en Ciencias de la Computacion o Matematico con 
+especialidad en Computacion con amplia experiencia de programacion. Es conveniente que 
+posea un posgrado en la disciplina. Con experiencia docente. 
+  
+
+

@@ -1,0 +1,67 @@
+FACULTAD DE CIENCIAS
+
+CARRERA DE MATEMATICO
+
+SERIES DE FOURIER Y TEORIA DE STURM LIOUVILLE
+
+SEMESTRE: Quinto o sexto
+CLAVE: 0721
+
+HORAS A LA SEMANA/SEMESTRE
+
+TEORICAS PRACTICAS CREDITOS
+5/80 0 10
+
+CARACTER: OPTATIVO.
+MODALIDAD: CURSO.
+SERIACION INDICATIVA ANTECEDENTE: Algebra Lineal I, Ecuaciones Diferen-
+ciales I.
+SERIACION INDICATIVA SUBSECUENTE: Ninguna.
+
+OBJETIVO(S): En este curso no se supone conocida la integral de Lebesgue por lo que la
+clase de funciones en las que se desarrollan los temas de Analisis de Fourier es la clase de
+las funciones continuas por tramos. Junto con estos resultados se presentan las aplicaciones
+clasicas al problema de la conduccion del calor y de la ecuacion de onda.
+
+NUM. HORAS UNIDADES TEMATICAS
+
+10 1. Espacios vectoriales
+1.1 Funciones ortogonales.
+
+20 2. Series de Fourier
+
+20 3. El problema de Sturm--Liouville
+
+20 4. Las ecuaciones de onda y del calor
+4.1 La transformada de Fourier.
+
+10 5. La transformada de Laplace
+
+BIBLIOGRAFIA BASICA:
+
+1. Davis, H. F., Fourier Series and Orthogonal Functions, New York: Dover, 1989.
+
+2. Dym, H., McKean, H.P., Fourier Series and Integrals, Boston: Academic Press, 1972.
+
+BIBLIOGRAFIA COMPLEMENTARIA:
+
+1. Pinkus, A., Fourier Series and Integral Transforms, Cambridge: Cambridge Univer-
+sity, 1997.
+
+1
+
+
+
+SUGERENCIAS DIDACTICAS: Lograr la participacion activa de los alumnos mediante
+exposiciones.
+
+SUGERENCIA PARA LA EVALUACION DE LA ASIGNATURA: Ademas de las califi-
+caciones en examenes y tareas se tomara en cuenta la participacion del alumno.
+
+PERFIL PROFESIOGRAFICO: Matematico, fisico, actuario o licenciado en ciencias de
+la computacion, especialista en el area de la asignatura a juicio del comite de asignacion
+de cursos.
+
+2
+
+

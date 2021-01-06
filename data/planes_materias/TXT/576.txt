@@ -1,0 +1,150 @@
+DE CIENCIAS
+
+CARRERA DE MATEMATICO
+
+TEORIA DE LA COMPUTACION
+
+SEMESTRE: Quinto o Sexto
+CLAVE: 0576
+
+HORAS A LA SEMANA/SEMESTRE
+
+TEORICAS PRACTICAS CREDITOS
+4/64 2/32 10
+
+CARACTER: OPTATIVO.
+MODALIDAD: CURSO.
+SERIACION INDICATIVA ANTECEDENTE: Algebra Lineal II, Analisis de Algorit-
+mos I.
+SERIACION INDICATIVA SUBSECUENTE: Complejidad Computacional, Inteligen-
+cia Artificial, Lenguajes de Programacion y sus Paradigmas, Seminario de Temas
+Selectos de la Computacion.
+
+OBJETIVO(S): Introducir los fundamentos de la teoria de la computacion. Presentar los
+modelos de computo clasicos. Dar los elementos que permitan responder preguntas como
+?Que es computable?, ?que modelos de computo hay?, ?cuantos recursos de computo se
+necesitan?. Establecer la relacion de los modelos de computo con la teoria de lengua jes
+formales.
+
+NUM. HORAS UNIDADES TEMATICAS
+
+6 1. Introduccion
+1.1 Procesadores de lenguajes.
+1.2 Cadenas, alfabetos y lenguajes.
+1.3 Modelos matematicos de traduccion.
+
+22 2. Maquinas con un numero finito de estados
+2.1 Definicion.
+2.2 Aplicaciones e instrumentacion. Diseno de automatas finitos.
+2.3 Equivalencia de automatas finitos.
+2.4 Minimizacion de automatas finitos.
+2.5 Relacion entre distintos modelos de automatas finitos: deter-
+ministicos, no deterministicos, de Mealy y de Moore.
+
+199
+
+
+
+10 3. Gramaticas formales y lenguajes formales
+3.1 Introduccion.
+3.2 Conceptos basicos de gramaticas.
+3.3 Gramaticas formales.
+3.4 Clasificacion de gramaticas: no restringidas, sensitivas al contex-
+to, libres del contexto y regulares.
+
+3.5 Arboles de derivacion. Ambiguedad.
+
+10 4. Automatas de estados finitos y lenguajes tipo 3
+4.1 Introduccion.
+4.2 Propiedades de los lenguajes regulares.
+4.3 Expresiones regulares. Equivalencia entre automatas finitos y ex-
+presiones regulares.
+4.4 Construccion de automatas finitos a partir de expresiones regu-
+lares.
+4.5 Algoritmos de decision para lenguajes regulares: Ambiguedad;
+vacuidad, finitud e infinitud; equivalencia.
+4.6 Aplicaciones de automatas finitos y lenguajes regulares.
+
+10 5. Automatas con stack o pila
+5.1 Definicion.
+5.2 Formalizacion.
+5.3 Traduccion con automatas de stack.
+5.4 Ciclos en los automatas de stack deterministicos.
+
+18 6. Lenguajes libres del contexto
+6.1 Presentacion.
+6.2 Simplificacion de gramaticas libres del contexto. Producciones
+vacias o producciones.
+6.3 Formas normales: Chomsky y Greibach.
+6.4 Equivalencia entre automatas de stack y lenguajes libres del con-
+texto.
+
+10 7. Propiedades de los lenguajes libres del contexto
+7.1 Caracterizacion del complemento de los lenguajes libres del con
+texto: Lemas del bombeo y de Ogden.
+7.2 Propiedades de cerradura de los lenguajes libres del contexto:
+Operaciones booleanas. Utilizacion de las propiedades de cerradura.
+7.3 Decidibilidad en lenguajes libres del contexto; membresia.
+
+200
+
+
+
+10 8. Maquinas de Turing
+8.1 Motivacion, definiciones y notacion.
+8.2 Tecnicas para la construccion de maquinas de Turing.
+8.3 La Maquina de Turing como un procedimiento.
+8.4 Distintos tipos de Maquina de Turing.
+8.5 Computabilidad e Indecidibilidad.
+8.6 Modelos de funciones computables a traves de maquinas de Tur-
+ing, funciones recursivas (parciales), calculo lambda, lenguajes im-
+perativos; tesis de Church.
+8.7 Maquinas universales (Maquina Universal de Turing)
+8.8 Problemas de decision; problemas recursivos y recursivamente
+enumerables.
+8.9 Problemas indecidibles como por ejemplo, El problema de paro
+(halting problem).
+8.10 Problemas no recursivamente enumerables.
+
+BIBLIOGRAFIA BASICA:
+
+1. Linz, P., An Introduction to Formal Languages and Automata, Lexington, Mass.:D.
+C. Heath and Company, 1996.
+
+2. Ullman, J. D., Hopkroft, J. E., Introduction to Automata Theory, Languages and
+Computations, Reading, Mass.: Addison-Wesley Publishing Company, 1979.
+
+BIBLIOGRAFIA COMPLEMENTARIA:
+
+1. Dijkstra, E. W., editor, Formal Development of Programs and Proofs, Reading,
+Mass.: Addison-Wesley Publishing Company, 1990.
+
+2. Gough, K. J., Syntax Analysis and Software Tools, Reading, Mass.: Addison-Wesley
+Publishing Company, 1988.
+
+3. Gries, D., editor, Programming in the 1990s, An Introduction to the Calculation of
+Programs, New York: Springer Verlag, 1990.
+
+4. Kfoury, A.J., Moll, R. N., Arbib, M. A., A Programming Approach to Computability,
+New York: Springer-Verlag, 1982.
+
+5. Manna, Z., Waldinger, R., The Logical Bases for Computing Programming, Reading,
+Mass.: Addison-Wesley Publishing Company, 1993.
+
+201
+
+
+
+SUGERENCIAS DIDACTICAS: Lograr la participacion activa de los alumnos mediante
+exposiciones.
+
+SUGERENCIA PARA LA EVALUACION DE LA ASIGNATURA: Ademas de las califi-
+caciones en examenes y tareas se tomara en cuenta la participacion del alumno.
+
+PERFIL PROFESIOGRAFICO: Matematico, fisico, actuario o licenciado en ciencias de
+la computacion, especialista en el area de la asignatura a juicio del comite de asignacion
+de cursos.
+
+202
+
+

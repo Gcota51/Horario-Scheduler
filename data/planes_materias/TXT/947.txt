@@ -1,0 +1,344 @@
+A DE MEXICO 
+
+ 
+Facultad de Ciencias 
+
+ 
+Plan de estudios de la Licenciatura en  
+
+Matematicas Aplicadas 
+ 
+ 
+
+Teoria de la Medida I 
+ 
+
+Clave 
+0947 
+
+Semestre 
+5 o 6 
+
+Creditos 
+10 
+
+Area de 
+concentracion 
+
+ 
+
+Campo de 
+conocimiento 
+
+ 
+
+Etapa 
+ 
+
+V y VI 
+
+Modalidad 
+Curso ( X ) Taller ( ) Lab ( ) Sem ( ) 
+ 
+ 
+
+Tipo T ( X )     P (  )    T/P  (  )  
+
+Caracter 
+Obligatorio (  )           Optativo ( X ) 
+ 
+Obligatorio E ( )        Optativo E ( )  
+
+Horas 
+
+ Semana Semestre  
+
+ Teoricas           5 Teoricas           80 
+
+ Practicas          0 Practicas           0 
+
+ Total                 5 Total                  80 
+
+ 
+
+Seriacion 
+ 
+
+Ninguna (   ) 
+
+Obligatoria (   ) 
+
+Asignatura antecedente 
+ 
+
+ 
+
+Asignatura subsecuente 
+ 
+
+ 
+
+Indicativa ( X ) 
+
+Asignatura antecedente 
+ 
+
+Analisis Matematico I 
+
+Asignatura subsecuente 
+ 
+
+ 
+
+ 
+
+Objetivos generales:  
+Tender puentes entre el enfoque analitico de la teoria de la medida con algunos aspectos de la 
+teoria de la probabilidad. El objetivo es adquirir un manejo adecuado de la teoria de la medida y 
+de la integral abstracta (sin profundizar en los teoremas de existencia) para lograr una adecuada 
+introduccion a la teoria de la probabilidad. 
+
+ 
+
+ 
+
+Indice tematico 
+
+ Tema  
+Horas 
+
+ semestre  
+
+
+
+Teoricas Practicas 
+
+1 Sigmas algebras de conjuntos y funciones medibles. 10 0 
+
+2 Definicion de medida, espacios de medida. 15 0 
+
+3 Concepto de integral (o esperanza en su caso). 15 0 
+
+4 Aplicaciones en el caso de medida de probabilidad. 5 0 
+
+5 
+Teorema de Fubini e independencia en teoria de la 
+probabilidad. 
+
+10 0 
+
+6 Espacios Lp con p mayor o igual a 1. 5 0 
+
+7 Formas de convergencia y sus relaciones 15 0 
+
+8 Teorema de Radon-Nikodym 5 0 
+
+Subotal 80 0 
+
+Total 80 
+
+ 
+
+Contenido Tematico 
+
+ Tema y subtemas 
+
+1 Sigmas algebras de conjuntos y funciones medibles. 
+
+1.1 s-'algebra de conjuntos, conjuntos medibles o eventos; espacios 
+      medibles, propiedades y ejemplos. 
+
+1.2 s-'algebra de Borel en un espacio metrico. 
+
+1.3 s-'algebra generada por una funcion medible. 
+
+1.4 Funciones medibles o variables aleatorias con valores en los reales 
+      extendidos. Funcion simple medible (o variable aleatoria discreta). 
+
+1.5 Propiedades y ejemplos. Aproximacion de una funcion medible 
+      positiva por una sucesion de simples medibles. 
+
+ 
+
+2 Definicion de medida, espacios de medida. 
+
+2.1 Medidas y medidas de probabilidad. Ejemplos. Medidas discretas: 
+      de contar, de Dirac, de Poisson etc. 
+
+2.2 Propiedades de una medida, propiedades de una medida de 
+       probabilidad. En particular: teoremas de continuidad para 
+       sucesiones monotonas de eventos 
+
+2.3 Medida de Lebesque y medida de Lebesque-Stieljes en los 
+        borelianos de R (sin demostrar su existencia s'olo mencionar que 
+        es consecuencia del teorema de Caratheodory). Medidas 
+        absolutamente continuas con respecto a la medida de Lebesque. 
+
+2.4 Eventos independientes. 
+
+2.5 Medida de probabilidad inducida por una variable aleatoria. 
+        Completacion de una medida. Propiedades casi seguras, cargas o  
+        medidas con signo. 
+
+2.6 Funciones de distribucion. 
+
+2.7 Definicion general y propiedades basicas. Los casos discreto y con 
+      densidad. Ejemplos usuales en teoria de la probabilidad. Relacion 
+      entre funcion de distribucion y medida de probabilidad en R. 
+
+ 
+
+3 Concepto de integral (o esperanza en su caso). 
+
+3.1 Definicion de la integral para una funcion simple medible (o variable  
+      aleatoria discreta) y propiedades basicas.  
+
+3.2 Definicion y propiedades de la integral de una funcion medible positiva. 
+
+3.3 Teorema de convergencia monotona, Lema de Fatou y aplicaciones 
+
+3.4 Funciones integrables y su integral. 
+
+
+
+3.5 Propiedades. 
+
+3.6 Teorema de convergencia dominada. 
+
+3.7 Dependencia de un parametro. 
+
+ 
+
+4 Aplicaciones en el caso de medida de probabilidad 
+
+4.1 Esperanza de una variable aleatoria, esperanza de la composicion 
+      de una variable aleatoria con una funcion boreliana. 
+
+4.2 Teorema de cambio de variable para medidas de probabilidad 
+       inducidas por una variable aleatoria. 
+
+4.3 Medidas discretas y series. Caso en que hay densidad. Integral de 
+       Lebesque-Stieljes. 
+
+4.4 Funcion caracteristica de una variable aleatoria y propiedades. 
+       Calculo de la funcion caracteristica de algunas variables aleatorias. 
+
+ 
+
+5 Teorema de Fubini e independencia en teoria de la probabilidad. 
+
+5.1 Variables aleatorias independientes. Espacios producto: s-'algebra 
+      producto y medidas producto. Teoremas de Tonelli-Fubini y de 
+      Fubini. Teoremas de Borel-Cantelli. Suma de variables aleatorias 
+      independientes y funcion caracteristica. Ley cero-uno de 
+      Kolmogorov. 
+
+ 
+
+6 Espacios Lp con p mayor o igual a 1. 
+
+6.1 Desigualdades de Holder, de Schwarz y de Minkowski. 
+
+6.2 Clases de equivalencia y espacios Lp como espacios metricos. 
+
+6.3 Sucesiones de Cauchy y completez de estos espacios 
+
+ 
+
+7 Formas de convergencia y sus relaciones 
+
+7.1 Definicion de convergencia casi-segura, convergencia en Lp, 
+       convergencia en medida (en probabilidad), convergencia debil 
+       (para el caso de medidas de probabilidad). 
+
+7.2 Relaciones entre las diversas formas de convergencia, en el caso 
+      de una medida finita y en el caso de una medida arbitraria. 
+      Ejemplos. 
+
+7.3 Convergencia debil para el caso de medidas de probabilidad. 
+      Propiedades y relaciones con las otras formas de convergencia 
+
+7.4 Convergencia debil en el caso de que todas las variables aleatorias 
+      tengan valores enteros. 
+
+7.5 Funcion caracteristica y convergencia debil. 
+
+ 
+
+8 Teorema de Radon-Nikodym 
+
+8.1 Descomposicion de medidas. 
+
+8.2 Introduccion al teorema de Radon-Nikodym. 
+
+8.3 Interpretacion de la densidad de Probabilidad como derivada de 
+      Radon-Nikodym 
+
+ 
+
+ 
+ 
+ 
+
+Estrategias didacticas Evaluacion del aprendizaje 
+
+Exposicion                                                     (  ) Examenes parciales                (  ) 
+
+
+
+Trabajo en equipo                                         (  ) Examen final                  (  ) 
+
+Lecturas                                                         (  ) Trabajos y tareas                  (  ) 
+
+Trabajo de investigacion                               (  ) Presentacion de tema                 (  ) 
+
+Practicas (taller o laboratorio)                       (  ) Participacion en clase                            (  ) 
+
+Practicas de campo                                       (  ) Asistencia                                                 (  ) 
+
+Aprendizaje por proyectos                            (  ) Rubricas                                                   (  ) 
+
+Aprendizaje basado en problemas               (  ) Portafolios                                                (  ) 
+
+Casos de ensenanza                                    (  ) Listas de cotejo                                        (  ) 
+
+Otras (especificar) Otras (especificar) 
+
+  
+
+  
+
+ 
+ 
+
+Perfil profesiografico 
+
+Titulo o grado Matematico, fisico, actuario o licenciado en ciencias de la computacion,  
+
+Experiencia docente Con experiencia docente. 
+
+Otra caracteristica Especialista en el area de la asignatura a juicio del comite de asignacion 
+de cursos. 
+
+ 
+ 
+ 
+
+Bibliografia basica: 
+
+ Bartle, R. G., Elements of Integration and Lebesque Measure, New York: Wiley, 1995. 
+
+ Billingsley, F., Probability and Measure, New York: J. Wiley, 1995. 
+
+ Chung, K. L., A Course in Probability Theory, San Diego, California: Academic, 2000. 
+
+Bibliografia complementaria: 
+
+ Jacod, J., Protter, Ph., Probability Essentials, New York: Springer Verlag, 2000. 
+ 
+
+ 
+
+ 
+
+

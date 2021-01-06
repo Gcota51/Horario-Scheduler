@@ -1,0 +1,140 @@
+I
+CREDITOS:  10
+
+AREA: MATEMATICAS
+Requisitos:Analisis de Algoritmos I
+
+Calculo Diferencial e Integral IV
+Algebra Lineal I
+
+HORAS POR CLASE
+CLASES POR SEMANA
+HORAS POR SEMESTRE
+
+TEORICA:   1
+TEORICA:   4
+TEORICA:  64
+
+TEORICO-PRACTICAS:   2
+TEORICO-PRACTICAS:   1
+TEORICO-PRACTICAS:  32
+
+Objetivos generales:
+Introducir  algoritmos  eficientes  y  estables  para  la  resolucion  de  problemas 
+matematicos planteados por las necesidades del desarrollo de las ciencias y la 
+tecnologia, haciendo enfasis en sus alcances y limitaciones. Se introduce tambien 
+el manejo de software de calidad para cada uno de los temas tratados.
+
+Temario:
+I. Aritmetica de punto flotante 10 horas
+
+Se presentan y se analizan los sistemas de punto flotante, senalando 
+las  diferencias  importantes  con  respecto  al  sistema  de  numeros 
+reales y sus consecuencias.
+
+I.1 Los sistemas de punto flotante
+I.2 La aritmetica de punto flotante
+I.3 Errores de redondeo y sus efectos
+I.4 Software de prueba
+
+II. Sistemas de ecuaciones algebraicas lineales 7 horas
+Se  presentan  algoritmos  eficientes  para  la  resolucion  del 
+
+problema Ax=b, con A matriz cuadrada de orden n, x y v vectores de 
+n componentes, haciendo notar la relevancia de este problema en un 
+gran numero de aplicaciones.
+
+II.1 Eliminacion Gaussiana
+II.2 Factorizacion LU
+II.3 Factorizacion de Cholesky para matrices positivas definidas
+II.4 Software correspondiente
+
+III. Interpolacion 10 horas
+Se plantea el  problema de "aprender a leer entre lineas",  a 
+
+partir de una tabla de datos y se discuten y analizan algunas de las 
+opciones mas usuales y eficientes para este problema.
+
+III.1 Interpolacion
+III.2 Interpolacion de Newton
+III.3 Interpolacion Spline
+III.4 Software correspondiente
+
+IV. Cuadratura Numerica 8 horas
+Se  introducen  diversos  algoritmos  para  resolver  el 
+
+
+
+problema de evaluar f(x)dx , mostrando su relacion con otros, 
+tales como el de resolver una ecuacion diferencial y el calculo de 
+probabilidades.
+
+IV.1 Las reglas simples del rectangulo, el trapecio y Simpson
+IV.2 La version compuesta de las mismas reglas y sus analisis de 
+
+error
+IV.3 Algoritmos de tipo adaptativo
+IV.4 Cuadratura de Gauss
+IV.5 Software correspondiente
+
+V. Ajuste de datos por Minimos Cuadrados lineales 8 horas
+Se discuten las caracteristicas de los modelos lineales y se presentan 
+
+los algoritmos usuales para la estimacion de parametros respectivos.
+V.1 Las ecuaciones normales
+V.2 La factorizacion QR
+V.3 Software para ambos casos
+
+VI. Resolucion de ecuaciones no lineales 10 horas
+Se plantean problemas que llevan a resolver la ecuacion f(x)=0 
+
+y se discuten los algoritmos efectivos para su solucion.
+ VI.1 El algoritmo de biseccion
+ VI.2 El algoritmo de la secante
+ VI.3 El algoritmo de Newton
+ VI.4 Velocidades de convergencia de los distintos metodos
+ VI.5 Metodos hibridos
+ VI.4 Software 
+
+ VII.Optimizacion en una dimension 8 horas
+Se  plantea  el  problema  de  maximizar  o  minimizar  una  funcion, 
+mostrando su importancia en la practica.
+VII.1 El metodo de Newton
+VII.2 El metodo de la seccion surea
+VII.3 Software 
+
+Bibliografia:
+
+Basica:
+* Elden, L.; Linde, W-K,  Numerical Analysis: An Introduction,  Boston Academic 
+
+Press, 1990.
+* Kahaner, D.; Moler, C.; Nash, S.,  Numerical Methods And Software,  E.C. New 
+
+Jersey Prentice Hall, 1989.
+
+Complementaria:
+* Burden, R. L.; Faires, J. D.; Reynolds, A. C.,  Numerical Analysis,  Wadsworth 
+
+International, 1978
+* Conte, S.; Boor, C. de,  Elementary Numerical Analysis: An Algorithmic 
+
+Approach, Third edition,  McGraw Hill Book Company, 1980
+
+
+
+* Gerald, C. F.; Wheatley, P. D.,  Applied Numerical Analysis,  Massachusetts: 
+Addison-Wesley, 1989
+
+* Light, W. editor,  Advances In Numerycal Analysis I: Nonlinear Partial 
+Differential Equations And Dynamic Systems,  Oxford, Clarendon, 
+1991
+
+* Rice, J. R.,  Numerycal Methods, Software, And Analysis,  McGraw-Hill Book Co., 
+1983
+
+--------------------------
+
+
+	ANALISIS NUMERICO I
+

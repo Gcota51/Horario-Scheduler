@@ -1,0 +1,123 @@
+DITOS:  10
+
+AREA: CIENCIAS DE LA COMPUTACION
+Requisitos:Introduccion a Ciencias de la 
+
+Computacion II
+
+HORAS POR CLASE
+CLASES POR SEMANA
+HORAS POR SEMESTRE
+
+TEORICA:   1
+TEORICA:   4
+TEORICA:  64
+
+TEORICO-PRACTICAS:   2
+TEORICO-PRACTICAS:   1
+TEORICO-PRACTICAS:  32
+
+Objetivos generales:
+Este curso introduce al estudiante en el analisis del lenguaje matematico a traves 
+de los lenguajes de primer orden. De estos, se enfatizan por igual tres aspectos: 
+su estructura formal, su semantica (a traves de las estructuras matematicas) y la 
+teoria de la inferencia logica.
+
+Temario:
+I. Introduccion 11 horas
+
+Se busca abstraer del lenguaje matematico ordinario (i.e. tal 
+como  este  aparece  en  un  libro  de  texto,  por  ejemplo)  su 
+estructura logica. Mostrar ejemplos de como un lenguaje como, 
+por ejemplo, el de la teoria de grupos es susceptible de distintas 
+interpretaciones. Introducir los operadores logicos fundamentales 
+(negacion, conjuncion, cuantificacion, etc.)
+
+I.1 Analisis del lenguaje de la teoria de los numeros, el algebra, etc.
+I.2 Lenguajes  y  su  semantica  (por  ejemplo,  teoria  de  grupos, 
+
+geometria)
+I.3 Conectivos logicos; propiedades y criterios de verdad.
+I.4 Cuantificadores; propiedades y criterios de verdad.
+
+II. Lenguajes de primer orden 10 horas
+Definicion del concepto general de lenguaje de primer orden con 
+ejemplos, puntualizando el papel de las variables en sus distintos 
+niveles
+
+II.1 Definicion:  simbolos  logicos,  de  puntuacion,  simbolos  de 
+funcion, predicados y constantes
+
+II.2 Sintaxis. Terminos, formulas, enunciados.
+II.3 Variables libres y acotadas
+
+III. Estructuras de primer orden 12 horas
+Definir  el  concepto  general  de  estructura  de  primer  orden 
+
+dando algunos ejemplos matematicos. Establecer la relacion entre los 
+lenguajes y las estructuras de primer orden mediante las nociones de 
+satisfaccion  y  verdad.  Considerar  las  relaciones  que  se  pueden 
+establecer entre las estructuras a traves de la nocion de verdad
+
+III.1 Definicion
+III.2 Satisfaccion y verdad (definicion de Tarski)
+III.3 Modelos
+
+
+
+III.4 Relaciones  entre  estructuras.  Subestructuras,  inmersiones, 
+equivalencia elemental, extensiones elementales.
+
+IV.Validez y equivalencia logica 12 horas
+Se introducen las nociones de consecuencia y equivalencia 
+
+logica,  mostrando  su  papel  protagonico  en  la  teoria  de  la 
+inferencia  logica.  Se  estudian  las  propiedades  basicas  de  los 
+conectivos y los cuantificadores
+
+IV.1 Validez. Ejemplos. Consecuencia logica.
+IV.2 Equivalencia logica. Definicion y ejemplos
+IV.3 Leyes de la equivalencia logica. Equivalencia entre formulas sin 
+
+cuantificadores y algebra de Boole.  Tablas de verdad. Formas 
+normales
+
+IV.4 Prenexacion; cambio de variables acotadas
+
+V. Teorema de finitud o compacidad 15 horas
+Se presentan dos teoremas de vital  importancia  para  la 
+
+teoria:  el  teorema  de  finitud  y  el  teorema  de  Herbrand, 
+considerados por algunos logicos como el teorema fundamental 
+de la logica de primer orden. Se muestra su importancia a traves 
+de distintos ejemplos. Se introducen las nociones de consistencia, 
+completez y decidibilidad de un conjunto de enunciados
+
+V.1 Introduccion
+V.2 Consistencia y completez
+V.3 Teorema de finitud o de Compacidad.
+V.4 Aplicaciones. Analisis no estandar, aritmetica no estandar
+V.5 Teorema de Herbrand. Caracter no constructivo del teorema. ?Es 
+
+decidible  el  conjunto de  formulas  validas  en un lenguaje  de 
+primer orden? ?Es decidible la consecuencia logica?
+
+Bibliografia:
+
+Basica:
+* Delong, H.,  A Profile Of Mathematical Logic,  Addison-Wesley, 1992
+* Amor, J. A.,  Un Curso De Analisis Logico,  (notas en proceso)
+
+Complementaria:
+
+* Polya, G.,  How To Solve It,  Princeton Univ. Press, 1945
+* Amor, J. A.,  Proposicional dentro de Logica de Primer Orden,  Facultad de 
+
+Ciencias, UNAM, 1976.
+* Amor, J. A.,  Compacidad en Logica de Primer Orden y su Relacion con el 
+
+Teorema de Completez,  Facultad de Ciencias, UNAM., 1993.
+* Boolos, J.,  Computability and Logica,  Cambridge, U.P., 1974
+--------------------------
+
+

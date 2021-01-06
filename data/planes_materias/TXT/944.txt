@@ -1,0 +1,87 @@
+FACULTAD DE CIENCIAS
+
+CARRERA DE MATEMATICO
+
+TEORIA DE COLAS (ejemplo)
+
+SEMESTRE: Septimo u octavo
+CLAVE: 0944
+
+HORAS A LA SEMANA/SEMESTRE
+
+TEORICAS PRACTICAS CREDITOS
+5/80 0 10
+
+CARACTER: OPTATIVO.
+MODALIDAD: CURSO.
+SERIACION INDICATIVA ANTECEDENTE: Estadistica I, Investigacion de Opera-
+ciones.
+SERIACION INDICATIVA SUBSECUENTE: Ninguna.
+
+OBJETIVO(S): Conocer las situaciones tipicas en que se puede aplicar la teoria de colas,
+asi como las limitaciones inherentes a los modelos. Desarrollar la capacidad de construir
+modelos simples que puedan servir para el analisis de diferentes situaciones donde existen
+filas de espera, y junto con este analisis proponer soluciones adecuadas.
+
+NUM. HORAS UNIDADES TEMATICAS
+
+5 1. Introduccion y aplicaciones
+
+15 2. Procesos estocasticos
+2.1 Cadenas de Markov.
+2.2 Procesos de nacimiento y muerte.
+
+10 3. Lineas de espera
+3.1 Llegadas.
+3.2 Servicios.
+3.3 Clasificacion.
+
+20 4. Modelos M/M/l
+4.1 Hipotesis.
+4.2 Distribucion de llegadas y salidas.
+4.3 Ecuaciones en el estado estacionario.
+4.4 Determinacion de caracteristicas.
+
+20 5. Modelos M/M/k
+5.1 Hipotesis.
+5.2 Distribucion de llegadas y salidas.
+5.3 Ecuaciones en el estado estacionario.
+5.4 Determinacion de caracteristicas.
+
+1
+
+
+
+10 6. Otros modelos y consideraciones
+6.1 M/G/l.
+6.2 M/G/k.
+6.3 Estimacion de parametros para llegadas y servicios.
+6.4 Consideracion de costos.
+6.5 Simulacion de sistemas de colas.
+
+BIBLIOGRAFIA BASICA:
+
+1. Gross, D., Harris, C. M., Fundamentals of Queuing Theory, New York: Ed. Wiley,
+series in probability and statistics, 2003.
+
+2. Saaty, T. L., Elements of Queuing Theory with Applications, New York: Ed. Dover
+Publications, 1983.
+
+BIBLIOGRAFIA COMPLEMENTARIA:
+
+1. Kaufmann, A., Cruon, R., Les phenomenes d'attente. Theorie et applications, Paris:
+Ed. Dunod, 1964.
+
+SUGERENCIAS DIDACTICAS: Lograr la participacion activa de los alumnos mediante
+exposiciones.
+
+SUGERENCIA PARA LA EVALUACION DE LA ASIGNATURA: Ademas de las califi-
+caciones en examenes y tareas se tomara en cuenta la participacion del alumno.
+
+PERFIL PROFESIOGRAFICO: Matematico, fisico, actuario o licenciado en ciencias de
+la computacion, especialista en el area de la asignatura a juicio del comite de asignacion
+de cursos.
+
+2
+
+

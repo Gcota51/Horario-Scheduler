@@ -1,0 +1,295 @@
+A DE MEXICO 
+
+ 
+Facultad de Ciencias 
+
+ 
+Plan de estudios de la Licenciatura en 
+
+ Matematicas 
+ 
+
+Ecuaciones Integrales I 
+ 
+
+Clave 
+0395 
+
+Semestre 
+    7 u 8 
+
+Creditos 
+10 
+
+Area de 
+concentracion 
+
+ 
+
+Campo de 
+conocimiento 
+
+ 
+
+Etapa 
+ 
+
+VII y VIII 
+
+Modalidad 
+Curso ( X ) Taller ( ) Lab ( ) Sem ( ) 
+ 
+ 
+
+Tipo T ( X )     P (  )    T/P  (  )  
+
+Caracter 
+Obligatorio (  )           Optativo ( X ) 
+ 
+Obligatorio E ( )        Optativo E ( )  
+
+Horas 
+
+ Semana Semestre  
+
+ Teoricas          5 Teoricas           80 
+
+ Practicas         0 Practicas           0 
+
+ Total                5 Total                 80 
+
+ 
+ 
+
+Seriacion 
+ 
+
+Ninguna (   ) 
+
+Obligatoria (   ) 
+
+Asignatura antecedente 
+ 
+
+ 
+
+Asignatura subsecuente 
+ 
+
+ 
+
+Indicativa ( X ) 
+
+Asignatura antecedente 
+ 
+
+Analisis Matematico I, Analisis Numerico, Ecuaciones 
+Diferenciales I 
+
+Asignatura subsecuente 
+ 
+
+Ninguna 
+
+ 
+
+Objetivo general: 
+Introducir al estudiante a la teoria y metodos basicos de las ecuaciones integrales lineales, 
+fundamentalmente, de Fredholm de 2do. Tipo, incluyendo sus aplicaciones clasicas a las 
+Ecuaciones Diferenciales Ordinarias (Teoria de Sturm-Liouville) y a las Ecuaciones Diferenciales 
+Parciales (Problemas de Direchlet y Neumann para problemas de potencial), entre otros. 
+ 
+
+ 
+ 
+
+Indice tematico 
+
+ Tema  Horas 
+
+
+
+ semestre  
+
+Teoricas Practicas 
+
+1 Introduccion a las Ecuaciones Integrales 9 0 
+
+2 Ecuaciones lineales de Fredholm de 2do. tipo, I 9 0 
+
+3 Ecuaciones lineales de Fredholm de 2do. tipo, II 9 0 
+
+4 Ecuaciones lineales de Fredholm de 2do. tipo, III 9 0 
+
+5 
+Ecuaciones lineales de Fredholm de 2do. tipo, IV (nucleo 
+simetrico) 
+
+9 0 
+
+6 Aplicaciones 9 0 
+
+7 Ecuaciones de Volterra 9 0 
+
+8 Ecuaciones integrales singulares 9 0 
+
+9 Ecuaciones lineales de Fredholm de primer tipo 8 0 
+
+Subtotal 80 0 
+
+Total 80 
+
+ 
+
+Contenido Tematico 
+
+ Tema y subtemas 
+
+1 Introduccion a las Ecuaciones Integrales 
+
+1.1 Modelos matematicos que dan lugar a Ecuaciones Integrales (Problema y 
+ecuacion de Abel, Flexion de una viga soportando una distribucion de carga, por 
+ejemplo). 
+
+1.2 Clasificacion de la Ecuaciones Integrales (de Fredholm o Volterra, de primer o 
+segundo tipo, lineal y no-lineal, y singulares). 
+
+2 Ecuaciones lineales de Fredholm de 2do. tipo, I 
+
+2.1 Metodo clasico de los determinantes de Fredholm. 
+
+2.2 Teoria y alternativa de Fredholm y alternativa de Fredholm. 
+
+3 Ecuaciones lineales de Fredholm de 2do. tipo, II 
+
+3.1 Metodo de aproximaciones sucesivas. 
+
+3.2 Nucleos iterados y ecuacion para el nucleo resolvente. 
+
+4 Ecuaciones lineales de Fredholm de 2do. tipo, III 
+
+4.1 De nucleo separable. 
+
+4.2 Metodo de E. Schmidt y alternativa de Fredholm 
+
+5 Ecuaciones lineales de Fredholm de 2do. tipo, IV (nucleo simetrico) 
+
+5.1 Teoria de Hilbert-Schmidt 
+
+5.2 Teoremas de Hilbert-Schmidt y de Mercer 
+
+6 Aplicaciones 
+
+6.1 Teoria de Sturm-Liouville 
+
+6.2 Problemas de Dirichlet y de Neumann para ecuaciones de potencial. 
+
+7 Ecuaciones de Volterra 
+
+7.1 Metodo de aproximaciones sucesivas. 
+
+8 Ecuaciones integrales singulares 
+
+8.1 Metodo de Schmidt para el analisis de ecuaciones integrales con 
+ nucleo de la forma k(x, t)/|x - t|a 
+
+8.2 Metodos de transformadas de Fourier y Laplace para ecuaciones integrales de 
+
+      convolucion con dominio semi o infinitos 
+
+9 Ecuaciones lineales de Fredholm de primer tipo 
+
+9.1 Modelos matematicos que dan lugar a ecuaciones de 1er. tipo. 
+
+9.2 Ecuacion de Fredholm de 1er. tipo como prototipo de problema mal-planteado a 
+
+      la Hadamard. 
+
+
+
+9.3 Descomposicion en valores singulares de los operadores integrales  
+
+      de Fredholm de 1er. tipo. 
+
+9.4 Teorema de Picard y sus implicaciones. 
+
+9.5 Breve introduccion del metodo de regularizacion de Tijonov para la resolucion 
+
+      estable de la ecuacion de Fredholm de 1er. tipo 
+
+ 
+ 
+
+Estrategias didacticas Evaluacion del aprendizaje 
+
+Exposicion                                                   ( X ) Examenes parciales                ( X ) 
+
+Trabajo en equipo                                         (  ) Examen final                  ( X ) 
+
+Lecturas                                                         (  ) Trabajos y tareas                  ( X ) 
+
+Trabajo de investigacion                               (  ) Presentacion de tema                 (  ) 
+
+Practicas (taller o laboratorio)                     ( X ) Participacion en clase                            ( X ) 
+
+Practicas de campo                                       (  ) Asistencia                                                 (  ) 
+
+Aprendizaje por proyectos                          ( X ) Rubricas                                                   (  ) 
+
+Aprendizaje basado en problemas             ( X ) Portafolios                                                (  ) 
+
+Casos de ensenanza                                  ( X ) Listas de cotejo                                        (  ) 
+
+Otras (especificar) Otras (especificar)  
+
+ 
+ 
+
+Perfil profesiografico 
+
+Titulo o grado Matematico, fisico, actuario o licenciado en ciencias de la computacion  
+
+Experiencia docente  
+
+Otra caracteristica Especialista en el area de la asignatura a juicio del comite de asignacion 
+de cursos 
+
+ 
+ 
+
+Bibliografia basica: 
+
+ Courant R., Hilbert D., Methods of Mathematical Physics, Vol. 1, New York: Wiley 
+Interscience, 1953. 
+
+ Kress R., Linear Integral Equations, New York: Springer-Verlag, 1999. 
+
+ Mikhlin S.G., Lecciones de Ecuaciones Integrales, Moscu: MIR, 1964. 
+ 
+
+Bibliografia complementaria: 
+
+ Goursat E., Cours d'Analyse Mathematique, tome 3, Paris: Gouthier-Villars, 1923. 
+
+ Krasnov M., Kiseliov A., Makarenko G., Ecuaciones Integrales, Moscu: MIR, 1970. 
+
+ Lovitt W. V., Linear Integral Equations, New York: McGraw-Hill, 1924. 
+
+ Sobolev S.L., Partial Differential Equations of Mathematical Physics, New York: Dover, 
+1964. 
+
+ Petrovski I., Lecciones de teoria de las Ecuaciones Integrales, Moscu: MIR. 
+
+ Tikhonov A.N., Arsenin V.Y., Solutions of Ill-posed problems, New York: J. Wiley, 
+
+ 1977 
+
+ Tricomi F. G., Integral Equations, New York: Dover, 1985. 
+
+ Widom H., Lectures on Integral Equations, Holand: Van Nostrand, 1969. 
+
+ Wing G.M., A Primer on Integral Equations of the First Kind, Philadelphia: SIAM, 1991. 
+
+ 
+
+

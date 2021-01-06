@@ -1,0 +1,133 @@
+FACULTAD DE CIENCIAS
+
+CARRERA DE MATEMATICO
+
+VARIABLE COMPLEJA II (ejemplo)
+
+SEMESTRE: Septimo u octavo
+CLAVE: 0841
+
+HORAS A LA SEMANA/SEMESTRE
+
+TEORICAS PRACTICAS CREDITOS
+5/80 0 10
+
+CARACTER: OPTATIVO.
+MODALIDAD: CURSO.
+SERIACION INDICATIVA ANTECEDENTE: Algebra Moderna I, Analisis Matemati-
+co II, Variable Compleja I.
+SERIACION INDICATIVA SUBSECUENTE: Variable Compleja III.
+
+OBJETIVO(S): El objetivo de este curso es el familiarizar al estudiante en los aspectos
+geometricos de la Variable Compleja. Uno de los propositos es el establecer la conexion
+que existe entre la parte analitica y la parte geometrica de la Variable Compleja.
+
+NUM. HORAS UNIDADES TEMATICAS
+
+14 1. Aplicaciones del Teorema del Residuo
+1.1 Teorema del Residuo.
+1.2 Calculo del residuo, metodo del determinante y otras tecnicas.
+1.3 Calculo de integrales impropias definidas por la transformada de
+Fourier.
+1.4 Calculo de integrales impropias definidas por la transformada de
+Mellin.
+1.5 Valor principal de Cauchy.
+1.6 Calculo de integrales impropias definidas por funciones multiva-
+luadas.
+1.7 Calculo de series.
+
+1
+
+
+
+14 2. Continuacion analitica
+2.1 Principio de continuacion analitica.
+2.2 Funcion Gamma.
+2.3 Simetria en circulos en termino de transformaciones de Mobius,
+razon cruzada.
+2.4 Principio de reflexion de Schwartz para regiones simetricas con
+respecto a la recta real o con respecto a otro circulo.
+2.5 Continuacion analitica a lo largo de curvas, teorema de mono-
+dromia.
+2.6 Superficies de Riemann de algunas funciones elementales: loga-
+ritmo, raiz n-esima. Superficie de Riemann del coseno inverso.
+
+14 3. Principio del argumento, aplicaciones y comportamiento
+local
+3.1 Las distintas versiones del principio del argumento.
+3.2 Teorema de Rouche, aplicacion a la localizacion de los ceros de
+un polinomio.
+3.3 Teorema de Hurwitz.
+3.4 Funciones inyectivas.
+3.5 Comportamiento local de las funciones analiticas, consecuencias
+y ejemplos.
+
+14 4. Funciones Elipticas
+4.1 Funciones Elipticas y formula de Schwartz Christoffel.
+
+14 5. Teorema del mapeo de Riemann
+5.1 Familias normales, equicontinuidad, teorema de Montel.
+5.2 Demostracion completa del teorema.
+
+10 6. Metodos asintoticos (optativo)
+6.1 Productos infinitos.
+6.2 La funcion Gamma.
+6.3 Expansiones asintoticas.
+6.4 Metodo del punto silla o del descenso pronunciado.
+
+2
+
+
+
+10 7. Conformalidad, tranformaciones de Mobius (optativo)
+7.1 Teoria basica del mapeo conforme.
+7.2 Metrica cordal.
+7.3 El grupo de Mobius actuando en la esfera de Riemann, PSL(2, C).
+7.4 Propiedades de las tranformaciones de Mobius: preservan circulos,
+son transitivas en la familia de todos los circulos, etc.
+7.5 Clasificacion de las transformaciones de Mobius mediante los pun-
+tos fijos y las conjugaciones.
+7.6 Geometria de las tranformaciones de Mobius, configuracion de
+Steiner.
+7.7 Transformaciones de Mobius que preservan discos, PSL(2, R).
+7.8 Clasificacion de las tranformaciones de Mobius por la traza, mul-
+tiplicadores.
+7.9 Densidades, metricas hiperbolicas en el semiplano y en el disco.
+7.10 Isometrias, geodesicas, formula de la distancia hiperbolica, circu-
+los hiperbolicos.
+
+BIBLIOGRAFIA BASICA:
+
+1. Ahlfors, L.V., Complex Analysis, Mexico: McGraw-Hill, 1979.
+
+2. Marsden, J.E., Hoffman, M.J., Analisis Basico de Variable Compleja, Mexico: Trillas,
+1996.
+
+BIBLIOGRAFIA COMPLEMENTARIA:
+
+1. Markushevich, A., Teoria de las Funciones Analiticas, Moscu: MIR, 1978.
+
+2. Siegel. Topics in complex function theory, Vol I, New York: Wiley Interscience, 1967.
+
+3. Sigermann, D., Jones, G. Complex functions, Cambridge: Cambridge Univ. Press,
+1987.
+
+4. Titchmarsh, E.C., The Theory of Functions, Oxford, UK: Oxford Univ. Press, 1939.
+
+SUGERENCIAS DIDACTICAS: Lograr la participacion activa de los alumnos mediante
+exposiciones.
+
+SUGERENCIA PARA LA EVALUACION DE LA ASIGNATURA: Ademas de las califi-
+caciones en examenes y tareas se tomara en cuenta la participacion del alumno.
+
+3
+
+
+
+PERFIL PROFESIOGRAFICO: Matematico, fisico, actuario o licenciado en ciencias de
+la computacion, especialista en el area de la asignatura a juicio del comite de asignacion
+de cursos.
+
+4
+
+

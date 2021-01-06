@@ -1,0 +1,266 @@
+A DE MEXICO 
+
+ 
+Facultad de Ciencias 
+
+ 
+Plan de estudios de la Licenciatura en  
+
+Matematicas 
+ 
+
+Analisis Matematico I 
+ 
+
+Clave 
+0009 
+
+Semestre 
+5 
+
+Creditos 
+10 
+
+Area de 
+conocimiento 
+
+ 
+
+Campo 
+ 
+
+ 
+
+Etapa 
+ 
+
+ 
+
+Modalidad 
+Curso (X ) Taller ( ) Lab ( ) Sem ( ) 
+ 
+ 
+
+Tipo T ( X )     P (  )    T/P  (  )  
+
+Caracter 
+Obligatorio (X )             Optativo ( ) 
+ 
+Obligatorio E ( )        Optativo E ( )  
+
+Horas 
+
+ Semana Semestre  
+
+ Teoricas         5 Teoricas          80 
+
+ Practicas        0 Practicas         0 
+
+ Total               5 Total                 80 
+
+ 
+
+Seriacion 
+ 
+
+Ninguna (   ) 
+
+Obligatoria (   ) 
+
+Asignatura antecedente 
+ 
+
+ 
+
+Asignatura subsecuente 
+ 
+
+ 
+
+Indicativa ( X  ) 
+
+Asignatura antecedente 
+ 
+
+Calculo Diferencial e Integral IV 
+
+Asignatura subsecuente 
+ 
+
+Analisis Matematico Aplicado 
+
+ 
+
+Objetivo general: 
+
+Aprender a generalizar conceptos del calculo en Rn : espacios metricos, convergencia, 
+compacidad e integracion, asi como los teoremas fundamentales de este nuevo enfoque 
+ 
+ 
+
+Objetivos especificos: 
+
+ Discutir el concepto de espacio metrico y algunas propiedades 
+
+ Explicar el concepto de convergencia uniforme en los espacios metricos, asi como 
+algunas propiedades 
+
+ Discutir el concepto de compacidad y sus caracteristicas y propiedades mas 
+importantes 
+
+
+
+ Explicar el teorema de aproximacion de Weierstrass Discutira la integral de Riemann-
+Stieljes. 
+
+ 
+ 
+
+Indice tematico 
+
+ Tema  
+
+Horas 
+ semestre  
+
+Teoricas Practicas 
+
+1 Espacios metricos 20 0 
+
+2 Convergencia uniforme 20 0 
+
+3 Compacidad 10 0 
+
+4 Teorema de aproximacion de Weirstrass 10 0 
+
+5 Integral de Riemann-Stieljes 20 0 
+
+Subtotal 80 0 
+
+Total 80 
+
+ 
+
+Contenido Tematico 
+
+ Tema y subtemas 
+
+1 Espacios metricos 
+
+ 
+
+1.1 Continuidad. 
+1.2 Nociones topologicas basicas. 
+1.3 Convergencia. 
+ 
+
+2 Convergencia uniforme 
+
+ 
+
+2.1 Criterio de Cauchy. 
+2.2 Espacios metricos completos. 
+
+2.3  Compatibilidad de la convergencia uniforme con la derivada y la integral. 
+2.4  Teorema de punto fijo. 
+2.5   
+
+3 Compacidad 
+
+ 
+
+3.1 Teorema de Heine-Borel. 
+3.2 Teorema de Arzela. 
+3.3 Aplicaciones. 
+ 
+
+4 Teorema de aproximacion de Weirstrass 
+
+ 
+
+4.1 Teorema de Aproximacion de Weierstrass. 
+ 
+
+5 Integral de Riemann-Stieljes.  
+
+ 
+ 
+
+Estrategias didacticas Evaluacion del aprendizaje 
+
+Exposicion                                                    (X) Examenes parciales                (X) 
+
+Trabajo en equipo                                         (  ) Examen final                  (X) 
+
+Lecturas                                                         (  ) Trabajos y tareas                  (X) 
+
+Trabajo de investigacion                               (  ) Presentacion de tema                 (  ) 
+
+Practicas (taller o laboratorio)                       (  ) Participacion en clase                            (X) 
+
+Practicas de campo                                       (  ) Asistencia                                                 (  ) 
+
+Aprendizaje por proyectos                            (  ) Rubricas                                                   (  ) 
+
+
+
+Aprendizaje basado en problemas               (  ) Portafolios                                                (  ) 
+
+Casos de ensenanza                                    (  ) Listas de cotejo                                        (  ) 
+
+Otras (especificar) Otras (especificar) 
+
+  
+
+  
+
+ 
+ 
+
+Perfil profesiografico 
+
+Titulo o grado Matematico, fisico, actuario o licenciado en una carrera afin. 
+
+Experiencia docente Con experiencia docente 
+
+Otra caracteristica Especialista en el area de la asignatura a juicio del comite de asignacion 
+de cursos. 
+
+ 
+ 
+
+Bibliografia basica: 
+ 
+
+ Apostol, T., Analisis Matematico (2a ed.). Mexico: Editorial Reverte, 1996. 
+
+ Bartle, R.G., The Elements of Real Analysis. New York: J. Wiley, 1964. 
+
+ Jost, J., Postmodern Analysis. New York: Springer-Verlag, 1998. 
+
+ Kolmogorov, A.N., Fomin, S.V., Elementos de la Teoria de Funciones y del Analisis Funcional. 
+Moscu: Editorial MIR, 1972. 
+
+ Rudin, W., Principios de Analisis Matematico (2a ed.). Mexico: McGraw-Hill, 1980. 
+
+ Wheeden, R.L., Zygmund, A., Measure and Integral. New York: Marcel Dekker, 1977. 
+
+  
+
+Bibliografia complementaria: 
+ 
+
+ Brezis, H., Analisis Funcional. Madrid: Alianza Editorial, 1984. 
+
+ Dieudonne, J., Fundamentos de Analisis Moderno. Mexico: Editorial Reverte, 1976. 
+
+ Lieb, E. H., Loss, M., Analysis. Providence, R.I.: Amer. Math. Soc., 2001. 
+
+ Royden, H. L., Real Analysis. New York: Macmillan, 1988. 
+
+ Schwartz, L., Analyse I - IV. Paris: Hermann, 1992. 
+ 
+
+ 
+
+

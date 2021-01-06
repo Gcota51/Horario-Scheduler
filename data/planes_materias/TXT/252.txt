@@ -1,0 +1,111 @@
+FACULTAD DE CIENCIAS
+
+CARRERA DE MATEMATICO
+
+GEOMETRIA RIEMANNIANA I (ejemplo)
+
+SEMESTRE: Septimo u octavo
+CLAVE: 0252
+
+HORAS A LA SEMANA/SEMESTRE
+
+TEORICAS PRACTICAS CREDITOS
+5/80 0 10
+
+CARACTER: OPTATIVO.
+MODALIDAD: CURSO.
+SERIACION INDICATIVA ANTECEDENTE: Analisis Matematico I, Geometria Di-
+ferencial I, Variable Compleja I.
+SERIACION INDICATIVA SUBSECUENTE: Geometria Riemanniana II.
+
+OBJETIVO(S): Generalizar los conceptos y resultados de la Geometria Diferencial en el
+espacio euclidiano, al caso de las variedades n-dimensionales.
+
+NUM. HORAS UNIDADES TEMATICAS
+
+20 1. Variedades riemannianas
+1.1 Variedades diferenciables. Definiciones basicas. Orientabilidad.
+1.2 Transformaciones entre variedades. Inmersiones, encajes, submer-
+siones.
+1.3 Campos vectoriales. Corchete.
+1.4 Metricas riemannianas.
+1.5 Conexiones afines. Existencia y unicidad de una conexion de Levi-
+Civita.
+
+20 2. Geodesicas y curvatura
+2.1 Definicion. Ecuaciones diferenciales de las geodesicas. Flujo
+geodesico,
+2.2 Aplicacion exponencial.
+2.3 Propiedad minimizante de las geodesicas.
+2.4 Vecindades normales.
+2.5 Tensor de curvatura. Curvatura seccional, de Ricci y escalar.
+
+10 3. Subvariedades riemannianas
+3.1 Conexion inducida. Segunda forma fundamental.
+3.2 Subvariedades totalmente geodesicas y totalmente umbilicas.
+3.3 Hipersuperficies.
+3.4 Inmersiones isometricas.
+
+1
+
+
+
+10 4. Variedades completas
+4.1 Teorema de Hopf-Rinow.
+4.2 Teorema de Hadamard.
+
+10 5. Espacios con curvatura constante
+5.1 Teorema de Cartan.
+5.2 Formas espaciales. Definicion, geodesicas, isometrias.
+5.3 Clasificacion de las formas espaciales simplemente conexas.
+
+10 6. Introduccion a los grupos de Lie
+
+6.1 Grupos de Lie. Algebra de un grupo de Lie.
+6.2 Los grupos clasicos.
+6.3 Grupos de isometrias de una variedad.
+6.4 El grupo de isometrias de una variedad como un grupo de Lie.
+
+BIBLIOGRAFIA BASICA:
+
+1. Do Carmo, M.P., Riemannian Geometry, Birkhauser, 1992.
+
+2. Helgasson, S., Differential Geometry, Lie Groups and Symmetric Spaces, Boston:
+Academic Press, 1978.
+
+3. Kobayashi, S., Nomizu, K., Foundations of Differential Geometry, Vols. I y II, New
+York: Wiley, 1963, 1969.
+
+4. O'Neill, B., Semi-Riemannian Geometry, Boston: Academic Press, 1983.
+
+5. Spivak, M., A Comprehensive Introduction to Differential Geometry, Vols. I-V, Pu-
+blish or Perish, 1970.
+
+6. Warner, F. W. , Foundations of Differentiable Manifolds and Lie Groups, Glenville,
+Ill.: Scott, Foresman & Co., 1983.
+
+BIBLIOGRAFIA COMPLEMENTARIA:
+
+1. Cheeger, J., Ebin, G., Comparison Theorems in Riemannian Geometry, Amsterdam:
+North-Holland, 1975.
+
+2. Kobayashi, S., Nomizu, K., Foundations of Differential Geometry, Vols. I, New York:
+Wiley, 1963.
+
+SUGERENCIAS DIDACTICAS: Lograr la participacion activa de los alumnos mediante
+exposiciones.
+
+2
+
+
+
+SUGERENCIA PARA LA EVALUACION DE LA ASIGNATURA: Ademas de las califi-
+caciones en examenes y tareas se tomara en cuenta la participacion del alumno.
+
+PERFIL PROFESIOGRAFICO: Matematico, fisico, actuario o licenciado en ciencias de
+la computacion, especialista en el area de la asignatura a juicio del comite de asignacion
+de cursos.
+
+3
+
+

@@ -1,0 +1,148 @@
+s-numerico.pdf
+
+
+Plan de Estudios de la Licenciatura de Actuaria 
+
+ Materias Optativas  254 
+
+TEMAS SELECTOS DE ANALISIS NUMERICO 
+
+CLAVE:        
+SEMESTRE:                        6 - 8 
+CREDITOS:                            10  
+
+SECTOR:                                                      OPTATIVO
+AREA:                                             MATEMATICAS  
+SERIACION:                                                                                                   
+ASIGNATURA PRECEDENTE INDICATIVA: Materias del sector basico del Area 
+de Informatica 
+ASIGNATURA SUBSECUENTE INDICATIVA: Ninguna 
+
+HORAS POR CLASE
+CLASES POR SEMANA
+HORAS POR SEMESTRE
+
+TEORICA:        1 
+TEORICA:        4 
+TEORICA:      64 
+
+PRACTICAS:    2 
+PRACTICAS:    1 
+PRACTICAS:    32 
+
+Objetivos generales: Al finalizar el curso el alumno: 
+
+ Conocera los temas que historicamente mas han influido en el desarrollo computacional, en el Analisis 
+Numerico y la Computacion Cientifica, y sus repercusiones en la ciencia y la tecnologia. 
+
+ Comprendera los principios teoricos y tecnicos para la solucion de sistemas lineales algebraicos a gran 
+escala, el calculo de valores y vectores propios de una matriz y la solucion numerica de problemas de 
+ecuaciones diferenciales ordinarias y parciales. 
+
+Tema 1.  El mundo de la computacion cientifica visto  
+desde el Analisis Numerico         14 horas 
+
+teoricas 
+       7 horas practicas 
+
+Comprendera las interrelaciones que existen entre el analisis numerico y las ciencias de la computacion. 
+
+1.1 Computacion cientifica y modelacion matematica. 
+1.2 Computacion cientifica y Analisis Numerico. 
+1.3 Procesos de Computo Numerico. 
+1.4 Ambientes de computo. 
+
+Tema 2.  Problemas de valores iniciales para  
+ecuaciones diferenciales ordinarias       14 horas 
+
+teoricas 
+       7 horas practicas 
+
+Estudiara algunos metodos numericos para la resolucion de problemas de ecuaciones diferenciales ordinarias 
+con valores iniciales. 
+
+2.1 Ejemplos. 
+2.2 Metodos de Runge-Kutta. 
+2.3 Metodos de multipaso. 
+2.4 Estabilidad, consistencia y convergencia. 
+2.5 Ecuaciones diferenciales ordinarias stiff. 
+
+Tema 3.  Problemas de valores a la frontera para ecuaciones diferenciales 
+ordinarias        14 horas teoricas 
+            7 horas 
+practicas
+
+Analizara metodos especificos del analisis numerico que sirven para resolver ecuaciones diferenciales ordinarias 
+con valores de frontera. 
+
+
+
+Plan de Estudios de la Licenciatura de Actuaria 
+
+ Materias Optativas  255 
+
+3.1 Ejemplos. 
+3.2 Metodos de diferencias finitas. 
+3.3 Metodos de tiro simple y multiple. 
+3.4 Metodos de proyeccion ( colocacion spline).
+
+Tema 4. Problemas de valores iniciales y de frontera para ecuaciones diferenciales 
+parciales            14 horas 
+teoricas 
+
+         7 horas practicas 
+Conocera los fundamentos de los metodos numericos utilizados para la resolucion de problemas que involucren 
+ecuaciones diferenciales parciales. 
+
+4.1 Metodos en diferencias explicitos. 
+4.2 Metodos en diferencias implicitos. 
+4.3 Estabilidad, convergencia y consistencia. 
+4.4 Metodos semidiscretos. 
+4.5 Metodos en diferencias implicitos de direcciones alternantes. 
+
+Tema 5. Sistemas lineales algebraicos a gran escala         8 horas 
+teoricas 
+
+         4 horas practicas 
+Aplicara metodos del analsis numerico para resolver sistemas lineales grandes. 
+
+5.1 Metodos directos. 
+5.2 Metodos iterativos 
+  - Gauss-Seidel con relajamiento. 
+  - Gradientes conjugados. 
+
+Bibliografia basica: 
+
+ Golub, G. H., Ortega, J. M. Scientific Computing and Differential Equations: an introduction to Numerical 
+Methods. USA. Academic Press. 1992. 
+
+Bibliografia complementaria: 
+
+ Buchanan, J. L. Numerical Methods and Analysis. USA. McGraw-Hill. 1992. 
+ Greenspan, D., Casulli, V. Numerical Analysis for Applied Mathematics, Science and Engineering. USA. 
+
+Addison Wesley. 1988. 
+ Rutishauser, H. Lectures on Numerical Methods. Birkhauser. 1990. 
+
+Sugerencias didacticas 
+
+Es recomendable que se impartan clases en el laboratorio de computo para que el alumno ponga en practica la 
+teoria vista en el salon de clases  y aprenda a usar algun paquete afin a la materia. 
+
+Forma de evaluacion: 
+
+Se recomiendan de 3 a 4 examenes parciales y un examen final, asi como la realizacion de tareas sobre los temas  
+vistos en clase para reforzar los conocimientos teoricos adquiridos. 
+
+Perfil profesiografico de quienes pueden impartir la asignatura 
+
+
+
+Plan de Estudios de la Licenciatura de Actuaria 
+
+ Materias Optativas  256 
+
+Egresado de las licenciaturas en Matematicas, Actuaria o alguna afin, con conocimientos en Metodos Numericos 
+y Software utilizado para el Analisis Numerico. 
+
+

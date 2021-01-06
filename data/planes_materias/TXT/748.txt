@@ -1,0 +1,96 @@
+DE CIENCIAS
+
+CARRERA DE MATEMATICO
+
+SEMINARIO DE ESTADISTICA A
+Ejemplo: Diseno de experimentos
+
+SEMESTRE: Septimo u octavo
+CLAVE: 0748
+
+HORAS A LA SEMANA/SEMESTRE
+
+TEORICAS PRACTICAS CREDITOS
+5/80 0 10
+
+CARACTER: OPTATIVO.
+MODALIDAD: CURSO.
+SERIACION INDICATIVA ANTECEDENTE: Estadistica II, Muestreo.
+SERIACION INDICATIVA SUBSECUENTE: Ninguna.
+
+OBJETIVO(S): Al finalizar el curso, el alumno: conocera los fundamentos de un diseno
+experimental estadistico; comprendera los diversos modelos basicos del diseno de experi-
+mentos; conocera y aplicara algunos modelos en ejemplos practicos.
+
+NUM. HORAS UNIDADES TEMATICAS
+
+18 1. Prueba de hipotesis
+1.1 Tipos de hipotesis.
+1.2 Razon de verosimilitudes.
+1.3 Pruebas sobre medias.
+1.4 Pruebas sobre varianzas.
+1.5 Distribuciones de probabilidad:
+Distribucion Ji-cuadrada.
+Distribucion t.
+Distribucion F .
+Distribuciones no centrales.
+
+18 2. Bloques aleatorizados con un solo factor
+2.1 Diseno.
+2.2 Estimadores.
+2.3 Revision de los supuestos.
+
+18 3. Bloques completamente aleatorizados
+3.1 Diseno.
+3.2 Estimadores.
+3.3 Revision de los supuestos.
+
+365
+
+
+
+13 4. Cuadrado latino y grecolatino
+4.1 Diseno.
+4.2 Estimadores.
+4.3 Revision de los supuestos.
+
+13 5. Diseno factorial
+5.1 Diseno.
+5.2 Estimadores.
+5.3 Revision de los supuestos.
+5.4 Modelo con tres factores.
+5.5 Generalizaciones.
+
+BIBLIOGRAFIA BASICA:
+
+1. Anderson, V. L., McLean, R. A. Design of Experiments, New York: Marcel Dekker,
+1974.
+
+2. Box, G., Hunter, W., Hunter, S., Statistics for Experiments. An Introduction to Data
+Analysis and Model Building, New York: John Wiley and Sons, 1978.
+
+3. Montgomery, D., Diseno de Experimentos, Mexico: Grupo Editorial Iberoamericano,
+1991.
+
+BIBLIOGRAFIA COMPLEMENTARIA:
+
+1. Cochran, W., Cox, G., Experimental Design, Edward Arnold Publishers, 1957.
+
+2. Fischer, The Design of Experiments, Octava edicion, Hafner Publishing Co., 1966.
+
+3. Hicks, C. R., Fundamental Concepts in the Design of Experiments, New York: Holt,
+Rinehart and Winston, 1976.
+
+SUGERENCIAS DIDACTICAS: Lograr la participacion activa de los alumnos mediante
+exposiciones.
+
+SUGERENCIA PARA LA EVALUACION DE LA ASIGNATURA: Ademas de las califi-
+caciones en examenes y tareas se tomara en cuenta la participacion del alumno.
+
+PERFIL PROFESIOGRAFICO: Matematico, fisico, actuario o licenciado en ciencias de
+la computacion, especialista en el area de la asignatura a juicio del comite de asignacion
+de cursos.
+
+366
+
+

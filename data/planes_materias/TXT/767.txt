@@ -1,0 +1,90 @@
+FACULTAD DE CIENCIAS
+
+CARRERA DE MATEMATICO
+
+TOPOLOGIA III
+Ejemplo: Teoria de retractos
+
+SEMESTRE: Septimo u octavo
+CLAVE: 0767
+
+HORAS A LA SEMANA/SEMESTRE
+
+TEORICAS PRACTICAS CREDITOS
+5/80 0 10
+
+CARACTER: OPTATIVO.
+MODALIDAD: CURSO.
+SERIACION INDICATIVA ANTECEDENTE: Analisis Matematico II, Topologia II.
+SERIACION INDICATIVA SUBSECUENTE: Ninguna.
+
+OBJETIVO(S): Que el alumno conozca los conceptos basicos de la Teoria de Retractos,
+extension de funciones continuas y la topologia de los poliedros y CW-complejos.
+
+NUM. HORAS UNIDADES TEMATICAS
+
+5 1. Retractos y extension de funciones continuas
+1.1 Ejemplos basicos.
+
+5 2. Propiedades topologicas invariantes bajo una retraccion
+
+5 3. La propiedad del punto fijo
+
+5 4. Homotopia
+4.1 Contraibilidad y contraibilidad local.
+
+5 5. Retractos de deformacion y retractos fuertes de deforma-
+cion
+
+5 6. Extensores y retractos absolutos de vecindad
+6.1 Los ANR's, AR's, ANE's AE's.
+
+5 7. Productos, subespacios abiertos e uniones de los ANR's
+
+5 8. El teorema de extension de Dugundji y sus consecuencias
+
+5 9. La esfera unitaria en un espacio normado lineal
+
+5 10. Poliedros simpliciales con la topologia de Whitehead y
+con la topologia metrica
+
+5 11. La propiedad de extension homotopica
+
+5 12. Espacios n-conexos y localmente n-conexos
+
+5 13. La caracterizacion de los ANR's de dimension finita
+
+1
+
+
+
+5 14. La caracterizacion de los ANR's por homotopias pe-
+quenas
+
+10 15. Espacios de adjuncion y propiedades de extension
+15.1 Aplicaciones.
+
+BIBLIOGRAFIA BASICA:
+
+1. Borsuk, K. Theory of Retracts, PWN-Polish. Sci. Publ., 1967.
+
+2. Hu, S.T. Theory of Retracts, Wayne State University Press, 1965.
+
+BIBLIOGRAFIA COMPLEMENTARIA:
+
+1. Van Mill, J. Introduction to Infinite-Dimensional Topology. Prerequisites and intro-
+duction, North-Holand, 1989.
+
+SUGERENCIAS DIDACTICAS: Lograr la participacion activa de los alumnos mediante
+exposiciones.
+
+SUGERENCIA PARA LA EVALUACION DE LA ASIGNATURA: Ademas de las califi-
+caciones en examenes y tareas se tomara en cuenta la participacion del alumno.
+
+PERFIL PROFESIOGRAFICO: Matematico, fisico, actuario o licenciado en ciencias de
+la computacion, especialista en el area de la asignatura a juicio del comite de asignacion
+de cursos.
+
+2
+
+

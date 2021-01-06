@@ -1,0 +1,130 @@
+FACULTAD DE CIENCIAS
+
+CARRERA DE MATEMATICO
+
+SEMINARIO DE FILOSOFIA DE LAS MATEMATICAS
+Ejemplo: La naturaleza y los fundamentos de la matematica segun Hilbert
+
+SEMESTRE: Septimo u octavo
+CLAVE: 0750
+
+HORAS A LA SEMANA/SEMESTRE
+
+TEORICAS PRACTICAS CREDITOS
+5/80 0 10
+
+CARACTER: OPTATIVO.
+MODALIDAD: CURSO.
+SERIACION INDICATIVA ANTECEDENTE: Algebra Moderna I, Analisis Matemati-
+co II, Ecuaciones Diferenciales I, Variable Compleja I.
+SERIACION INDICATIVA SUBSECUENTE: Ninguna.
+
+OBJETIVO(S): El alumno distinguira la manera en que la matematica fue pensada desde
+la antiguedad hasta principios del siglo XIX y los cambios ocurridos tras la aparicion de
+las geometrias no euclidianas, el algebra abstracta y la teoria cantoriana de conjuntos. El
+alumno conocera las distintas concepciones de la matematica que se desarrollaron a raiz
+de estos cambios, con especial enfasis en el formalismo de Hilbert. El alumno estudiara en
+detalle el llamado Programa de Hilbert, sobre todo en relacion a la filosofia y fundamen-
+tos de la matematica, y conocera el efecto que tuvieron sobre el los llamados teoremas
+limitativos de Godel.
+
+NUM. HORAS UNIDADES TEMATICAS
+
+10 1. El desarrollo del metodo axiomatico
+1.1 La axiomatica en la antigua Grecia.
+1.2 Las geometrias no euclidianas.
+1.3 Un cambio en el concepto: la axiomatica formal.
+1.4 El problema de la consistencia de la geometria euclidiana.
+1.5 Hilbert y el pensamiento axiomatico.
+
+10 2. La matematica moderna y la teoria de conjuntos
+2.1 La matematica moderna .
+2.2 La liberacion del algebra.
+2.3 La teoria de grupos y el programa de Erlangen.
+2.4 La matematica moderna en la fisica .
+2.5 La aritmetizacion del analisis.
+2.6 La teoria de conjuntos.
+
+1
+
+
+
+25 3. El programa de Hilbert
+3.1 El problema de los fundamentos.
+3.2 El logicismo de Russell y Whitehead.
+3.3 El intuicionismo de Brouwer.
+3.4 La naturaleza de la matematica clasica segun Hilbert.
+3.5 La intuicion del signo.
+3.6 El programa de Hilbert.
+
+25 4. Los teoremas de Godel
+4.1 El espiritu de una epoca: verdad y demostrabilidad.
+4.2 Los teoremas de Godel.
+4.3 Consecuencias para el programa.
+4.4 Significado de los teoremas de Godel para la filosofia de las ma-
+tematicas.
+
+10 5. Conclusiones
+5.1 Hilbert: un balance.
+5.2 La cuestion de los fundamentos.
+5.3 Conclusiones generales.
+
+BIBLIOGRAFIA BASICA:
+
+1. Benacerraf, P., Putnam, H., Philosophy of Mathematics, Selected Readings, Cam-
+bridge: Cambridge University Press, 2a edicion, 1991.
+
+2. Brouwer, L.E.Jan, "Intuitionism and Formalism", en [Benacerraf y Putnam, 1991],
+pp. 77-89.
+
+3. Brouwer, L.E.J., "Intuitionistic reflections on formalism", en [Heijenoort, 1967] pp.
+490-492.
+
+4. Godel, K., "On undecidable sentences, (1931?)", "What is Cantor's continuun pro-
+blem?", "Some basic theorems on the foundations of mathematics and their impli-
+cations", "Is mathematics syntax of languaje?" versiones III y V. Todas estas obras
+aparecen en Godel: Collected Works, vols. II y III, Oxford: Oxford University Press.
+
+5. Heijenoort, J. van, From Frege to Godel, a Source Book in Mathematical Logic, 1879-
+1931, Harvard: Harvard University Press, 1967.
+
+2
+
+
+
+6. Hilbert, D., Foundations of Geometry. London: Open Court Publishing Co., 1962.
+
+7. Hilbert, D., "Mathematical Problems", en Proceedings of Symposia in Pure Mathe-
+matics, Vol. 28, American Mathematical Society, 1976: 1-34.
+
+8. Hilbert, D., Fundamentos de las Matematicas (recopilacion de ensayos), Mexico:
+Coleccion MATHEMA, Facultad de Ciencias, UNAM, 1993.
+
+9. Russell, B., Los Principios de las Matematicas, Argentina: Espasa Calpe S. A., 1967.
+
+10. Russell, B., Introduction to Mathematical Philosophy., London: George Allen and
+Unwin Ltd, decima edicion, 1960.
+
+11. Russell, B., Whitehead, A., Principia Mathematica (To *56), Cambridge: Cambridge
+University Press, 4a ed. 1967.
+
+BIBLIOGRAFIA COMPLEMENTARIA:
+
+1. Euclides, Elementos de Geometria I-II, Mexico: UNAM, 1992.
+
+2. Weyl, H., Filosofia de las Matematicas y de la Ciencia Natural, Mexico: Universidad
+Nacional Autonoma de Mexico, 1965.
+
+SUGERENCIAS DIDACTICAS: Lograr la participacion activa de los alumnos mediante
+exposiciones.
+
+SUGERENCIA PARA LA EVALUACION DE LA ASIGNATURA: Ademas de las califi-
+caciones en examenes y tareas se tomara en cuenta la participacion del alumno.
+
+PERFIL PROFESIOGRAFICO: Matematico, fisico, actuario o licenciado en ciencias de
+la computacion, especialista en el area de la asignatura a juicio del comite de asignacion
+de cursos.
+
+3
+
+

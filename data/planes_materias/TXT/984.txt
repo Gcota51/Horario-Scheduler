@@ -1,0 +1,189 @@
+FACULTAD DE CIENCIAS
+
+CARRERA DE MATEMATICO
+
+SEMINARIO SOBRE LA ENSENANZA DE LAS MATEMATICAS III
+Ejemplo: Historiopedagogia de las matematicas
+
+SEMESTRE: Septimo u octavo
+CLAVE: 0984
+
+HORAS A LA SEMANA/SEMESTRE
+
+TEORICAS PRACTICAS CREDITOS
+5/80 0 10
+
+CARACTER: OPTATIVO.
+MODALIDAD: CURSO.
+SERIACION INDICATIVA ANTECEDENTE: Seminario sobre la Ensenanza de las
+Matematicas II.
+SERIACION INDICATIVA SUBSECUENTE: Seminario sobre la Ensenanza de las
+Matematicas IV.
+
+OBJETIVO(S): Analizar como los conceptos matematicos han surgido y evolucionado en
+ambitos mucho mas complejos que el ambito de un salon de clases.
+Descubrir que la perspectiva que se aprende en la educacion formal de como pensar en
+matematicas no es la unica, comparandola con nuestra comprension de como distintas
+culturas en otras epocas y lugares resolvian problemas matematicos.
+Para lograr los dos objetivos anteriores, entre los participantes en este seminario se llevara a
+cabo un estudio de caso sobre algun concepto o tema (e. g., el quinto postulado de Euclides,
+la resolucion de ecuaciones algebraicas, el concepto de limite o el concepto de derivada).
+Identificar y analizar criticamente algunas propuestas internacionales de agendas de investi-
+gacion de las relaciones entre historia de las matematicas y aprendizaje de las matematicas.
+
+NUM. HORAS UNIDADES TEMATICAS
+
+16 1. El corpus cientifico de las matematicas vs. su historia y
+psicogenesis
+
+16 2. Evolucion del concepto de demostracion en las matemati-
+cas
+
+16 3. Propuestas de investigacion en historiopedagogia de las
+matematicas
+
+16 4. Obstaculos epistemologicos en el aprendizaje de las ma-
+tematicas
+
+1
+
+
+
+16 5. La teoria de sistemas adaptables complejos como mode-
+lo para la la investigacion en historiopedagogia de las ma-
+tematicas
+
+BIBLIOGRAFIA BASICA:
+
+1. Anthony, J. M. (ed.) In Eve's circles, The Mathematical Association of America,
+Washington, DC., 1994.
+
+2. Bkouche, R. Epistemologie, histoire et enseignement des mathematiques. For the
+learning of mathematics 17 (1), pp. 34-42, 1997.
+
+3. Bloor, D., Conocimiento e imaginario social. Barcelona, 1998: Gedisa. [David Bloor,
+Knowledge and social imagery, 1971/1991. Tr.: E. Lizcano y R. Blanco.]
+
+4. Calinger, R. (ed.) Vita mathematica: Historical research and integration with tea-
+ching, The Mathematical Association of America, Washington, DC., 1996.
+
+5. Carvalho e Silva, J. History of mathematics in the classroom: hopes, uncertainties
+and dangers, en Anais da Reuniao do Grupo Inernacional de Estudos sobre Relacoes
+entre historia e pedagogia da matematica, HPM, Blumenau, Brasil, pp. 129-135, 1994.
+
+6. D'Ambrosio, U. O futuro da historia: Algumas preocupacoes metodologicas, en Anais
+da Reuniao do Grupo Inernacional de Estudos sobre Relacoes entre historia e peda-
+gogia da matematica, HPM, Blumenau, Brasil, pp. 47-54, 1994.
+
+7. D'Ambrosio, U. Ethnomathematics: An explanation, en R. Calinger (comp.), 1996,
+Vita mathematica: Historical research and integration with teaching, The Mathema-
+tical Association of America, Washington, DC, pp. 245-250, 1996.
+
+8. Davis, B., Simmt, E. Understanding learning systems: Mathematics education and
+complexity science, Journal for Research in Mathematics Education 34, 2, pp. 137-
+167, 2003.
+
+9. De Lorenzo, J. Criterios conceptuales para unas historias de la matematica, en Witt-
+genstein y el circulo de Viena. Actas del Congreso Internacional, Toledo, 2-5 de
+noviembre, 1994, Ediciones de la Universidad de Castilla - La Mancha, Cuenca, pp.
+237-247, 1998.
+
+10. Fauvel, J., van Maanen, J.A. The role of the history of mathematics in the teaching
+and learning of mathematics: Discussion document for an ICMI study (1997-2000),
+Educational Studies in Mathematics 34, pp. 255-259, 1997.
+
+2
+
+
+
+11. Frankenstein, M. Various uses of history in teaching critical mathematical literacy,
+en Anais da Reuniao do Grupo Inernacional de Estudos sobre Relacoes entre historia
+e pedagogia da matematica, HPM, Blumenau, Brasil, pp. 25-27, 1994.
+
+12. Holland, J. H. Hidden order. How adaptation builds complexity, Helix, Nueva York,
+1995.
+
+13. Holland, J. H. Emergence: From chaos to order, Addison Wesley, Reading, MA.,
+1998.
+
+14. Jones, C. V. Finding order in history learning: Defining the history and pedagogy of
+mathematics, en Anais da Reuniao do Grupo Inernacional de Estudos sobre Relacoes
+entre historia e pedagogia da matematica, HPM, Blumenau, Brasil, pp. 35-45, 1994.
+
+15. Jones, C. V. A complex adaptive model for learning [AERA paper on objects-based
+learning.] 11 p, 1996.
+
+16. Katz, V. Some ideas on the use of history in the teaching of mathematics, For the
+learning of mathematics 17 (1), 62-63, 1997.
+
+17. Kleiner, I. Paradoxes in mathematics: History and pedagogy, en Anais da Reuniao
+do Grupo Inernacional de Estudos sobre Relacoes entre historia e pedagogia da ma-
+tematica, HPM, Blumenau, Brasil, pp. 23-34, 1994.
+
+18. Parshall, K. H. The art of algebra from al-Khwarizmi to Viete: A study in the natural
+selection of ideas, History of Science 26 (72), pp. 129-164, 1988.
+
+19. Piaget, J., Garcia, R. Psicogenesis e historia de la ciencia, Siglo XXI, Mexico, 1982.
+
+20. Radford, L. Lizcano y el problema de la creacion matematica, Mathesis 12 (4), pp.
+399-413, 1996.
+
+21. Radford, L. On psychology, historical epistemology, and the teaching of mathematics:
+Towards a socio-cultural history of mathematics, For the Learning of Mathematics
+17 (1), pp. 26-33, 1997.
+
+22. Sanchez F., C. Usos y abusos de la historia de la matematica en el proceso de apren-
+dizaje de los profesionales del tercer milenio, en Anais da Reuniao do Grupo Iner-
+nacional de Estudos sobre Relacoes entre historia e pedagogia da matematica, HPM,
+Blumenau, Brasil, pp. 99-108, 1994.
+
+23. Schapiro, E. The real calculus vs. what you learned: How Leibniz original calculus
+has been subverted, 21st Century 12 (3), pp. 30-40, 1999.
+
+3
+
+
+
+24. Swetz, F. To know and to teach: Mathematical pedagogy from a historical context,
+Educational Studies in Mathematics 29, pp. 73-88, 1995.
+
+25. Swetz, F., Fauvel, J., Bekken, O., Johansson, B., Katz, V. (eds.) Learn from the
+masters!, The Mathematical Association of America, Washington, DC., 1995.
+
+26. Tymoczko, T. (comp.) New directions in the philosophy of mathematics. An antho-
+logy, Princeton University Press, Princeton, NJ., 1998.
+
+27. Waldegg, G. Histoire, epistemologie et methodologie dans la recherche en didactique,
+For the learning of mathematics 17 (1), pp. 43-46, 1997.
+
+BIBLIOGRAFIA COMPLEMENTARIA:
+
+1. American Psychological Association, 2001 (5a ed.), The publication manual of the
+American Psychological Association, APA, Washington, DC. [Version en espanol:
+Manual de estilo de publicaciones de la American Psychological Association, 2002
+(2a ed.), Manual Moderno, Mexico.]
+
+2. De Buen U., J., 2000, Manual de diseno editorial, Santillana, Mexico.
+
+3. Sanchez y Gandara, A., F. Magarinos L. y K. B. Wolf, 2000, El arte editorial en la
+literatura cientifica, SyG y UNAM, Mexico.
+
+4. Rampolla, M. L., 1995, A pocket guide to writing in history, Bedford Books of St.
+Martin's Press, Boston.
+
+5. Zavala R., R., 2002, El libro y sus orillas. Tipografia, originales, redaccion, correccion
+de estilo y de pruebas, UNAM, Mexico.
+
+SUGERENCIAS DIDACTICAS: Lograr la participacion activa de los alumnos mediante
+exposiciones.
+
+SUGERENCIA PARA LA EVALUACION DE LA ASIGNATURA: Ademas de las califi-
+caciones en examenes y tareas se tomara en cuenta la participacion del alumno.
+
+PERFIL PROFESIOGRAFICO: Matematico, fisico, actuario o licenciado en ciencias de
+la computacion, especialista en el area de la asignatura a juicio del comite de asignacion
+de cursos.
+
+4
+
+

@@ -1,0 +1,77 @@
+FACULTAD DE CIENCIAS
+
+CARRERA DE MATEMATICO
+
+GEOMETRIA DIFERENCIAL II (ejemplo)
+
+SEMESTRE: Quinto o sexto
+CLAVE: 0247
+
+HORAS A LA SEMANA/SEMESTRE
+
+TEORICAS PRACTICAS CREDITOS
+5/80 0 10
+
+CARACTER: OPTATIVO.
+MODALIDAD: CURSO.
+SERIACION INDICATIVA ANTECEDENTE: Geometria Diferencial I.
+SERIACION INDICATIVA SUBSECUENTE: Geometria Diferencial III.
+
+OBJETIVO(S): Introducir conceptos relevantes en Geometria Diferencial, y estudiar pro-
+piedades globales de una superficie.
+
+NUM. HORAS UNIDADES TEMATICAS
+
+30 1. Geometria intrinseca
+1.1 Derivada covariante. Campos paralelos, transporte paralelo.
+1.2 Geodesicas. Definicion, existencia y unicidad. Transformacion ex-
+ponencial, coordenadas normales.
+
+30 2. Geometria global
+2.1 Superficies completas. Teorema de Hopf-Rinow.
+2.2 Primera y segunda variaciones de la longitud de arco.
+2.3 Campos de Jacobi y puntos conjugados.
+2.4 Superficies de curvatura constante. Teorema de Hadamard.
+
+20 3. Superficies completas con curvatura constante
+3.1 Curvatura positiva: Teorema de Rigidez de la Esfera.
+3.2 Curvatura nula: Teorema de Massey.
+3.3 Curvatura nula: Teorema de Hilbert.
+
+1
+
+
+
+BIBLIOGRAFIA BASICA:
+
+1. Do Carmo, M. P. Differential Geometry of Curves and Surfaces in R3, New Jersey:
+Prentice Hall, 1976. (Trad. Oscar Palmas, Mexico: Vinculos Matematicos 183, 185,
+193, 194, 197, Facultad de Ciencias, UNAM, 1991.)
+
+2. Hilbert, D., Cohn Vossen, S., Geometry and the Imagination, Mexico: Vinculos Ma-
+tematicos No. 150, Facultad de Ciencias, UNAM, 2000.
+
+3. O'Neill, B., Elementary Differential Geometry, San Diego: Academic Press, 1997.
+
+4. Pogorelov, A. V., Geometria Diferencial, Moscu: MIR, 1977.
+
+5. Stoker, J.J., Differential Geometry, New York: Wiley-Interscience, 1969.
+
+BIBLIOGRAFIA COMPLEMENTARIA:
+
+1. Spivak. M. A., A Comprehensive Introduction to Differential Geometry, Texas: Pu-
+blish or Perish, 1999.
+
+SUGERENCIAS DIDACTICAS: Lograr la participacion activa de los alumnos mediante
+exposiciones.
+
+SUGERENCIA PARA LA EVALUACION DE LA ASIGNATURA: Ademas de las califi-
+caciones en examenes y tareas se tomara en cuenta la participacion del alumno.
+
+PERFIL PROFESIOGRAFICO: Matematico, fisico, actuario o licenciado en ciencias de
+la computacion, especialista en el area de la asignatura a juicio del comite de asignacion
+de cursos.
+
+2
+
+

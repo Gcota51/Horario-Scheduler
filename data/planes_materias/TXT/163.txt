@@ -1,0 +1,140 @@
+FACULTAD DE CIENCIAS
+
+CARRERA DE MATEMATICO
+
+ECUACIONES DIFERENCIALES II
+
+SEMESTRE: Quinto o sexto
+CLAVE: 0163
+
+HORAS A LA SEMANA/SEMESTRE
+
+TEORICAS PRACTICAS CREDITOS
+5/80 0 10
+
+CARACTER: OPTATIVO.
+MODALIDAD: CURSO.
+SERIACION INDICATIVA ANTECEDENTE: Analisis Matematico I, Ecuaciones Di-
+ferenciales I, Variable Compleja I.
+SERIACION INDICATIVA SUBSECUENTE: Biologia Matematica I, Ecuaciones Di-
+ferenciales III.
+
+OBJETIVO(S): Este curso tiene como objetivo extender los conocimiento del estudiante
+en el tema de la Teoria Cualitativa de las Ecuaciones Diferenciales y elementos de Teoria
+Asintotica. El proposito es iniciar al estudiante en el estudio de ecuaciones diferenciales no
+lineales, lineales con coeficientes periodicos y en problemas con condiciones a la frontera.
+En este curso se hace un enfasis especial en el estudio de las ecuaciones diferenciales en el
+plano.
+
+NUM. HORAS UNIDADES TEMATICAS
+
+10 1. Introduccion y motivacion al tema de Teoria Cualitativa
+1.1 Problemas de mecanica clasica: oscilaciones, problema de fuerzas
+centrales, circuitos no lineales, etc.
+1.2 Problemas de ciencias de la vida: modelos de poblaciones de va-
+rias especies, epidemiologia, modelos fisiologicos, modelos de cinetica
+quimica, etc.
+
+10 2. Teoremas fundamentales
+2.1 Teorema de existencia y unicidad, continuidad y diferenciabilidad
+ante variacion de parametros y condiciones iniciales.
+2.2 Problemas con valores a la frontera.
+2.3 Teorema de existencia y unicidad para un sistema de n ecuaciones
+lineales.
+2.4 Equivalencia topologica de ecuaciones diferenciales lineales.
+
+1
+
+
+
+10 3. Sistemas lineales, teoria de Floquet
+3.1 Solucion general del problema homogeneo de ecuaciones diferen-
+ciales lineales, matriz fundamental.
+3.2 Clasificacion de los puntos fijos en el plano y en mas dimensiones.
+3.3 Sistemas lineales con coeficientes periodicos, teorema de Floquet,
+estudio de la ecuacion de Mathieu y el problema de estabilidad (Len-
+guas de Arnold).
+
+10 4. Teoria cualitativa en el plano
+
+4.1 Orbitas y curvas solucion de las ecuaciones diferenciales en cam-
+pos vectoriales en el plano, clasificacion de puntos fijos.
+
+4.2 Indice de puntos fijos y orbitas periodicas en el plano.
+4.3 Conjuntos limites: a y o limites, criterio de Bendixon.
+4.4 Teorema de Poincare-Bendixon.
+4.5 Oscilaciones autosostenidad, ecuacion de Van der Pol.
+
+10 5. Teoria de estabilidad
+5.1 Estabilidad de Lyapunov, estabilidad orbital, estabilidad global.
+5.2 Teorema de Grobmann-Hartman para puntos atractores.
+
+10 6. Oscilaciones no lineales y Teoria de Perturbaciones
+6.1 Dinamica no lineal en el plano: puntos fijos, conexiones homoclini-
+cas y heteroclinicas. Ejemplos: ecuaciones del pendulo, ecuacion de
+Duffing.
+6.2 Metodo de Promedios: oscilador no lineal perturbado y resonan-
+cias no lineales.
+6.3 Bifurcaciones elementales.
+
+8 7. Sistemas conservativos (optativo)
+7.1 Sistemas mecanicos, ecuaciones de Lagrange y de Hamilton. Teo-
+rema de Liouville.
+7.2 Oscilaciones no lineales, metodo de Poincare-Lindstedt. Teorema
+de Liouville.
+
+6 8. Flujo global en el plano (optativo)
+8.1 Proyeccion del plano en la esfera.
+8.2 Proyeccion en el horizonte.
+
+8.3 Indice de puntos fijos en el infinito y descripcion global del flujo.
+
+6 9. Problemas con valores a la frontera (optativo)
+9.1 Introduccion a la teoria de Sturm-Liouville.
+
+2
+
+
+
+BIBLIOGRAFIA BASICA:
+
+1. Brauer, F. , Nohel, J. A., The Qualitative Theory of Ordinary Differential Equations.
+An Introduction, New York: Dover Pub., 1989.
+
+2. Hirsch, M. W., Smale, S., Differential Equations, Dynamical Systems and Linear
+Algebra, New York: Academic Press, 1974.
+
+3. Jordan, D. W., Smith, P., Nonlinear Ordinary Differential Equations, Oxford: Ox-
+ford Univ. Press, 1994.
+
+4. Verhulst, F., Nonlinear Differential Equation and Dynamical Systems, New York:
+Springer-Verlag, 1980.
+
+BIBLIOGRAFIA COMPLEMENTARIA:
+
+1. Arnold, V.I., Ordinary Differential Equations, 3rd, New York: Springer-Verlag, 1991.
+
+2. Arrowsmith, D. K., Place, C. M., Dynamical Systems, Differential Equations, Maps
+and Chaotic Behaviour, New York: Chapman and Hall, 1998.
+
+3. Cronin, J., Differential Equations, Introduction and Qualitative Theory, New York:
+M. Dekker, 1985.
+
+4. Hale, J., Kocak, H., Dynamics and Bifurcations, New York: Springer-Verlag, 1991.
+
+5. Perko, L., Differential Equations and Dinamical Systems, Text in Applied Maths.,
+New York: Springer-Verlag, 1990.
+
+SUGERENCIAS DIDACTICAS: Lograr la participacion activa de los alumnos mediante
+exposiciones.
+
+SUGERENCIA PARA LA EVALUACION DE LA ASIGNATURA: Ademas de las califi-
+caciones en examenes y tareas se tomara en cuenta la participacion del alumno.
+
+PERFIL PROFESIOGRAFICO: Matematico, fisico, actuario o licenciado en ciencias de
+la computacion, especialista en el area de la asignatura a juicio del comite de asignacion
+de cursos.
+
+3
+
+

@@ -1,0 +1,149 @@
+I
+CREDITOS: 10
+
+AREA: CIENCIAS DE LA COMPUTACION
+Requisitos:Ninguno
+
+HORAS POR CLASE
+CLASES POR SEMANA
+HORAS POR SEMESTRE
+
+TEORICA:   1
+TEORICA:   4
+TEORICA:  64
+
+TEORICO-PRACTICAS:   2
+TEORICO-PRACTICAS:   1
+TEORICO-PRACTICAS:  32
+
+Objetivos generales:
+Este curso da a los estudiantes una introduccion al area de las matematicas finitas, 
+poniendo especial  enfasis  en  teoria  de  algoritmos,  graficas,  algebra  de  Boole, 
+induccion y recursion.
+
+Temario:
+I. Logica Formal, demostraciones y analisis de algoritmos 18 horas
+
+Familiarizar al estudiante con los sistemas formales que se 
+utilizan en logica proposicional y de predicados. Determinar el 
+valor  de  verdad  de  una  expresion  en  Calculo  Proposicional. 
+Determinar el valor de verdad en alguna interpretacion de una 
+expresion  en  la  Logica  proposicional.  Construir  formulas  en 
+Logica proposicional y de predicados para mostrar la validez de 
+argumentos  escritos  en  lenguaje  natural.  Matematicamente 
+demostrar la correctez de algoritmos que utilizan asignacion y 
+enunciados condicionales.
+
+I.1 Enunciados, representaciones simbolicas y tautologias.
+I.2 Cuantificadores, predicados y validez.
+I.3 Logica proposicional.
+I.4 Logica de predicados.
+I.5 Programacion logica y pruebas de correctez.
+I.6 Tecnicas de demostracion.
+I.7 Induccion.
+I.8 Recursion y relaciones de recurrencia.
+I.8 Analisis de algoritmos y mas pruebas de correctez.
+
+II. Relaciones y graficas dirigidas u orientadas 17 horas
+El estudiante debera ser capaz de entender y utilizar los terminos 
+asociados con graficas, graficas dirigidas y arboles. Trabajar con 
+el concepto de isomorfismo en graficas. Trazar graficas completas 
+simples  y  graficas  bipartitas  completas.  Conocer  y  manejar  la 
+formula de Euler para graficas conexas en el plano. Entender el 
+papel de graficas especificas como son la Ky y la K3,3 con graficas 
+en el plano.
+
+II.1 Conjuntos producto y particiones
+II.2 Relaciones y graficas dirigidas
+II.3 Trayectorias en las relaciones y en las graficas dirigidas
+II.4 Propiedades de las relaciones
+
+
+
+II.5 Representacion  por  computadora  de  relaciones  y  graficas 
+dirigidas
+
+II.6 Manipulacion de las relaciones
+II.7 Conectividad y el algoritmo de Warshall
+
+III. Funciones 12 horas
+Se revisara la nocion de funcion, un tipo especial de relacion. Se 
+estudiaran sus propiedades basicas y luego se explicaran algunos 
+tipos especiales de funciones. Se dara primordial importancia a 
+las funciones en cuanto a las graficas dirigidas y finalmente se 
+revisaran secuencias de numeros que surgen frecuentemente en 
+matematicas.
+
+III.1 Funciones en graficas
+III.2 Permutaciones
+III.3 Numeros Especiales:  de Stirling, Eulerianos,  Armonicos,  Series 
+
+Armonicas, Numeros de Bernoulli, de Fibonacci.
+
+IV.Orden, relaciones y estructuras 5 horas
+Se estudiaran los conjuntos parcialmente ordenados, incluyendo 
+latices  y  algebras  booleanas.  El  manejo  adecuado  de  estas 
+estructuras es importante en la teoria de conjuntos, al algebra, 
+clasificaciones (ordenamientos) y busquedas, y en especial para el 
+caso  de  las  algebras  booleanas,  en  la  construccion  de 
+representaciones logicas de circuitos de computadora.
+
+IV.1 Conjuntos parcialmente ordenados
+IV.2 Elementos extremos de los conjuntos parcialmente ordenados
+IV.3 Latices
+IV.4 Algebras de Boole
+IV.5 Implementacion de las funciones booleanas
+
+V. Arboles y lenguajes 4 horas
+En este tema se posibilita al estudiante en el manejo de una de las 
+estructuras mas comunes en las Ciencias de la Computacion, que 
+son los arboles (graficas dirigidas). Estas relaciones son esenciales 
+para  la  construccion  de  bases  de  datos,  compiladores  de 
+lenguajes,  programacion  logica,  inteligencia  artificial,  por 
+mencionar solo algunas de las areas en las que se presentan.
+
+V.1 Arboles
+V.2 Arboles etiquetados
+V.3 Lenguajes
+V.4 Representacion de gramaticas y lenguajes especiales
+V.5 Analisis de un arbol
+V.6 Arboles no dirigidos
+
+VI.Problemas de coloracion 4 horas
+Se muestran en este tema problemas combionatorios  relacionados con la 
+coloracion.
+
+Bibliografia:
+
+
+
+Basica:
+* Gersting, J. L.,  Mathematical Structures For Computer Science, 3rd. Edition, 
+
+Computer Science Press, W. H. Freeman and Company, 1993.
+* Gries, D.; Schneider, F.B.,A Logical Approach to Discrete Math, Texts and 
+
+Monographs in Computer Science, Springer-Verlag, 1994.
+
+Complementaria:
+* Kolman, B.; Busby R. C.,  Estructuras De Matematicas Discretas Para La 
+
+Computacion,  Prentice Hall Hispanoamericana S.A., 1986.
+* Ince, D. C.,  An Introduction To Discrete Mathematics And Formal System 
+
+Specification,  Clarendon Press, Oxford, 1988
+* Kalmanson, K.,  An Introduction To Discrete Mathematics And Its Applications, 
+
+Addison-Wesley Publishing Company, 1986.
+* Yandl, A. L.,  Finite Mathematics,  Brooks/Cole Publishing Company, 1991
+* Townsend, M.,  Discrete Mathematics: Applied Combinatorics And Graph 
+
+Theory,  Benjamin-Cummings, 1987
+* Graham, R. L.; Knuth, D. E.; Parashnik, O.,  Concrete Mathematics, A Foundation 
+
+For Computer Science,  Addison-Wesley Publishing Company, 1989
+--------------------------
+
+
+	MATEMATICAS DISCRETAS
+

@@ -1,0 +1,131 @@
+FACULTAD DE CIENCIAS
+
+CARRERA DE MATEMATICO
+
+LOGICA MATEMATICA III
+
+SEMESTRE: Septimo u octavo
+CLAVE: 0447
+
+HORAS A LA SEMANA/SEMESTRE
+
+TEORICAS PRACTICAS CREDITOS
+5/80 0 10
+
+CARACTER: OPTATIVO.
+MODALIDAD: CURSO.
+SERIACION INDICATIVA ANTECEDENTE: Logica Matematica II.
+SERIACION INDICATIVA SUBSECUENTE: Ninguna.
+
+OBJETIVO(S): Que el alumno conozca y comprenda los teoremas limitativos para la
+aritmetica formalizada y sus extensiones. Presentar al alumno las nociones basicas de la
+aritmetica formalizada como la expresion formal de calculabilidad efectiva.
+
+NUM. HORAS UNIDADES TEMATICAS
+
+5 1. El argumento de Godel
+1.1 Heuristica del problema.
+1.2 La paradoja de Richard y el argumento de Godel.
+1.3 Condiciones para que la propiedad k sea definible en un sistema
+formal SF.
+
+15 2. Aritmetica recursiva
+2.1 Primeras definiciones.
+2.2 Substitucion, recursion, operador u.
+2.3 Teoremas sobre funciones recursivas.
+2.4 Relaciones recursivas. Funcion caracteristica de una relacion.
+2.5 Teoremas sobre relaciones recursivas.
+
+15 3. Formalizacion de la Aritmetica de Peano
+3.1 Aritmetica de Peano (AP). La estructura N.
+3.2 Descripcion de AP un Sistema Formal para N. Terminos, formu-
+las, axiomas, reglas de inferencia. Concepto de prueba y deduccion
+en AP.
+3.3 Teoremas demostrables en AP. Demostracion de teoremas dentro
+del sistema AP.
+3.4 Divisibilidad, numeros primos e induccion. Demostracion de teo-
+remas.
+
+1
+
+
+
+15 4. Representabilidad de funciones recursivas
+4.1 Expresabilidad de relaciones en AP. Relaciones expresables en
+AP.
+4.2 Representabilidad de funciones en AP. Funciones representables
+en AP.
+4.3 Representabilidad de funciones recursivas en AP.
+4.4 Demostracion de los teoremas que relacionan funciones y rela-
+ciones recursivas con la representabilidad y expresabilidad en AP
+respectivamente.
+
+15 5. Aritmetizacion de la Metateoria
+5.1 Introduccion. Estrategia de Godel.
+5.2 Numeracion de Godel. Numeros de Godel de expresiones, suce-
+siones de expresiones, formulas, pruebas, etc.
+5.3 Transcripcion de la sintaxis de AP a la aritmetica. Teoremas acer-
+ca de como transcribir algunos enunciados metateoricos a formulas
+de la aritmetica recursiva.
+
+15 6. Teoremas de Godel
+6.1 Estrategia de Godel.
+6.2 Primer teorema de Godel para AP.
+6.3 Teorema de Godel- Rosser para AP.
+6.4 Condiciones para que una teoria de primer orden este sujeta al
+teorema de Godel-Rosser.
+6.5 Segundo Teorema de Godel. Predicados de prueba. Teorema de
+Lob.
+
+BIBLIOGRAFIA BASICA:
+
+1. DeLong, H., A profile of Mathematical Logic, Reading, Mass.: Addison-Wesley, USA,
+1970.
+
+2. Enderton, H., A Mathematical Introduction to Logic, Boston: Academic Press, 1972.
+
+3. Godel, K., On formally undecidable propositions of Principia Mathematica and re-
+lated systems I, reproducido en Van Heijenoort.
+
+4. Heijenoort, J. van, (Editor), From Frege to Godel: A source book in Mathematical
+Logic 1874-1931, Cambridge, Massachusetts: Ed. Harvard U. P., 1947.
+
+5. Kleene, S.C., Introduction to Metamathematics, Amsterdam: Ed. North-Holland,
+1952.
+
+2
+
+
+
+6. Kleene, S.C., Mathematical Logic, New York: Ed. Wiley, 1967.
+
+7. Ladriere, J., Limitaciones internas de los formalismos, Madrid: Ed. Tecnos, 1969.
+
+8. Mendelson, E., Introduction to Mathematical Logic, Tercera Edicion. Pacific Grove,
+California: Wadsworth Books, 1987.
+
+9. Nagel, E., Newman, J.R., Teorema de Godel, Madrid: Ed. Tecnos,.
+
+10. Preisser, A., Limitaciones Godelianas de la Aritmetica Formalizada. Mexico: Tesis
+de Licenciatura, Facultad de Ciencias UNAM, 1983.
+
+11. Torres, C., Los teoremas de Godel, Mexico: Tesis de maestria UNAM, 1988.
+
+BIBLIOGRAFIA COMPLEMENTARIA:
+
+1. Koner, S., Introduccion a la filosofia de las Matematicas, Mexico: Ed. Siglo XXI,
+1960.
+
+SUGERENCIAS DIDACTICAS: Lograr la participacion activa de los alumnos mediante
+exposiciones.
+
+SUGERENCIA PARA LA EVALUACION DE LA ASIGNATURA: Ademas de las califi-
+caciones en examenes y tareas se tomara en cuenta la participacion del alumno.
+
+PERFIL PROFESIOGRAFICO: Matematico, fisico, actuario o licenciado en ciencias de
+la computacion, especialista en el area de la asignatura a juicio del comite de asignacion
+de cursos.
+
+3
+
+

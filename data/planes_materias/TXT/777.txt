@@ -1,0 +1,87 @@
+FACULTAD DE CIENCIAS
+
+CARRERA DE MATEMATICO
+
+TEORIA DE LOS NUMEROS II
+
+SEMESTRE: Segundo al cuarto
+CLAVE: 0777
+
+HORAS A LA SEMANA/SEMESTRE
+
+TEORICAS PRACTICAS CREDITOS
+5/80 0 10
+
+CARACTER: OPTATIVO.
+MODALIDAD: CURSO.
+SERIACION INDICATIVA ANTECEDENTE: Teoria de los Numeros I.
+SERIACION INDICATIVA SUBSECUENTE: Ninguna.
+
+OBJETIVO(S): Presentar una parte de la Teoria de los Numeros, que son los numeros
+p-adicos y su gran aplicacion a Ecuaciones Diofantinas.
+
+NUM. HORAS UNIDADES TEMATICAS
+
+6 1. Polinomios en n variedades con coeficientes en Zp
+1.1 Congruencia de polinomios.
+1.2 Equivalencia de polinomios.
+1.3 Teorema sobre el numero de soluciones en Zp de un polinomio en
+n variables con coeficientes en Z.
+1.4 Formas cuadraticas modulo un primo.
+
+20 2. Numeros p-adicos
+2.1 Enteros p-adicos.
+2.2 El dominio de los enteros p-adicos.
+2.3 El campo de cocientes (numeros p-adicos) de los enteros p-adicos.
+2.4 Convergencia en el campo de los numeros p-adicos.
+
+18 3. Caracterizacion axiomatica de los numeros p-adicos
+3.1 Campos metricos.
+3.2 Metricas del campo de los numeros racionales.
+
+8 4. Congruencias y enteros p-adicos
+4.1 Congruencias y ecuaciones en el anillo de los enteros p-adicos.
+4.2 Sobre la solubilidad de algunas congruencias.
+
+10 5. Formas cuadraticas con coeficientes p-adicos
+5.1 Cuadrados en el campo de los numeros p-adicos.
+5.2 Representacion de cero por formas cuadraticas p-adicas.
+
+1
+
+
+
+10 6. Teorema de Hasse Minkowski
+
+8 7. Una introduccion a la Teoria de las Valuaciones
+
+BIBLIOGRAFIA BASICA:
+
+1. Bachman, G. Introduction to p-adic Numbers and Valuation Theory, New York: Aca-
+demic Press, 1964.
+
+2. Borevich, Z. I., Shafarevich, I. R., Number Theory, New York: Academic Press, 1966.
+
+BIBLIOGRAFIA COMPLEMENTARIA:
+
+1. Niven, I., Zuckerman, H., Introduccion a la Teoria de los Numeros, Mexico: Limusa,
+1969.
+
+2. Robert, A., A Course in p-adic Analysis. Graduate Text in Mathematicas, New
+York: Springer, 2000.
+
+3. Weiss, E., Algebraic Number Theory, New York: Dover, 1998.
+
+SUGERENCIAS DIDACTICAS: Lograr la participacion activa de los alumnos mediante
+exposiciones.
+
+SUGERENCIA PARA LA EVALUACION DE LA ASIGNATURA: Ademas de las califi-
+caciones en examenes y tareas se tomara en cuenta la participacion del alumno.
+
+PERFIL PROFESIOGRAFICO: Matematico, fisico, actuario o licenciado en ciencias de
+la computacion, especialista en el area de la asignatura a juicio del comite de asignacion
+de cursos.
+
+2
+
+

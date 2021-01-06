@@ -1,0 +1,74 @@
+FACULTAD DE CIENCIAS
+
+CARRERA DE MATEMATICO
+
+SEMINARIO DE GEOMETRIA A
+Ejemplo: Transformaciones de Mobius actuando en Rn
+
+SEMESTRE: Septimo u octavo
+CLAVE: 0745
+
+HORAS A LA SEMANA/SEMESTRE
+
+TEORICAS PRACTICAS CREDITOS
+5/80 0 10
+
+CARACTER: OPTATIVO.
+MODALIDAD: CURSO.
+SERIACION INDICATIVA ANTECEDENTE: Algebra Moderna I, Analisis Matemati-
+co II, Variable Compleja I.
+SERIACION INDICATIVA SUBSECUENTE: Ninguna.
+
+OBJETIVO(S): Fomentar y difundir la Geometria Hiperbolica entre los alumnos de los
+ultimos anos de la licenciatura, asi como mostrar una instancia de las matematicas donde
+distintas ramas parecen de manera unificada.
+
+NUM. HORAS UNIDADES TEMATICAS
+
+10 1. El grupo de Mobius en Rn
+
+15 2. Propiedades de las transformaciones de Mobius
+
+10 3. La extension de Poincare
+
+10 4. Automorfismos de la bola unitaria
+
+5 5. La forma general de las transformaciones de Mobius
+
+20 6. El modelo del hiperboloide y el grupo de Lorentz
+
+10 7. Extensiones cuaternionicas de las transformaciones
+PSL(2, C)
+
+BIBLIOGRAFIA BASICA:
+
+1. Beardon, A., The Geometry of Discrete Groups, New York: GTM Springer-Verlag,
+1995.
+
+2. Maskit, B., Kleinian Groups, New York: Springer-Verlag, 1987.
+
+3. Rathcliffe, J. Foundations of Hyperbolic Manifolds, New York: GTM Springer-Verlag,
+1995.
+
+1
+
+
+
+BIBLIOGRAFIA COMPLEMENTARIA:
+
+1. Milnor, J., Topology from a Differentiable Viewpoint, Princeton: Princeton University
+Press, 1997.
+
+SUGERENCIAS DIDACTICAS: Lograr la participacion activa de los alumnos mediante
+exposiciones.
+
+SUGERENCIA PARA LA EVALUACION DE LA ASIGNATURA: Ademas de las califi-
+caciones en examenes y tareas se tomara en cuenta la participacion del alumno.
+
+PERFIL PROFESIOGRAFICO: Matematico, fisico, actuario o licenciado en ciencias de
+la computacion, especialista en el area de la asignatura a juicio del comite de asignacion
+de cursos.
+
+2
+
+

@@ -1,0 +1,291 @@
+VERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+ 
+                          Facultad de Ciencias 
+
+          
+                      Plan de estudios de la Licenciatura en Actuaria 
+
+ 
+ 
+
+Programacion No Lineal 
+ 
+
+Clave 
+0634 
+
+Semestre 
+7 u 8 
+
+Creditos 
+10 
+
+Area 
+ 
+
+ 
+
+Campo de 
+conocimiento 
+
+Investigacion de Operaciones 
+
+Etapa 
+ 
+
+Profundizacion 
+
+Modalidad 
+Curso ( X ) Taller ( ) Lab ( ) Sem ( ) 
+ 
+ 
+
+Tipo T ( X )     P (  )    T/P  (  )  
+
+Caracter 
+Obligatorio ( )            Optativo ( X ) 
+ 
+Obligatorio E ( )        Optativo E ( )  
+
+Horas 
+
+ Semana Semestre  
+
+ Teoricas           5 Teoricas           80 
+
+ Practicas          0 Practicas           0 
+
+ Total                 5 Total                  80 
+
+ 
+
+Seriacion 
+ 
+
+Ninguna (   ) 
+
+Obligatoria (   ) 
+
+Asignatura antecedente 
+ 
+
+ 
+
+Asignatura subsecuente 
+ 
+
+ 
+
+Indicativa ( X ) 
+
+Asignatura antecedente 
+ 
+
+Asignaturas del campo de Investigacion de Operaciones. 
+
+Asignatura subsecuente 
+ 
+
+Optativas del campo de Investigacion de Operaciones. 
+
+ 
+
+Objetivos generales: 
+ 
+
+ Conocer la naturaleza de la programacion no lineal, y el tipo de problemas  que en ella se presentan. 
+
+ Conocer y aplicara los conceptos relacionados con el de convexidad, para el planteamiento y solucion 
+de problemas de programacion  no lineal. 
+
+ Conocer y aplicar los principales metodos de optimizacion no lineal, con y sin restricciones. 
+ 
+
+Objetivos especificos: 
+ 
+
+ Comprender el desarrollo historico y los ejemplos tipicos de aplicacion de la programacion no lineal. 
+
+ Discutir las propiedades algebraicas y geometricas de la convexidad. 
+
+
+
+ Identificar los conceptos que permiten formular modelos de programacion no lineal sin restricciones y 
+los fundamentos de los metodos que permiten resolver tales modelos. 
+
+ Identificar los conceptos que permiten formular modelos de programacion no lineal con restricciones y 
+los fundamentos de los metodos que permiten resolver tales modelos. 
+
+ 
+
+ 
+
+Indice tematico 
+
+ Tema  
+
+Horas 
+ semestre  
+
+Teoricas Practicas 
+
+1 Introduccion. 15 0 
+
+2 Convexidad. 15 0 
+
+3 Optimizacion sin restricciones. 25 0 
+
+4 Optimizacion con restricciones. 25 0 
+Total 80 
+
+ 
+
+Contenido Tematico 
+
+ Tema y subtemas 
+
+1 Introduccion.                
+ 
+
+1.1 Optimizacion. 
+
+1.2 Tipos de problemas. 
+
+1.3 Tamano del problema. 
+
+1.4 Algoritmo iterativas y convergencias. 
+ 
+
+2 Convexidad.         
+
+  
+
+2.1 Definiciones basicas. 
+
+2.2 Hiperplanos. 
+
+2.3 Separacion e hiperplanos de soporte. 
+
+2.4 Puntos extremos. 
+ 
+
+3 Optimizacion sin restricciones.      
+
+         
+
+3.1  Condiciones necesarias y suficientes para existencia de optimos. 
+
+3.2  Teoria de algoritmos. 
+
+ 3.2.1 Fibonacci. 
+
+3.2.2 Newton. 
+
+ 3.2.3 Gradiente. 
+
+ 3.2.4 Direcciones conjugadas. 
+ 
+
+4 Optimizacion con restricciones.              
+
+ 
+
+4.1 Teoria de Kuhn-Tucker. 
+
+4.2  Lagrangiano. 
+
+4.3  Metodo de direcciones factibles. 
+
+4.4  Metodo de penalidades. 
+
+4.5  Planos cortantes. 
+
+4.6  Convex. 
+
+
+
+4.7  Programacion cuadratica. 
+
+ 
+
+ 
+ 
+
+Estrategias didacticas Evaluacion del aprendizaje 
+
+Exposicion                                                   (  ) Examenes parciales                ( X ) 
+
+Trabajo en equipo                                       ( X ) Examen final                  ( X ) 
+
+Lecturas                                                      ( X ) Trabajos y tareas                  ( X ) 
+
+Trabajo de investigacion                               (  ) Presentacion de tema                 (  ) 
+
+Practicas (taller o laboratorio)                       (  ) Participacion en clase                            ( X ) 
+
+Practicas de campo                                       (  ) Asistencia                                                 (  ) 
+
+Aprendizaje por proyectos                            (  ) Rubricas                                                   (  ) 
+
+Aprendizaje basado en problemas             ( X ) Portafolios                                                (  ) 
+
+Casos de ensenanza                                    (  ) Listas de cotejo                                        (  ) 
+
+Otras (especificar) Otras (especificar)  
+
+ 
+ 
+
+Perfil profesiografico 
+
+Titulo o grado El profesor que impartira el curso debera ser egresado de las licenciaturas de 
+Actuaria, Matematicas, Matematicas aplicadas o alguna afin.. 
+
+Experiencia docente Con experiencia docente en el area de la Programacion no Lineal. 
+
+Otra caracteristica  
+
+ 
+ 
+
+Bibliografia basica: 
+ 
+
+ Avriel, M. (2003). Nonlinear Programming: Analysis and Methods. Dover. 
+
+ Bazaraa, M.S., Sherali, H.D., and Shetty, C.M. (2006). Nonlinear Programming: Theory and Algorithms 
+(3a ed.). John Wiley & Sons. 
+
+ Bertsekas, D.P. (1999). Nonlinear Programming. Athena Scientific (2a ed.). 
+
+ Griva, I., Nash, S.G., and Sofer, A. (2009). Linear and Nonlinear Optimization (2a ed.). SIAM. 
+
+ Hillier, F.S. and Lieberman, G.J. (2009). Introduction to Operations Research (9a ed.). Mc Graw Hill. 
+
+ Papadimitriou, C.H. and Steiglitz, K. (1998). Combinatorial Optimization: Algorithms and Complexity. 
+Dover Publications. 
+
+ Ruszczynski, A. (2006). Nonlinear Optimization. Princeton University Press. 
+
+ Luenberger, D.G. and Ye, Y. (2010). Linear and Nonlinear Programming (3a ed.). Springer. 
+
+ Taha, H.A. (2010). Operations Research: an Introduction (9a ed.). Prentice Hall/Pearson Education. 
+
+ Winston, W.L. (2003). Operations Research: Applications and Algorithms (4a ed.). Prentice Hall-Kent. 
+ 
+
+Bibliografia complementaria: 
+ 
+
+ Peressini, A.L., Sullivan, F.E., Ulh, J.J.Jr. (1988). The Mathematics of Nonlinear Programming 
+(Undergraduate Texts in Mathematics). Springer. 
+
+ Antoniou, A., and Lu, W.S. (2010). Practical Optimization: Algorithms and Engineering Applications. 
+Springer. 
+
+ 
+
+ 
+
+

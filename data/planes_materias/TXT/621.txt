@@ -1,0 +1,301 @@
+VERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+ 
+                          Facultad de Ciencias 
+
+          
+                      Plan de estudios de la Licenciatura en Matematicas Aplicadas 
+
+ 
+ 
+
+Programacion Lineal 
+ 
+
+Clave 
+0621 
+
+Semestre 
+6, 7 u 8 
+
+Creditos 
+10 
+
+Area de 
+concentracion 
+
+Investigacion de Operaciones 
+
+Campo de 
+conocimiento 
+
+ 
+
+Etapa 
+ 
+
+Profundizacion 
+
+Modalidad 
+Curso ( X ) Taller ( ) Lab ( ) Sem ( ) 
+ 
+ 
+
+Tipo T ( X )     P (  )    T/P  (  )  
+
+Caracter 
+Obligatorio (  )           Optativo ( X ) 
+ 
+Obligatorio E ( )        Optativo E ( )  
+
+Horas 
+
+ Semana Semestre  
+
+ Teoricas           5 Teoricas           80 
+
+ Practicas          0 Practicas           0 
+
+ Total                 5 Total                  80 
+
+ 
+
+Seriacion 
+ 
+
+Ninguna (   ) 
+
+Obligatoria (   ) 
+
+Asignatura antecedente 
+ 
+
+ 
+
+Asignatura subsecuente 
+ 
+
+ 
+
+Indicativa ( X ) 
+
+Asignatura antecedente 
+ 
+
+Investigacion de Operaciones. 
+
+Asignatura subsecuente 
+ 
+
+ 
+
+ 
+
+Objetivos generales: 
+ 
+
+ Conocer los antecedentes historicos de la Programacion Lineal. 
+
+ Tener una vision general de los modelos de optimizacion lineal deterministicos. 
+
+ Conocera los elementos necesarios para analizar y formular problemas, asi como aplicar los 
+algoritmos para resolverlos. 
+
+ Conocer los conceptos de dualidad y analisis de sensibilidad para utilizarlos como 
+herramientas de optimalidad.  
+
+ 
+ 
+ 
+
+
+
+Objetivos especificos: 
+ 
+
+ Comprender el desarrollo historico y los ejemplos tipicos de aplicacion de la 
+programacion lineal. 
+
+ Identificar la terminologia y los conceptos algebraicos y geometricos fundamentales 
+de los metodos de la programacion lineal. 
+
+ Analizar  las bases algebraicas y geometricas del metodo simplex primal  y los 
+problemas que con ello se puede solucionar. 
+
+ Analizar  las bases algebraicas y geometricas del metodo simplex y los problemas que 
+con ello se puede solucionar. 
+
+ Entender el significado y la estructura matematica del problema dual, su aplicacion y 
+la interpretacion de resultados. 
+
+ Comprender el analisis de sensibilidad, su aplicacion y cambios que afectan la 
+optimidad y la factibilidad. 
+
+ Aplicar los conocimientos adquiridos en distintos problemas. 
+ 
+
+ 
+
+Indice tematico 
+
+ Tema  
+
+Horas 
+ semestre  
+
+Teoricas Practicas 
+
+1 Introduccion 5 0 
+
+2 Fundamentos matematicos. 5 0 
+
+3 Metodo Simplex Primal. 10 0 
+
+4 Metodo Simplex.                                                                                   25 0 
+
+5 Dualidad. 10 0 
+
+6 Analisis de sensibilidad. 10 0 
+
+7 Aplicaciones. 15 0 
+
+Subtotal 80 0 
+
+Total 80 
+
+ 
+
+Contenido Tematico 
+
+ Tema y subtemas 
+
+1 Introduccion.                    
+1.1 Antecedentes historicos de la Programacion Lineal. 
+1.2 Ejemplos de Problemas de Programacion Lineal. 
+          
+
+2 Fundamentos matematicos.                 
+2.1 Modelo de Programacion Lineal. 
+2.2 Solucion grafica. 
+2.3 Conceptos basicos de Analisis Convexo. 
+2.4 Lema de Farkas. 
+  
+
+3 Metodo Simplex Primal.              
+3.1  Algoritmo simplex. 
+3.2  Interpretacion geometrica del algoritmo simplex: Soluciones basicas factibles, 
+
+puntos extremos y optimalidad. 
+3.3  Casos especiales: no acotado, restricciones redundantes y optimos alternos. 
+3.4 Interpretacion economica. 
+ 
+  
+
+4 Metodo Simplex.                
+4.1 Variables artificiales. 
+4.2 Metodo de Dos Fases. 
+
+
+
+4.3 Metodo de la Gran M (penalizacion). 
+4.4 Metodo Simplex Revisado. 
+ 
+
+5 Dualidad.                 
+5.1 Teoria de dualidad. 
+5.2 Formulacion del problema dual. 
+5.3 Teorema Fundamental de Dualidad. 
+5.4 Teorema de Holguras Complementarias. 
+5.5 Metodo Simplex Dual. 
+5.6 Interpretacion economica. 
+ 
+
+6 Analisis de Sensibilidad.              
+6.1 Estado de los recursos. 
+6.2 Cambios que afectan la optimidad. 
+6.3 Cambios que afectan la factibilidad. 
+6.4 Cambios que afectan la optimidad y la factibilidad. 
+    
+
+7 Aplicaciones.  
+7.1      Aplicacion de programacion lineal en distintos problemas. 
+ 
+
+ 
+ 
+
+Estrategias didacticas Evaluacion del aprendizaje 
+
+Exposicion                                                   (  ) Examenes parciales                ( X ) 
+
+Trabajo en equipo                                       ( X ) Examen final                  ( X ) 
+
+Lecturas                                                      ( X ) Trabajos y tareas                  ( X ) 
+
+Trabajo de investigacion                               (  ) Presentacion de tema                 (  ) 
+
+Practicas (taller o laboratorio)                       (  ) Participacion en clase                            ( X ) 
+
+Practicas de campo                                       (  ) Asistencia                                                 (  ) 
+
+Aprendizaje por proyectos                            (  ) Rubricas                                                   (  ) 
+
+Aprendizaje basado en problemas             ( X ) Portafolios                                                (  ) 
+
+Casos de ensenanza                                    (  ) Listas de cotejo                                        (  ) 
+
+Otras (especificar) Otras (especificar)  
+
+ 
+ 
+
+Perfil profesiografico 
+
+Titulo o grado Actuario, Matematico, licenciado en Matematicas Aplicadas, licenciado 
+en Ciencias de la Computacion u otra carrera afin. 
+
+Experiencia docente Con experiencia docente en el area de la Programacion Lineal. 
+
+Otra caracteristica  
+
+ 
+ 
+
+Bibliografia basica: 
+ 
+
+ Bazaraa, M.S., Jarvis, J.J. and Sherali, H.D., Linear Programming and Network Flows (4a ed.). 
+John Wiley & Sons, 2009.  
+
+ Gass, S.I., Linear Programming: Methods and Applications (5a ed.). Dover Publications, 2010. 
+
+ Luenberger, D.G. and Ye, Y., Linear and Nonlinear Programming (3a ed.). Springer, 2010. 
+
+ Matousek, J., Gartner, B., Understanding and Using Linear Programming. Springer, 2007. 
+
+ Papadimitriou, C.H. and Steiglitz, K., Combinatorial Optimization: Algorithms and Complexity. 
+Dover Publications, 1998. 
+
+ Sultan, A., Linear Programming: An Introduction with Applications (2a ed.). Academic Press, 
+2011. 
+
+ Vanderbei, R.J., Linear Programming: Foundations and Extensions (3a ed.). Springer, 2010. 
+
+
+
+ 
+
+Bibliografia complementaria: 
+ 
+
+ Ackoff, R.L., El Paradigma de Ackoff: Una Administracion Sistemica. Limusa, 2008. 
+
+ Ackoff, R.L., The Art of Problem Solving: Accompanied by Ackoff's Fables. John Wiley & Sons, 
+1987. 
+
+ Padberg, M., Linear Optimization and Extensions (2a ed.). Springer, 2010. 
+ 
+
+ 
+
+

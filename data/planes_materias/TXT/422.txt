@@ -1,0 +1,197 @@
+ 
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+Licenciatura en Ciencias de la Computacion 
+
+Facultad de Ciencias 
+
+Programa de la asignatura 
+ 
+
+Denominacion de la asignatura:  
+Graficas y Juegos 
+
+Clave:  
+0422 
+
+Semestre:  
+2 
+
+Eje tematico: 
+Fundamentos Matematicos 
+
+No. Creditos:   
+10 
+
+Caracter: Obligatoria Horas 
+Horas por 
+semana 
+
+Total de 
+Horas  
+
+Tipo: Teorica 
+Teoria: Practica: 
+
+5 80 5 0 
+Modalidad: Curso Duracion del programa: Semestral 
+ 
+
+ 
+Asignatura con seriacion obligatoria antecedente: Ninguna 
+ 
+Asignatura con seriacion obligatoria subsecuente: Analisis de Algoritmos; Lenguajes de 
+Programacion 
+ 
+Asignatura con seriacion indicativa antecedente: Algebra Superior I 
+ 
+Asignatura con seriacion indicativa subsecuente: Automatas y Lenguajes Formales 
+
+Objetivo general: 
+
+Conocer y aplicar de forma basica de Teoria de las Graficas y Teoria de Juegos. 
+ 
+
+Indice tematico 
+
+Unidad Temas  
+Horas 
+
+Teoricas Practicas 
+I Graficas 20 0 
+II Arboles 10 0 
+III Conexidad 12 0 
+IV Recorridos Eulerianos y Hamiltonianos 9 0 
+V Apareamientos 9 0 
+VI Coloracion de vertices 5 0 
+VII Planaridad 5 0 
+VIII Juegos 6 0 
+IX Juegos tipo Nim 4 0 
+
+Total de horas: 80 0 
+Suma total de horas: 80 
+
+ 
+
+
+
+ 
+
+- 30 - 
+ 
+
+Contenido tematico 
+
+Unidad Tema 
+I Graficas 
+I.1 Conceptos basicos. 
+I.2 Isomorfismo. 
+I.3 Matriz de adyacencia. 
+I.4 Subgraficas. 
+I.5 Clases de graficas. 
+I.6 Operaciones. 
+I.7 Caminos, paseos, trayectorias y ciclos. 
+I.8 Graficas conexas. 
+I.9 Graficas bipartitas. 
+II Arboles 
+II.1 El problema de las vias ferroviarias. 
+II.2 Arboles. 
+II.3 Arboles generadores. 
+III Conexidad 
+ III.1 Conexidad puntual y lineal. 
+III.2 Vertices de corte y puentes. 
+III.3 Bloques. 
+III.4 Teorema de Menger. 
+IV Recorridos Eulerianos y Hamiltonianos 
+IV.1 El problema de los puentes de Konigsberg. 
+IV.2 Graficas Eulerianas. 
+IV.3 El problema del agente viajero. 
+IV.4 Graficas Hamiltonianas. 
+IV.5 Aplicaciones (la casa de los espejos, el juego de domino, ajedrez, etc.). 
+V Apareamientos 
+V.1 El problema del casamiento y el problema del baile. 
+V.2 Apareamientos. 
+V.3 Apareamientos en graficas bipartitas (el Teorema de Hall). 
+V.4 Algoritmo Hungaro. 
+V.5 Factorizacion. 
+VI Coloracion de vertices 
+VI.1 El problema de los cuatro colores. 
+VI.2 Coloracion. 
+VI.3 Numero cromatico. 
+VII Planaridad 
+VII.1 El problema de los vecinos. 
+VII.2 Graficas planas. 
+VII.3 Formula de Euler. 
+VII.4 El teorema de los cinco colores. 
+
+
+
+ 
+
+- 31 - 
+ 
+
+VIII Juegos 
+VIII.1 Introduccion a la Teoria de Juegos. 
+VIII.2 Juegos en forma extensiva. 
+VIII.3 Equilibrio de Nash. 
+VIII.4 Juegos bipersonales. 
+IX Juegos tipo Nim 
+IX.1 Digraficas. 
+IX.2 Nucleos. 
+IX.3 Juegos tipo Nim. 
+ 
+
+Bibliografia basica: 
+
+1. Berge, C., Graphs, Amsterdam: North Holland, 1985. 
+
+2. Bondy, J.A., Murty, U.S., Graph Theory with Applications, London: Macmillan, 1976. 
+
+3. Chartrand, G., Introductory Graph Theory, New York: Dover Publications, Inc. 1977. 
+
+4. Harary, F., Graph Theory, Reading, Mass.: Addison-Wesley Publishing Company. 1969. 
+
+Bibliografia complementaria: 
+
+1. Chartrand, G., Lesniak, L.,Graphs and Digraphs, Pacific Grove, California: Wadsworth and 
+Brooks. 1979. 
+
+2. Chartrand, G., Introductory Graph Theory, New York: Dover Publications, Inc. 1977. 
+
+Sugerencias didacticas: 
+
+Exposicion oral (X) 
+Exposicion audiovisual (  ) 
+Ejercicios dentro de clase (X) 
+Ejercicios fuera del aula (X) 
+Seminarios (  ) 
+Lecturas obligatorias (X) 
+Trabajo de investigacion (  ) 
+Practicas de taller o laboratorio (  ) 
+Practicas de campo (  ) 
+ 
+Otras: __________________________ 
+ 
+
+Metodos  de evaluacion:  
+
+Examenes parciales (X) 
+Examen final escrito (X) 
+Trabajos y tareas fuera del aula (X) 
+Exposicion de seminarios por los alumnos (  ) 
+Participacion en clase (X) 
+Asistencia (  ) 
+Seminario (  ) 
+ 
+Otras: _____________________________ 
+  
+
+Perfil profesiografico:  
+
+Matematico, fisico actuario o licenciado en ciencias de la computacion, especialista en el area 
+de la asignatura a juicio del comite de asignacion de cursos. Con experiencia docente. 
+ 
+  
+
+

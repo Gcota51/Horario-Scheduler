@@ -1,0 +1,149 @@
+FACULTAD DE CIENCIAS
+
+CARRERA DE MATEMATICO
+
+SIMULACION Y CONTROL
+
+SEMESTRE: Septimo u octavo
+CLAVE: 0724
+
+HORAS A LA SEMANA/SEMESTRE
+
+TEORICAS PRACTICAS CREDITOS
+5/80 0 10
+
+CARACTER: OPTATIVO.
+MODALIDAD: CURSO.
+SERIACION INDICATIVA ANTECEDENTE: Analisis Matematico II.
+SERIACION INDICATIVA SUBSECUENTE: Ninguna.
+
+OBJETIVO(S): Al finalizar el curso el alumno comprendera la naturaleza de la simulacion.
+Conocera el problema de la generacion de numeros aleatorios y los metodos existentes
+para su solucion. Conocera y resolvera el problema de la generacion de valores de variables
+aleatorias. Discutira y aplicara los diferentes metodos Monte Carlo existentes. Conocera y
+aplicara la metodologia basica para la imitacion de sistemas.
+
+NUM. HORAS UNIDADES TEMATICAS
+
+5 1. Introduccion y revision de conceptos
+1.1 El proceso de simulacion.
+1.2 Usos de la simulacion.
+
+10 2. Ejemplos de programas de simulacion
+2.1 El problema de colas en cajas.
+2.2 El programa de simulacion .
+2.3 Uso de simulacion.
+2.4 Extension del enfoque.
+
+10 3. Tecnicas basicas del analisis
+3.1 Revision breve de variables aleatorias y distribuciones de proba-
+bilidad.
+3.2 Muestreo, estimacion e inferencia inductiva.
+3.3 Generacion y prueba de numeros aleatorios.
+3.4 Teoria de colas.
+3.5 Analisis de series de tiempo.
+3.6 Metodo de regeneracion de estados.
+
+1
+
+
+
+10 4. Tecnicas de programacion
+4.1 Rutinas generales.
+4.2 Simulacion de un sistema de inventarios.
+4.3 Simulacion de un sistema de computadora de tiempo compartido.
+4.4 Simulacion de un sistema de elevador.
+
+10 5. Lenguajes especiales de simulacion
+5.1 Simula.
+5.2 SIMSCRIPT.
+5.3 GPSS.
+5.4 Eleccion de metodos de programacion.
+
+10 6. Experimentos de simulacion
+6.1 Tecnicas de reduccion de varianza.
+6.2 Procedimientos de optimizacion .
+6.3 Experimentos exploratorios.
+6.4 Determinacion del tamano de la muestra y reglas de terminacion.
+
+10 7. Procedimientos de verificacion y validacion
+7.1 El significado de la validacion de un modelo.
+7.2 Verificacion de un programa.
+7.3 Comparacion de los datos del modelo con los datos del sistema
+de real.
+7.4 Analisis de sensibilidad.
+
+10 8. Subsistemas continuos en modelos de eventos discretos
+8.1 Modelo de ecuacion diferencial.
+8.2 Integracion numerica.
+8.3 Combinacion de eventos discretos y modelos continuos.
+8.4 Ejemplo de un administrador de recursos naturales.
+
+5 9. Una critica al enfoque de simulacion
+9.1 La computacion para orientarse.
+9.2 Modelando para la simulacion.
+9.3 Tendencias de la simulacion.
+
+BIBLIOGRAFIA BASICA:
+
+1. Payne, J.A., Introduction to Simulation, Programming Techniques and Methods of
+Analysis, New York: McGraw-Hill, 1988.
+
+2
+
+
+
+BIBLIOGRAFIA COMPLEMENTARIA:
+
+1. Binder, K., Hermann, D. W., Monte Carlo Simulation in Statistical Physics, an
+Introduction, 2nd edition, New York: Springer-Verlag, 1992.
+
+2. Brandt, S., Dahmen, H. D., Quantum Mechanics on the Personal Computer, 2nd
+edition, New York: Springer-Verlag, 1992.
+
+3. Cifuentes, A. O., Using MSC/NASTRAM, Statistics and Dynamics, New York:
+Springer-Verlag, 1989.
+
+4. Fishman, G., Concepts and Methods in Discrete Event Digital Simulation, New York:
+John Wiley & Sons, 1973.
+
+5. Hammersley, Hanscomb, Monte Carlo methods (s.a.,s.e.,s.l)
+
+6. Hilliar, F., Lieberman, G., Introduccion a la Investigacion de Operaciones, Mexico:
+McGraw-Hill, 1997.
+
+7. Khosnevis, B., Discrete Systems Simulation, New York: McGraw-Hill Book Com-
+pany, 1994.
+
+8. Korshunov, Fundamentos Matematicos de la Cibernetica, Moscu: Editorial Mir.
+(s.a.).
+
+9. Law, A. M., Kelton, D. M., Simulation Modelling and Analysis, 2nd edition, New
+York: McGraw-Hill Book Company.
+
+10. Naylor, et. al., Tecnicas de Simulacion en Computadoras, Mexico: Limusa-John Wi-
+ley & Sons, 1971.
+
+11. Pegden, C.D., et. al., Introduction to Simulation Using SIMAN, New York: McGraw-
+Hill Book Company, 1991.
+
+12. Stauenmaier, H. M., Physics Experiments Using PCs. A Guide for Instructors and
+Students, New York: Springer-Verlag, 1993.
+
+SUGERENCIAS DIDACTICAS: Lograr la participacion activa de los alumnos mediante
+exposiciones.
+
+SUGERENCIA PARA LA EVALUACION DE LA ASIGNATURA: Ademas de las califi-
+caciones en examenes y tareas se tomara en cuenta la participacion del alumno.
+
+3
+
+
+
+PERFIL PROFESIOGRAFICO: Matematico, fisico, actuario o licenciado en ciencias de
+la computacion, especialista en el area de la asignatura a juicio del comite de asignacion
+de cursos.
+
+4
+
+

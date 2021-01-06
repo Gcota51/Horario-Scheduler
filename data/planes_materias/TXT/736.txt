@@ -1,0 +1,251 @@
+DE CIENCIAS
+
+CARRERA DE MATEMATICO
+
+SEMINARIO DE MATEMATICAS APLICADAS II
+Ejemplo: Mercados bursatiles
+
+SEMESTRE: Septimo u octavo
+CLAVE: 0736
+
+HORAS A LA SEMANA/SEMESTRE
+
+TEORICAS PRACTICAS CREDITOS
+5/80 0 10
+
+CARACTER: OPTATIVO.
+MODALIDAD: CURSO.
+SERIACION INDICATIVA ANTECEDENTE: Seminario de Matematicas Aplicadas
+I.
+SERIACION INDICATIVA SUBSECUENTE: Ninguna.
+
+OBJETIVO(S): Presentar al alumno metodologias para solucionar problemas que requieren
+del uso de modelos matematicos complejos. En este caso aplicados a la modelacion y analisis
+del comportamiento de los mercados financieros.
+
+NUM. HORAS UNIDADES TEMATICAS
+
+10 1. Los mercados financieros I
+1.1 Los mercados financieros.
+1.2 Instrumentos financieros.
+1.3 Clasificacion de instrumentos financieros.
+1.4 Clasificacion de meracdos financieros.
+1.5 Los mercados nacionales.
+1.6 La piramide financiera.
+1.7 Mercados consolidados y mercados emergentes.
+1.8 Mercados perfectos.
+1.9 Mercados eficientes.
+1.10 El modelo Minsky.
+El modelo Kondatriev. Minsky. Otros modelos de ciclos.
+1.11 Los grandes mercados financieros. Estados Unidos, Gran Bre-
+tana, Alemania, Japon.
+
+408
+
+
+
+10 2. Los mercados financieros II
+2.1 El mercado de EE.UU. II.
+2.2 El mercado de Londres II.
+2.3 Los mercados Aleman y Japones II.
+2.4 Los mercados emergentes.
+Mercados de los dragones asiaticos. Mercados de otros paises de Asia.
+Mercado de Australia.
+2.5 Los mercados sudamericanos
+BOVESPA. MERVAL.
+2.6 El mercado mexicano
+Origen. Trayectoria. Situacion actual.
+
+10 3. Vision panoramica de los Euromercados
+3.1 Origen y dinamica de los Euromercados.
+3.2 Funciones economicas de los Euromercados.
+
+10 4. Los mercados "over-the-counter"
+4.1 El tercer mercado en EE.UU. y el NASDAQ.
+4.2 Las ventajas del NASDAQ (limitaciones/alcances).
+4.3 SEAQ (Londres).
+4.4 American Depositary Receipts (ADR)s.
+4.5 Bonos Brady.
+4.6 Instrumentos hibridos.
+
+10 5. Analisis tecnico y analisis fundamental
+5.1 Analisis tecnico y analisis fundamental
+Bases y comparaciones.
+5.2 Analisis Dow
+Teoria Dow y modelo Minsky. Graficos. Oscilaciones. Tendencias. Ci-
+clos y cadenas. Brechas-flechas.
+5.3 Analisis no Dow
+Kendall. Kligmaar.
+5.4 Modelos estocasticos basicos
+Propiedades estadisticas. Modelos. Otras tecnicas estadisticas.
+5.5 Comparacion con sistemas expertos
+Un sistemas experto para Petrobonos. Un sistema experto para UDI-
+bonos.
+
+409
+
+
+
+10 6. Seleccion de carteras de inversion
+6.1 Carteras de inversion
+Riesgo financiero.
+6.2 Teoria de la utilidad.
+VonNeumman. Debreu-Dreze. Milnor. Fishburn. Churchman-Ackoff.
+Otros enfoques.
+Diferencias entre funciones de utilidad. Diferencias entre valores mon-
+etarios y utilidades. Componentes psicologicos.
+6.3 Valor medio esperado
+Definicion. Propiedades. Alcances y limitaciones.
+6.4 Teoria de Markowitz. Supuestos. Alcances. Limitaciones.
+6.5 Enfoque de fama. Supuestos. Modelos.
+6.6 CAPM.
+Las bases del CAPM. Modelo. Usos.
+6.7 Otros metodos.
+Enfoque Titner. Enfoque Sharpe. Enfoques hibridos.
+
+10 7. Analisis fundamental II
+7.1 Analisis fundamental II.
+7.2 Modelos de Porter (con Clarke et al y Hutchins).
+7.3 Analisis de agrupamientos.
+7.4 Benchmarking.
+
+10 8. Analisis fundamental III
+8.1 Analisis tecnico y analisis fundamental III.
+Diferencias y complementariedades. Politicas de dividendos.
+Planeacion financiera y posicion competitiva. Flujos de efectivo.
+Modelos de flujos de efectivo. Estrategias de fusion/adquisicion: efec-
+to en el analisis fundamental.
+
+BIBLIOGRAFIA BASICA:
+
+1. Auerbach, R. D., Money, Banking and Financial Markets 3rd ed. London: Maxwell
+MacMillan International Editions, 1988.
+
+2. Brealey, R., Myers, Principle of Corporate Finance, New York: McGraw-Hill, 1996.
+
+3. Currency Swaps, International Capital Markets, DC Gardner City, 1992.
+
+4. Engel, L., Boyd, B., How to Buy Stocks, New York:: Bantam Books, 1987.
+
+5. Fabozzi F. J., Modigliani, F., Ferri, M.G., Mercados e Instituciones Financieras,
+New Jersey: Prentice Hall, 1996.
+
+410
+
+
+
+6. Fama, E. M., Miller, M.H., The Theory of Finance, Hinsdale, Ill.: Dryden Press,
+1972.
+
+7. Fernandez, P., Valoracion de Empresas, Mexico: Gestion 2000, 1999.
+
+8. Fishburn, P., Decision and Value Theory, New York: Wiley, 1972
+
+9. Gomez-Palestino, M., Analisis de graficas de barras y volumen, Mexico: Asociacion
+Mexicana de Analistas Tecnicos, 1995.
+
+10. Gomez-Palestino, M., Principios de analisis tecnico, Mexico: Asociacion Mexicana
+de Analistas Tecnicos, 1992.
+
+11. Heyman, T., Inversion en la globalizacion. Analisis y administracion de las nuevas
+inversiones mexicanas, Mexico: BMV-Milenio-IMEF-ITAM, 1998.
+
+12. International Capital Markets, London: Euromoney Publications, 1984-99.
+
+13. Johnston, R. B., The Economics of the Euromarket: History, Theory and Policy,
+London: St. Martin's Press, 1982.
+
+14. KPMG, Global Capital Markets 1989, Euromoney Special Report, London: Eu-
+romoney Publications, 1989.
+
+15. Magee, J., Edwards, D., Technical Analysis of Stock Trends, New York: AMACOM,
+1997.
+
+16. Magee, J., Analyzing Bar Charts for Profit, Chicago, Illinois : Dearborn Finan-
+cial,c1994.
+
+17. Mansell, C., Las Nuevas Finanzas en Mexico, Mexico: Milenio-IMEF-ITAM, 1993.
+
+18. Markowitz, H., Modern Portfolio Theory and Investment Analysis, New York: John
+Wiley and Sons, 1984.
+
+19. Markowitz, H., Portfolio Selection, Efficient Diversification of Investments, New
+York: Wiley, 1959.
+
+20. Marren, J. H., Mergers and Acquisitions, Dow Jones - New York: Irwin, 1985.
+
+21. Marshall, J.F., Bansal, V.K., Financial Enginnering. A Complete Guide to Financial
+Innovation, New York: Basic Brooks, 1997.
+
+22. McCoy, J.B. et al, Bottomline Banking, Boston: Phobus Publishing Co., 1994.
+
+411
+
+
+
+23. O'Brien, R., Global Financial Integration: The End of Geography, The Royal Insti-
+tute of International Affairs, 1992.
+
+24. P. G. A. Howells, P.G.A., Bain, K., Financial Markets and Institutions, New York:
+Longman, 1990.
+
+25. Pring, M. J., Technical Analysis Explained, New York: McGraw-Hill, 1985.
+
+26. Rivera-Batiz, F. L., Rivera-Batiz, L.A., International Finance and Open Economy
+Microeconomics (2nd), London: MacMillan Publishing Company, 1994.
+
+27. Rodriguez, R., Mercado de Dinero y Mercado de Divisas, Mexico: Interamericana,
+1997.
+
+28. Roman, M. F., Ciclos Economicos y Ciclos Financieros, I Congreso IMSIO (Mexico),
+1988.
+
+29. Roman, M. F., Mercados Bursatiles, Mexico: Texto en preparacion (apuntes de clase).
+1997.
+
+30. Ross, S. A., Finanzas Corporativas, New York: Randolph W. Westerfield, McGraw-
+Hill, 1986.
+
+31. Russo, J. E., Shoemaker, J.H., Trampas en la Toma de Decisiones, Mexico: IMPC,
+1989.
+
+32. Sanchez, L., Nunez, C., Cuoto, E., Inversion en la Bolsa, New Jersey: Prentice Hall,
+2000.
+
+33. Shapiro, A. C., Modern Corporate Finance, London: Maxwel MacMillan Internation-
+al Editions, 1991.
+
+34. Sharpe, W. F., Portfolio Theory and Capital Markets, New York: McGraw-Hill, 1970.
+
+35. Shiller, R.J., Market Volatility, Boston: MIT Press, 1989.
+
+36. Solnik, B., Inversiones Internacionales, Mexico: Addison Wesley Interamericana,
+1982.
+
+37. Von Neumann, J., Morgensten, O., Theory of Games and Economic Behavior, New
+York: Wiley, 1944.
+
+412
+
+
+
+BIBLIOGRAFIA COMPLEMENTARIA:
+
+1. de Caires, B. (ed.) The Guide to International Markets, London: Euromoney Publi-
+cations, 1989.
+
+2. Resnik, M. D., Elecciones, Barcelona: Gedisa, 1998.
+
+SUGERENCIAS DIDACTICAS: Lograr la participacion activa de los alumnos mediante
+exposiciones.
+
+SUGERENCIA PARA LA EVALUACION DE LA ASIGNATURA: Ademas de las califi-
+caciones en examenes y tareas se tomara en cuenta la participacion del alumno.
+
+PERFIL PROFESIOGRAFICO: Matematico, fisico, actuario o licenciado en ciencias de
+la computacion, especialista en el area de la asignatura a juicio del comite de asignacion
+de cursos.
+
+413
+
+

@@ -1,0 +1,237 @@
+A DE MEXICO 
+
+ 
+Facultad de Ciencias 
+
+ 
+Plan de estudios de la Licenciatura en 
+
+ Matematicas 
+ 
+
+Calculo de Variaciones 
+ 
+
+Clave 
+0083 
+
+Semestre 
+ 5 o 6 
+
+Creditos 
+10 
+
+Area de 
+concentracion 
+
+ 
+
+Campo de 
+conocimiento 
+
+ 
+
+Etapa 
+ 
+
+V y VI 
+
+Modalidad 
+Curso ( X ) Taller ( ) Lab ( ) Sem ( ) 
+ 
+ 
+
+Tipo T (  )     P (  )    T/P  ( X )  
+
+Caracter 
+Obligatorio (  )           Optativo ( X ) 
+ 
+Obligatorio E ( )        Optativo E ( )  
+
+Horas 
+
+ Semana Semestre  
+
+ Teoricas          5 Teoricas           80 
+
+ Practicas         0 Practicas            0 
+
+ Total                5 Total                  80 
+
+ 
+
+Seriacion 
+ 
+
+Ninguna (   ) 
+
+Obligatoria (   ) 
+
+Asignatura antecedente 
+ 
+
+ 
+
+Asignatura subsecuente 
+ 
+
+ 
+
+Indicativa ( X ) 
+
+Asignatura antecedente 
+ 
+
+Algebra Lineal II, Analisis Matematico I, Ecuaciones Diferenciales 
+I 
+
+Asignatura subsecuente 
+ 
+
+Ecuaciones Diferenciales Parciales II 
+
+ 
+
+Objetivo general: 
+ 
+El objetivo de este curso es introducir al estudiante en las tecnicas de localizar puntos criticos en 
+espacios de dimension infinita. Estas herramientas son indispensables para entender las 
+formulaciones variacionales de las mecanicas en la Fisica tales como los principios de minima 
+accion que dan pie a las ecuaciones de Euler-Lagrange. Utilizando elementos del Calculo 
+Diferencial e Integral, Ecuaciones Diferencias Ordinarias, y Ecuaciones Parciales, es posible 
+adentrar al estudiante en las tecnicas del Calculo de Variaciones. 
+. 
+
+ 
+ 
+
+
+
+Indice tematico 
+
+ Tema  
+
+Horas 
+ semestre  
+
+Teoricas Practicas 
+
+1 Introduccion 10 0 
+
+2 Calculo en espacios de funciones 20 0 
+
+3 Condiciones necesarias 20 0 
+
+4 Cambio de variables, Hamilton-Jacobi. 15 0 
+
+5 Condiciones suficientes. 15 0 
+
+Subtotal 80 0 
+
+Total 80 
+
+ 
+
+Contenido Tematico 
+
+ Tema y subtemas 
+
+1 Introduccion. 
+
+1.1 Ejemplos y problemas. 
+
+2 Calculo en espacios de funciones. 
+
+2.1 Funcionales, espacios de funciones, derivadas de un funcional y extremos. 
+
+3 Condiciones necesarias. 
+
+3.1 Ecuacion de Euler-Lagrange, integral primera, mas funciones, mas variables, 
+
+       frontera libre, problemas con discontinuidades, multiplicadores de Lagrange, 
+
+       problemas isoperimetricos. 
+
+4 Cambio de variables, Hamilton-Jacobi. 
+
+4.1 Coordenadas Lagrangianas, principio de minima accion, teorema de Noether, 
+
+       ecuacion de Hamilton-Jacobi. 
+
+5 Condiciones suficientes. 
+
+5.1 Extremos debiles, fuertes, puntos conjugados, campos centrales. 
+
+ 
+ 
+
+Estrategias didacticas Evaluacion del aprendizaje 
+
+Exposicion                                                   ( X ) Examenes parciales                ( X ) 
+
+Trabajo en equipo                                         (  ) Examen final                  ( X ) 
+
+Lecturas                                                         (  ) Trabajos y tareas                  ( X ) 
+
+Trabajo de investigacion                               (  ) Presentacion de tema                 (  ) 
+
+Practicas (taller o laboratorio)                     ( X ) Participacion en clase                            ( X ) 
+
+Practicas de campo                                       (  ) Asistencia                                                 (  ) 
+
+Aprendizaje por proyectos                          ( X ) Rubricas                                                   (  ) 
+
+Aprendizaje basado en problemas             ( X ) Portafolios                                                (  ) 
+
+Casos de ensenanza                                  ( X ) Listas de cotejo                                        (  ) 
+
+Otras (especificar) Otras (especificar)  
+
+ 
+ 
+
+Perfil profesiografico 
+
+Titulo o grado Matematico, fisico, actuario o licenciado en ciencias de la computacion.  
+
+Experiencia docente  
+
+Otra caracteristica Especialista en el area de la asignatura a juicio del comite de asignacion 
+de cursos 
+
+ 
+ 
+ 
+
+
+
+Bibliografia basica: 
+
+ Courant, R., Hilbert, D., Methods of Mathematical Physics, Vol. I, New York: Wiley 
+Interscience, 1953 
+
+ Ize, J., Calculo de Variaciones, Serie FENOMEC Vol. 3, Mexico: UNAM. 
+
+ Troutman, J.L., Variational Calculus with Elementary Convexity, New York: Springer, 
+1983 
+
+Bibliografia complementaria: 
+
+ Bliss, G.A., Lectures on the Calculus of Variations, Chicago: University of Chicago, 1957. 
+
+ Caratheodory, C., Calculus of variations and PDE's of the first order, New York: Chelsea, 
+1982 
+
+ Bolza, O., Lectures on the Calculus of Variations, New York: Chelsea, 1973. 
+Courant, R., Calculus of variations, New York: University, 1957. 
+
+ El'sgol'c, L.E., Ecuaciones diferenciales y calculo variacional, Moscu: MIR, 1977 
+
+ Gelfand, I.M., Fomin, S.V., Calculus of Variations, New Jersey: Prentice Hall, 1963 
+
+ Mikhlin, S. C., Variational Methods in Mathematical Physics, New York: Pergamon, 1964 
+ 
+
+ 
+
+

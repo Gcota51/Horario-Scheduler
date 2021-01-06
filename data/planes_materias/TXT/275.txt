@@ -1,0 +1,236 @@
+A DE MEXICO 
+
+ 
+Facultad de Ciencias 
+
+ 
+Plan de estudios de la Licenciatura en  
+
+Matematicas 
+ 
+ 
+
+Biologia Matematica I 
+ 
+
+Clave 
+0275 
+
+Semestre 
+7 u 8 
+
+Creditos 
+10 
+
+Area de 
+concentracion 
+
+ 
+
+Campo de 
+conocimiento 
+
+ 
+
+Etapa 
+ 
+
+VII y VIII 
+
+Modalidad 
+Curso ( X ) Taller ( ) Lab ( ) Sem ( ) 
+ 
+ 
+
+Tipo T ( X )     P (  )    T/P  (  )  
+
+Caracter 
+Obligatorio (  )           Optativo ( X ) 
+ 
+Obligatorio E ( )        Optativo E ( )  
+
+Horas 
+
+ Semana Semestre  
+
+ Teoricas           5 Teoricas           80 
+
+ Practicas          0 Practicas           0 
+
+ Total                 5 Total                  80 
+
+ 
+
+Seriacion 
+ 
+
+Ninguna (   ) 
+
+Obligatoria (   ) 
+
+Asignatura antecedente 
+ 
+
+ 
+
+Asignatura subsecuente 
+ 
+
+ 
+
+Indicativa ( X ) 
+
+Asignatura antecedente 
+ 
+
+Analisis Matematico I, Dinamica de Sistemas no Lineales 
+
+Asignatura subsecuente 
+ 
+
+Biologia Matematica II. 
+
+ 
+ 
+
+Objetivo general: 
+Introducir al alumno en la modelacion matematica de fenomenos biologicos 
+ 
+
+Objetivos especificos: 
+Proporcionar al estudiante los conocimientos basicos de algunas de las principales aplicaciones de 
+la matematica en el campo de la Biologia. 
+
+ 
+
+Indice tematico 
+
+ Tema  Horas 
+
+
+
+ semestre  
+
+Teoricas Practicas 
+
+1 Dinamica de Poblaciones 30 0 
+
+2 Emergencia de patrones 30 0 
+
+3 Propagacion de impulsos nerviosos 20 0 
+
+Subtotal 80 0 
+
+Total 80 
+
+ 
+
+Contenido Tematico 
+
+ Tema y subtemas 
+
+1 Dinamica de Poblaciones 
+
+1.1 Generaciones discretas. 
+
+1.2 Generaciones traslapadas. 
+
+1.3 Poblaciones estructuradas. 
+
+1.4 Dinamica de interacciones. 
+
+1.5 Dinamica espacial. 
+
+1.6 Modelos simples de epidemiologia. 
+
+2 Emergencia de patrones 
+
+2.1 Autoorganizacion. 
+
+2.2 Explicar vs. describir. 
+
+2.3 Filotaxia. 
+
+2.4 Mecanismos morfogenticos. 
+
+2.5 La bifurcacion de Turing. 
+
+2.6 Otros mecanismos.  
+
+3 Propagacion de impulsos nerviosos 
+
+3.1 La neurona. 
+
+3.2 Modelos biestables. 
+
+3.3 Modelos simples de conduccion nerviosa. 
+
+3.4 Medios excitables y el musculo cardiaco. 
+
+ 
+ 
+
+Estrategias didacticas Evaluacion del aprendizaje 
+
+Exposicion                                                   ( X ) Examenes parciales                (X  ) 
+
+Trabajo en equipo                                         (  ) Examen final                  ( X ) 
+
+Lecturas                                                         (  ) Trabajos y tareas                  ( X ) 
+
+Trabajo de investigacion                               (  ) Presentacion de tema                 (  ) 
+
+Practicas (taller o laboratorio)                       (  ) Participacion en clase                            ( X ) 
+
+Practicas de campo                                       (  ) Asistencia                                                 ( X ) 
+
+Aprendizaje por proyectos                          ( X ) Rubricas                                                   (  ) 
+
+Aprendizaje basado en problemas             ( X ) Portafolios                                                (  ) 
+
+Casos de ensenanza                                  ( X ) Listas de cotejo                                        (  ) 
+
+Otras (especificar) Otras (especificar)  
+
+ 
+
+Perfil profesiografico 
+
+Titulo o grado Matematico, fisico, actuario o licenciado en ciencias de la computacion  
+
+Experiencia docente Con experiencia docente 
+
+Otra caracteristica Especialista en el area de la asignatura a juicio del comite de asignacion 
+de cursos 
+
+ 
+
+
+
+Bibliografia basica: 
+
+ Esteva, L., Falconi, M. (Eds.), Biomatematicas, una Vision desde los Sistemas 
+Dinamicos, Mexico: Facultad de Ciencias, UNAM, 2002. 
+
+ Gutierrez - Sanchez, J.L., Sanchez - Garduno, F., Matematicas para las Ciencias 
+Naturales. No. 11, Aportaciones Matematicas, Mexico: Sociedad Matematica Mexicana, 
+1998. 
+
+ Keener, J., Sneyd, J., Mathematical Physiology, New York: Springer-Verlag, 1998. 
+
+ Kot, M., Elements of Mathematical Ecology, Cambridge: Cambridge University Press, 
+2001. 
+
+ Sanchez - Garduno, F., Miramontes, P, Gutierrez, J.L. (Eds.), Clasicos de Biologia 
+Matematica. Mexico: Siglo XXI-UNAM, 2002. 
+
+ 
+
+Bibliografia complementaria: 
+
+ Murray, J., Mathematical Biology. New York: Springer-Verlag, 2003. 
+ 
+
+ 
+
+

@@ -1,0 +1,233 @@
+A DE MEXICO 
+
+ 
+Facultad de Ciencias 
+
+  
+Plan de estudios de la Licenciatura en 
+
+Matematicas 
+ 
+ 
+
+Biologia Matematica II 
+ 
+
+Clave 
+0276 
+
+Semestre 
+7 u 8 
+
+Creditos 
+10 
+
+Area de 
+concentracion 
+
+ 
+
+Campo de 
+conocimiento 
+
+ 
+
+Etapa 
+ 
+
+ 
+
+Modalidad 
+Curso ( X ) Taller ( ) Lab ( ) Sem ( ) 
+ 
+ 
+
+Tipo T ( X )     P (  )    T/P  (  )  
+
+Caracter 
+Obligatorio (  )           Optativo ( X ) 
+ 
+Obligatorio E ( )        Optativo E ( )  
+
+Horas 
+
+ Semana Semestre  
+
+ Teoricas           5 Teoricas           80 
+
+ Practicas          0 Practicas           0 
+
+ Total                 5 Total                  80 
+
+ 
+
+Seriacion 
+ 
+
+Ninguna (   ) 
+
+Obligatoria (   ) 
+
+Asignatura antecedente 
+ 
+
+ 
+
+Asignatura subsecuente 
+ 
+
+ 
+
+Indicativa ( X ) 
+
+Asignatura antecedente 
+ 
+
+Biologia Matematica I 
+
+Asignatura subsecuente 
+ 
+
+Ninguna 
+
+ 
+ 
+
+Objetivo general: 
+Introducir al estudiante en la modelacion de fenomenos de epidemiologia y las tecnicas 
+matematicas para resolver los problemas relacionados con esos fenomenos 
+
+ 
+ 
+ 
+ 
+ 
+
+Indice tematico 
+
+
+
+ Tema  
+Horas 
+
+ semestre  
+
+Teoricas Practicas 
+
+1 Conceptos basicos en Epidemiologia Matematica 15 0 
+
+2 Epidemiologia y demografia 15 0 
+
+3 
+Transmision de enfermedades en poblaciones 
+heterogeneas 
+
+25 0 
+
+4 Estructura de edades 25 0 
+
+Subtotal 80 0 
+
+Total 80 
+
+ 
+
+Contenido Tematico 
+
+ Tema y subtemas 
+
+1 Conceptos basicos en Epidemiologia Matematica 
+
+1.1 El modelo de Kermack y Mc.Kendrick. Teorema del umbral. 
+
+2 Epidemiologia y demografia 
+
+2.1 Modelos SIS (susceptible-infeccioso-susceptible), SIR (susceptible- 
+       infeccioso-recuperado), SEIR (susceptible-latente-infeccioso- 
+       recuperado) con poblacion constante. Modelo SIR con poblacion 
+       variable y fatalidades 
+
+3 Transmision de enfermedades en poblaciones heterogeneas 
+
+3.1 Modelos multigrupo. Modelos para enfermedades que se 
+         transmiten a traves de vectores 
+
+4 Estructura de edades 
+
+4.1 Modelo SIR con estructura de edades 
+
+ 
+ 
+
+Estrategias didacticas Evaluacion del aprendizaje 
+
+Exposicion                                                   ( X ) Examenes parciales                (X  ) 
+
+Trabajo en equipo                                         (  ) Examen final                  ( X ) 
+
+Lecturas                                                         (  ) Trabajos y tareas                  ( X ) 
+
+Trabajo de investigacion                               (  ) Presentacion de tema                 (  ) 
+
+Practicas (taller o laboratorio)                       (  ) Participacion en clase                            ( X ) 
+
+Practicas de campo                                       (  ) Asistencia                                                 ( X ) 
+
+Aprendizaje por proyectos                          ( X ) Rubricas                                                   (  ) 
+
+Aprendizaje basado en problemas             ( X ) Portafolios                                                (  ) 
+
+Casos de ensenanza                                  ( X ) Listas de cotejo                                        (  ) 
+
+Otras (especificar) Otras (especificar)  
+
+ 
+ 
+
+Perfil profesiografico 
+
+Titulo o grado Matematico, fisico, actuario o licenciado en ciencias de la computacion. 
+
+Experiencia docente Con experiencia docente. 
+
+Otra caracteristica Especialista en el area de la asignatura a juicio del comite de asignacion 
+de cursos 
+
+ 
+ 
+ 
+ 
+
+Bibliografia basica: 
+
+
+
+ Brauer, F., "Basic Ideas of Mathematical Epidemiology", en Castillo-Chavez, C., et al 
+(Eds.), Mathematical Approaches for Emerging and Reemerging Infectious Diseases. An 
+Introduction, New York: Springer Verlag, 2001 
+
+ Daley, D.J., Gani, J., Epidemic Modeling, an Introduction, Cambridge Studies in 
+Mathematical Biology 14, Cambridge: Cambridge University Press, 1999. 
+
+ Diekmann, O., Heesterbeek, H., Mathematical Epidemiology of Infectious Diseases: 
+Model Building, Analysis and Interpretation, New York: John Wiley & Sons, 2000. 
+
+ Hethcote, H.W., "Three Basic Epidemiological Models", en Levin, S.A., Hallam, T.G., 
+Gross, L.J. (Eds.), Applied Mathematical Ecology, New York: Springer Verlag, 1989 
+
+ 
+
+Bibliografia complementaria: 
+
+ Lajmanovich, A., Yorke, J.A., "A deterministic model for gonorrhea in a nonhomogeneous 
+population, Mathematical Bioscience, Vol. 28, 1976: 221-236. 
+
+ Murray, J.D., Mathematical Biology, Biomathematics Texts no. 19, New York: Springer 
+Verlag, 1989 
+
+ 
+ 
+
+ 
+
+

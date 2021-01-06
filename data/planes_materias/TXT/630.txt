@@ -1,0 +1,414 @@
+IVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+ 
+                          Facultad de Ciencias 
+
+          
+                      Plan de estudios de la Licenciatura en Actuaria 
+
+ 
+ 
+
+Procesos Estocasticos I 
+ 
+
+Clave 
+0630 
+
+Semestre 
+5 
+
+Creditos 
+10 
+
+Area 
+ 
+
+ 
+
+Campo de 
+conocimiento 
+
+Probabilidad y estadistica 
+
+Etapa 
+ 
+
+Basica 
+
+Modalidad 
+Curso ( X ) Taller ( ) Lab ( ) Sem ( ) 
+ 
+ 
+
+Tipo T ( X )     P (  )    T/P  (  )  
+
+Caracter 
+Obligatorio ( X )            Optativo ( ) 
+ 
+Obligatorio E ( )        Optativo E ( )  
+
+Horas 
+
+ Semana Semestre  
+
+ Teoricas         5 Teoricas          80 
+
+ Practicas        0 Practicas         0 
+
+ Total               5 Total                 80 
+
+ 
+
+Seriacion 
+ 
+
+Ninguna (   ) 
+
+Obligatoria (   ) 
+
+Asignatura antecedente 
+ 
+
+ 
+
+Asignatura subsecuente 
+ 
+
+ 
+
+Indicativa ( X ) 
+
+Asignatura antecedente 
+ 
+
+Probabilidad II. 
+
+Asignatura subsecuente 
+ 
+
+Teoria del Riesgo, Metodos Cuantitativos en Finanzas. 
+
+ 
+
+Objetivos generales: 
+ 
+
+ Conocer ejemplos y resultados basicos de la teoria. 
+
+ Ser capaz de modelar y simular fenomenos fisicos y financieros utilizando procesos estocasticos. 
+ 
+
+Objetivos especificos: 
+
+ 
+
+ Explicar conceptos basicos, definiciones, ejemplos y aplicaciones de los procesos estocasticos. 
+
+ Explicar conceptos basicos, definiciones, ejemplos, resultados y aplicaciones de estos procesos. 
+
+ Definir y trabajar con procesos en tiempo continuo y espacio de estados discreto. 
+
+
+
+ Explicar el concepto de martingala a tiempo discreto. Estudiara ejemplos y aplicaciones. 
+
+ Conocer algunas propiedades del movimiento Browniano y sus aplicaciones. 
+ 
+
+ 
+
+Indice tematico 
+
+ Tema  
+
+Horas 
+ semestre  
+
+Teoricas Practicas 
+
+1 Introduccion y motivacion 5 0 
+
+2 
+Cadenas de Markov con espacio de estados finito y 
+numerable 
+
+35 0 
+
+3 Procesos de Poisson 20 0 
+
+4 Martingalas en tiempo discreto 10 0 
+
+5 Movimiento browniano 10 0 
+
+Total 80 0 
+
+ 
+
+Contenido Tematico 
+
+ Tema y subtemas 
+
+1 Introduccion y motivacion 
+
+ 
+
+1.1  Definiciones elementales. 
+
+1.2  Tipos de procesos estocasticos, clasificacion general. 
+
+1.3  Ejemplos de procesos estocasticos. Motivacion. 
+
+ 
+2 Cadenas de Markov con espacio de estados finito y numerable 
+
+ 
+
+2.1 Definiciones elementales: 
+2.1.1 Probabilidades de transicion, distribucion inicial, matriz de 
+
+transicion. 
+
+2.1.2 Ejemplos, incluyendo caminata aleatoria, cadenas de nacimiento 
+
+y muerte, proceso de     ramificacion, cadena de Ehrenfest. 
+
+2.2  Distribucion conjunta, ecuaciones de Chapman-Kolmogorov. 
+
+2.3  Tiempos de llegada y tiempos de absorcion. 
+
+2.4  Clasificacion de estados, recurrencia y transitoriedad. 
+
+2.5  Descomposicion del espacio de estados. 
+
+2.6  Distribucion invariante. Para espacio de estados finito: cadenas 
+
+regulares y teorema fundamental de convergencia, con demostracion. 
+
+Ejemplos y aplicaciones. 
+
+2.7  Cadenas de Markov con espacio de estados numerable: recurrencia, 
+
+irreducibilidad, periodicidad, distribucion estacionaria y enunciado del 
+
+teorema fundamental de convergencia. 
+
+2.8  Simulacion de Cadenas de Markov. Verificacion de Propiedades 
+
+Teoricas mediante la simulacion. 
+
+ 
+3 Procesos de Poisson 
+
+ 
+
+3.1  Diferentes definiciones del proceso de Poisson y su equivalencia.  
+
+            Propiedades. 
+
+
+
+3.2  Distribucion de tiempos de espera, del tiempo de espera entre llegadas 
+
+y distribucion condicional de los tiempos de llegada dado el valor del 
+
+proceso. 
+
+3.3  Generalizaciones: Proceso de Poisson compuesto y riesgo, Proceso 
+
+Poisson no homogeneo. 
+
+3.4  Simulacion de los procesos de Poisson, Poisson compuesto y Riesgo. 
+
+Estimacion de la intensidad. 
+
+ 
+4 Martingalas en tiempo discreto 
+
+ 
+
+4.1  Definiciones, propiedades y ejemplos. 
+
+4.2  Tiempos de paro. 
+
+4.3  Enunciar los teoremas del paro opcional y de convergencia. 
+
+ 
+5 Movimiento browniano 
+
+ 
+
+5.1  Definicion y propiedades. 
+
+5.2  Caminatas aleatorias y movimiento Browniano. 
+
+5.3  Tiempos de llegada, el problema de la ruina del jugador. 
+
+5.4  Movimiento Browniano Geometrico. 
+
+5.5  Aplicaciones; valuacion de opciones. Teorema del arbitraje y formula 
+
+de Black-Scholes para valuar opciones. 
+
+5.6  Simulacion. Estimacion de parametros y distintos tiempos de llegada. 
+ 
+
+ 
+ 
+
+Estrategias didacticas Evaluacion del aprendizaje 
+
+Exposicion                                                   ( X ) Examenes parciales                ( X ) 
+
+Trabajo en equipo                                         (  ) Examen final                  ( X ) 
+
+Lecturas                                                      ( X ) Trabajos y tareas                  ( X ) 
+
+Trabajo de investigacion                               (  ) Presentacion de tema                 (  ) 
+
+Practicas (taller o laboratorio)                     ( X ) Participacion en clase                            ( X ) 
+
+Practicas de campo                                       (  ) Asistencia                                                 (  ) 
+
+Aprendizaje por proyectos                            (  ) Rubricas                                                   (  ) 
+
+Aprendizaje basado en problemas               (  ) Portafolios                                                (  ) 
+
+Casos de ensenanza                                  ( X ) Listas de cotejo                                        (  ) 
+
+Otras (especificar) Otras (especificar) 
+
+ 
+ 
+
+Perfil profesiografico 
+
+Titulo o grado Egresado de la licenciatura en Matematicas, Actuaria o alguna otra carrera afin. 
+Es deseable que cuente con un posgrado en el area. 
+
+Experiencia docente Con experiencia docente. 
+
+Otra caracteristica  
+
+ 
+ 
+ 
+
+Bibliografia basica: 
+ 
+
+
+
+La bibliografia para Cadenas de Markov es muy extensa. Los libros de Ross  y de Hoel, Port y Stone 
+
+resultan una buena combinacion: 
+
+ 
+
+ Ross, S. M. (1996). Stochastic processes (2a ed.). New York: Wiley Series in Probability and Statistics: 
+Probability and Statistics. John Wiley & Sons Inc. 
+
+ Ross, S. M. (2000). Introduction to probability models (7a ed.). Harcourt/Academic Press, Burlington, 
+MA.  
+
+ Hoel, P. G., Port, S. C., & Stone, C. J. (1972). Introduction to stochastic processes. Houghton Mifflin 
+Co., Boston, Mass. 
+
+ Rincon, L. (2012). Introduccion a los procesos estocasticos. Las Prensas de Ciencias, UNAM. 
+
+ Taylor, H. M. & Karlin, S. (1994). An introduction to stochastic modeling. Boston: Academic Press 
+Inc. 
+
+ 
+
+Para cadenas de Markov, y para Martingalas sin filtraciones: 
+
+ 
+
+ Norris, J. R. (1998). Markov Chains. Cambridge Series in Statistical and Probabilistic Mathematics. 
+Cambridge: Cambridge University Press. 
+
+ 
+
+En el libro de Ross de Procesos estocasticos, Capitulo 8, viene la aproximacion al Browniano como limite 
+
+de caminatas aleatorias: 
+
+ Ross, S. M. (1996). Stochastic processes. Wiley Series in Probability and Statistics: Probability and 
+Statistics (2a ed.). New York: John Wiley & Sons Inc. 
+
+ 
+
+Los temas 3 y 5 de este programa se basan en las partes finales de los capitulos 5 y 10, respectivamente, 
+
+del libro de Ross de modelos probabilisticos: 
+
+ 
+
+ Ross, S. M. (2000). Introduction to probability models (7a ed.). Burlington: Harcourt/Academic Press. 
+  
+
+Para Cadenas de Markov y simulacion: 
+
+ 
+
+ Caballero, M. E., Rivero, V.M., Uribe, G. & Velarde, C. (2004). Cadenas de Markov. Un enfoque 
+elemental. Numero 29 en Textos Nivel Medio. 
+
+ 
+
+Bibliografia complementaria:  
+ 
+
+ Brzezniak, Z. y Zastawniak, T. (1999). Basic stochastic processes. Londres: Springer Undergraduate 
+Mathematics Series, A course through exercises.  Springer-Verlag Londres Ltd. 
+
+ Chung, K. L. (1979). Elementary probability theory with stochastic processes (3a ed.). Nueva York: 
+Serie Undergraduate Texts in Mathematics. Springer-Verlag.  
+
+ Chung, K. L. (1982). Lectures from Markov processes to Brownian motion. New York: Springer-
+Verlag. 
+
+ Feller, W. (1968). An introduction to probability theory and its applications, Volumen I y II, (3a ed.). 
+New York: John Wiley & Sons Inc. 
+
+ Feller, W. (1968). An introduction to probability theory and its applications, Volumen I. New York: 
+John Wiley & Sons Inc. 
+
+ Feller, W. (1971). An introduction to probability theory and its applications, Volumen II. New York: 
+John Wiley & Sons Inc. 
+
+ Grimmet G. R. & Stirzaker, D. R. (2001). Probability and Random Processes (3a ed.). Oxford 
+University Press. 
+
+ Karlin, S. y Taylor, H. (1975). A first course in stochastic processes (2a ed.). Nueva York-Londres: 
+Academia Press. 
+
+ Papoulis, A. (1984). Probability, random variables, and stochastic processes (2a ed.). Nueva York: 
+McGraw-Hill Series in Electrical Engineering, Communications and Information Theory. 
+
+ Resnick, Sidney I. (1992). Adventures in Stochastic Processes. Boston: Birkhauser. 
+
+ Resnick, Sidney I. (1999).  A Probability Path. Boston: Birkhauser. 
+
+
+
+ Ross, S. M. (2002). Simulation (3a ed.). Elsevier Science & Tech.  
+
+ Stirzaker, D. (2005). Stochastic processes and models. Oxford: Oxford University Press.  
+ 
+
+Para movimiento Browniano,  lectura adicional. 
+
+ 
+
+ Chung, K. L. (1995). Green, Brown, and Probability. World Scientific. 
+
+ Chung, K. L. (2002). Green, Brown, and probability & Brownian motion on the line. World Scientific 
+Publishing Co. Inc., River Edge, NJ. 
+
+ 
+
+ 
+
+

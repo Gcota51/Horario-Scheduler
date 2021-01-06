@@ -1,0 +1,149 @@
+
+
+
+Plan de Estudios de la Licenciatura de Actuaria 
+
+Materias Optativas  162 
+
+ANALISIS DE REGRESION
+
+CLAVE:                      
+SEMESTRE:                        6 - 8 
+CREDITOS:                                 10  
+
+SECTOR:                                                      OPTATIVO 
+AREA:                                            PROBABILIDAD Y ESTADISTICA  
+SERIACION:                                                  
+ASIGNATURA PRECEDENTE INDICATIVA: Materias del sector basico del Area 
+de Probabilidad y Estadistica. 
+ASIGNATURA SUBSECUENTE INDICATIVA: Ninguna 
+
+HORAS POR CLASE
+CLASES POR SEMANA
+HORAS POR SEMESTRE
+
+TEORICA:        1 
+TEORICA:        5 
+TEORICA:      80 
+
+PRACTICAS:    0 
+PRACTICAS:    0 
+PRACTICAS:    0 
+
+Objetivos generales: Al finalizar el curso el alumno: 
+
+ Conocera los alcances y limitaciones de este tipo de modelos, considerando tanto los fundamentos 
+matematicos del modelo como sus aplicaciones potenciales, utilizando un paquete de computo estadistico 
+para efectos de calculo.
+
+Tema 1. Introduccion         10 horas 
+Comprendera los conceptos basicos necesarios para el manejo del analsis de regresion.
+
+1.1 Relaciones funcionales entre variables y su interpretacion. 
+1.2 Modelos de regresion y su utilizacion. 
+1.3 Conveniencia del analisis estadistico. 
+1.4 Metodos de ajuste de curvas. 
+
+Tema 2. Regresion lineal simple       25 horas 
+Explicara y aplicara los principios fundamentales del modelo de regresion simple.
+
+2.1 El modelo lineal simple y sus supuestos. 
+2.2 Ajuste por minimos cuadrados. 
+2.3 Metodo de maxima verosimilitud. 
+2.4 Propiedades de los estimadores. 
+2.5 Diagnosticos del modelo. 
+
+  2.5.1 Verificacion de supuestos. 
+  2.5.2 Carencia de ajuste. 
+  2.5.3 Observaciones influyentes. 
+
+2.6 Intervalos de confianza. 
+2.7 Pruebas de hipotesis. 
+2.8 Prediccion. 
+2.9 Analisis de aplicaciones utilizando un paquete de computo estadistico. 
+
+Tema 3. Regresion lineal multiple       25 horas 
+Comprendera los principales supuestos y aplicaciones del modelo de regresion simple. 
+
+3.1 El modelo lineal multiple y sus supuestos. 
+3.2 Ajuste por minimos cuadrados. 
+3.3 Metodo de maxima verosimilitud. 
+3.4 Propiedades de los estimadores. 
+3.5 Diagnosticos del modelo. 
+
+
+
+Plan de Estudios de la Licenciatura de Actuaria 
+
+Materias Optativas  163 
+
+  3.5.1 Verificacion de supuestos. 
+  3.5.2 Carencia de ajuste. 
+  3.5.3 Observaciones influyentes. 
+  3.5.4 Multicolinealidad. 
+
+3.6 Intervalos de confianza. 
+3.7 Pruebas de hipotesis. 
+3.8 Prediccion. 
+3.9 Analisis de aplicaciones utilizando un paquete de computo estadistico. 
+
+Tema 4. Seleccion de modelos        20 horas 
+Conocera algunos principios relativos a la seleccion de modelos de regresion. 
+
+4.1 Correlacion multiple y parcial. 
+4.2 Procedimientos de seleccion de variables. 
+4.3 Transformacion de variables. 
+4.4 Manejo de un paquete de computo estadistico. 
+4.5 Analisis de aplicaciones utilizando un paquete de computo estadistico. 
+
+Bibliografia basica:
+
+ Chatterjee, S. and Price, B. (1991). Regression Analysis by Example. Second Edition. Wiley, New York. 
+ Daniel, C. and Wood, F. S. (1980). Fitting Equations to Data: Analysis of Multifactor Data. Second Edition. 
+
+Wiley, New York. 
+ Draper, N. and Smith, H. (1981). Applied Regression Analysis. Second Edition, Wiley, New York. 
+ Johnston, J. (1975). Metodos de Econometria. Vicens-Vives, Barcelona. 
+ Montgomery, D. C. and Peck, E. A. (1992). Introduction to Linear Regression Analysis. Second Edition. 
+
+Wiley, New York. 
+ Neter, J. Wasserman, W. and Kutner, M. H. (1990). Applied Linear Statistical Models. Third Edition. Irwin, 
+
+Boston, MA. 
+ Seber, G. A. F. (1977). Linear Regression Analysis. Wiley, New York. 
+ Weisberg, S. (1985). Applied Linear Regression. Second Edition. Wiley, New York. 
+
+Bibliografia complementaria:
+
+ Kleinbaum, David G. Applied regression analysis and other multivariable methods North scituate, mass. : 
+Duxbury press, 1978. 
+
+ Mosteller, Frederick, Data analysis and regression; a second course in statistics. Addison-Wesley, 1977. 
+
+Sugerencias didacticas: 
+
+Se recomiendan tareas regulares en las cuales el alumno aplique el material visto en clase y este obligado a 
+revisar diversas fuentes bibliograficas para que amplie sus conocimientos con diferentes enfoques.  
+Asimismo se sugiere se impartan clases en el laboratorio de computo para que el alumno aprenda a usar al 
+menos uno de los paquetes estadisticos como el SPSS, Statistica o SPlus para el analisis y modelacion de los 
+datos. 
+Es recomendable que, al final del curso, el alumno haga un analisis completo de un conjunto de datos y presente 
+los resultados de manera oral y escrita.  
+
+Forma de evaluacion: 
+
+
+
+Plan de Estudios de la Licenciatura de Actuaria 
+
+Materias Optativas  164 
+
+Se recomiendan de 3 a 4 examenes parciales y un examen final, asi como la realizacion de tareas sobre los temas  
+vistos en clase para reforzar los conocimientos teoricos adquiridos. 
+
+Perfil profesiografico: 
+
+Egresado preferentemente de las licenciaturas en Actuaria, Matematicas o alguna afin con conocimientos en 
+modelos lineales. Seria deseable que contara con un posgrado en Estadistica.
+
+

@@ -1,0 +1,333 @@
+A DE MEXICO 
+
+ 
+Facultad de Ciencias 
+
+          
+Plan de estudios de la Licenciatura en  
+
+Matematicas 
+ 
+ 
+
+Calculo Diferencial e Integral III 
+ 
+
+Clave 
+0093 
+
+Semestre 
+3 
+
+Creditos 
+18 
+
+Area de 
+conocimiento 
+
+ 
+
+Campo 
+ 
+
+ 
+
+Etapa 
+ 
+
+ 
+
+Modalidad 
+Curso ( X ) Taller ( ) Lab ( ) Sem ( ) 
+ 
+ 
+
+Tipo T ( X )     P (  )    T/P  (  )  
+
+Caracter 
+Obligatorio ( X )            Optativo ( ) 
+ 
+Obligatorio E ( )        Optativo E ( )  
+
+Horas 
+
+ Semana Semestre  
+
+ Teoricas               9 Teoricas           144 
+
+ Practicas              0 Practicas            0 
+
+ Total                     9 Total                 144 
+
+ 
+
+Seriacion 
+ 
+
+Ninguna (   ) 
+
+Obligatoria (   ) 
+
+Asignatura antecedente 
+ 
+
+ 
+
+Asignatura subsecuente 
+ 
+
+ 
+
+Indicativa ( X  ) 
+
+Asignatura antecedente 
+ 
+
+Algebra Superior I 
+Calculo Diferencial e Integral II 
+Geometria Analitica II 
+
+Asignatura subsecuente 
+ 
+
+Calculo Diferencial e Integral IV 
+Ecuaciones Diferenciales I 
+Probabilidad II 
+Taller de Modelacion III 
+
+ 
+
+Objetivos generales: 
+ 
+
+ Medir curvas, calcular areas de superficies, reconocer subvariables, para lo cual es 
+imprescindible entender bien la teoria en su desarrollo logico y sus demostraciones.  
+
+ Exhibir multiples ejemplos y aplicaciones. 
+ 
+
+
+
+Objetivos especificos: 
+
+ Comprender el concepto de funciones y entender sus propiedades. 
+
+ Entender el concepto de espacios normados y sus propiedades. 
+
+ Recordar algunas ideas basicas del Algebra Lineal y aplicarlas en la concepcion de funcion de 
+RN en RM. 
+
+ Extender los conceptos funciones de RN en R, y explicar sus principales caracteristicas. 
+ Comprender el concepto transformaciones y aplicaciones en matices, vectores y formas. 
+
+ Explicar las funciones de RN en RM, asi como sus principales propiedades. 
+ Comprender los conceptos de maximos y minimos, y reconocer sus propiedades. 
+ 
+
+ 
+ 
+
+Indice tematico 
+
+ Tema  
+
+Horas 
+ semestre  
+
+Teoricas Practicas 
+
+1 Funciones de R en RN 28 0 
+2 Espacios normados (opcional) 7 0 
+
+3 Topologia de RN y funciones de RN en RM 18 0 
+4 Funciones de RN en R 28 0 
+5 Transformaciones (opcional) 7 0 
+
+6 Funciones de RN en RM 28 0 
+7 Maximos y minimos 28 0 
+
+Subtotal 144 0 
+
+Total 144 
+
+ 
+
+Contenido Tematico 
+
+ Tema y subtemas 
+
+1 Funciones de R en RN 
+
+ 
+1.1 Funciones de R en RN como curvas en el espacio, limites y derivadas en 
+
+terminos de las componentes.  
+1.2 La diferencial de una curva en el espacio, velocidad y el vector tangente, rapidez.  
+1.3 Propiedades de los limites y la derivada con respecto a la suma y el producto.  
+1.4 Curvas rectificables, longitud de arco, parametrizacion unitaria por longitud de 
+
+arco, comparacion de parametrizaciones.  
+1.5 Normal principal, curvatura, torsion y plano osculante.  
+1.6 Ejemplos de curvas en el plano y en el espacio.  
+1.7 Formula de Frenet y Serret (opcional). 
+ 
+
+2 Espacios normados (opcional) 
+
+ 
+2.1 Espacios vectoriales, normas en RN. 
+ 
+
+3 Topologia de RN y funciones de RN en RM 
+
+ 
+3.1 Conjuntos abiertos, cerrados, frontera.  
+3.2 Caracterizacion de compactos, prueba del teorema de Heine y Borel (opcional), 
+
+producto de compactos.  
+3.3 Conexidad y conexidad relativa.  
+3.4 Definicion de coordenadas polares, cilindricas y esfericas.  
+
+
+
+3.5 Funciones de RN en RM, limites y continuidad.  
+3.6 Teoremas de continuidad en compactos o en conexos, ejemplos. 
+3.7 Teorema de Bolzano y Weierstrass. 
+3.8 Funciones continuas en compactos. 
+ 
+
+4 Funciones de RN en R 
+
+ 
+
+4.1 Conjuntos de nivel y graficas. 
+4.2 Diferenciabilidad, propiedades, derivadas direccionales y derivadas parciales. 
+4.3 Gradiente de una funcion, propiedades: direccion de maximo cambio, definicion 
+
+de puntos criticos. 
+4.4 Teorema del valor medio, criterio de diferenciabilidad en terminos de las 
+
+parciales, derivadas de orden superior, plano tangente a una superficie. 
+4.5 Diferenciales de orden k, aproximacion por polinomios de Taylor, ejemplos. 
+  
+
+5 Transformaciones (opcional) 
+
+ 
+
+5.1 Matrices, determinantes, y resolucion de sistemas.  
+5.2 Valores y vectores propios.  
+5.3 Formas bilineales y cuadraticas.  
+ 
+
+6 Funciones de RN en RM 
+
+ 
+6.1 Diferenciabilidad, jacobiano, regla de la cadena, ortogonalidad del gradiente a 
+
+los conjuntos de nivel.  
+6.2 Teoremas de la funcion inversa e implicita con demostraciones, ejemplos. 
+6.3 Teorema del rango (opcional).  
+6.4 Definicion del operador de divergencia, laplaciano y rotacional.  
+6.5 Ejemplos. 
+ 
+
+7 Maximos y minimos 
+
+ 
+
+7.1 Puntos criticos, formas cuadraticas definidas positivas, diagonalizacion y 
+criterios de positividad, aplicacion a hessianos para detectar maximos, minimos 
+y puntos silla, lema de Morse (opcional).  
+
+7.2 Maximos y minimos con restricciones, multiplicadores de Lagrange, ejemplos.  
+ 
+
+ 
+ 
+
+Estrategias didacticas Evaluacion del aprendizaje 
+
+Exposicion                                                   ( X ) Examenes parciales                ( X ) 
+
+Trabajo en equipo                                         (  ) Examen final                  ( X ) 
+
+Lecturas                                                         (  ) Trabajos y tareas                  (  ) 
+
+Trabajo de investigacion                               (  ) Presentacion de tema                 (  ) 
+
+Practicas (taller o laboratorio)                       (  ) Participacion en clase                            ( X ) 
+
+Practicas de campo                                       (  ) Asistencia                                                 (  ) 
+
+Aprendizaje por proyectos                            (  ) Rubricas                                                   (  ) 
+
+Aprendizaje basado en problemas               (  ) Portafolios                                                (  ) 
+
+Casos de ensenanza                                    (  ) Listas de cotejo                                        (  ) 
+
+Otras (especificar) Otras (especificar) 
+
+  
+
+  
+
+ 
+
+
+
+Perfil profesiografico 
+
+Titulo o grado Matematico, fisico, actuario o licenciado en ciencias de la computacion. 
+
+Experiencia docente Con experiencia docente 
+
+Otra caracteristica Especialista en el area de la asignatura a juicio del comite de asignacion 
+de cursos. 
+
+ 
+ 
+
+Bibliografia basica: 
+ 
+
+ Apostol, T.M., Calculus, Volumen I. Mexico: Ed. Reverte, 2001. 
+
+ Courant, R., Differential and Integral Calculus, Volumen II. New York: J. Wiley, 1936. 
+
+ Courant, R., John, F., Introduccion al Calculo y al Analisis Matematico, Volumen II. Mexico: 
+Limusa, 1974. 
+
+ Lang, S., Calculus of Several Variables. New York: Springer, 1987. 
+
+ Marsden, J., Tromba, A., Calculo Vectorial. Mexico: Addison-Wesley, Pearson Educacion, 
+1998. 
+
+ Thomas, G.B., Finney, R.L., Calculo: varias variables. Mexico: Adisson-Wesley Longman, 
+1999. 
+ 
+
+Bibliografia complementaria: 
+ 
+
+ Buck, R.C., Advanced Calculus. New York: McGraw-Hill, 1978. 
+
+ Budak, B.M., Fomin, S.V., Multiple Integrals Field Theory and Series. Moscu: MIR,1973. 
+
+ Crowell, R., Trotter, H., Williamson, R., Calculo de Funciones Vectoriales. Bogota: Prentice 
+Hall Internacional, 1973. 
+
+ Fulks, W., Calculo Avanzado. Mexico: Limusa-Wiley, 1970. 
+
+ Spivak, M., Calculo en Variedades. Mexico: Ed. Reverte, 1987. 
+
+ Spivak, M., Calculo Infinitesimal (2a ed.). Mexico: Ed Reverte, 1998. 
+
+ Stein, S.K., Calculus and Analytic Geometry. New York: McGraw Hill, 1992. 
+
+ Widder, D.V., Advanced Calculus. New York: Dover, 1989. 
+ 
+
+ 
+
+

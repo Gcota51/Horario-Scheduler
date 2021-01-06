@@ -1,0 +1,116 @@
+ICA
+_____________________________________________________________________________________
+CLAVE: 0610 MODALIDAD: Curso
+SEXTO SEMESTRE: CARACTER: Obligatorio
+CREDITOS: 10 REQUISITOS:   Calculo   Diferencial   e   Integral   I   a   IV,
+
+Algebra Lineal, Ecuaciones Diferenciales,
+Variable Compleja
+
+_____________________________________________________________________________________
+HORAS POR CLASE TEORICAS: 1
+HORAS POR SEMANA TEORICAS: 5
+HORAS POR SEMESTRE TEORICAS: 80
+_____________________________________________________________________________________
+
+Objetivos
+Familiarizar al estudiante con las ideas basicas del analisis de ecuaciones que involucran a funciones de varias
+variables.
+Formular aproximaciones consistentes a soluciones, con el fin de cuantificar los distintos mecanismos de la
+fisica que se involucran.
+Ensenar a consultar la literatura matematica que sea relevante para los problemas de fisica.
+Familiarizar   al   estudiante   con   el   papel   moderno   que   juegan   las   funciones   especiales,   como   auxiliares
+poderosos en el analisis cualitativo de problemas en varias variables.
+
+Metodologia de la ensenanza
+Exposicion por parte del profesor, con enfasis en la solucion del problema en cuestion de forma relevante
+para la fisica del mismo (ver lista anexa de problemas). Se debe poner mas enfasis en ejemplos no triviales,
+que en teorias generales.
+
+Evaluacion del curso
+Mediante tareas, dos examenes parciales y un examen final.
+
+Temario
+Separacion  de  variables,   espacios  de  Hilbert,   oscilaciones  normales  en   sistemas  con   infinitos  grados  de
+libertad.
+1. El problema de la cuerda finita y las series de Fourier. 20 hrs
+
+El problema de SturmLiouville. Ortogonalidad y bases.
+El problema oscilatorio de una membrana y los modos de vibracion.
+Las funciones de Bessel y sus propiedades nodales. Analisis de soluciones regulares y singulares a partir
+
+de la ecuacion diferencial.
+Membranas sectoriales y las funciones de Bessel de orden fraccionario.
+Desarrollo de funciones en terminos de funciones de Bessel.
+El problema general de existencia y completez de funciones propias de operadores en regiones acotadas.
+
+El espectro puntiforme.
+Calculo   del   operador   inverso   para   la   cuerda   y   la   viga   en   una   dimension,   empleando   variacion   de
+
+parametros.   Interpretacion en terminos de fuerzas puntiformes  y funciones generalizadas (delta de Dirac,
+funcion de Heaviside, dipolos, etc.).
+
+2. El problema de vibracion y dispersion de ondas en regiones finitas. 20 hrs
+La cuerda vibrante  semiinfinita.  Ondas  incidentes y   reflejadas.  El espectro continuo.  El desarrollo  de
+
+funciones en terminos de funciones propias generalizadas del espectro continuo.
+El problema de reflexion de olas en playas y las funciones de Bessel. Representacion integral (compleja)
+
+de   las   funciones  de  Bessel y   su asintotica en   terminos  de ondas   incidentes y   reflejadas.  Representacion
+espectral del operador de Bessel en el caso de espectro continuo.
+
+
+
+Difraccion de ondas electromagneticas por  un cilindro. Separacion de variables a funciones de Bessel
+modificadas y radiacion. Representacion integral y asintotica de las funciones de Bessel. Patron de difraccion.
+El azul del cielo. Seccion eficaz de dispersion.
+
+3. Espectro mixto en mecanicas cuantica y clasica. 20 hrs
+El problema del pozo de potencial. Estados libres y estados ligados. Representacion espectral en terminos
+
+del espectro puntiforme y el continuo. Potenciales sin reflexion y la representacion espectral asociada con
+ellos.   Ondas   elasticas   acopladas   con   vibraciones   en   estructura.   Atrapamiento   de   energia   y   resonancias.
+Amortiguamiento por radiacion.
+
+4. El problema del calentamiento de la Tierra. Propagacion de calor en una esfera. Polinomios armonicos y
+representacion espectral de operadores diferenciales en dos variables. Concentracion de calor y asintotica de
+los polinomios de Legendre. 10 hrs
+
+5. Transformadas de Laplace y propagacion de frentes de onda. 5 hrs
+El problema de valores iniciales para la ecuacion de onda. Velocidad finita de propagacion. Soluciones
+
+discontinuas usando la   transformada de Laplace.  Inversion  de transformada usando la variable  compleja.
+Velocidad de senal y velocidad de grupo. Ondas dispersivas y precursores. Solucion a la ecuacion de ondas
+en tres dimensiones combinando transformada de Laplace y tridimensional de Fourier.
+
+6. Estabilidad de oscilaciones y funciones de Mathieu. Bandas de estabilidad e inestabilidad. Separacion de
+variables en coordenadas elipsoidales y problemas de potencial. 5 hrs
+
+PROBLEMAS SUGERIDOS PARA UN TRATAMIENTO COMPLETO
+Difraccion por esferas y conos.
+Integral de Fresnel.
+El atomo de hidrogeno.
+Vortices en fluidos.
+Potencial de diferentes distribuciones.
+Olas en playas.
+Cuerdas y resortes.
+Placas con calentamiento y enfriamiento de Newton.
+Bandas de conduccion y zonas de Brillouin.
+
+Bibliografia basica
+Arfken, J., 1966, Mathematical methods of physics, Academic Press, N.Y., USA.
+Friedman, B., 1956, Principles and techniques of applied mathematics, John Wiley & Sons, USA.
+Keener, A., 1988, Principles of applied mathematics, transformations and approximations, Addison
+
+Wesley, USA.
+Lebedev, N.N., 1970, Special functions and their applications, ed. Dover, N.Y., USA.
+Weinberger, H.F., 1969, Partial differential equations, ed. Ginn Blaisdell.
+Whithaker & Watson, 1927, A course in modern analysis, Cambridge University Press, UK.
+
+Bibliografia complementaria
+Courant, R., Hilbert, D., 1989, Mathematical methods of physics, ed. Dover, N.Y., USA.
+Jeffreys & Jeffreys, 1946, Mathematical physics, Cambridge University Press, UK.
+Kevorkian, J., 1980, Perturbation methods in applied mathematics, ed. SpringerVerlag, Alemania.
+Kevorkian, J., 1990, Partial differential equations, analytical solution techniques, ed. Wordsworth.
+
+

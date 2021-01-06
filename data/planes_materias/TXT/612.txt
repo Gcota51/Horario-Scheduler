@@ -1,0 +1,161 @@
+____________________________________________________________________
+CLAVE: 0612 MODALIDAD: Curso
+SEXTO SEMESTRE CARACTER: Obligatorio
+CREDITOS: 12 REQUISITOS:   Fenomenos   Colectivos,
+
+Electromagnetismo I
+_____________________________________________________________________________________
+HORAS POR CLASE TEORICAS: 2
+HORAS POR SEMANA TEORICAS: 6
+HORAS POR SEMESTRE TEORICAS: 96
+_____________________________________________________________________________________
+
+Objetivos
+Ensenar  las  leyes basicas de  la   termodinamica de equilibrio,  asi  como algunas  de sus aplicaciones a  los
+sistemas fisicos mas importantes en la formacion de un fisico, como son la radiacion del cuerpo negro, las
+transiciones de fase y las reacciones quimicas. Se ofrece tambien una introduccion a la termodinamica fuera
+de equilibrio.
+
+Metodologia de la ensenanza
+Exposicion del temario por el profesor frente al pizarron.
+Se debe establecer un programa de simulaciones numericas que permitan al estudiante dominar este campo.
+
+Evaluacion del curso
+Mediante   examenes,   tareas,   lectura   de   articulos   en   revistas   de   ensenanza   y/o   investigacion   al   nivel   de
+licenciatura en fisica.
+
+Temario
+
+1. INTRODUCCION 5 hrs
+1.1Objetivo, alcance y metodo de la termodinamica.
+1.2 El objeto o sistema fisico de la termodinamica.
+1.3 Naturaleza del estado fisico y de las variables del sistema termodinamica.
+1.4 Tipos de fronteras o  paredes: adiabaticas, diatermicas, permeables e  impermeables,  rigidas y
+
+moviles.
+1.5 Equilibrio.
+1.6 Termostatica y termodinamica.
+
+2. LA LEY CERO Y LA TEMPERATURA 6 hrs
+2.1 Equilibrio adiabatico.
+2.2 Equilibrio diatermico.
+2.3 Equilibrio termodinamico.
+2.4 Ley cero de la termodinamica.
+2.5 Existencia de la temperatura y la ecuacion de estado de un sistema termodinamico.
+2.6 Medicion de la temperatura, escalas, significado del cero en cada escala.
+2.7 "Violaciones" a la ley cero y su significado.
+
+3. EJEMPLOS DE SISTEMAS TERMODINAMICOS 6 hrs
+3.1 Sistemas ideales y reales (gases, magnetos, dielectricos, radiacion electromagnetica, alambres,
+
+etc.): ecuaciones de estado.
+3.2 Fenomenologia del comportamiento termodinamico de las sustancias, segun la tabla periodica de
+
+los elementos.
+
+
+
+4. LA PRIMERA LEY DE LA TERMODINAMICA 9 hrs
+4.1 Procesos cuasiestaticos, reversibles y reales.
+4.2 Trabajo y calor en procesos termodinamicos.
+4.3 Trabajo adiabatico y primera ley de la termodinamica. Energia interna.
+4.4 Capacidades termicas.
+4.5   Motores   y   refrigeradores.   Otros   dispositivos   termodinamicos,   abiertos   o   cerrados:
+
+intercambiadores de calor, toberas, turbinas, bombas de calor, etc.
+4.6 Eficiencia de dispositivos termodinamicos.
+
+5. APLICACIONES DE LA PRIMERA LEY 6 hrs
+5.1 Procesos con gases y otros sistemas termodinamicos.
+5.2 Reacciones quimicas. 
+5.3 "Calores latentes".
+5.4 La superficie de la energia interna en funcion de las variables de estado independientes.
+
+6. LA SEGUNDA LEY DE LA TERMODINAMICA 12 hrs
+6.1   Procesos   ciclicos   reversibles   e   irreversibles   en   sistemas   compuestos:   sistema   de   interes   y
+
+alrededores.
+6.2 Formulacion en terminos de motores termicos. Enunciados de Kelvin, Planck y Clausius.
+6.3.Teorema y corolario de Carnot. Temperatura Kelvin.
+6.4 Teoremas de Clausius. Entropia. Principio de irreversibilidad. Principio del incremento de la
+
+entropia. Principio de la degradacion de la energia.
+6.5 Formulacion "a la Caratheodory". Superficies adiabaticas
+6.6   Exergia.   Eficiencias   de   tareas   y   de   dispositivos   termodinamicos.   Ahorro   de   exergia   y   uso
+
+eficiente de la energia.
+
+7. OTRAS CONSECUENCIAS Y APLICACIONES DE LA SEGUNDA LEY 6 hrs
+7.1 Ecuaciones TdS.
+7.2  Relaciones entre   las ecuaciones  de  estado: aplicaciones en  gases,   liquidos,  solidos, plasmas,
+
+radiacion electromagnetica en equilibrio.
+7.3 Relaciones entre las capacidades termicas, etc.
+7.4 El metodo de los procesos ciclicos. Ecuacion de ClausiusClapeyron.
+
+8. FORMULACION GIBBSIANA DE LA TERMODINAMICA 9 hrs
+8.1 Postulados basicos.
+8.2 Representaciones de la entropia y de la energia interna.
+8.3 Transformaciones de Legendre; potenciales termodinamicos.
+8.4 Relaciones de Maxwell.
+
+9. ESTABILIDAD TERMODINAMICA 6 hrs
+9.1 Condiciones de estabilidad y principios extremales. Equilibrios mecanico, termico y quimico.
+9.2 Aplicaciones: ecuacion de ClausiusClapeyron.
+9.3 Consecuencias sobre las susceptibilidades termodinamicas.
+9.4 Principio de Le ChatelierBraun.
+
+10. TRANSICIONES DE FASE 12 hrs
+10.1 Fenomenologia de las transiciones de fase para sustancias puras.
+10.2 Transiciones de fase de primero y segundo orden, "a la Ehrenfest". Ecuaciones de Ehrenfest
+10.3 "Transiciones de fase ordendesorden, a la Landau". Aplicaciones: magnetismo, superfluidez,
+
+superconductividad.
+10.4 Mezclas de sustancias no reaccionantes y reaccionantes. Regla de las fases de Gibbs.
+
+
+
+11. LA TERCERA LEY DE LA TERMODINAMICA 6 hrs
+11.1 Formulacion de la tercera ley en el contexto de la termoquimica.
+11.2 Aplicaciones a mezclas reactantes y transiciones de fases.
+11.3 Implicaciones en el comportamiento de las susceptibilidades termicas a bajas temperaturas.
+
+12. SOLUCION TERMODINAMICA DE PLANCK A LA RADIACION DE CUERPO NEGRO   9 hrs
+12.1 Descomposicion espectral de las variables termodinamicas.
+12.2 Descomposicion espectral en un proceso adiabatico, ley de Wien.
+12.3 Oscilador de Hertz en equilibrio con la radiacion de cuerpo negro.
+12.4 Comportamientos asintoticos a baja y alta frecuencia.
+12.5 Distribucion de Planck.
+
+13. TERMODINAMICA FUERA DEL EQUILIBRIO 6 hrs
+13.0 Conduccion, conveccion y radiacion de calor.
+13.1 Fluctuaciones
+13.2 Procesos cerca y lejos del equilibrio. Termodinamica irreversible lineal.
+13.3 Termodinamica de tiempo finito.
+
+Bibliografia basica
+Zemansky,  M.W.,  Dittman,  R.H.,  1990,  Calor  y   termodinamica,   sexta  edicion,  Editorial  McGrawHill,
+Mexico.
+Callen, H.,1985, Thermodynamics and an introduction to thermostatistics, second edition, John Wiley &
+
+Sons, USA.
+Garcia Colin, L., 1990, Introduccion a la termodinamica clasica, Editorial Trillas, Mexico.
+Pippard, A.B., 1966, Elements of classical thermodynamics, Cambridge University Press, UK.
+CriadoSancho, M., Introduccion conceptual a la termodinamica quimica, Editorial AC, Madrid, Espana.
+
+Bibliografia complementaria
+Sommerfeld,   A.,   1956,  Thermodynamics   and   statistical   mechanics,   Academic   Press,   USA.  (Para   la
+
+radiacion de cuerpo negro, de Planck).
+Kuhn, T.S., 1978, La teoria del cuerpo negro y la discontinuidad cuantica, 18941912, Alianza editorial,
+
+Espana.
+Mendelssohn, K., 1965, La busqueda del cero absoluto, Ediciones Guadarrama, Espana.
+Edelman, V., Cerca del cero absoluto, Editorial MIR, Moscu.
+Fermi, E., 1956, Thermodynamics, Dover Publications, USA.
+Planck, M., Treatise on thermodynamics, third edition, Dover Publications, USA.
+Moran, M.J., Shapiro, H.N., 1993, Fundamentos de termodinamica tecnica, Editorial Reverte, Mexico 
+
+ (para exergia).
+
+

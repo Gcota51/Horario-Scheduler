@@ -1,0 +1,153 @@
+
+CLAVE: 0339
+SEMESTRE: III
+CREDITOS:  10
+
+AREA: CIENCIAS DE LA COMPUTACION
+Requisitos:Introduccion a Ciencias de la Computacion 
+
+I
+
+HORAS POR CLASE
+CLASES POR SEMANA
+HORAS POR SEMESTRE
+
+TEORICA:   1
+TEORICA:   4
+TEORICA:  64
+
+TEORICO-PRACTICAS:   2
+TEORICO-PRACTICAS:   1
+TEORICO-PRACTICAS:  32
+
+Objetivos generales:
+Este curso continua con el desarrollo de las ideas fundamentales en el diseno y 
+desarrollo de software. Se introduce a los alumnos el concepto de tipo abstracto 
+de datos. Ese concepto se aplica a la implementacion de varias estructuras de 
+datos,  incluyendo stacks,  colas  y  arboles  binarios.  Se  revisan algoritmos de 
+busquedas y ordenamientos que utilizan estas estructuras de datos. Otros temas 
+incluyen recursividad, el ciclo de vida del software, especificacion de requisitos e 
+introduccion a verificacion de programas. Tambien en este curso se hace una 
+introduccion superficial a los problemas de complejidad de algoritmos.
+
+Temario:
+I. Especificacion, verificacion y validacion 8 horas
+
+Introduccion a los metodos y tecnicas para especificacion, verificacion 
+y validacion de sistemas de software.
+I.1 Tipos de especificaciones: Especificaciones operativas; especifi-
+
+caciones descriptivas; Construccion y uso de especificaciones.
+I.2 Verificacion.  Metas;  enfoques,  pruebas;  analisis;  ejecucion 
+
+simbolica; depuracion.
+I.3 Lectura de codigo y diseno, recorridos estructurados
+
+II. Tipos Abstractos de datos 4 horas
+Introduccion al  concepto de  tipo abstracto de dato (Abstract 
+Data Type) y la motivacion como una metodologia para separar 
+los detalles instrumentales de los de la aplicacion.
+
+II.1 Conceptos involucrados
+II.2 Instrumentacion de TAD (ADT) en un lenguaje de alto nivel, con 
+
+ejemplos.
+
+III.Estructuras de datos basicas 20 horas
+Introduccion a la definicion, implementacion y aplicaciones de 
+
+las estructuras de datos basicas y operadores asociados a ellas que 
+se encuentran en Ciencias de la Computacion. Estas incluyen listas, 
+arreglos, tablas, pilas o stacks, colas., arboles y graficas.
+
+III.1 Definicion  de  las  estructuras  de  datos  lineales.  Estructuras 
+secuenciales. Arreglos empacados.
+
+III.2 Uso de las estructuras de datos basicas
+III.3 Implementaciones  contiguas  y  ligadas;  ajuste  para  que 
+
+correspondan al problema planteado, incluyendo contraposicion 
+entre tiempo y espacio.
+
+
+
+III.4 Estructuras  multiples.  Busqueda,  insercion  y  remocion  de 
+elementos. Listas circulares y bidireccionales. Listas multiples.
+
+IV. Estructuras de datos no lineales 8 horas
+Definicion, implementacion y aplicaciones de las estructuras de 
+datos no lineales y operadores asociados a ellas con ejemplos 
+importantes tanto en Computacion como en otras areas de las 
+Matematicas.  Principalmente se veran todo tipo de estructuras 
+arborescentes, asi como la representacion de graficas.
+
+IV.1 Presentacion de las estructuras no lineales.  Arboles y estructuras 
+arborescentes.  Arboles  binarios.  Representacion  de  arboles 
+arbitrarios en base a arboles binarios.
+
+IV.2 Listas y recoleccion de basura. Asignacion dinamica de espacio.
+
+V.Busquedas y Ordenamientos 20 horas
+Comparacion  de  distintos  algoritmos  para  busquedas  y 
+ordenamientos  con  enfasis  en  el  balance  entre  complejidad y 
+espacio versus tiempo.
+
+V.1 Algoritmos  de  ordenamiento  de  orden  nlogn  (quicksort, 
+heapsort,  mergesort);  complejidad en el  tiempo y el  espacio: 
+mejor y peor casos.
+
+V.2 Otros  algoritmos  de  ordenamiento  (Algoritmo  de  Shell,  de 
+cubetas y de radicales)
+
+V.3 Comparacion de algoritmos
+V.4 Funciones de dispersion y resolucion de colisiones.
+V.5 Algoritmos  de  busqueda  y  manejo  de  arboles  balanceados: 
+
+arboles B y arboles AVL.
+V.6 Algoritmos de ordenamientos externos.
+
+Bibliografia:
+
+Basica:
+* Tucker, A.B.;Bradley, W.J.; Cupper, R.D.; Epstein, R.D.; Kelemen, C.F.,Fundamentals 
+
+of Computing, II: Abstraction, Data Structures, and Large Software 
+Systems, C++ Edition, McGraw-Hill, 1994.
+
+* Magidin, M.,  Estructuras De Datos,  Editorial Trillas, 1991
+Complementaria:
+* Aho, A. V.; Hopkroft, J. E.; Ullman, J. D.,  Estructuras De Datos Y Algoritmos, 
+
+Addison-Wesley Publishing Company, 1988
+* Baase, S., Computer Algorithms, Introduction to Design and Analysis, Addison-
+
+Wesley Publishing Company, 1990
+* Cormen, T. H.; Leierson, C. E.; Rivest, R. L.,  Introduction To Algorithms, 
+
+McGraw-Hill Book Company, 1990
+* Biggerstaff, T. J.; Perles A. J. edited by ,  Software Reusability, Volume I, II,  ACM 
+
+Press, Addison-Wesley Publishing Company, 1989
+* Ghezzi, C.; Jazayeri, M.; Mandrioli, D.,  Fundamentals Of Software Engineering, 
+
+Prentice-Hall Inc., 1991
+
+
+
+* Glass, R. L.,  Software Conflict, Essays on the Art and Science of Software 
+Engineering,  Yourdon Press Computing Series, 1991
+
+* Gehani, N.; McGettrick, A.D. ; Editores.,  Software Specificatio Techniques, 
+Addison-Wesley Publishing Company, 1980
+
+* Gries, D., Editor,  Programming in the 1990s, An Introduction to the Calculation 
+of Programs,  Springer Verlag, 1990
+
+* Dijkstra, W. E. Editor,  Formal Development Of Programs And Proofs,  Addison-
+Wesley Publishing Company, 1990
+
+--------------------------
+
+
+	INTRODUCCION A CIENCIAS DE LA COMPUTACION II
+

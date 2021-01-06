@@ -1,0 +1,143 @@
+ESTRE: V
+CREDITOS:  10
+
+AREA: CIENCIAS DE LA COMPUTACION
+Requisitos: Introduccion a Ciencias de la 
+
+Computacion II
+
+HORAS POR CLASE
+CLASES POR SEMANA
+HORAS POR SEMESTRE
+
+TEORICA:   1
+TEORICA:   5
+TEORICA:  64
+
+TEORICO-PRACTICAS:   2
+TEORICO-PRACTICAS:   1
+TEORICO-PRACTICAS:  32
+
+Objetivos generales:
+Este  curso introduce sistemas digitales,  sus modelos  matematicos y  su 
+realizacion en hardware. Los temas incluyen elementos logicos, tecnicas de 
+minimizacion,  organizacion  de  sistemas  de  memoria  y  arquitectura, 
+interfases y comunicacion de datos y arquitecturas alternativas incluyendo 
+multiprocesadores y maquinas hipercubo.
+
+Temario:
+I. Logica Digital 17 horas
+
+La idea  de bloques simples para la construccion de sistemas, 
+implementados en diferentes tecnologias. Consideraciones fisicas 
+tales como retrasos (delays), abanicos de entrada y salida (fan-in, 
+fan-out). El uso de un dispositivo de escala media de integracion 
+(MSI) (un dispositivo logico programable PLD) para implementar 
+funciones complejas en un solo chip. Tipos comunes de flipflops. 
+Representacion  de  circuitos  sincronos  secuenciales  y  su 
+operacion, descritos a traves de diagramas de estado y tablas. 
+Operacion  cronometrada  y  efectos  de  corrimiento  de  acarreo, 
+dispositivos MSI y su uso para lograr muchas de las funciones 
+logicas basicas. Interconexion de unidades grandes.
+
+I.1 Elementos  logicos  basicos  y  teoria  de  conmutacion; 
+minimizacion e implementacion de funciones
+
+I.2 Propagacion de retardos y peligros
+I.3 Tecnologias; tipos de flipflops
+I.4 Dispositivos  (demultiplexores,  multiplexores,  decodificadores, 
+
+codificadores,  sumadores,  restadores,  comparadores,  registros 
+de corrimiento, contadores, dispositivos tipo PLD)
+
+I.5 Memorias (ROM, PROM, EPROM, EAROM, RAM)
+I.6 Analisis y sintesis de circuitos sincronos; circuitos sincronos vs. 
+
+circuitos asincronos
+
+II. Sistemas Digitales 9 horas
+La transferencia de informacion de un dispositivo de almacenaje a 
+otro  y  los  medios  para  controlar  el  flujo  de  los  datos.  Las 
+funciones  electronicas  de  dispositivos  de  tres  estados,  las 
+estructuras de bus y los conceptos de control de datos. Diversas 
+maneras para describir disenos
+
+II.1 Notacion  para  la  transferencia  entre  registros,  condicional  e 
+incondicional
+
+
+
+II.2 Maquinas  algoritmicas  de  estados,  redes  de  conduccion 
+(steering) y senales de transferencia de carga
+
+II.3 Tres estados y estructuras de bus
+II.4 Iteracion, descendente/ascendente, divide y venceras
+II.5 Descomposicion, balances, economias
+II.6 Diagramas  de  bloque,  diagramas  de  tiempo,  lenguaje  de 
+
+transferencia
+
+III. Organizacion y arquitectura de sistemas de memoria 18 horas
+Consideraciones respecto a la implementacion fisica de grandes 
+sistemas de memoria, junto con las tecnicas de almacenamiento y 
+chequeo  de   datos.  Conceptos  generales  de  memoria  virtual, 
+memoria  cache y  las  consecuencias  de  las  arquitecturas 
+multiprocesa-dor/multicache. Discusion detallada del proceso de 
+Acceso directo a memoria (DMA) asi como las tecnicas para el 
+manejo  de  fallas  y  de  aquellos  factores  que  afectan  la 
+confiabilidad.
+
+III.1 Sistemas de almacenamiento y su tecnologia
+III.2 Codificacion,  compresion  de  informacion,  integridad  de  la 
+
+informacion
+III.3 Asignacion de espacio, jerarquias
+III.4 Organizacion de la memoria central, operacion del bus, tiempos 
+
+para los ciclos de seleccion y direccionamiento
+III.5 Memoria cache, lectura/escritura
+III.6 Memoria virtual
+III.7 Sistemas que utilizan bus, control, DMA
+III.8 Manejo de fallas, confiabilidad
+
+IV. Interfases y comunicacion 8 horas
+Control de entrada y salida y como se logra. Tecnicas para el 
+manejo de interrupciones
+
+IV.1 Metodos de control de entrada y salida, interrupciones
+IV.2 Reconocimiento de la interrupcion
+IV.3 Sincronizacion, ciclo abierto, de saludo (handshake)
+IV.4 Almacenamiento externo, organizacion fisica y manejadores
+
+V. Arquitecturas alternas 8 horas
+Comparacion  de  maquinas  de  stack,  vectoriales,  de 
+multiprocesadores, hipercubos, RISC y CISC. Introduccion al tema 
+general de computadoras paralelas
+
+V.1 Comparaciones
+V.2 CISC, RISC
+V.3 Arquitecturas paralelas (VLIW, SISD, MISD, SIMD, MIMD)
+V.4 Acoplamiento apretado
+
+Bibliografia:
+
+Basica:
+* Mano, M. M.,  Digital Design, Second edition,  Prentice Hall Inc., 1991
+
+
+
+Complementaria:
+
+* Tanenbaum, A. S.,  Structured Computer Organization, 3rd. Edition,  Prentice-
+Hall International, 1990
+
+* Hall, D. V.,  Microprocessors And Interfacing, Programming and Hardware, 
+McGraw-Hill International Editions, Computer Science Series, 1986.
+
+* Sandige, R. S., Modern Digital Design, McGraw-Hill, 1990.
+* Spruth, W., The Design of a Microprocessor, Springer-Verlag, 1989.
+--------------------------
+
+
+	DISENO DE SISTEMAS DIGITALES
+

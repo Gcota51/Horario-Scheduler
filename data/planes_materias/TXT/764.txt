@@ -1,0 +1,115 @@
+FACULTAD DE CIENCIAS
+
+CARRERA DE MATEMATICO
+
+TEORIA DE LOS NUMEROS I
+
+SEMESTRE: Segundo al cuarto
+CLAVE: 0764
+
+HORAS A LA SEMANA/SEMESTRE
+
+TEORICAS PRACTICAS CREDITOS
+5/80 0 10
+
+CARACTER: OPTATIVO.
+MODALIDAD: CURSO.
+SERIACION INDICATIVA ANTECEDENTE: Algebra Superior II, Calculo Diferen-
+cial e Integral I, Geometria Analitica I.
+SERIACION INDICATIVA SUBSECUENTE: Teoria de los Numeros II.
+
+OBJETIVO(S): Introducir al alumno a los conceptos y resultados fundamentales de la
+Teoria de los Numeros.
+
+NUM. HORAS UNIDADES TEMATICAS
+
+25 1. Divisibilidad
+1.1 Principio de induccion matematica.
+1.2 Algoritmo de la division.
+1.3 Numeros primos y compuestos.
+1.4 Maximo comun divisor.
+1.5 Ecuaciones diofantinas lineales.
+1.6 Teorema fundamental de la aritmetica.
+1.7 Suma de divisores. Numero de divisores.
+1.8 Numeros perfectos, de Mersenne, de Fermat.
+1.9 Funcion d de Euler.
+1.10 Funcion W , Formula de inversion de Mobius.
+
+25 2. Teoria de congruencias
+2.1 Propiedades basicas de congruencias.
+2.2 Sistemas completos y reducidos de residuos modulo m.
+2.3 Teoremas de Euler, de Fermat, de Wilson.
+2.4 Congruencias lineales. Ecuaciones diofantinas.
+2.5 Teorema chino del Residuo.
+2.6 Sistemas de congruencias lineales.
+2.7 Congruencias cuadraticas.
+
+1
+
+
+
+10 3. Aplicaciones de la teoria de congruencias
+3.1 Criptografia.
+3.2 Practicas de Computo. Algoritmos.
+
+20 4. Reciprocidad cuadratica
+4.1 Residuos cuadraticos.
+4.2 Reciprocidad cuadratica.
+4.3 Los simbolos de Jacobi y de Legendre.
+4.4 Metodo de descenso infinito.
+4.5 Suma de tres o cuatro cuadrados.
+4.6 Suma de dos cuadrados.
+4.7 Ternas pitagoricas.
+4.8 Teorema de Fermat.
+4.9 Curvas elipticas.
+
+BIBLIOGRAFIA BASICA:
+
+1. Andrews, G., Number Theory, New York: Dover, 2000.
+
+2. Goldman, J., The Queen of Mathematics. A Historically Motivated, Welleslay Mas-
+sachusetts: A. K. Peters, 1998.
+
+3. Jones, G., Jones, M., Elementary Number Theory, New York: Springer Verlag, 2001.
+
+4. Koshy, T., Elementary Number Theory with Applications, San Diego: Har-
+court/Academic Press, 2002.
+
+5. Nathanson, M., Elementary Methods in Number Theory, New York: Springer Verlag,
+2000.
+
+6. Niven, I., Zuckerman, H., Montgomery, H. , An Introduction to the Theory of Num-
+bers, New York: J. Wiley, 1991.
+
+7. Pineda R. M., Aritmetica y Teoria de Grupos, Mexico: UAM-Iztapalapa, 1995.
+
+8. Vinogradov, I., Fundamentos de la Teoria de los Numeros, Moscu: MIR, 1977.
+
+2
+
+
+
+BIBLIOGRAFIA COMPLEMENTARIA:
+
+1. Dickson, L., History of the Theory of Numbers, Providence, Rhode Island: American
+Mathematical Society: Chelsea, 1999.
+
+2. Hardy G., Wright, E., An Introduction to the Theory of Number, Oxford: Clarendon
+Press, 1979.
+
+3. Koblitz, N., A Course in Number Theory and Cryptography, New York: Springer
+Verlag, 1994.
+
+SUGERENCIAS DIDACTICAS: Lograr la participacion activa de los alumnos mediante
+exposiciones.
+
+SUGERENCIA PARA LA EVALUACION DE LA ASIGNATURA: Ademas de las califi-
+caciones en examenes y tareas se tomara en cuenta la participacion del alumno.
+
+PERFIL PROFESIOGRAFICO: Matematico, fisico, actuario o licenciado en ciencias de
+la computacion, especialista en el area de la asignatura a juicio del comite de asignacion
+de cursos.
+
+3
+
+

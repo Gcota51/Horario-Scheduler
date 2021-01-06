@@ -1,0 +1,281 @@
+A DE MEXICO 
+
+ 
+Facultad de Ciencias 
+
+ 
+Plan de estudios de la Licenciatura en  
+
+Matematicas 
+ 
+
+Variable Compleja I 
+ 
+
+Clave 
+0840 
+
+Semestre 
+5 
+
+Creditos 
+10 
+
+Area de 
+conocimiento 
+
+ 
+
+Campo 
+ 
+
+ 
+
+Etapa 
+ 
+
+ 
+
+Modalidad 
+Curso (X ) Taller ( ) Lab ( ) Sem ( ) 
+ 
+ 
+
+Tipo T ( X )     P (  )    T/P  (  )  
+
+Caracter 
+Obligatorio (X )             Optativo ( ) 
+ 
+Obligatorio E ( )        Optativo E ( )  
+
+Horas 
+
+ Semana Semestre  
+
+ Teoricas         5 Teoricas          80 
+
+ Practicas        0 Practicas         0 
+
+ Total               5 Total                 80 
+
+ 
+
+Seriacion 
+ 
+
+Ninguna (   ) 
+
+Obligatoria (   ) 
+
+Asignatura antecedente 
+ 
+
+ 
+
+Asignatura subsecuente 
+ 
+
+ 
+
+Indicativa ( X  ) 
+
+Asignatura antecedente 
+ 
+
+Calculo Diferencial e Integral IV 
+
+Asignatura subsecuente 
+ 
+
+Ninguna 
+
+ 
+
+Objetivo general: 
+ 
+
+ Entender las propiedades y caracterizaciones (geometricas y algebraicas) de las funciones 
+analiticas. 
+
+ Conocer la teoria de integracion de las funciones complejas, tanto en sus bases como en 
+sus aplicaciones al estudio mismo de las funciones analiticas. 
+
+ Manejar las series de potencias para representar funciones alrededor de un punto donde la 
+funcion en analitica, asi como alrededor de puntos donde la funcion tiene una singularidad 
+aislada. 
+
+ Aprender a utilizar el metodo de calculo de residuos para calcular integrales. 
+ 
+
+
+
+ 
+ 
+
+Indice tematico 
+
+ Tema  
+
+Horas 
+ semestre  
+
+Teoricas Practicas 
+
+1 Preliminares y analicidad 20 0 
+
+2 Integracion 20 0 
+
+3 Series 20 0 
+
+4 Teorema del residuo y aplicaciones 20 0 
+
+Subtotal 80 0 
+
+Total 80 
+
+ 
+
+Contenido Tematico 
+
+ Tema y subtemas 
+
+1 Preliminares y analicidad 
+
+ 
+
+1.1 Algebra y geometria compleja. 
+1.2 Proyeccion estereografica. Metrica cordal (opcional). 
+1.3 Funciones elementales: racionales, exponenecial, trigonometricas. 
+1.4 Funciones multivaluadas: Ramas de logaritmo, potencias, raices. 
+1.5  Geometria de estas funciones. 
+1.6 Analicidad, ecuaciones de Cauchy-Riemann 
+1.7 Conformalidad, teorema de la funcion inversa. 
+1.8 Diferenciacion de las funciones elementales, dominios analiticos, puntos 
+
+rama y  cortes rama. 
+ 
+
+2 Integracion 
+
+ 
+
+2.1 Integral compleja, el teorema fundamental del calculo, cotas  
+            superiores de integrales. 
+2.2 Lema de Goursat, teorema de primitivas locales. 
+2.3 Teorema de Cauchy. 
+2.4 Teorema de la deformacion y de Cauchy con homotopia (opcional). 
+2.3  Teorema de Morera. 
+2.4  Integrales de tipo Cauchy, indice, formulas integrales de Cauchy. 
+2.5  Teoremas de Liouville y fundamental del algebra. 
+2.6  Lema de Schwartz y teorema del modulo maximo par funciones analiticas y 
+
+armonicas. 
+2.7  Funciones armonicas conjugadas, problema de Dirichlet y formula de 
+
+Poisson. 
+2.8  Flujos de fluidos, lineas de flujo y funcion corriente (opcional) 
+2.9  Principio del argumento, teorema de Rouche (opcional) 
+
+ 
+
+3 Series 
+
+ 
+
+3.1 Criterio M de Weierstrass, teorema de Weierstrass o de la convergencia 
+analitica. 
+
+3.2  Lema de Abel, teorema de Taylor, criterios para el radio de convergencia, 
+producto de series de potencias. 
+
+3.3 Teorema de Laurent. 
+3.4 Singularidades, clasificacion de singularidades, teorema de Casorati-
+
+Weisrstrass. 
+
+
+
+3.5 Ejemplos elementales de continuacion analitica (opcional). 
+3.6 Calculo de residuos. 
+ 
+
+4 Teorema del residuo y aplicaciones 
+
+ 
+
+4.1 Teorema del residuo. 
+4.2 Calculo de integrales impropias de funciones racionales, calculo de 
+
+integrales trigonometricas. 
+4.3 Calculo de integrales definidas por la transformada de Fourier y Laplace de 
+
+funciones O grande de 1/z, cuando z tiende a infinito (opcional). 
+4.4 Calculo de integrales usando cortes rama (opcional). 
+
+ 
+ 
+
+Estrategias didacticas Evaluacion del aprendizaje 
+
+Exposicion                                                    (X) Examenes parciales                (X) 
+
+Trabajo en equipo                                         (  ) Examen final                  (X) 
+
+Lecturas                                                         (  ) Trabajos y tareas                  (X) 
+
+Trabajo de investigacion                               (  ) Presentacion de tema                 (  ) 
+
+Practicas (taller o laboratorio)                       (  ) Participacion en clase                            (X) 
+
+Practicas de campo                                       (  ) Asistencia                                                 (  ) 
+
+Aprendizaje por proyectos                            (  ) Rubricas                                                   (  ) 
+
+Aprendizaje basado en problemas               (  ) Portafolios                                                (  ) 
+
+Casos de ensenanza                                    (  ) Listas de cotejo                                        (  ) 
+
+Otras (especificar) Otras (especificar) 
+
+  
+
+  
+
+ 
+ 
+
+Perfil profesiografico 
+
+Titulo o grado Matematico, fisico o licenciado en otra carrera afin. 
+
+Experiencia docente Con experiencia docente 
+
+Otra caracteristica Especialista en el area de la asignatura a juicio del comite de asignacion 
+de cursos. 
+
+ 
+ 
+
+Bibliografia basica: 
+ 
+
+ Ahlfors, L.V. Complex Analysis,. Mexico: McGraw-Hill, 1979 
+
+ Churchill, R.V. , Complex variables and Applications,New York, McGraw- Hill, 1996 
+
+ Lascurain, A., Notas para el curso de Variable Compleja I, Vinculos Matematicos #3, 
+Mexico,Facultad de Ciencias, 2000 
+
+ Marsden, J.E.,  Analisis Basico de Variable Compleja, Mexico, Trillas, 1996 
+ 
+
+Bibliografia complementaria: 
+ 
+
+ Markusevich, A., Teoria de las Funciones Analiiticas, Moscu, MIR, 1978. 
+
+ Titchmarsh, E.C., The Theory of Functions, Oxford, UK: Oxford Univ. Press.  
+
+ 
+
+

@@ -1,0 +1,85 @@
+FACULTAD DE CIENCIAS
+
+CARRERA DE MATEMATICO
+
+INTRODUCCION MATEMATICA A LA MECANICA CELESTE
+
+SEMESTRE: Quinto o sexto
+CLAVE: 0356
+
+HORAS A LA SEMANA/SEMESTRE
+
+TEORICAS PRACTICAS CREDITOS
+5/80 0 10
+
+CARACTER: OPTATIVO.
+MODALIDAD: CURSO.
+SERIACION INDICATIVA ANTECEDENTE: Algebra Lineal II, Calculo Diferencial
+e Integral IV, Ecuaciones Diferenciales I.
+SERIACION INDICATIVA SUBSECUENTE: Ninguna.
+
+OBJETIVO(S): El proposito de este curso es introducir al alumno en la formulacion ma-
+tematica de la Mecanica Celeste. Partiendo de principios fisicos muy basicos, se va cons-
+truyendo la estructura matematica para formular el problema de dos cuerpos en presencia
+de fuerzas centrales, el problema restringido de tres cuerpos en el plano y la metodologia
+para estudiar las perturbaciones del problema de Kepler.
+
+NUM. HORAS UNIDADES TEMATICAS
+
+20 1. Fuerzas centrales y el problema de Kepler
+1.1 Problema de Fuerzas Centrales.
+1.2 Leyes de Kepler.
+1.3 Elementos Orbitales.
+1.4 Expansiones del Movimiento Eliptico.
+
+20 2. Problemas de muchos cuerpos
+2.1 El Sistema Solar.
+2.2 Variaciones sobre los Elementos Orbitales.
+2.3 El Problema de N-Cuerpos.
+2.4 Leyes de Conservacion.
+
+20 3. El problema de tres cuerpos.
+3.1 El Problema de Tres Cuerpos.
+3.2 Coordenadas de Jacobi.
+3.3 El Problema Restringido de Tres Cuerpos.
+3.4 Curvas de Velocidad Cero.
+3.5 Puntos de Equilibrio de Lagrange y de Euler.
+
+1
+
+
+
+20 4. Teoria de Perturbaciones.
+4.1 Perturbaciones de Primer Orden.
+4.2 Problema Eliptico.
+4.3 Teoria de Hill y teoria del Movimiento de la Luna.
+
+BIBLIOGRAFIA BASICA:
+
+1. Grossman, N., The Sheer Joy of Celestial Mechanics, Boston: Birkhauser, 1995.
+
+2. Moulton, F. R., An Introduction to Celestial Mechanics, New York: Dover, 1970.
+
+3. Pollard, H., Mathematical Introduction to Celestial Mechanics, New Jersey: Prentice
+Hall, 1966.
+
+BIBLIOGRAFIA COMPLEMENTARIA:
+
+1. Chebotarev, G. A., Analytical and Numerical Methods of Celestial Mechanics, New
+York: American Elsevier, 1967.
+
+2. Sternberg, S., Celestial mechanics, New York: W. A. Benjamin, 1966.
+
+SUGERENCIAS DIDACTICAS: Lograr la participacion activa de los alumnos mediante
+exposiciones.
+
+SUGERENCIA PARA LA EVALUACION DE LA ASIGNATURA: Ademas de las califi-
+caciones en examenes y tareas se tomara en cuenta la participacion del alumno.
+
+PERFIL PROFESIOGRAFICO: Matematico, fisico, actuario o licenciado en ciencias de
+la computacion, especialista en el area de la asignatura a juicio del comite de asignacion
+de cursos.
+
+2
+
+
