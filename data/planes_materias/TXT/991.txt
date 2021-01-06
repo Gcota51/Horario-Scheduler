@@ -1,0 +1,142 @@
+
+Plan de Estudios de la Licenciatura de Actuaria 
+
+Materias Optativas  198 
+
+SEMINARIO DE INVESTIGACION DE OPERACIONES 
+
+CLAVE:    
+SEMESTRE:                        6 - 8 
+CREDITOS:                            10  
+
+SECTOR:                                                      OPTATIVO 
+AREA:                                              INVESTIGACION DE  
+                                                                          OPERACIONES Y PLANEACION 
+SERIACION:                                                                                  
+ASIGNATURA PRECEDENTE INDICATIVA: Materias del sector basico del Area 
+de Investigacion de Operaciones y Planeacion 
+ASIGNATURA SUBSECUENTE INDICATIVA: Ninguna 
+
+HORAS POR CLASE
+CLASES POR SEMANA
+HORAS POR SEMESTRE
+
+TEORICA:        1 
+TEORICA:        5 
+TEORICA:      80 
+
+PRACTICAS:      0 
+PRACTICAS:      0 
+PRACTICAS:      0 
+
+Objetivos generales: El alumno: 
+ Tendra una vision general de algunos modelos de optimizacion no lineal
+ Tendra una vision general de los algoritmos para resolverlos
+ Tendra una vision general de algunos modelos de optimizacion estocastica
+ Conocera diversos algoritmos para resolver cada problema con diferentes restricciones
+ Conocera tecnicas  para resolver  problemas de decisiones secuenciales lineales y no lineales  
+
+1. Introduccion         5 horas 
+
+2. Teoria de inventarios        15 horas
+
+2.1 Definicion de los modelos de inventarios 
+2.2 El modelo de tamano economico de lote.  
+
+ Caso donde se satisface completa e inmediatamente la demanda 
+ Caso con faltantes 
+ Caso con ventas perdidas 
+ Caso de demanda entera 
+ Caso de produccion 
+
+2.3 Un modelo estocastico de inventarios 
+2.4 Restricciones de capacidad y presupuesto 
+
+3. Teoria de decisiones multicriterio      15 horas
+
+3.1 Modelos clasicos 
+3.2 Modelo de suma ponderada 
+3.3 Algoritmo Electra I 
+3.4 Algoritmo Electra II 
+
+4. Teoria de lineas de espera       15 horas
+
+4.1 Definicion y clasificacion de las lineas de espera 
+4.2 Descripcion cuantitativa de lineas de espera 
+4.3 Una cola - un servidor - poblacion infinita 
+4.4 Una cola - un servidor - poblacion finita 
+4.5 Una cola - servidores multiples en paralelo - poblacion infinita 
+
+
+
+Plan de Estudios de la Licenciatura de Actuaria 
+
+Materias Optativas  199 
+
+4.6 Una cola - servidores multiples en paralelo - poblacion finita 
+4.7 Una cola - servidores en serie 
+4.8 Politica de servicio con prioridades en una cola  
+
+5. Simulacion          15 horas
+
+5.1 El proceso de simulacion      
+5.2 Generacion de numeros aleatorios 
+5.3 Generacion de variables aleatorias 
+5.4 Aplicacion a teoria de lineas de espera 
+
+6.  Programacion dinamica        15 horas
+
+6.1 Conceptos basicos 
+6.2 El problema de la ruta mas corta 
+6.3 El problema basico de programacion dinamica 
+6.4 Funciones objetivo programacion dinamica 
+6.5 El problema basico estocastico 
+6.6 Ejemplos de aplicacion 
+6.7 El paquete de computo DYNPRO 
+
+Bibliografia basica: 
+ Ackoff, R. L. y Sasieni M. Fundamentos de Investigacion de Operaciones. LIMUSA, 1975. 
+ Bertsekas. Dynamic Programming Models. Prentice Hall, 1987. 
+ Churchman, C. W. El enfoque de sistemas. Diana, 1973. 
+ Denardo. Dynamic Programming Models. Prentice Hall, 1987. 
+ Eppen Gould, Schmidt. Introductory Management Sciences. Prentice Hall, 1991. 
+ Goicochea. Multiobjetive Decision. John Wiley, 1982. 
+ Hadley. Analysis of Inventory Systems. Prentice Hall, 1963. 
+ Hiller, F. S. y Lieberman, C. J. Introduction to Operations Research. Holden-Day, Inc., 1980. 
+
+Bibliografia complementaria:
+
+ Phillips, D. T., Ravindran, A. y Solberg, J.J. Operations Research: Principles and Practice. John Wiley & 
+Sons, 1976. 
+
+ Prawda, J. Metodos y Modelos de Investigacion de Operaciones. Vol. 1 y 2, LIMUSA, 1984. 
+ Taha, H. Operations Research. An Introduction. 6a. ed. McMillan, 1992. 
+ Wagner, H. M. Principles of Operations Research. Prentice Hall 1975. 
+ Winston, W. Operations Research. Applications and Algorithms. 3a. ed. Prentice Hall-Kent, 1993. 
+
+Sugerencias didacticas 
+
+Se recomiendan: 
+Tareas semanales en las cuales el alumno aplique el material visto en clase. 
+Trabajos de investigacion bibliografica para que el alumno amplie sus conocimientos. 
+Practicas de computo para la experimentacion con los algoritmos vistos en clase. 
+Analisis de casos practicos.  
+
+Forma de evaluacion: 
+
+
+
+Plan de Estudios de la Licenciatura de Actuaria 
+
+Materias Optativas  200 
+
+Se recomiendan de 3 a 4 examenes parciales y un examen final, asi como la realizacion de tareas sobre los temas  
+vistos en clase para reforzar los conocimientos teoricos adquiridos. 
+
+Perfil profesiografico 
+
+El profesor que imparta el curso debera ser egresado de las carreras de Actuaria, Matematicas o alguna afin, de 
+preferencia tener un postgrado, y debera tener experiencia docente en el area o en las aplicaciones de la 
+Investigacion de Operaciones. 
+
+
