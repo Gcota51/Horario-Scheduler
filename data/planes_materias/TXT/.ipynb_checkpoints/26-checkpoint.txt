@@ -1,0 +1,70 @@
+FACULTAD DE CIENCIAS
+
+CARRERA DE MATEMATICO
+
+ANALISIS DE FOURIER I
+
+SEMESTRE: Septimo u octavo
+CLAVE: 0026
+
+HORAS A LA SEMANA/SEMESTRE
+
+TEORICAS PRACTICAS CREDITOS
+5/80 0 10
+
+CARACTER: OPTATIVO.
+MODALIDAD: CURSO.
+SERIACION INDICATIVA ANTECEDENTE: Algebra Lineal I, Variable Compleja I.
+SERIACION INDICATIVA SUBSECUENTE: Analisis de Fourier II.
+
+OBJETIVO(S): En este curso teniendo a mano una clase mas amplia de funciones como
+son las del espacio Lp, los objetivos son como los del curso anterior correspondiendo a esta
+clase mas amplia. En las aplicaciones se presentan las correspondientes a una clase mas
+amplia de ecuaciones en derivadas parciales: lineales con coeficientes variables.
+
+NUM. HORAS UNIDADES TEMATICAS
+
+20 1. Espacios metricos y normados
+1.1 Bases en espacios de Hilbert.
+
+20 2. Series de Fourier
+
+20 3. La transformada de Fourier
+
+20 4. La transformada discreta y rapida de Fourier
+
+BIBLIOGRAFIA BASICA:
+
+1. Folland, G.B., Fourier Analysis and its Applications, Pacific Grove, California: Wad-
+sworth & Brooks, 1992.
+
+2. Korner, T., Fourier Analysis, Cambridge: Cambridge University Press, 1988.
+
+3. Seeley, R.T., An Introduction to Fourier Series and Integrals, New York: W. A.
+Benjamin, 1966.
+
+1
+
+
+
+BIBLIOGRAFIA COMPLEMENTARIA:
+
+1. Bachman, G., Narici, L., Fourier and Wavelet Analysis, New York: Springer-Verlag,
+2000.
+
+2. Dym, H., McKean, H.P., Fourier Series and Integrals, New York: Academic Press,
+1972.
+
+SUGERENCIAS DIDACTICAS: Lograr la participacion activa de los alumnos mediante
+exposiciones.
+
+SUGERENCIA PARA LA EVALUACION DE LA ASIGNATURA: Ademas de las califi-
+caciones en examenes y tareas se tomara en cuenta la participacion del alumno.
+
+PERFIL PROFESIOGRAFICO: Matematico, fisico, actuario o licenciado en ciencias de
+la computacion, especialista en el area de la asignatura a juicio del comite de asignacion
+de cursos.
+
+2
+
+

@@ -1,0 +1,193 @@
+FACULTAD DE CIENCIAS
+
+CARRERA DE MATEMATICO
+
+CONJUNTOS Y LOGICA
+
+SEMESTRE: Segundo a cuarto
+CLAVE: 0271
+
+HORAS A LA SEMANA/SEMESTRE
+
+TEORICAS PRACTICAS CREDITOS
+5/80 0 10
+
+CARACTER: OPTATIVO.
+MODALIDAD: CURSO.
+SERIACION INDICATIVA ANTECEDENTE: Algebra Superior I.
+SERIACION INDICATIVA SUBSECUENTE: Logica Matematica I, Teoria de los Con-
+juntos I.
+
+OBJETIVO(S): Introducir al alumno al lenguaje y los conceptos de la Teoria de los Con-
+juntos y de la Logica Matematica, que sirven como base en la construccion de las teorias
+matematicas.
+Aprender a reconocer las estructura logica de los enunciados matematicos mediante la
+introduccion de la simbologia adecuada, incluyendo conectivos, cuantificadores e igualdad.
+Hacer claro el concepto de demostracion y distinguir los diferentes metodos de demostracion
+de uso comun en matematicas. Diferenciar entre mostrar y demostrar.
+Entender la idea de descubrir o inventar una demostracion y tener la certeza y claridad
+acerca de cuando se ha logrado una demostracion y cuando no. Distinguir entre los elemen-
+tos heuristicos y formales que intervienen en la actividad matematica; es decir, distinguir
+entre una demostracion y el proceso de su descubrimiento.
+Preparar al alumno para que adquiera practica en como hacer demostraciones, siguiendo
+el proceso heuristico de algunos ejemplos de demostraciones particulares. Asimismo, lograr
+que el alumno adquiera habilidad para encontrar contraejemplos para enunciados falsos.
+En ambos casos, mostrar que "logica" e "intuicion comun" no siempre coinciden.
+
+1
+
+
+
+NUM. HORAS UNIDADES TEMATICAS
+
+25 1. Conjuntos
+1.1 Nocion de conjunto. Nocion de pertenencia a un conjunto. Nota-
+cion.
+1.2 Relaciones entre conjuntos: [?], [?], \, [?]. Union e interseccion ge-
+neralizadas.
+1.3 Diagramas de Venn y diagramas de Euler. Representacion de
+operaciones.
+1.4 Relaciones: pares ordenados y productos cartesianos, dominio y
+codominio, imagen o rango de una relacion. Operaciones con relacio-
+nes: inversa de una relacion, composicion de relaciones. Relaciones de
+orden sobre un conjunto: Conjunto Parcialmente Ordenado (COPO),
+Conjunto Totalmente Ordenado (COTO), Conjunto Bien Ordenado
+(COBO), Conjunto Densamente Ordenado (CODO), Cotas (maximo,
+minimo, maximales, . . .). Que afirma el Lema de Zorn.
+1.5 Relaciones de equivalencia y particiones. El conjunto cociente
+modulo una relacion de equivalencia.
+1.6 Funciones. Dominio y Codominio, Rango o Imagen. Igualdad de
+funciones, funcion constante, grafica de una funcion. Funciones inyec-
+tivas, suprayectivas y biyectivas. Inversa de una funcion, funciones
+invertibles, composicion de funciones.
+1.7 Cardinalidad. Equipotencia de dos conjuntos. Teorema de Cantor,
+conjuntos finitos y conjuntos infinitos. Conjuntos numerables y no
+numerables (N, Z, Q, R).
+1.8 Induccion y Recursion. Induccion finita y segundo principio de
+Induccion. Principio del no descenso infinito. Principio del Buen Or-
+den.
+
+2
+
+
+
+25 2. Elementos de logica
+2.1 Forma logica de un enunciado.
+2.2 Simbolizacion de enunciados simples. Letras proposicionales y
+conectivos logicos. Sinonimia de conectivos:
+
+1. A implica B; si A entonces B; B, si A; A solo si B; A es
+suficiente para B; B es necesaria para A.
+
+2. A o B; A a menos que B; A o B o ambos.
+
+3. A y B; A pero B; ambos: A y B.
+
+4. no A; no es el caso que A; A, no.
+
+2.3 Simbolizacion de argumentos simples.
+2.4 Simbolizacion de enunciados tomando en consideracion la estruc-
+tura sujeto-predicado: predicados, constantes, variables y cuantifica-
+ciones:
+
+1. Existe . . . / hay un . . . / para algun . . . / hay al menos un . . . /
+
+2. Para todos . . . / para cada uno . . . / para cualquiera. . . /.
+
+Ejemplos y mas ejemplos de traducciones de enunciados (de conteni-
+do matematico y de contenido no matematico).
+2.5 Criterios de verdad: criterios de verdad de conectivos, cuantifica-
+dores e igualdad y analizar a partir de ellos la verdad de cualquier
+enunciado mas complejo.
+2.6 Equivalencias logicas elementales. Negacion de una conjuncion, de
+una disyuncion, de una implicacion, de un bicondicional. Negacion de
+cuantificadores universales y existenciales. Reciproca y contrapuesta
+de una implicacion. Leyes distributivas. Optativo: uso de reglas de
+instanciacion y generalizacion, universal y existencial.
+
+20 3. Analisis de argumentos y metodos de prueba
+3.1 Relacion entre las premisas y la conclusion de un argumento.
+Distincion entre verdad de proposiciones y validez de argumentos.
+?Que quiere decir que "A se sigue de H1, . . . , Hn"?
+3.2 Metodos de prueba directos: especialmente de condicionales y de
+disyunciones. Prueba por casos, por vacuidad. Pruebas indirectas:
+por contraposicion, por reduccion al absurdo.
+3.3 Prueba de una equivalencia multiple por implicaciones simples.
+Combinacion de los distintos metodos. Pruebas por induccion.
+
+3
+
+
+
+10 4. Heuristicas
+4.1 Algunas ideas acerca del proceso de descubrimiento o heuristica
+de una demostracion: La idea de reduccion de un problema a otro.
+La idea de representacion de un area de conocimiento en otra. El
+metodo progresivo-regresivo.
+
+BIBLIOGRAFIA BASICA:
+
+1. Amor, J. A., Sobre un Curso de Analisis Logico, Mexico: Educacion Matematica,
+Vol. 6 No. 2, Grupo Editorial Iberoamerica, 1994.
+
+2. Badesa, C., Jane I., Jansana, R., Elementos de Logica Formal, Ariel 1998.
+
+3. Fernandez, M., Preisser, A., Segura, L. F., Torres, Y., Logica Elemental, Mexico:
+Universidad Autonoma Metropolitana, 1996.
+
+4. Lipschutz, Teoria de Conjuntos y Temas Afines, serie Schaums McGraw-Hill.
+
+5. Solow, D., Como Entender y Hacer Demostraciones en Matematicas, Mexico: Limu-
+sa, 1987.
+
+6. Sominski, I. S., El Metodo de la Induccion Matematica, Mexico: Limusa, 1990.
+
+7. Zubieta, G., Manual de Logica para Estudiantes de Matematicas, Mexico: Trillas,
+1977.
+
+8. Zubieta, G., Taller de Logica Matematica, Mexico: McGraw-Hill, 1993.
+
+BIBLIOGRAFIA COMPLEMENTARIA:
+
+1. Amor J. A., "Paradojas, intuicion y logica", Revista Ciencias, Facultad de Ciencias,
+UNAM, No. 29, 1993.
+
+2. Carroll, L., El Juego de la Logica y otros Escritos, Madrid: Alianza, 2002.
+
+3. Martinez Gallardo, V., Introduccion al Analisis Logico: del Lenguaje Natural al Len-
+guaje Analitico, Mexico: Tesis UNAM, 1987.
+
+4. National Council of Teachers of Mathematics, Logica, Temas de Matematicas No.
+12, Mexico: Trillas 1975.
+
+4
+
+
+
+5. National Council of Teachers of Mathematics, Sugerencias para Resolver Problemas,
+Temas de Matematicas No. 17, Mexico: Trillas 1970.
+
+6. Polya, G., Como Plantear y Resolver Problemas, Mexico: Trillas, 1965.
+
+7. Quine, W., Russell's Paradox and Others, USA: The Technology Review, 1941.
+
+8. Smullyan, R. M., Alicia en el Pais de las Adivinanzas, Madrid: Catedra, 1986.
+
+9. Smullyan, R. M., ?Como se Llama este Libro?, Madrid: Coleccion Teorema, Edicio-
+nes Catedra, 1978.
+
+10. Torres Torija, Planteo y Resolucion de Problemas, Mexico: Trillas, 1979.
+
+SUGERENCIAS DIDACTICAS: Lograr la participacion activa de los alumnos mediante
+exposiciones.
+
+SUGERENCIA PARA LA EVALUACION DE LA ASIGNATURA: Ademas de las califi-
+caciones en examenes y tareas se tomara en cuenta la participacion del alumno.
+
+PERFIL PROFESIOGRAFICO: Matematico, fisico, actuario o licenciado en ciencias de
+la computacion, especialista en el area de la asignatura a juicio del comite de asignacion
+de cursos.
+
+5
+
+

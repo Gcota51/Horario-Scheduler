@@ -1,0 +1,164 @@
+el plan y programa de estudios de la licenciatura en >Ciencias de la Computacion
+
+
+99 
+ 
+
+ 
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+Licenciatura en Ciencias de la Computacion 
+Facultad de Ciencias 
+
+Programa de la asignatura 
+ 
+
+Denominacion de la asignatura: 
+Inteligencia Artificial 
+
+Clave:  
+0608 
+
+Semestre: 
+6 
+
+Eje tematico: 
+Integracion Teoria-Practica 
+
+No. Creditos:   
+10 
+
+Caracter:  Horas Horas por semana 
+Total de 
+Horas  
+
+Tipo: Teorico-Practica Teoria: Practica: 7 112 3 4 
+Modalidad: Curso Duracion del programa: Semestral 
+
+ 
+ 
+Asignatura con seriacion obligatoria antecedente: Modelado y Programacion; Probabilidad 
+I; Algebra Lineal I 
+ 
+Asignatura con seriacion obligatoria subsecuente: Ninguna 
+ 
+Asignatura con seriacion indicativa antecedente: Analisis de Algoritmos; Logica 
+Computacional 
+ 
+Asignatura con seriacion indicativa subsecuente: Ninguna 
+Objetivo general:  
+Comprender para aplicar los  enfoques teoricos y practicos y asi poder disenar sistemas 
+inteligentes. Conocer  los temas  centrales, historia de inteligencia artificial, agentes, busqueda,  
+modelos probabilisticos, aprendizaje automatico y percepcion y conocimiento. 
+ 
+ 
+
+Indice tematico 
+
+Unidad Temas  Horas Teoricas Practicas 
+I Introduccion 3 4 
+II Busqueda 12 16 
+III Modelos probabilisticos 12 16 
+IV Aprendizaje automatico 12 16 
+V Percepcion y conocimiento 9 12 
+
+Total de horas: 48 64 
+Suma total de horas: 112 
+
+  
+
+
+
+100 
+ 
+
+ 
+Contenido tematico 
+Unidad Tema 
+I Introduccion 
+I.1 Historia de AI. 
+I.2 Agentes. 
+II Busqueda 
+II.1 Robotica, busqueda basica y planificacion de movimiento. 
+II.2 Busqueda heuristica A*. 
+II.3 Busqueda optimizada. 
+II.4 Problemas de satisfaccion con restricciones. 
+III Modelos probabilisticos 
+III.1 Redes Bayesianas. 
+III.2 Inferencia en redes Bayesianas. 
+III.3 Aprendizaje en redes Bayesianas. 
+III.4 Modelos probabilisticos sin direccion. 
+IV Aprendizaje automatico 
+IV.1 Aprendizaje supervisado y clasificadores lineales. 
+IV.2 Arboles de decision. 
+IV.3 Aprendizaje reforzado. 
+V Percepcion y conocimiento 
+V.1 Vision: reconocimiento de objetos. 
+V.2 Vision: geometria. 
+V.3 Percepcion (en robotica) 
+V.4 Procesamiento de lenguaje natural (categorizar texto y extraccion de informacion). 
+V.5 Procesamiento de lenguaje natural (habla). 
+V.6 Representacion de conocimiento logico. 
+V.7 Inteligencia artificial y el cerebro. 
+ 
+ 
+
+Bibliografia basica: 
+1. Stuart Rusell and Peter Norvig, Artificial Intelligence: A Modern Approach', 3rd Edition, 
+
+Prentice Hall, 2009. 
+2. Stephen Marsland, Machine Learning: An Algorithmic Perspective, Chapman y Hall, 2009. 
+Bibliografia complementaria: 
+1. Ethem Alpaydin, Introduction to Machine Learning', 2nd Edition, The MIT Press, 2010. 
+2. Trevor Hastie, Robert Tibshirani, and Jerome Friedman, The Elements of Statistical 
+
+Learning: Data Mining, Inference, and Prediction, 2nd Edition. Corr. 3rd printing edition, 
+Springer, 2009. 
+
+3. Stephen Marsland, Machine Learning: An Algorithmic Perspective, Chapman y Hall, 2009. 
+4. Ernest Davis, Representations of Commonsense Knowledge, Morgan Kaufmann Pub, 
+
+1990. 
+ 
+
+
+
+101 
+ 
+
+Sugerencias didacticas: 
+Exposicion oral (X) 
+Exposicion audiovisual ( ) 
+Ejercicios dentro de clase (X) 
+Ejercicios fuera del aula ( ) 
+Seminarios ( ) 
+Lecturas obligatorias ( ) 
+Trabajo de investigacion ( ) 
+Practicas de taller o laboratorio (X) 
+Practicas de campo ( ) 
+ 
+Otras: __________________________ 
+ 
+
+Metodos  de evaluacion:  
+Examenes parciales (X) 
+Examen final escrito ( ) 
+Trabajos y tareas fuera del aula (X) 
+Practicas de laboratorio ( ) 
+Exposicion de seminarios por los alumnos ( ) 
+Participacion en clase (X) 
+Asistencia ( ) 
+Proyectos de programacion (X) 
+Proyecto final ( ) 
+Seminario ( ) 
+ 
+Otras: _____________________________ 
+  
+
+Perfil profesiografico:  
+Egresado preferentemente de la Licenciatura en Ciencias de la Computacion o Matematico con 
+especialidad en computacion con amplia experiencia de programacion. Es conveniente que 
+posea un posgrado en la disciplina. Con experiencia docente. 
+  
+
+

@@ -1,0 +1,199 @@
+MO I 
+_______________________________________________________________
+
+CLAVE: 0419 MODALIDAD: Curso 
+CUARTO SEMESTRE CARACTER: Obligatorio 
+CREDITOS: 12 REQUISITOS: Mecanica Vectorial, Calculo Diferencial e 
+
+Integra  I,  Calculo  Diferencial  e  Integral  II,  Calculo 
+Diferencial e Integral III
+
+_______________________________________________________________
+HORAS POR CLASE TEORICAS: 2 
+HORAS POR SEMANA TEORICAS: 6 
+HORAS POR SEMESTRE TEORICAS: 96 
+
+ 
+Objetivos 
+
+A  partir  de  la  descripcion  de  resultados  experimentales  sobre  los  fenomenos 
+electromagneticos se identifican los conceptos clave, se formulan los principios basicos, 
+se desarrollan metodos de analisis y se estudian sus aplicaciones. 
+
+Metodologia de la ensenanza 
+
+La  tematica  del  curso es  desarrollada  por  el  profesor.  Dado  que  existe  un curso  de 
+Laboratorio  de  Electromagnetismo,  se  recomienda  que  el  profesor  de  teoria  y  el  del 
+laboratorio esten en constante comunicacion de forma que se pueda desarrollar un curso 
+teorico-experimental.
+Se debe establecer un programa de simulaciones numericas que permitan al estudiante 
+dominar este campo.
+
+Evaluacion d el curso 
+
+Examenes, tareas, lecturas y reportes de ellas. 
+
+Temario 
+
+1. FUERZAS ENTRE CUERPOS ELECTRICAMENTE CARGADOS EN REPOSO   10 hrs 
+1.1 Formas de electrizacion. Aislantes y conductores. 
+1.2 Ley de Coulomb. 
+1.3 Principio de superposicion. 
+1.4 Campo electrico. 
+1.5 Lineas de campo electrico.
+1.6 Flujo electrico.
+1.7 Ley de Gauss. 
+1.8 Divergencia de una funcion vectorial.
+1.9 Teorema de Gauss y la forma diferencial de la Ley de Gauss.
+
+2. ENERGIA DE CUERPOS ELECTRICAMENTE CARGADOS EN REPOSO  8 hrs 
+2.1 Energia potencial de una carga en presencia de una distribucion de cargas. 
+2.2 Potencial electrostatico. Superficies equipotenciales.  
+2.4. Gradiente de una funcion escalar y obtencion del campo electrico a partir del 
+potencial electrico.
+
+
+
+2.5 Energia de una distribucion de cargas. 
+2.6 Densidad de energia electrostatica. 
+2.7 Conductores cargados. 
+2.8 Condensadores. Capacitancia. 
+
+3. CAMPOS ELECTROSTATICOS EN MEDIOS DIELECTRICOS  8 hrs 
+3.1 Dielectricos.
+3.2 Momentos de una distribucion de carga. 
+3.3 Momentos dipolares inducidos y permanentes. 
+3.4  Polarizacion  y  susceptibilidad  electrica.  Densidades  de  carga  libre  y 
+
+polarizacion. 
+3.5 Ley de Gauss en medios dielectricos.
+3.6 Desplazamiento electrico. Constante dielectrica.  
+3.7 Condensadores con dielectricos. 
+3.8 Densidad de energia electrostatica en medios dielectricos. 
+
+4. CARGAS EN MOVIMIENTO  10 hrs 
+4.1 Movimiento de cargas electricas en campos electricos externos. 
+4.2 Corriente electrica y densidad de corriente.
+4.3 Ley de conservacion de la carga electrica. 
+4.4 Resistencia electrica. Ley de Ohm. 
+4.5 Efecto Joule. 
+4.6 Circuitos electricos. Leyes de Kirchhoff. 
+4.7 Circuitos RC. 
+
+5.  INTERACCIONES  ENTRE  IMANES,  ENTRE  IMANES  Y  CORRIENTES  Y  ENTRE 
+CORRIENTES  10 hrs 
+
+5.1 Campo magnetico y lineas de campo. 
+5.2 Flujo  de campo magnetico.  Ley de Gauss del  magnetismo o  la  inexistencia 
+
+de monopolos magneticos.
+5.3 Momento dipolar magnetico. 
+5.4 Fuerza de un campo magnetico sobre cargas electricas en movimiento.
+5.5 Torca de un campo magnetico sobre un momento magnetico.
+5.6 Ley de Biot - Savart. 
+5.7 Ley de Ampere.  
+5.8 Rotacional de una funcion vectorial.
+5.9 Teorema de Stokes y forma diferencial de la Ley de Ampere
+5.8  Electroimanes. 
+
+6. CAMPOS MAGNETOSTATICOS EN MEDIOS MATERIALES  8 hrs 
+6.1 Movimiento de cargas electricas en campos magneticos y electricos. 
+6.2 Momentos magneticos permanentes e inducidos. 
+6.3 Magnetizacion y susceptibilidad magnetica. 
+6.4 Ferromagnetismo, paramagnetismo y diamagnetismo. 
+6.5 Corrientes libres y de magnetizacion. 
+6.6 Ley de Ampere en medios materiales. 
+6.7 Campo de intensidad magnetica. Permeabilidad. 
+6.8 Efecto Hall. 
+
+
+
+7. INDUCCION ELECTROMAGNETICA  10 hrs 
+7.1 Ley de Lenz - Faraday - Henry. 
+7.2 Forma diferencial de la Ley de Lenz - Faraday - Henry.
+7.2 Generadores y transformadores. 
+7.3 Energia de un conjunto de circuitos de corriente. 
+7.4 Autoinductancia e Inductancias mutuas.
+7.5 Densidad de energia magnetica. 
+7.6 Circuitos RL. 
+7.7 Oscilaciones de un circuito LC.
+7.8 Circuitos RCL. Impedancia.
+7.9 Circuitos de corriente alterna. Transformador. 
+
+8. ECUACIONES DE MAXWELL  6 hrs 
+8.1 Ley de Ampere - Maxwell. Corriente de desplazamiento. 
+8.2 Propiedades dinamicas del campo electromagnetico. 
+8.3 Ecuaciones de Maxwell.
+8.4 La ecuacion de onda.
+
+9. ONDAS ELECTROMAGNETICAS  8 hrs 
+9.1 Ondas electromagneticas en el vacio. Superposicion de ondas.
+9.2 Velocidad de propagacion. Espectro electromagnetico. 
+9.3 Transversalidad. Polarizacion. 
+9.4 Teorema de Poynting. 
+9.5 Densidades de energia y de flujo de energia. 
+9.6 Ondas electromagneticas en medios dielectricos. 
+9.7  Indice de refraccion. 
+9.8 Sistemas radiantes. 
+
+10. TEORIA DE LA RELATIVIDAD Y ELECTRODINAMICA  18 hrs 
+10.1 Las ecuaciones de Maxwell y las transformaciones de Galileo.
+10.2 Experimento de Michelson - Morley. 
+10.3 Postulados de la Teoria Especial de la Relatividad. 
+10.4 Transformaciones de Lorentz.
+10.5  Algunas  consecuencias  de  las  transformaciones  de  Lorentz.  Ejemplos  y  
+paradojas.
+10.6 Cinematica   relativista: Adicion   de   velocidades; efecto Doppler.   
+10.7 Cuadrivectores. Tensores. Operaciones tensoriales y tensor de Faraday.
+10.8 Dinamica relativista: cuadrivectores de cantidad de movimiento- energia.
+10.9 Campo de una carga puntual en movimiento uniforme. Interdependencia del  
+campo electrico y magnetico.
+
+Bibliografia basica 
+
+* Halliday,  Resnick,  Walker.  Fundamentos de Fisica.  Vol.  II,  8a.  Edicion,  Grupo 
+Editorial Patria, (2011).
+
+* Lorrain P., Corson, D.R., 1990, Electromagnetism: principles and applications, 
+W.H. Freeman and Company, (1990).
+
+* Purcell E.M., Electricidad y Magnetismo. Berkeley Physics Course, Vol. 2, Edi-
+torial Reverte, (2001).
+
+* Resnick R., Halliday, D., Krane, S.K., Fisica, Vol. II, 5a. edicion, Compania Edito-
+
+
+
+rial Continental, Mexico. (1996).
+* Serway R. A. & Jewett J. W, Fisica II, 3a. Edicion, Thomson Learning, Mexico 
+
+(2004).
+* Serway, R. A., Electricidad y Magnetismo, Thomson Learning, Mexico (2004).
+*   Taylor and Wheeler, Space Time Physics, 1966.
+*   Resnick R. Introduccion a la Teoria Especial de la Relatividad, Limusa, Mexico 
+
+(1977).
+
+Bibliografia complementaria
+
+* Alonso, M., Finn, E.J., Fisica, Vol. II: Campos y ondas, AddisonWesley Iberoa-
+mericana, Mexico (1995).
+
+* Ohanian H. C & Markert J. T., Fisica para Ingenieria y Ciencias, Vol. 2,  3a. Edi-
+cion, Mc-Graw Hill (2009).
+
+*   Sears F. W., Zemansky M. W., Young H. D., Freedman R. A., Fisica Universitaria, 
+Vol. 2, novena edicion, Pearson Education, Mexico (1999).
+
+Historia del Electromagnetismo
+
+* Gamow G., Biografia de la Fisica. Alianza Editorial. Madrid (1983).
+* Ordonez J., Navarro V. y Sanchez Ron J . M. Historia de la Ciencia. Coleccion 
+
+Austral. Editorial Espasa. Madrid (2003).
+* Segre E. De los Rayos X a los Quarks. Folios Ediciones S. A. Mexico (1983).
+* Whittaker E. A History of the Theories of Aether and Electricity. Dover. New 
+
+York (1989).
+
+

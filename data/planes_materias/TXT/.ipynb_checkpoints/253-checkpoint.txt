@@ -1,0 +1,76 @@
+FACULTAD DE CIENCIAS
+
+CARRERA DE MATEMATICO
+
+GEOMETRIA RIEMANNIANA II (ejemplo)
+
+SEMESTRE: Septimo u octavo
+CLAVE: 0253
+
+HORAS A LA SEMANA/SEMESTRE
+
+TEORICAS PRACTICAS CREDITOS
+5/80 0 10
+
+CARACTER: OPTATIVO.
+MODALIDAD: CURSO.
+SERIACION INDICATIVA ANTECEDENTE: Geometria Riemanniana I.
+SERIACION INDICATIVA SUBSECUENTE: Ninguna.
+
+OBJETIVO(S): Profundizar en el estudio de la Geometria Riemanniana, suponiendo que
+los estudiantes tienen ya cierto conocimiento de los elementos basicos del area. Los temas
+propuestos pueden verse en el orden y con la profundidad que se desee.
+
+NUM. HORAS UNIDADES TEMATICAS
+
+15 1. Variacion de la longitud de arco
+1.1 Formulas de la primera y segunda variaciones. Campos de Jacobi.
+
+15 2. Teoremas de comparacion de Rauch
+
+15 3. Teoremas de Hadamard
+
+15 4. Teorema de Frobenius
+
+20 5. Introduccion a los Grupos de Lie
+
+BIBLIOGRAFIA BASICA:
+
+1. Cheeger, J., Ebin, G., Comparison Theorems in Riemannian Geometry, Amsterdam:
+North-Holland, 1975.
+
+2. Do Carmo, M.P., Differential Geometry of Curves and Surfaces, New Jersey:
+Prentice-Hall, 1976.
+
+3. Do Carmo, M.P., Riemannian Geometry, Birkhauser, 1992.
+
+4. Kobayashi, S., Nomizu, K., Foundations of Differential Geometry, Vols. I, New York:
+Wiley, 1963.
+
+1
+
+
+
+5. Spivak, M., A Comprehensive Introduction to Differential Geometry, Vols. I-V, Pu-
+blish or Perish, 1970.
+
+6. Warner, F. W., Foundations of Differentiable Manifolds and Lie Groups, Glenview,
+Ill.: Scott, Foresman & Co., 1983.
+
+BIBLIOGRAFIA COMPLEMENTARIA:
+
+1. O'Neill, B., Semi-Riemannian Geometry, Boston: Academic Press, 1983.
+
+SUGERENCIAS DIDACTICAS: Lograr la participacion activa de los alumnos mediante
+exposiciones.
+
+SUGERENCIA PARA LA EVALUACION DE LA ASIGNATURA: Ademas de las califi-
+caciones en examenes y tareas se tomara en cuenta la participacion del alumno.
+
+PERFIL PROFESIOGRAFICO: Matematico, fisico, actuario o licenciado en ciencias de
+la computacion, especialista en el area de la asignatura a juicio del comite de asignacion
+de cursos.
+
+2
+
+

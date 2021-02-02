@@ -1,0 +1,207 @@
+TRE: VII
+CREDITOS:  10
+
+AREA: CIENCIAS DE LA COMPUTACION
+Requisitos:Analisis Logico
+
+Ingenieria de Software
+
+HORAS POR CLASE
+CLASES POR SEMANA
+HORAS POR SEMESTRE
+
+TEORICA:   1
+TEORICA:   4
+TEORICA:  64
+
+TEORICO-PRACTICAS:    2
+TEORICO-PRACTICAS:    1
+TEORICO-PRACTICAS:   32
+
+Objetivos generales:
+Este curso cubre lo referente a sistemas de bases de datos, cuyos temas incluyen 
+modelos de datos (Entidad-Relacion, relacional y orientado a objetos); lenguajes de 
+consulta  (algebra  relacional,  calculo  relacional);  el  diccionario  de  datos; 
+implementacion del nucleo de un sistema de bases de datos relacional y ejemplos 
+concretos de lenguajes y sistemas de bases de datos comerciales. Otros temas que 
+tambien  se  cubren  son:  Optimizacion  de  las  consultas;  teoria  de  las  formas 
+normales y el  diseno de la base de datos; proceso de transacciones, control y 
+recuperacion de errores; seguridad e integridad; sistemas distribuidos de bases de 
+datos; interfaces con los usuarios y lenguajes de consulta graficos; estudio de la 
+organizacion fisica  de  las  bases  de datos;  tecnologias  modernas (hipertexto y 
+sistemas basados en el conocimiento).
+
+Temario:
+   I.   Panorama general de los sistemas de Bases de Datos 4 horas
+
+Se da una vision general de lo que son los sistemas de bases de datos y las 
+herramientas  existentes  para  manejarlos.  Asimismo  se  presenta  un 
+panorama de las expectativas en el area.
+
+  I.1 Capacidades de un sistema manejador de bases de datos (DBMS).
+  I.2 Terminologia basica en el tema.
+  I.3 Lenguajes para bases de datos.
+  I.4 Aplicaciones modernas de los sistemas de bases de datos.
+  I.5 Sistemas orientados a objetos.
+  I.6 Sistemas basados en el conocimiento.
+  I.7 Historia y perspectiva.
+
+  II.   Modelos de datos para los Sistemas de Bases de Datos 8 horas
+Se revisan los principales modelos que se utilizan en los sistemas de bases 
+de datos. Se revisa el modelo entidad-relacion como una herramienta de 
+diseno, el modelo relacional, el modelo de red y finalmente el modelo 
+jerarquico, basado en colecciones de estructuras arborescentes.
+
+ II.1 Modelos de datos.
+ II.2 El modelo Entidad-relacion.
+ II.3 El modelo relacional.
+ II.4 Operaciones en el modelo relacional.
+ II.5 El modelo de redes.
+ II.6 El modelo jerarquico.
+ II.7 Un modelo orientado a objetos.
+
+
+
+ III.   La Logica como un modelo de datos 12 horas
+Se estudia un modelo particular de datos, basado en la logica. Este tipo de 
+modelo  juega  un  papel  muy  importante  en  las  bases  de  datos  de 
+conocimiento y muchos aspectos son importantes tambien para el modelo 
+relacional.
+
+III.1 El significado de las reglas logicas.
+III.2 El Modelo logico de datos.
+III.3 La evaluacion de reglas no recursivas.
+III.4 Calculo del significado de reglas recursivas.
+III.5 Evaluacion incremental de puntos fijos minimos.
+III.6 Negaciones en el cuerpo de las reglas.
+III.7 Logica y Algebra relacionales
+III.8 Calculo relacional.
+III.9 Calculo relacional de tuplos.
+III.10 El esquema del Mundo Cerrado.
+
+  IV.   Lenguajes de consulta relacionales 8 horas
+Se presentan algunos de los lenguajes reales que se utilizan en sistemas de 
+consulta, construidos sobre la plataforma del modelo relacional. Se toman 
+distintos paradigmas como ISBL, una instancia del algebra relacional, QUEL, 
+un lenguaje de calculo de tuplos y un ejemplo de lenguaje basado en el 
+paradigma de Consulta-por-ejemplos. Se concluye con una revision del 
+lenguaje SQL, los mecanismos que existen en este para la definicion de 
+datos y la manera como se inserta SQL en el lenguaje de programacion C.
+
+ IV.1 Consideraciones generales respecto a lenguajes de consulta.
+ IV.2 ISBL: Un lenguaje "puro" del Algebra Relacional.
+ IV.3 QUEL: Un lenguaje del calculo relacional de tuplos.
+ IV.4 Consulta por ejemplos (Query by example): Un lenguaje DRC.
+ IV.5 Definicion de los datos en QBE.
+ IV.6 El lenguaje de consulta SQL.
+ IV.7 Definiciones de datos en SQL.
+ IV.8 Inmersion de SQL en un lenguaje anfitrion.
+
+   V.   Organizacion fisica de los datos 8 horas
+Dada la necesidad de hacer que las operaciones en los sistemas de bases 
+de datos sean razonablemente eficientes, se discuten las tecnicas basicas 
+de almacenamiento de la informacion que hacen estas operaciones viables. 
+Si revisan las tecnicas de acceso mediante llaves y con indices, funciones 
+de dispersion y  arboles-B.  Se revisan asimismo la  situacion en que la 
+informacion almacenada sea de tamano variable y por ultimo, consultas 
+que utilizan unicamente informacion parcial.
+
+  V.1 El modelo fisico de los datos.
+  V.2 Organizacion a traves de un heap.
+  V.3 Archivos organizados por funcion de dispersion.
+  V.4 Archivos con indices.
+
+
+
+  V.5 Arboles-B.
+  V.6 Archivos con Indice Denso.
+  V.7 Estructuras de registros anidados.
+  V.8 Indices secundarios.
+  V.9 Estructuras de datos en Sistemas DBTG.
+  V.10 Estructuras de datos para jerarquias.
+  V.11 Estructuras de datos para relaciones.
+  V.12 Consultas por rangos o parciales.
+  V.13 Funciones de dispersion particionadas.
+  V.14 Estructuras para arboles de busquedas.
+
+ VI. Teoria de diseno para bases de datos relacionales 18 horas
+Se estudian las propiedades deseables de los esquemas relacionales y se 
+revisan algoritmos que permiten obtener esquemas con estas propiedades. 
+Se introduce el concepto de dependencia funcional y la manera adecuada 
+de razonar al respecto para obtener nuevas dependencias a partir de las ya 
+dadas.
+
+ VI.1 ?Que constituye un mal diseno de una base de datos?
+ VI.2 Dependencias funcionales.
+ VI.3 Estudio de las dependencias funcionales.
+ VI.4 Descomposicion Union-sin perdida
+ VI.5 Descomposicion que preserva dependencias.
+ VI.6 Formas normales para los esquemas de relacion.
+ VI.7 Descomposicion Union-sin perdidas a BCNF.
+ VI.8 Descomposiciones 3NF que preservan las dependencias
+ VI.9 Dependencias multivaluadas.
+ VI.10 Cuarta Forma Normal.
+ VI.11 Dependencias generalizadas.
+
+ VII.   Lenguajes para bases de datos orientadas a objetos 8 horas
+Similarmente a los lenguajes orientados a valores, se consideran lenguajes 
+para bases de datos orientados a objetos, incluyendo entre los lenguajes 
+que se  revisan aquellos  que apoyan la  identidad del  objeto,  hasta  un 
+lenguaje inobjetablemente orientado a objetos como es OPAL.
+
+VII.1 El Lenguaje de definicion DBTG
+VII.2 El Lenguaje de consulta DBTG
+VII.3 Comandos para la modificacion de la base de datos DBTG
+VII.4 Definicion de los datos en IMS.
+VII.5 Un Lenguaje jerarquico de manipulacion de datos.
+VII.6 Definicion de los datos en OPAL.
+VII.7 Manipulacion de los datos en OPAL.
+
+VIII.   Proteccion de la base de datos frente a usos indebidos 4 horas
+Se  revisan  distintas  maneras  en  que  actualmente  se  protegen  las 
+restricciones de integridad y el  control  en sistemas de bases de datos 
+existentes. Se revisan los conceptos de integridad y seguridad de manera 
+general,  la  integridad  de  Consultas-por-ejemplos  y  finalmente  los 
+mecanismos  de  seguridad  en  tres  sistemas  conocidos:  Consulta-por-
+
+
+
+ejemplos, SQL y OPAL.
+VIII.1 Integridad.
+VIII.2 Restricciones de integridad en Consulta-por-ejemplos.
+VIII.3 Seguridad.
+VIII.4 Seguridad en Consulta-por-ejemplos.
+VIII.5 Seguridad en SQL/RT
+VIII.6 Seguridad en OPAL/GEMSTONE.
+
+Bibliografia:
+
+Basica:
+* Ullman, J. D.,  Principles Of Database And Knowledge-base Systems, Vol. I, 
+
+Computer Science Press, 1988
+Complementaria:
+* Alagic,  Object-Oriented Database Programming,  Springer-Verlag, 1988
+* Date, C. J.,  An Introduction to Database Systems, Vol.I (Data Bases), 3rd. 
+
+Edition,  Addison-Wesley Publishing Company, 1982
+* Filman, R. E.; Friedman, D.P., Coordinated Computing: Tools and Techniques for 
+
+Distributed Software, McGraw-Hill, Computer Science, 1984.
+* Kershenbaum, A., Telecommunications Network Design Algorithms, 
+
+McGraw-Hill, Computer Science, 1993.
+* Korth, H.; Silbersschatz, A., Database Systems Concepts, Second Edition, 
+
+McGraw-Hill, Computer Science, 1991.
+* Pascal, F., Understanding Relational Databases, with Examples in SQL, Wiley, 
+
+1993.
+* Robertazzi, T.G., Computer Networks and Systems, Queuing Theory and 
+
+Performance Evaluation, McGraw-Hill, Computer Science, 1990.
+* Wiederhold, G., File Organization for Database Design, McGraw-Hill, Computer Science, 
+
+1987. 
+
+

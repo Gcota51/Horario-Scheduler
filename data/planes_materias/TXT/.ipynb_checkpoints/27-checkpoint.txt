@@ -1,0 +1,65 @@
+FACULTAD DE CIENCIAS
+
+CARRERA DE MATEMATICO
+
+ANALISIS DE FOURIER II
+
+SEMESTRE: Septimo u octavo
+CLAVE: 0027
+
+HORAS A LA SEMANA/SEMESTRE
+
+TEORICAS PRACTICAS CREDITOS
+5/80 0 10
+
+CARACTER: OPTATIVO.
+MODALIDAD: CURSO.
+SERIACION INDICATIVA ANTECEDENTE: Analisis de Fourier I.
+SERIACION INDICATIVA SUBSECUENTE: Ninguna.
+
+OBJETIVO(S): Presentar los principales teoremas del Analisis de Fourier en el contexto
+de las funciones generalizadas o distribuciones.
+
+NUM. HORAS UNIDADES TEMATICAS
+
+20 1. Distribuciones
+1.1 Calculo de distribuciones.
+
+20 2. Transformada de Fourier
+
+20 3. Transformada de Fourier de distribuciones temperadas
+
+20 4. Aplicaciones a ecuaciones en derivadas parciales
+
+BIBLIOGRAFIA BASICA:
+
+1. Folland, G.B., Fourier Analysis and its Applications, Pacific Grove, California: Wad-
+sworth & Brooks, 1992.
+
+2. Korner, T., Fourier Analysis, Cambridge: Cambridge University Press, 1988.
+
+BIBLIOGRAFIA COMPLEMENTARIA:
+
+1. Dym, H., McKean, H.P., Fourier Series and Integrals, New York: Academic Press,
+1972.
+
+2. Strichartz, R., A Guide to Distribution Theory and Fourier Transforms. New Jersey:
+World Scientific, 2003.
+
+1
+
+
+
+SUGERENCIAS DIDACTICAS: Lograr la participacion activa de los alumnos mediante
+exposiciones.
+
+SUGERENCIA PARA LA EVALUACION DE LA ASIGNATURA: Ademas de las califi-
+caciones en examenes y tareas se tomara en cuenta la participacion del alumno.
+
+PERFIL PROFESIOGRAFICO: Matematico, fisico, actuario o licenciado en ciencias de
+la computacion, especialista en el area de la asignatura a juicio del comite de asignacion
+de cursos.
+
+2
+
+

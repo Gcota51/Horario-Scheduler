@@ -1,0 +1,215 @@
+CLAVE: 0607
+SEMESTRE: VI
+CREDITOS:  10
+
+AREA: CIENCIAS DE LA COMPUTACION
+Requisitos:Teoria de la Computacion
+
+HORAS POR CLASE
+CLASES POR SEMANA
+HORAS POR SEMESTRE
+
+TEORICA:   1
+TEORICA:   4
+TEORICA:  64
+
+TEORICO-PRACTICAS:    2
+TEORICO-PRACTICAS:    1
+TEORICO-PRACTICAS:   32
+
+Objetivos generales:
+Este curso introduce al estudiante a la naturaleza de los lenguajes de programacion 
+contemporaneos, empezando por una revision profunda de lenguaje ensamblador y 
+finalizando con un tratamiento profundo de un lenguaje verdadero orientado a 
+objetos (tal como Smalltalk o Eiffel). Durante el desarrollo del curso se discute la 
+evolucion  de  lenguajes  imperativos  (FORTRAN,  Algol,  PL/I,  Pascal)  y  lenguajes 
+funcionales  (Lisp,  Scheme,  ML).  Adicionalmente  se  introducen  conceptos 
+fundamentales  de  diseno  e  implementacion  de  los  lenguajes  de  alto  nivel, 
+incluyendo los conceptos de ligado, chequeo de tipos y administracion de memoria 
+durante ejecucion.
+
+Temario:
+I. Historia y evolucion de los lenguajes de programacion 2 horas
+
+Una revision historica breve de los principales desarrollos en los lenguajes 
+de programacion, empezando por los lenguajes de alto nivel orientados a 
+procedimientos.  Panorama  de  los  paradigmas  de  programacion 
+contemporaneos y los lenguajes asociados a ellos, incluyendo orientados a 
+procedimientos, funcionales, orientados a objetos y programacion paralela
+
+  I.1 Primeros lenguajes: Algol, Fortran, Cobol
+  I.2 La evolucion de los lenguajes orientados a procedimientos (las 
+
+cadenas de desarrollo de Algol, PL/I, Pascal, Euclid, Modula y Ada)
+  I.3 Paradigmas   y  lenguajes  no  orientados  a  procedimientos: 
+
+funcionales (LISP), logicos (Prolog), orientados a objetos (Smalltalk) 
+y paralelos (Occam)
+
+  II.   Organizacion de la computadora a nivel de ensamblador 8 horas
+Comparacion de distintos juegos de instrucciones y sus correspondientes 
+modos de direccionamiento. Enfasis en la interrelacion entre conjuntos de 
+instrucciones,  operaciones  de  carga  y  ejecucion  y  la  arquitectura 
+subyacente.  Introduccion  al  concepto  de  interrupciones,  asi  como  al 
+proposito y especificaciones de una unidad de control con respecto a las 
+operaciones logicas. Unidades de control alambradas y microprogramadas, 
+sus ventajas y desventajas respectivas. Microcodigo vertical y horizontal. 
+Metodos  generales  para  disenar  para  el  mantenimiento,  tales  como 
+modularizar  el  diseno  para  facilitar  el  mismo  o  agregar  unidades  de 
+hardware para facilitar el acceso a ciertos registros.
+
+
+
+ II.1 Organizacion basica: Von Neumann, diagramas de bloque, rutas 
+para datos,  rutas  de control,  unidades funcionales (i.e.  Unidad 
+Aritmetico-logica, memoria, registros), ciclo de instruccion
+
+ II.2 Conjuntos y tipos de instrucciones
+ II.3 Lenguaje ensamblador/de maquina
+ II.4 Modos  de  direccionamiento  (i.e.  directo,  indirecto,  de 
+
+desplazamiento, de registro, indexamiento)
+ II.5 Unidad de control; carga y ejecucion de la instruccion; carga del 
+
+operando
+ II.6 Interrupciones de entrada/salida
+ II.7 Instrumentacion por alambrado
+ II.8 Instrumentacion por microprogramacion; formatos y codificacion.
+
+ III.   Maquinas virtuales 2 horas
+Contraposicion  de  maquinas  reales  con  maquinas  virtuales.  La 
+comprension  de  los  lenguajes  de  programacion  en  terminos  de  las 
+maquinas virtuales subyacentes a cada uno de ellos (independientemente 
+de la arquitectura real en la que corren los programas escritos en esos 
+lenguajes). La  traduccion del lenguaje en terminos de la implementacion 
+en una maquina virtual, seguida de una sucesion de traducciones a traves 
+de una jerarquia de maquinas virtuales. Momentos de ligado como una 
+nocion importante para entender la semantica de los lenguajes.
+
+III.1 Maquinas virtuales para los lenguajes de programacion
+III.2 Jerarquia de maquinas virtuales, presentadas al usuario a traves 
+
+del programa, el traductor, el sistema operativo, etc.
+III.3 Consecuencias para la traduccion de los distintos momentos en 
+
+los que se hace el ligado
+
+  IV.   Control de secuencia 4 horas
+Flujo del control en los lenguajes de programacion para la evaluacion de 
+expresiones  y  la  ejecucion  de  enunciados.  Expresiones  y  enunciados 
+definidos por el usuario
+
+ IV.1 Expresiones, orden en la evaluacion, efectos laterales.
+ IV.2 Enunciados: simples y compuestos
+ IV.3 Subprogramas y corrutinas como una abstraccion de expresiones 
+
+y enunciados
+
+   V.   Control de los datos, maneras de compartirlos, chequeos de tipo 8 horas
+Metodos para compartir  datos y  restriccion del  acceso a  datos en los 
+lenguajes de programacion. Chequeo e inferencia  de tipos
+
+  V.1 Mecanismos para compartir y restringir el acceso a datos (estructura 
+de bloques, COMMON, ADTs y aliases)
+
+  V.2 Rangos estatico vs. dinamico, extension, visibilidad
+  V.3 Mecanismos para el paso de parametros: Por referencia, por valor, por 
+
+nombre, por resultado, etc.
+  V.4 Variedad en las disciplinas para el chequeo de tipos y sus mecanicas; 
+
+estatica vs. dinamica vs. sin tipo, explicita vs. implicita, polimorfismo vs. 
+sobrecarga
+
+
+
+  VI.   Manejo del espacio de almacenamiento durante ejecucion 8 horas
+Asignacion, recuperacion y reutilizacion del  espacio de almacenamiento 
+durante la ejecucion del programa.
+
+ VI.1 Asignacion estatica
+ VI.2 Asignacion basada en un stack y su relacion con la recursividad
+ VI.3 Asignacion basada en una estructura de heap
+
+ VII.   Paradigmas de programacion 12 horas
+Introduccion  a  distintos  paradigmas  de  programacion  alternativos 
+(funcional,  logico y  orientado a objeto)  y  sus lenguajes (LISP,  Prolog y 
+Smalltalk  respectivamente).  Construccion  de  programas  utilizando  al 
+menos  dos  de  estos  paradigmas.  Ventajas  y  desventajas  frente   al 
+paradigma de programacion orientada a procedimientos
+
+VII.1 Revision  de  los  paradigmas  y  lenguajes  funcional,  logico  y 
+orientado a objetos
+
+VII.2 Disenar programas con estos paradigmas; ambiente de ejecucion, 
+flujo de control
+
+VII.3 Programas ejemplo y aplicaciones
+VII.4 Ventajas (transparencia en la referencia) y desventajas (eficiencia 
+
+en arquitecturas secuenciales) de los paradigmas de programacion 
+alternativos frente a los lenguajes orientados a procedimientos; 
+aplicaciones en inteligencia artificial, bases  de datos y diseno de 
+sistemas de computacion
+
+VIII.   Diseno de Lenguajes: Semantica 8 horas
+Se  da  una  vision  comprensiva  de  la  semantica  de  los  lenguajes  de 
+programacion,  identificando  los  principales  aspectos  asi  como  sus 
+soluciones,  en las implementaciones de los lenguajes de programacion 
+contemporaneos,  revisando  fundamentalmente  los  conceptos  de  tipos, 
+asignacion  de  memoria,  estructuras  de  control,  procedimientos  y 
+parametros y, finalmente, entornos en tiempo de ejecucion.
+
+VIII.1 Una maquina sencilla y el modelo denotacional.
+VIII.2 Tipos, vinculacion, operadores y coercion.
+VIII.3 Asignacion de memoria.
+VIII.4 Estructuras de control.
+VIII.5 Procedimientos y parametros.
+
+  IX.   Diseno de Lenguajes: Pragmatica 8 horas
+Se  identifican  las  principales  fuerzas  que  influyen  actualmente  en  la 
+incorporacion de nuevas caracteristicas a los lenguajes de programacion y 
+la  disolucion  de  las  mas  viejas.  Se  concluye  con  una  evaluacion 
+comparativa de los lenguajes presentados en el curso, junto con algunas 
+observaciones sobre el proceso mismo de evaluacion de lenguajes.
+
+ IX.1 El arte y ciencia del diseno de lenguajes.
+ IX.2 El arte y ciencia de la programacion.
+ IX.3 Entorno de programacion.
+ IX.4 Comparacion y evaluacion de lenguajes.
+
+
+
+ IX.5 Conclusiones.
+
+Bibliografia:
+
+Basica:
+* Friedman, D. P.; Wand, M.; Heynes, C. T.,  Essentials Of Programming Languages, 
+
+The MIT Press, 1992
+* Sethi, R.,  Programming Languages, Concepts and Constructs,  Addison-Wesley 
+
+Publishing Company, 1989
+Complementaria:
+* Scragg, G. W.,  Computer Organization, A Top-Down Approach,  McGraw-Hill 
+
+Publishing Company, Inc., 1992
+* Budd, T.,  An Introduction To Object-Oriented Programming,  Addison-Wesley 
+
+Publishing Company, 1991
+* Field, A. J.; Harrison, P. G.,  Functional Programming,  Addison-Wesley Publishing 
+
+Company, 1989
+* Friedman, L. W.,  Comparative Programming Languages, Generalizing The 
+
+Programming Function,  Prentice Hall, Inc., 1991
+* Kogge, P. M.,  The Architecture of Symbolic Computers,  McGraw-Hill 
+
+Incorporated, 1991
+* Tucker, A. B., Jr.,  Lenguajes De Programacion, Segunda Edicion,  McGraw-Hill,, 
+
+Espana, 1987.
+--------------------------
+
+

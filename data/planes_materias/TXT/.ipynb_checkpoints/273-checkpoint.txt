@@ -1,0 +1,160 @@
+FACULTAD DE CIENCIAS
+
+CARRERA DE MATEMATICO
+
+SISTEMAS DINAMICOS DISCRETOS I (ejemplo)
+
+SEMESTRE: Quinto o sexto
+CLAVE: 0273
+
+HORAS A LA SEMANA/SEMESTRE
+
+TEORICAS PRACTICAS CREDITOS
+5/80 0 10
+
+CARACTER: OPTATIVO.
+MODALIDAD: CURSO.
+SERIACION INDICATIVA ANTECEDENTE: Algebra Lineal I, Calculo Diferencial e
+Integral IV.
+SERIACION INDICATIVA SUBSECUENTE: Sistemas Dinamicos Discretos II.
+
+OBJETIVO(S): El objetivo del curso es hacer una introduccion a la teoria de los sistemas
+dinamicos discretos, centrandose principalmente en el estudio de los sistemas definidos en
+subconjuntos de los numeros reales. En el curso se estudia tambien los primeros aspec-
+tos de la dinamica de funciones definidas en el circulo. Esto permite presentar algunos
+comportamientos dinamicos que no se presentan en funciones definidas en la recta real.
+
+NUM. HORAS UNIDADES TEMATICAS
+
+10 1. Primeras definiciones
+1.1 Presentacion de los distintos tipos de orbitas: periodicas, prepe-
+riodicas, y asintoticamente periodicas.
+1.2 Puntos fijos. Atractores, repulsores y neutros. El papel de la de-
+rivada en la caracterizacion de estos puntos. Puntos hiperbolicos.
+Primeras ideas de estabilidad.
+1.3 Puntos con otros tipos de recurrencia: puntos no errantes (el
+omega conjunto limite de la funcion) y puntos recurrentes.
+
+1.4 El a-conjunto limite y el o-conjunto limite de un punto. Orbitas
+aperiodicas.
+1.5 Ejemplos en la recta real: La funcion logistica (y su familia
+fl(x) = lx(1- x)), la funcion tienda (y su familia).
+1.6 Ejemplos sencillos en el plano y en los numeros complejos.
+
+5 2. Primeros aspectos de la dinamica en el circulo
+2.1 Rotaciones. Teorema de Jacobi.
+2.2 Homeomorfismos, numero de rotacion.
+
+1
+
+
+
+10 3. Sistemas dinamicos discretos lineales
+3.1 Modelos de poblaciones estructuradas: Matriz de Leslie. Propie-
+dades del espectro de las matrices positivas.
+3.2 Clases anisocronas de estructura: Matriz de Lefkovich.
+3.3 Teoria de Caswell: Sensibilidad y elasticidad de una matriz.
+
+10 4. El Teorema de Sharkovskii
+4.1 Relacion entre los distintos periodos posibles en funciones defini-
+das en intervalos.
+4.2 La importancia del periodo 3.
+4.3 El teorema de Sharkovskii.
+
+10 5. Sistemas dinamicos caoticos
+5.1 Transitividad topologica. Existencia de orbitas densas.
+5.2 Sensibilidad a las condiciones iniciales. Conceptos relacionados:
+Inestabilidad, expansividad.
+5.3 Definicion de caos. Ejemplos de sistemas caoticos.
+
+10 6. Equivalencia entre sistemas
+6.1 Conjugacion topologica. Propiedades invariantes bajo la conjuga-
+cion.
+6.2 Relacion entre la funcion logistica y la funcion tienda.
+6.3 Dinamica simbolica. Espacio de las sucesiones en dos simbolos.
+Propiedades dinamicas de la funcion corrimiento.
+6.4 Descripcion de la dinamica de elementos de la familia logistica
+y de la tienda donde el omega conjunto limite es un conjunto de
+Cantor.
+
+10 7. Introduccion a bifurcaciones
+7.1 Duplicacion de periodo en la familia logistica.
+7.2 Introduccion al analisis del diagrama de bifurcaciones de la familia
+logistica. Utilizacion de experimentos numericos para su descripcion.
+
+5 8. Aplicaciones a otras areas de las matematicas y a otras
+ciencias
+
+2
+
+
+
+10 9. Temas optativos
+9.1 Introduccion a sistemas en el plano. Dinamica de transformacio-
+nes lineales. Una primera mirada a la Herradura de Smale.
+9.2 Transformaciones lineales y caos. Ejemplo de una transformacion
+lineal caotica en un espacio de dimension infinita.
+9.3 Dinamica de la funcion f(z) = z2 definida en los numeros
+complejos. Dinamica de otros elementos de la familia cuadratica
+f(z) = z2 + c. Presentacion del Conjunto de Julia y del Conjunto
+de Mandelbrot.
+9.4 Relacion entre la definicion de caos de R. Devaney y otros con-
+ceptos de sistemas caoticos: El "conjunto revuelto" de Li y Yorke, las
+"funciones turbulentas" de Block y Coppel, y otros.
+9.5 Ejemplo de funciones en el intervalo con puntos periodicos de
+periodo todas las potencias de 2. Introduccion a la dinamica de otra
+funcion definida en el espacio de las sucesiones de dos simbolos: la
+Sumadora.
+
+BIBLIOGRAFIA BASICA:
+
+1. Anton, H.A., Rorres, C., Elementary Linear Algebra with Applications, New York:
+Wiley, 1987.
+
+2. Block, L.S., Coppel, W.A., Dynamics in One Dimension, Berlin: Springer Verlag,
+1992.
+
+3. Caswell, H., Matrix Populations Models, Sunderland, Massachusetts: Sinauer Ass.
+Inc. Publishers, 2001.
+
+4. Devaney, R.L., An Introduction to Chaotic Dynamical Systems (Second Edition),
+New York: Addison Wesley, 1989.
+
+5. Devaney, R.L., A First Course in Chaotic Dynamical Systems: Theory and Experi-
+ments, New York: Addison Wesley, 1992.
+
+3
+
+
+
+BIBLIOGRAFIA COMPLEMENTARIA:
+
+1. Alligood, K., Sauer, T.D., Yorke, J., CHAOS, an Introduction to Dynamical Systems,
+New York: Springer-Verlag, 1996.
+
+2. Hirsch, M., Smale, S., Devaney, R.L., Dynamical Systems and an Introduction to
+Chaos, San Diego, California: Academic Press, 2004.
+
+3. Holmgren, R.A., A First Course in Discrete Dynamical Systems, New York: Springer-
+Verlag, 1996.
+
+4. Mendez-Lango, H., Iteracion de Funciones (notas para un curso de introduccion a
+los sistemas dinamicos discretos), Vinculos Matematicos, Serie textos, numero 4,
+Mexico: UNAM, 2000.
+
+5. Robinson, C. Dynamical Systems: Stability, Symbolic Dynamics, and Chaos, Boca
+Raton: CRC Press, 1999.
+
+SUGERENCIAS DIDACTICAS: Lograr la participacion activa de los alumnos mediante
+exposiciones.
+
+SUGERENCIA PARA LA EVALUACION DE LA ASIGNATURA: Ademas de las califi-
+caciones en examenes y tareas se tomara en cuenta la participacion del alumno.
+
+PERFIL PROFESIOGRAFICO: Matematico, fisico, actuario o licenciado en ciencias de
+la computacion, especialista en el area de la asignatura a juicio del comite de asignacion
+de cursos.
+
+4
+
+

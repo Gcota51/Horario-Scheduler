@@ -1,0 +1,323 @@
+A DE MEXICO 
+
+ 
+Facultad de Ciencias 
+
+ 
+Plan de estudios de la Licenciatura en  
+
+Matematicas  
+ 
+ 
+
+Teoria de Graficas 
+ 
+
+Clave 
+0759 
+
+Semestre 
+   7 u 8 
+
+Creditos 
+10 
+
+Area de 
+concentracion 
+
+ 
+
+Campo de 
+conocimiento 
+
+ 
+
+Etapa 
+ 
+
+VII y VIII 
+
+Modalidad 
+Curso ( X ) Taller ( ) Lab ( ) Sem ( ) 
+ 
+ 
+
+Tipo T ( X )     P (  )    T/P  (  )  
+
+Caracter 
+Obligatorio (  )           Optativo ( X ) 
+ 
+Obligatorio E ( )        Optativo E ( )  
+
+Horas 
+
+ Semana Semestre  
+
+ Teoricas           5 Teoricas           80 
+
+ Practicas          0 Practicas           0 
+
+ Total                 5 Total                  80 
+
+ 
+
+Seriacion 
+ 
+
+Ninguna (   ) 
+
+Obligatoria (   ) 
+
+Asignatura antecedente 
+ 
+
+ 
+
+Asignatura subsecuente 
+ 
+
+ 
+
+Indicativa ( X ) 
+
+Asignatura antecedente 
+ 
+
+Introduccion a las Matematicas Discretas 
+
+Asignatura subsecuente 
+ 
+
+Ninguna. 
+
+ 
+ 
+
+Objetivo general: 
+
+ Conocera la naturaleza y el desarrollo de la Teoria de Graficas.  
+
+ Definira lo que es una grafica y los conceptos elementales relacionados con esta.  
+
+ Aprendera el concepto de arbol y utilizara la induccion matematica y argumentos 
+combinatorios para demostrar resultados relativos a este concepto.  
+
+ Explicara el concepto de conexidad y sus aplicaciones.  
+
+ Conocera las nociones relacionadas con los recorridos eulerianos y apareamientos.  
+
+ Entendera los principios de la coloracion de aristas y vertices.  
+
+
+
+ Comprendera la relacion entre la Topologia y la Teoria de Graficas a traves de las 
+graficas planares 
+ 
+
+ 
+ 
+
+Indice tematico 
+
+ Tema  
+
+Horas 
+ semestre  
+
+Teoricas Practicas 
+
+1 Graficas y subgraficas 15 0 
+
+2 Arboles 7 0 
+
+3 Conexidad 7 0 
+
+4 Recorridos eulerianos y ciclos hamiltonianos 8 0 
+
+5 Apareamientos 12 0 
+
+6 Coloracion de aristas 7 0 
+
+7 Coloracion de vertices 12 0 
+
+8 Graficas planares 12 0 
+
+Subtotal 80 0 
+
+Total 80 
+
+ 
+
+Contenido Tematico 
+
+ Tema y subtemas 
+
+1 Graficas y subgraficas 
+
+1.1 Graficas y graficas simples.  
+
+1.2 Isomorfismos entre graficas. 
+
+1.3 Matrices de incidencia y adyacencia. 
+
+1.4 Subgraficas. 
+
+1.5 Grado de un vertice. 
+
+1.6 Trayectorias y conexidad. 
+
+1.7 Ciclos y sus aplicaciones. 
+
+2 Arboles 
+
+2.1 Arboles.  
+
+2.2 Aristas de corte. 
+
+2.3 Vertices de corte. 
+
+2.4 Formula de Cayley. Aplicaciones. 
+
+2.5 El problema de conexidad 
+
+3 Conexidad 
+
+3.1 Conexidad.  
+
+3.2 Bloques. Aplicaciones. 
+
+3.3 Construccion de una red de comunicacion confiable. 
+
+4 Recorridos eulerianos y ciclos hamiltonianos 
+
+4.1 Paseos de Euler.  
+
+4.2 Ciclos hamiltonianos y aplicaciones. 
+
+4.3 El problema del cartero chino. 
+
+4.4 El problema del agente viajero 
+
+5 Apareamientos 
+
+5.1 Apareamientos.  
+
+5.2 Apareamientos y cubiertas de una grafica bipartita.  
+
+5.3 Apareamientos perfectos y sus aplicaciones.  
+
+
+
+5.4 El problema de asignacion de personal.  
+
+5.5 El problema de asignacion optima 
+
+6 Coloracion de aristas 
+
+6.1 Numero cromatico de aristas.  
+
+6.2 Teorema de Vizing. 
+
+6.3 El problema de horarios 
+
+7 Coloracion de vertices 
+
+7.1 Numero cromatico.  
+
+7.2 Teorema de Brook. 
+
+7.3 Conjetura de Hajo. 
+
+7.4 Polinomio cromatico. 
+
+7.5 Cuello y numero cromatico. 
+
+7.6 Problema de almacenamiento. 
+
+8 Graficas planares 
+
+8.1 Graficas planas y planares.  
+
+8.2 Graficas duales. 
+
+8.3 Formula de Euler. 
+
+8.4 Puentes.Plan de Estudios de la Licenciatura de Actuaria  
+
+8.5 Teorema de Kuratowski. 
+
+8.6 Teorema de los cinco colores y la exconjetura de los cuatro colores. 
+
+8.7 Graficas planares no hamiltonianas y sus aplicaciones. 
+
+8.8 Un algoritmo para aplanar graficas. 
+
+ 
+ 
+
+Estrategias didacticas Evaluacion del aprendizaje 
+
+Exposicion                                                   ( X ) Examenes parciales                (X  ) 
+
+Trabajo en equipo                                         (  ) Examen final                  ( X ) 
+
+Lecturas                                                         (  ) Trabajos y tareas                  ( X ) 
+
+Trabajo de investigacion                               (  ) Presentacion de tema                 (  ) 
+
+Practicas (taller o laboratorio)                       (  ) Participacion en clase                            ( X ) 
+
+Practicas de campo                                       (  ) Asistencia                                                 ( X ) 
+
+Aprendizaje por proyectos                          ( X ) Rubricas                                                   (  ) 
+
+Aprendizaje basado en problemas             ( X ) Portafolios                                                (  ) 
+
+Casos de ensenanza                                  ( X ) Listas de cotejo                                        (  ) 
+
+Otras (especificar) Otras (especificar)  
+
+ 
+ 
+ 
+
+Perfil profesiografico 
+
+Titulo o grado Matematico, actuario o licenciado en otra carrera afin. 
+
+Experiencia docente Debera tener experiencia docente en el area o en las aplicaciones de la 
+teoria de graficas. 
+
+Otra caracteristica  
+
+ 
+ 
+ 
+
+Bibliografia basica: 
+
+ Bondy, J. A., Murty, U. S. Graph Theory with applications. USA. McMillan Press. 1976.  
+
+ Harary, F. Graph Theory. USA. Addison Wesley. 1971. 
+ 
+ 
+
+
+
+Bibliografia complementaria: 
+
+ Gould, R. Graph Theory. USA. The Benjamin Cummings Publishing Company. 1988.  
+
+ Tomescu, I. Problems In Combinatorics and Graph Theory. USA. Wiley. 1985. 
+ 
+
+ 
+
+ 
+  
+
+
+
+ 
+
+

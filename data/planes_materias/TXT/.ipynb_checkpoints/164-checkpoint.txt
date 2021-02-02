@@ -1,0 +1,107 @@
+FACULTAD DE CIENCIAS
+
+CARRERA DE MATEMATICO
+
+ECUACIONES DIFERENCIALES III
+
+SEMESTRE: Septimo u octavo
+CLAVE: 0164
+
+HORAS A LA SEMANA/SEMESTRE
+
+TEORICAS PRACTICAS CREDITOS
+5/80 0 10
+
+CARACTER: OPTATIVO.
+MODALIDAD: CURSO.
+SERIACION INDICATIVA ANTECEDENTE: Ecuaciones Diferenciales II.
+SERIACION INDICATIVA SUBSECUENTE: Ninguna.
+
+OBJETIVO(S): El objetivo del curso es hacer una introduccion a la teoria de bifurcaciones
+de sistemas de ecuaciones diferenciales, centrandose principalmente en sistemas planos en
+los que aparece uno o dos parametros.
+
+NUM. HORAS UNIDADES TEMATICAS
+
+10 1. Importancia del cambio en la dinamica al cambiar los
+parametros
+1.1 Ejemplos de bifurcaciones en el caso escalar (histeresis).
+1.2 Ejemplos relevantes de bifurcaciones de equilibrios y trayectorias
+en sistemas planos.
+
+15 2. Estudio de las bifurcaciones elementales en el caso escalar
+2.1 El Teorema de la Funcion Implicita y las bifurcaciones elementa-
+les.
+2.2 El caso hiperbolico, degeneraciones uno y dos. Unos y dos parame-
+tros.
+2.3 Obtencion de diagramas de bifurcacion.
+2.4 Bifurcacion de soluciones periodicas.
+
+15 3. Estabilidad Estructural de Sistemas Planos
+3.1 Equilibrios y trayectorias hiperbolicos.
+3.2 Distancia entre sistemas de ecuaciones diferenciales.
+3.3 Equivalencia topologica entre sistemas.
+3.4 El Teorema de Andronov-Pontryagin. El Teorema de Peixoto.
+
+1
+
+
+
+15 4. Bifurcaciones Locales
+4.1 Los teoremas de la variedad invariante y de la variedad central.
+4.2 Formas normales en casos de degeneracion uno y dos.
+4.3 Aparicion de ciclos limite a traves de una bifurcacion. El Teorema
+de Hopf-Andronov.
+4.4 Estabilidad de ciclos limite y el mapeo de Poincare.
+
+15 5. Bifurcaciones Globales
+5.1 Sobre la existencia de trayectorias heteroclinicas, homoclinicas y
+ciclos heteroclinicos.
+5.2 Bifurcacion de trayectorias heteroclinicas y de ciclos heteroclini-
+cos.
+5.3 La funcion de Melnikov.
+
+10 6. Una mirada a sistemas tridimensionales
+6.1 Ejemplos que exhiben bifurcaciones (Lorenz, Fitzhugh-Nagumo,
+etc.).
+6.2 Trayectorias heteroclinicas y homoclinicas.
+6.3 Sistemas caoticos.
+
+BIBLIOGRAFIA BASICA:
+
+1. Hale, J., Kocsack, H., Dynamics and Bifurcations, New York: Springer-Verlag, 1991.
+
+2. Hirsch, M. W., Smale, S.,Devaney, R. L., Differential Equations, Dynamical Systems
+and An Introduction to Chaos, Oxford: Elsevier Academic Press, 2004.
+
+3. Perko, L., Differential Equations and Dynamical Systems, New York: Springer-
+Verlag, 1998.
+
+4. Wiggins, S., Introduction to Applied Nonlinear Dynamical Systems and Chaos, New
+York: Springer-Verlag, 1990.
+
+BIBLIOGRAFIA COMPLEMENTARIA:
+
+1. Chow, S. N., Li, Ch., Wang, D., Normal Forms and Bifurcation of Planar Vector
+Fields, Cambridge: Cambridge University Press, 1994.
+
+2. Kuznetsov, Y. A., Elements of Applied Bifurcation Theory, 3dr. Edition. New York:
+Springer-Verlag, 2004.
+
+2
+
+
+
+SUGERENCIAS DIDACTICAS: Lograr la participacion activa de los alumnos mediante
+exposiciones.
+
+SUGERENCIA PARA LA EVALUACION DE LA ASIGNATURA: Ademas de las califi-
+caciones en examenes y tareas se tomara en cuenta la participacion del alumno.
+
+PERFIL PROFESIOGRAFICO: Matematico, fisico, actuario o licenciado en ciencias de
+la computacion, especialista en el area de la asignatura a juicio del comite de asignacion
+de cursos.
+
+3
+
+

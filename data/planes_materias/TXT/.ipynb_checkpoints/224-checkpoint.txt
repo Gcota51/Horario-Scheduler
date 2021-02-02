@@ -1,0 +1,167 @@
+
+CLAVE: 0224
+SEMESTRE: II
+CREDITOS:  10
+
+AREA: CIENCIAS DE LA COMPUTACION
+Requisitos:Algebra Superior I
+
+Matematicas Discretas
+
+HORAS POR CLASE
+CLASES POR SEMANA
+HORAS POR SEMESTRE
+
+TEORICA:   1
+TEORICA:   4
+TEORICA:  64
+
+TEORICO-PRACTICAS:   2
+TEORICO-PRACTICAS:   1
+TEORICO-PRACTICAS:  32
+
+Objetivos generales:
+Este curso introduce la metodologia de diseno de software utilizando para ello un 
+lenguaje moderno de programacion. Se introduce a los estudiantes al proceso de 
+diseno e implementacion de un programa que resuelva un problema algoritmico. Se 
+cubren  tipos  de  datos  y  se  introducen  algunos  metodos  de  busqueda  y 
+ordenamiento para motivar los aspectos metodologicos. Se cubren estructuras de 
+control, tipos de datos y abstraccion de procedimientos. El curso introduce tambien 
+la historia y el impacto social de la computacion y la naturaleza de la propiedad 
+intelectual.
+
+El acceso a un laboratorio dedicado es de primordial importancia para llevar a cabo 
+adecuadamente este curso.
+
+Temario:
+I. Conceptos fundamentales en metodos para la solucion de problemas 23 horas
+
+Introduccion  a  las  ideas  basicas  de  programacion  y  solucion 
+algoritmica  de  problemas,  utilizando  los  principios  de  diseno 
+descendente,  refinamientos  sucesivos  y  abstraccion  de 
+procedimientos. Estructuras de control, tipos de datos y convenciones 
+de entrada y salida basicos.
+I.1 Abstraccion de procedimientos; parametros
+I.2 Estructuras de control: seleccion, iteracion, recursividad
+I.3 Tipos de datos (i.e. numeros, cadenas, booleanos) y sus usos en 
+
+la solucion de problemas
+I.4 El proceso de diseno de programas; desde la especificacion hasta 
+
+la  instrumentacion;  refinamientos  sucesivos;  representacion 
+grafica
+
+II. Introduccion a un lenguaje de programacion 9 horas
+
+Introduccion  a  las  caracteristicas  sintacticas  y  de  ejecucion  de  un 
+lenguaje  de  programacion  moderno,  junto  con  su  uso  en  la 
+construccion  y  ejecucion  de  programas  completos  que  resuelven 
+problemas algoritmicos sencillos.
+II.1 Declaracion de tipos basicos
+II.2 Operadores aritmeticos y de asignacion
+II.3 Enunciados condicionales
+II.4 Iteraciones y recursividad
+
+
+
+II.5 Procedimientos, funciones y parametros
+II.6 Arreglos y registros
+II.7 Estructura general de un programa
+
+III.Representacion de datos a nivel de la maquina 4 horas
+Representaciones  basicas  de  datos  numericos  y  no  numericos 
+directamente en la maquina
+III.1 Representacion  de  datos  numericos,  esto  es  binario,  octal, 
+
+hexadecimal,  punto fijo,  complemento a 1 y  a  2,  con signo, 
+punto flotante, decimal, BCD, XS3
+
+III.2 Datos no numericos como alfanumericos, ASCII, ISO
+
+IV.Representacion de tipos de datos 4 horas
+Tipos de datos elementales y estructurados. Creacion de tipos de 
+datos definidos por el usuario y sus aplicaciones.
+
+IV.1 Seleccion  y  representacion  de  tipos  de  datos  elementales: 
+enteros, reales, booleanos, caracter.
+
+IV.2 Especificacion y representacion de tipos de datos estructurados: 
+arreglos, registros, conjuntos.
+
+V. Algoritmos recursivos 8 horas
+Introduccion  a  los  fundamentos  y  usos  de  algoritmos 
+
+recursivos en el proceso de solucion de problemas
+V.1 Introduccion a algoritmos recursivos
+V.2 Conexion con la induccion matematica
+V.3 Comparacion entre algoritmos recursivos e iterativos
+
+VI.Busquedas y Ordenamientos lineales 8 horas
+Comparacion  de  algunos  algoritmos  para  busquedas  y 
+
+ordenamientos lineales. Se hara una presentacion informal de los 
+problemas de complejidad con enfasis en la contraposicion entre 
+espacio requerido y tiempo de ejecucion. 
+
+VI.1 Algoritmos de ordenamiento de seleccion e insercion en arreglos 
+y a traves de apuntadores, con asignacion dinamica de memoria.; 
+complejidad en el tiempo y el espacio; mejor y peor casos
+
+VI.2 Busqueda  lineal,  busqueda  binaria  y  arboles  binarios  de 
+busqueda; complejidad en el tiempo y el espacio; mejor y peor 
+casos
+
+VII. Contexto historico y social de la computacion 4 horas
+Introduccion  a  un  contexto  social  mayor  en  el  cual  la 
+
+disciplina de computacion existe, con enfasis en la manera en que 
+la disciplina interacciona y sirve los intereses de la sociedad. 
+
+VII.1 Contexto social e historico de la computacion
+VII.2 Definicion de su area de estudio y actividades profesionales
+VII.3 Similitudes  y  diferencias  con  otras  disciplinas  cientificas  y 
+
+profesionales
+VII.4 Uso, mal uso y limites de la tecnologia computacional
+
+
+
+VII.5 Responsabilidades sociales (seguridad y privacia)
+VII.6 Tipos de riesgos: errores latentes, seguridad, privacia, mal uso, 
+
+etc.
+Bibliografia:
+
+Basica:
+* Tucker, A.B.;Bernat, A.;Bradley, W.J.; Cupper, R.D.,Fundamentals of Computing, I:  
+
+Logic, Problem Solving, Programs and Computers, Second Edition, McGraw-
+Hill, 1994.
+
+* Warfords, S.J.,Comnputer Science, D.C. Heath and Company, 1991.
+
+Complementaria:
+
+* Ledgard H. with Tauer J.,  Professional Software, Software Engineering 
+Concepts, Vol. I,  Addison-Wesley Publishing Company, 1987.
+
+* Ledgard H. with Tauer J.,  Professional Software, Programming Practice, Vol. II, 
+Addison-Wesley Publishing Company, 1987.
+
+* Naur, P.,  A Human Activity,  ACM Press, Addison-Wesley Publishing Company, 
+1992.
+
+* Salmon, W. I.,  Structures And Abstractions, An Introduction to Computer 
+Science with Pascal,  Richard D. Irwin, Inc., 1991.
+
+* Warnier, J. D.,  Logical Construction Of Systems,  Van Nostrand Reinhold 
+Company, 1981.
+
+* Loren, H.,  Introduction To Computer Architecture And Organization, 2nd. 
+Edition,  John Wiley & Sons, Inc., 1989.
+
+--------------------------
+
+
+	INTRODUCCION A CIENCIAS DE LA COMPUTACION  I
+
