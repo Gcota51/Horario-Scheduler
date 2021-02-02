@@ -1,0 +1,159 @@
+FACULTAD DE CIENCIAS
+
+CARRERA DE MATEMATICO
+
+TOPOLOGIA I
+
+SEMESTRE: Quinto o sexto
+CLAVE: 0765
+
+HORAS A LA SEMANA/SEMESTRE
+
+TEORICAS PRACTICAS CREDITOS
+5/80 0 10
+
+CARACTER: OPTATIVO.
+MODALIDAD: CURSO.
+SERIACION INDICATIVA ANTECEDENTE: Algebra Lineal II, Analisis Matematico
+I, Ecuaciones Diferenciales I.
+SERIACION INDICATIVA SUBSECUENTE: Seminario de Topologia (A o B), Topo-
+logia II, Topologia Diferencial I.
+
+OBJETIVO(S): Introducir al alumno a los principales conceptos, resultados y problemas
+que se abordan en esta area de las matematicas.
+
+NUM. HORAS UNIDADES TEMATICAS
+
+2 1. Preliminares
+1.1 Motivacion y ejemplos de espacios topologicos conocidos. Sub-
+espacios importantes de Rn.
+
+16 2. Espacios topologicos
+2.1 Topologia en un conjunto, conjuntos abiertos y cerrados, vecinda-
+des en un espacio topologico. La topologia inducida por una metrica.
+Ejemplos en espacios euclidianos.
+2.2 Bases y subbases de una topologia (topologia generada por una
+cubierta), bases de vecindades. Opcional: Filtros, convergencia de
+filtros.
+2.3 Interior, cerradura, conjuntos densos.
+2.4 Axiomas de numerabilidad. Opcional: Espacios separables.
+
+2.5 Comparacion de topologias. Infimo (interseccion) y supremo de
+una familia de topologias.
+
+1
+
+
+
+22 3. Continuidad y topologia inducida por funciones
+3.1 Continuidad. Opcional: Redes, convergencia y puntos de acumu-
+lacion.
+3.2 Aplicaciones abiertas, cerradas y homeomorfismos.
+3.3 Propiedades topologicas.
+3.4 Topologia inducida en un dominio comun de una familia de fun-
+ciones.
+3.5 Topologia relativa. Ejemplos de subespacios. Subespacios impor-
+tantes de Rn: la esfera, la bola, etc., vistos con la topologia relativa.
+3.6 Producto topologico. Propiedad universal. Producto de aplicacio-
+nes.
+3.7 Topologia (co)inducida en un codominio comun de una familia
+de funciones.
+3.8 Suma topologica. Propiedad universal. Topologia debil.
+3.9 Topologia de identificacion. Teorema de transgresion. Propiedad
+universal del cociente. Ejemplos de espacios cocientes: la banda de
+Mobius, los espacios proyectivos, etc.
+3.10 Espacios de adjuncion. Ejemplos diversos.
+
+18 4. Espacios de Hausdorff y compacidad
+4.1 Espacios de Hausdorff. Opcional: Su caracterizacion mediante
+redes.
+4.2 Conjuntos compactos. Propiedades equivalentes a la compacidad.
+Ejemplos de compactos en Rn. Opcional: El teorema de Heine-Borel
+y el de Bolzano-Weierstrass.
+4.3 Subespacios de espacios compactos. Imagenes continuas de com-
+pactos. Ejemplos de espacios compactos obtenidos como cocientes de
+espacios compactos; nuevamente los proyectivos, etc.
+4.4 Producto de compactos y el teorema de Tychonoff. Opcional:
+aplicando redes o filtros.
+4.5 Compacidad y axiomas de separacion.
+4.6 Espacios localmente compactos.
+4.7 Compactacion de Alexandroff (por un punto). La esfera como
+compactacion de Alexandroff de Rn -la proyeccion estereografica.
+
+8 5. Otros axiomas de separacion
+5.1 Espacios regulares y T3.
+5.2 Espacios metrizables.
+5.3 Espacios completamente regulares y de Tychonoff. Familia de
+aplicaciones que separa puntos y a puntos de cerrados. Teorema de
+metrizacion de Urysohn. Opcional: Compactacion de Stone-Cech.
+5.4 Espacios normales. Lema de Urysohn.
+
+2
+
+
+
+8 6. Conexidad
+6.1 Conjuntos conexos y conectables por trayectorias.
+6.2 Componentes conexas y por trayectorias. Los conexos de la recta
+real.
+6.3 Espacios localmente conexos y localmente conectables por trayec-
+torias.
+6.4 Producto de espacios conexos, conectables por trayectorias, lo-
+calmente conexos y localmente conectables por trayectorias.
+6.5 Ejemplos y contraejemplos. El espacio peine, la curva del seno
+del topologo, etc.
+
+6 7. Nociones de homotopia
+7.1 Aplicaciones homotopicas y nulhomotopicas.
+7.2 Equivalencia homotopica. Tipo de homotopia. Propiedades ho-
+motopicas.
+7.3 Deformaciones. Retractos (fuertes) por deformacion. Espacios
+contraibles. La bola euclidiana, la esfera, la bola sin el origen, Rn
+sin el origen y como se comparan.
+7.4 Espacios simplemente conexos. Definicion del grupo fundamental.
+Opcional: Los lazos en el circulo unitario.
+
+BIBLIOGRAFIA BASICA:
+
+1. Dugundji, J., Topology, Boston: Allyn and Bacon, 1966.
+
+2. Garcia-Maynez, A., Tamariz, A. Topologia General, Mexico: Porrua, 1988.
+
+3. Hu, S.T., Introduction to General Topology, San Francisco: Holden-Day, 1966.
+
+4. Prieto, C., Topologia Basica, Mexico: Fondo de Cultura Economica, 2003.
+
+3
+
+
+
+BIBLIOGRAFIA COMPLEMENTARIA:
+
+1. Armstrong, M.A., Basic Topology, New York: Springer-Verlag, 1983.
+
+2. Hocking, J.G,, Young, G.S., Topology, Reading, Mass.: Addison-Wesley, 1961.
+
+3. Kelley, J.L., General Topology, New York: Springer-Verlag, 1955 (reimpresion del
+original de Van Nostrand).
+
+4. Salicrup, G., Introduccion a la Topologia, Ed. Rosenblueth, J., Prieto, C. Mexico:
+Aportaciones Matematicas, Soc. Mat. Mex., 1993.
+
+5. Steen, L.A., Seebach, J.A. Jr., Counterexamples in Topology, second edition, New
+York: Springer-Verlag, 1978.
+
+6. Willard, S., General Topology, Reading : Addison-Wesley, 1970.
+
+SUGERENCIAS DIDACTICAS: Lograr la participacion activa de los alumnos mediante
+exposiciones.
+
+SUGERENCIA PARA LA EVALUACION DE LA ASIGNATURA: Ademas de las califi-
+caciones en examenes y tareas se tomara en cuenta la participacion del alumno.
+
+PERFIL PROFESIOGRAFICO: Matematico, fisico, actuario o licenciado en ciencias de
+la computacion, especialista en el area de la asignatura a juicio del comite de asignacion
+de cursos.
+
+4
+
+

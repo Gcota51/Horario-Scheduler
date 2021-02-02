@@ -1,0 +1,208 @@
+FACULTAD DE CIENCIAS
+
+CARRERA DE MATEMATICO
+
+INTRODUCCION A LA GEOMETRIA AVANZADA
+
+SEMESTRE: Segundo al cuarto
+CLAVE: 0272
+
+HORAS A LA SEMANA/SEMESTRE
+
+TEORICAS PRACTICAS CREDITOS
+5/80 0 10
+
+CARACTER: OPTATIVO.
+MODALIDAD: CURSO.
+SERIACION INDICATIVA ANTECEDENTE: Algebra Superior II, Calculo Diferen-
+cial e Integral II, Geometria Analitica II.
+SERIACION INDICATIVA SUBSECUENTE: Geometria Diferencial I.
+
+OBJETIVO(S): Lograr que el estudiante de los primeros semestres conozca la gama de
+posibilidades desarrolladas en Geometria despues del surgimiento del Calculo y el Algebra
+Moderna, utilizando modelos, grupos de transformaciones y el concepto de espacio cociente.
+
+NUM. HORAS UNIDADES TEMATICAS
+
+30 1. Geometria Euclidiana
+1.1 Simetrias con respecto a un punto, una recta y un plano.
+1.2 Transformaciones rigidas y sus invariantes.
+1.3 Cilindros y toros.
+1.4 Subgrupos finitos de E(2) y E(3).
+1.5 Frisos y mosaicos.
+
+5 2. Geometria Afin
+2.1 Puntos de fuga y recta del horizonte vs. puntos al infinito y recta
+al infinito.
+2.2 Transformaciones afines y sus invariantes.
+
+30 3. Geometria Proyectiva
+3.1 El plano proyectivo real.
+3.2 El principio de realidad.
+3.3 La forma de P 2(R).
+3.4 Cartas coordenadas de P 2(R) y de P 1(C).
+3.5 El grupo de transformaciones proyectivas; Teorema de Desargues.
+3.6 Propiedades proyectivas de las conicas; Teorema de Pascal.
+3.7 Polos y polares.
+3.8 Geometria eliptica.
+
+1
+
+
+
+15 4. Geometria Hiperbolica
+4.1 Los modelos del plano hiperbolico.
+4.2 Transformaciones del plano hiperbolico.
+4.3 La red de Steiner.
+4.4 La metrica hiperbolica.
+4.5 Primeros resultados en Geometria Hiperbolica.
+4.6 Superficies con estructura hiperbolica.
+4.7 Mosaicos.
+
+BIBLIOGRAFIA BASICA:
+
+1. Birkhoff, G. D., McLane, S., A Survey of Modern Algebra, Wellesley, Massachusetts:
+A. K. Peters, 1997.
+
+2. Courant, R., Differential and Integral Calculus, New York: Interscience, 1957.
+
+3. Coxeter, H. S. M., Fundamentos de Geometria, Mexico: Limusa-Wiley, 1971.
+
+4. Coxeter, H. S. M., Projective Geometry, New York: Springer-Verlag, 1994.
+
+5. Coxeter, H. S. M., Regular Complex Polytopes, Cambridge: Cambridge University
+Press, 1991.
+
+6. Coxeter, H. S. M., Non-euclidean Geometry, Washington, D. C.: The Mathematical
+Association of America, 1998.
+
+7. Coxeter, H. S. M., Geometry Revisited, Washington, D. C.: The Mathematical As-
+sociation of America, 1983.
+
+8. Euclides, Euclid's Elements, New York: Dover, 1979.
+
+9. Eves, H., Estudio de las Geometrias, Mexico: UTEHA, 1982.
+
+10. Fulton, W., Curvas Algebraicas, Mexico: Reverte, 1971.
+
+11. Graustein, W., Introduction to Higher Geometry, New York: Macmillan, 1952.
+
+12. Grunbaum, S., Tillings and Patterns, San Francisco: W. H. Freeman and Co., 1987.
+
+13. Hilbert, D., Foundations of Geometry, La Salle, Ill.: Open Court Publishing Co.,
+1971.
+
+14. Hilbert, D., Cohn Vossen, S., Geometry and the Imagination, Mexico: Vinculos Ma-
+tematicos No. 150, Facultad de Ciencias, UNAM, 2000.
+
+2
+
+
+
+15. Illanes, A., La Caprichosa Forma de Globion, Mexico: La ciencia para todos, 168,
+Fondo de Cultura Economica, 1999.
+
+16. Klein, F., Le Programme d'Erlangen, Paris: Gauthier-Villard, 1974.
+
+17. Kline, M., Mathematical Thought from Ancient to Modern Times, Oxford: Oxford
+University Press, 1991.
+
+18. Lefschetz, S., Differential Equations: Geometric Theory, Pure and Applied Mathe-
+matics VI, New York: Interscience, 1957.
+
+19. Markushevich, A., Teoria de las Funciones Analiticas, Moscu: MIR, 1987.
+
+20. Martin, G., Transformation Geometry. An Introduction to Symmetry, New York:
+Springer-Verlag, 1997.
+
+21. Matsushima, Y., Differential Manifolds, New York: Marcel Dekker, 1972.
+
+22. Montesinos, J. M., Classical Tessellations and three-Manifolds, New York: Springer-
+Verlag, 1985.
+
+23. Ramirez-Galarza, A., Geometria Analitica: Una Introduccion a la Geometria, Mexi-
+co: Las Prensas de Ciencias, UNAM, 1998.
+
+24. Ramirez-Galarza, A., Seade, J., Introduccion a la Geometria Avanzada, Mexico: Las
+Prensas de Ciencias, UNAM, 2005.
+
+25. Ramirez-Galarza, A., Sienra, G., Invitacion a las Geometrias No-euclideanas, Mexi-
+co: Las Prensas de Ciencias, UNAM, 2000.
+
+26. Rees, E., Notes on Geometry, Berlin: Springer-Verlag, 1983.
+
+27. Rincon, H., Algebra Lineal, Mexico: Las Prensas de Ciencias, UNAM, 2001.
+
+28. Samuel, P., Projective Geometry, New York: Springer-Verlag, 1988.
+
+29. Springer, G., Introduction to Riemann Surfaces, Reading, Mass.: Addison-Wesley
+Publishing, 1957.
+
+30. Thurston, W., Three Dimensional Geometry and Topology. Vol. 1, Princeton: Prin-
+ceton Mathematical Series 35, 1997.
+
+31. Verjovsky, A., Introduccion a la Geometria y las Variedades Hiperbolicas, Mexico:
+Departamento de Matematicas, CINVESTAV, IPN, 1982.
+
+32. Wolfe, H. E., Introduction to Non-euclidean Geometry, New York: Holt, Reinhert
+and Winston, 1945.
+
+3
+
+
+
+BIBLIOGRAFIA COMPLEMENTARIA:
+
+1. Ahlfors, L.V., Complex Analysis, New York: McGraw Hill, 1985.
+
+2. Bonola, R., Non-Euclidean Geometry, New York: Dover, 1955.
+
+3. Costa, A., Gomez, B., Arabesques and Geometry, New York: Springer Video-MATH,
+1991.
+
+4. Do Carmo, M. P. Differential Geometry of Curves and Surfaces in R3, New jersey:
+Prentice Hall, 1976. (Trad. Oscar Palmas, Mexico: Vinculos Matematicos 183, 185,
+193, 194, 197, Facultad de Ciencias, UNAM, 1991.)
+
+5. Dodson, C. T. J., Parker, P. E. A User's Guide to Algebraic Topology, Boston: Kluwer
+Academic Publisher, 1997.
+
+6. Durero, A., "Instituciones de Geometria", Fuentes 3, IIB, UNAM, 1987.
+
+7. Ernst, B., El Espejo Magico de M. C. Escher, Koln: Taschen, 1992.
+
+8. Escher, M. C., The Graphic Work of M. C. Escher, Koln: Taschen, 1992.
+
+9. Forster, O., Lectures on Riemann Surfaces, New York: Springer-Verlag, 1991.
+
+10. Gonzalez, V., Rodriguez, R., Seminario de Geometria Compleja 1, Chile: Universi-
+dad de Santa Maria y Universidad de Santiago, 1983.
+
+11. Hirsch, M., Differential Topology, New York: Springer-Verlag, 1967.
+
+12. Speiser, A., Die Theorie der Gruppen von Endlicher Ordnung, Germany: Basel
+Birkhauser, 1956.
+
+13. Vasari, G., Vidas de los mas Excelentes Pintores, Escultores y Arquitectos, Mexico:
+Nuestros clasicos 74, UNAM, 1996.
+
+14. Yaglom, I., Feliz Klein and Sophus Lie, Evolution of the Idea of Symmetry in the
+Nineteenth Century, Boston: Birkhauser, 1988.
+
+SUGERENCIAS DIDACTICAS: Lograr la participacion activa de los alumnos mediante
+exposiciones.
+
+SUGERENCIA PARA LA EVALUACION DE LA ASIGNATURA: Ademas de las califi-
+caciones en examenes y tareas se tomara en cuenta la participacion del alumno.
+
+4
+
+
+
+PERFIL PROFESIOGRAFICO: Matematico, fisico, actuario o licenciado en ciencias de
+la computacion, especialista en el area de la asignatura a juicio del comite de asignacion
+de cursos.
+
+5
+
+

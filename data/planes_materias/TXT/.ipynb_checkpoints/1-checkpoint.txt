@@ -1,0 +1,83 @@
+FACULTAD DE CIENCIAS
+
+CARRERA DE MATEMATICO
+
+ALGEBRA MODERNA I
+
+SEMESTRE: QUINTO
+CLAVE: 0001
+
+HORAS A LA SEMANA/SEMESTRE
+
+TEORICAS PRACTICAS CREDITOS
+5/80 0 10
+
+CARACTER: OBLIGATORIA.
+MODALIDAD: CURSO.
+SERIACION INDICATIVA ANTECEDENTE: Algebra Lineal II, Calculo Diferencial
+e Integral III.
+SERIACION INDICATIVA SUBSECUENTE: Algebra Moderna II, Analisis Matemati-
+co III, Historia de las Matematicas II, Seminario de Algebra (A o B), Seminario
+de Analisis Combinatorio, Seminario de Analisis Matematico (A o B), Seminario
+de Filosofia de las Matematicas, Seminario de Geometria (A o B), Seminario de
+Historia y Filosofia de la Ciencia I, Seminario de Topologia (A o B), Seminario
+sobre la Ensenanza de las Matematicas I, Topologia II, Variable Compleja II.
+
+OBJETIVO(S): Introducir al alumno a la teoria general de grupos.
+
+NUM. HORAS UNIDADES TEMATICAS
+
+25 1. Teoria elemental de grupos
+1.1 Grupos.
+1.2 Subgrupos.
+1.3 Grupos ciclicos.
+1.4 Grupos de permutaciones. Ciclos, transposiciones, paridad y el
+grupo alternante.
+1.5 Clases laterales y el teorema de Lagrange.
+1.6 Subgrupos normales y Grupo cociente.
+1.7 Productos directos y grupos abelianos finitos.
+
+20 2. Homomorfismos
+2.1 Homomorfismos.
+2.2 Teorema de Cayley.
+2.3 Teoremas de Isomorfismo.
+
+1
+
+
+
+35 3. Topicos avanzados
+3.1 Series de subgrupos.
+3.2 Teorema de Jordan-Holder.
+3.3 Accion de un grupo en un conjunto. La ecuacion de clases.
+3.4 Teoremas de Sylow.
+3.5 Demostracion del Teorema Fundamental de los grupos abelianos
+finitos.
+
+BIBLIOGRAFIA BASICA:
+
+1. Fraleigh, J.B., A First Course in Abstract Algebra, Boston: Addison-Wesley, 2003.
+
+2. Herstein, I.N., Topics in Algebra, New York: J. Wiley, 1975.
+
+3. Rotman, J.J., An Introduction to the Theory of Groups, New York: Springer, 1995.
+
+BIBLIOGRAFIA COMPLEMENTARIA:
+
+1. Jacobson, N., Lectures in Abstract Algebra, New York: Springer, 1980.
+
+2. Lang, S., Algebra, New York: Springer Verlag, 2002.
+
+SUGERENCIAS DIDACTICAS: Lograr la participacion activa de los alumnos mediante
+exposiciones.
+
+SUGERENCIA PARA LA EVALUACION DE LA ASIGNATURA: Ademas de las califi-
+caciones en examenes y tareas se tomara en cuenta la participacion del alumno.
+
+PERFIL PROFESIOGRAFICO: Matematico, fisico, actuario o licenciado en ciencias de
+la computacion, especialista en el area de la asignatura a juicio del comite de asignacion
+de cursos.
+
+2
+
+

@@ -1,0 +1,143 @@
+DE CIENCIAS
+
+CARRERA DE MATEMATICO
+
+ARQUITECTURA DE COMPUTADORAS
+
+SEMESTRE: Quinto o sexto
+CLAVE: 0605
+
+HORAS A LA SEMANA/SEMESTRE
+
+TEORICAS PRACTICAS CREDITOS
+4/64 2/32 10
+
+CARACTER: OPTATIVO.
+MODALIDAD: CURSO.
+SERIACION INDICATIVA ANTECEDENTE: Diseno de Sistemas Digitales.
+SERIACION INDICATIVA SUBSECUENTE: Sistemas Operativos.
+
+OBJETIVO(S): Al terminar el curso el alumno poseera un conocimiento general de los
+problemas intrinsecos del diseno de una arquitectura de computadora, conocera las difer-
+entes alternativas de solucion para los problemas mencionados y los distintos paradigmas
+que las engendran, conocera los mecanismos utilizados para cuantificar el desempeno de los
+diversos componentes de una arquitectura y su costo, conocera los diversos componentes
+de una arquitectura funcional y las relaciones entre ellos, comprendera la relacion entre el
+hardware, sus caracteristicas y estructura y el software de sistema y su desempeno.
+
+NUM. HORAS UNIDADES TEMATICAS
+
+10 1. Medidas de desempeno y principios cuantitativos de
+diseno de computadoras
+1.1 Tendencias tecnologicas, de costo y de uso de las computadoras.
+1.2 Labores del disenador de computadoras, relacion costo-beneficio.
+1.3 Medidas de desempeno, benchmarks, criterios de evaluacion.
+
+10 2. Organizacion de una computadora
+2.1 Concepto de arquitectura de Von Neumann, componentes funda-
+mentales.
+2.2 Etapas de ejecucion de instruccion.
+
+10 3. El conjunto de instrucciones, diseno y caracteristica
+3.1 Clasificacion de arquitecturas del conjunto de instrucciones.
+3.2 Operandos, tipos y tamano.
+3.3 Modos de direccionamiento.
+3.4 Formatos de instruccion.
+3.5 La relacion entre el diseno del conjunto de instrucciones y el
+compilador.
+
+116
+
+
+
+6 4. Organizacion funcional
+4.1 Ruta de datos, unidades funcionales.
+4.2 Senales de control.
+4.3 Unidades de control, alternativas de diseno (microprogramadas
+vs. alambradas, organizacion horizontal y vertical).
+
+10 5. Pipeline
+5.1 Concepto de pipeline y de paralelismo a nivel de instruccion.
+5.2 Revision del ciclo de ejecucion de instruccion.
+5.3 Caracteristicas de diseno que facilitan el pipeline.
+5.4 Hazards, su clasificacion y metodos de solucion.
+5.5 Medidas de desempeno del pipeline.
+
+10 6. La jerarquia de memoria
+6.1 Organizacion de la memoria, relacion costo-desempeno.
+6.2 Memorias cache, esquemas de colocacion de bloque, mapeo de
+direcciones.
+6.3 Politicas de reemplazo, de manejo de escritura y de fallos de
+escritura en cache.
+6.4 Medidas de desempeno de memoria cache.
+
+10 7. Entrada/Salida, canales
+7.1 Esquemas de manejo de entrada salida, interrupciones.
+7.2 Canales (buses), canales sincronos y asincronos, bus-master y
+arbitraje.
+7.3 Dispositivos de almacenamiento externo, discos, medidas de de-
+sempeno en discos, alternativas de diseno de controladores, deteccion
+y correccion de errores.
+7.4 Acceso directo a memoria.
+7.5 Relacion entre el sistema de E/S y el sistema operativo, impacto
+en el desempeno.
+
+10 8. Sistemas de multiprocesadores
+8.1 La clasificacion de Flynn (SISD, SIMD, MIMD, MISD).
+8.2 Comunicacion entre procesadores.
+8.3 Arquitecturas de memoria centralizada compartida.
+8.4 Arquitecturas de memoria distribuida compartida.
+8.5 Sincronizacion.
+8.6 Coherencia de caches.
+8.7 Clusters, sistemas de paso de mensajes, despachadores de proce-
+sos.
+
+117
+
+
+
+20 9. Tendencias en arquitecturas modernas
+9.1 Arquitecturas superescalares.
+9.2 Esquemas de prediccion de salto.
+9.3 Prefetch.
+9.4 Arquitecturas VLIW, ruteo de instrucciones, construccion de bun-
+dles.
+
+BIBLIOGRAFIA BASICA:
+
+1. Hennessy, J. L., Patterson, D. A., Computer Architecture: A Quantitative Approach,
+3a edicion, San Francisco, California: Morgan Kaufmann, 2003.
+
+BIBLIOGRAFIA COMPLEMENTARIA:
+
+1. Hamacher, V. C., Vranesic, Z., Zaky, S., Computer Organization, 5a. edicion, New
+York: McGraw Hill, 2002.
+
+2. Mano, M., Kime, C. R., Logic and Computer Design Fundamentals, 2a edicion, New
+Jersey: Prentice Hall, 2000.
+
+3. Murdocca, M. J., Heuring, V. P., Principles of Computer Architecture, New Jersey:
+Prentice Hall, 2000.
+
+4. Patterson, D., Hennessy, J.Computer Organization and Design: The Hardware Soft-
+ware Interface, San Francisco, California: Morgan Kaufmann, 1998.
+
+5. Tanenbaum, A.S. Structured Computer Organization, 4a. edicion, New Jersey: Pren-
+tice Hall, 1999.
+
+6. Stallings, W. Computer Organization and Architecture: Designing for Performance,
+New Jersey: Prentice Hall, 1999.
+
+SUGERENCIAS DIDACTICAS: Lograr la participacion activa de los alumnos mediante
+exposiciones.
+
+SUGERENCIA PARA LA EVALUACION DE LA ASIGNATURA: Ademas de las califi-
+caciones en examenes y tareas se tomara en cuenta la participacion del alumno.
+
+PERFIL PROFESIOGRAFICO: Matematico, fisico, actuario o licenciado en ciencias de
+la computacion, especialista en el area de la asignatura a juicio del comite de asignacion
+de cursos.
+
+118
+
+

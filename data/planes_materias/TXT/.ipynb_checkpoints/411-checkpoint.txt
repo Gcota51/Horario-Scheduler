@@ -1,0 +1,377 @@
+VERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+ 
+                          Facultad de Ciencias 
+
+          
+                      Plan de estudios de la Licenciatura en Actuaria 
+
+ 
+ 
+
+Estadistica Bayesiana 
+ 
+
+Clave 
+0411 
+
+Semestre 
+7 u 8 
+
+Creditos 
+10 
+
+Area 
+ 
+
+ 
+
+Campo de 
+conocimiento 
+
+Probabilidad y Estadistica 
+
+Etapa 
+ 
+
+Profundizacion 
+
+Modalidad 
+Curso ( X ) Taller ( ) Lab ( ) Sem ( ) 
+ 
+ 
+
+Tipo T ( X )     P (  )    T/P  (  )  
+
+Caracter 
+Obligatorio (  )           Optativo ( X ) 
+ 
+Obligatorio E ( )        Optativo E ( )  
+
+Horas 
+
+ Semana Semestre  
+
+ Teoricas           5 Teoricas           80 
+
+ Practicas          0 Practicas           0 
+
+ Total                 5 Total                  80 
+
+ 
+
+Seriacion 
+ 
+
+Ninguna (   ) 
+
+Obligatoria (   ) 
+
+Asignatura antecedente 
+ 
+
+ 
+
+Asignatura subsecuente 
+ 
+
+ 
+
+Indicativa ( X ) 
+
+Asignatura antecedente 
+ 
+
+Inferencia Estadistica 
+
+Asignatura subsecuente 
+ 
+
+Optativas del campo de probabilidad y estadistica  
+
+ 
+
+Objetivo general:  
+    
+
+ Conocer los conceptos basicos de la teoria bayesiana de la estadistica, con enfasis en la teoria de 
+decision y su aplicacion a la obtencion de inferencias tanto en estimacion como pruebas de hipotesis. 
+
+ 
+
+Objetivos especificos: 
+
+ 
+
+ Explicar la motivacion teorica para el desarrollo de la estadistica bayesiana.    
+
+ Adquirir herramientas utiles para la deduccion de distribuciones carentes de informacion. 
+
+ Comprender los fundamentos de la inferencia estadistica desde la perspectiva bayesiana 
+
+ Comprender los temas selectos y su relacion con la estadistica bayesiana 
+
+
+
+ 
+
+ 
+
+Indice tematico 
+
+ Tema  
+
+Horas 
+ semestre  
+
+Teoricas Practicas 
+
+1 Introduccion 10 0 
+
+2 De la informacion a priori a la distribucion a priori 25 0 
+
+3 Inferencia 25 0 
+
+4 Temas selectos 20 0 
+Total 80 
+
+ 
+
+Contenido Tematico 
+
+ Tema y subtemas 
+
+1 Introduccion 
+
+ 
+
+1.1 Introduccion al enfoque bayesiano. 
+
+1.2 Teoria de Decisiones. 
+
+- Definicion de un problema de decision, notacion y conceptos    
+
+   relacionados. 
+
+- Axiomas de coherencia. 
+
+- Probabilidad como grado de credibilidad. 
+
+- Funcion de utilidad y utilidad esperada. 
+
+- Solucion a un problema de decision acotado y general. 
+
+- Proceso de aprendizaje. 
+
+- Problemas de decision secuenciales. 
+
+- Informacion. 
+
+- Cantidades aleatorias. 
+
+- Campo de decisiones y utilidades. 
+ 
+
+2 De la informacion a priori a la distribucion a priori 
+2.1. Informacion Historica. 
+2.2. Distribuciones no informativas. 
+2.3. Criterio de Jeffreys. 
+2.4. Maxima entropia. 
+2.5. Familias conjugadas. 
+
+ 
+
+3 Inferencia 
+
+ 
+
+3.1 Fundamentos. 
+
+- Medida de informacion generalizada. 
+- Predictibilidad. 
+- Intercambiabilidad. 
+- Teorema de representacion de de Finetti. 
+- Principio de verosimilitud. 
+- Principio de suficiencia. 
+
+
+
+3.2 Estimacion Puntual y por regiones. 
+
+- Funciones de perdida y reglas de decision.  
+
+- Funciones de riesgo frecuentista y bayesiana. 
+
+- Estimador bayesiano. 
+
+- Estimador minimax. 
+
+- Estimacion puntual. 
+
+- Regiones de credibilidad. 
+
+3.3 Pruebas de Hipotesis. 
+
+3.4  Inferencia para un modelo lineal. 
+
+- Dependencia lineal. 
+
+- Modelos lineales. 
+
+- Modelos jerarquicos. 
+
+- Prediccion. 
+
+- Metodos de Monte Carlo basados en Cadenas de Markov. 
+
+- Seleccion de Variables. 
+ 
+
+4 Temas selectos 
+
+         
+
+4.1. Inferencia para un modelo de mezclas finitas. 
+4.2. Inferencia para series de tiempo. 
+4.3. Redes Bayesianas. 
+ 
+
+ 
+
+Estrategias didacticas Evaluacion del aprendizaje 
+
+Exposicion                                                   ( X ) Examenes parciales                ( X ) 
+
+Trabajo en equipo                                         (  ) Examen final                  ( X ) 
+
+Lecturas                                                      ( X ) Trabajos y tareas                  ( X ) 
+
+Trabajo de investigacion                             ( X ) Presentacion de tema                 (  ) 
+
+Practicas (taller o laboratorio)                     ( X ) Participacion en clase                            (  ) 
+
+Practicas de campo                                       (  ) Asistencia                                                 (  ) 
+
+Aprendizaje por proyectos                          ( X ) Rubricas                                                   (  ) 
+
+Aprendizaje basado en problemas               (  ) Portafolios                                                (  ) 
+
+Casos de ensenanza                                    (  ) Listas de cotejo                                        (  ) 
+
+Otras (especificar) Otras (especificar)  
+
+  
+
+Se recomienda el uso de paquetes estadisticos como 
+
+R, SPSS, Statistica o SPlus para el analisis y 
+
+modelacion de los datos. 
+
+Es recomendable que se impartan clases en el 
+
+laboratorio de computo para que el alumno aprenda 
+
+a usar al menos uno de estos paquetes. 
+
+Asimismo se sugiere que, al final del curso, el 
+
+alumno haga un analisis completo de un conjunto 
+
+de datos y presente los resultados de manera oral y 
+
+escrita 
+
+Se recomiendan tareas regulares en las cuales el 
+
+alumno aplique el material visto en clase y este 
+
+obligado a revisar diversas fuentes bibliograficas 
+
+para que amplie sus conocimientos con diferentes 
+
+enfoques. 
+
+Se recomiendan de 3 a 4 examenes parciales y un 
+
+examen final, asi como la realizacion de tareas 
+
+sobre los temas vistos en clase para reforzar los 
+
+conocimientos teoricos adquiridos. 
+
+ 
+
+
+
+ 
+
+Perfil profesiografico 
+
+Titulo o grado Egresado preferentemente de las licenciaturas en Actuaria, Matematicas o 
+alguna afin. Es deseable que cuente con un posgrado en Estadistica. 
+
+Experiencia docente Con experiencia docente. 
+
+Otra caracteristica Con conocimientos en Estadistica Bayesiana, asi como en los modelos utilizados 
+para este fin. 
+
+ 
+ 
+ 
+
+ 
+
+Bibliografia basica: 
+
+ 
+
+ Berger, J. O. (1985). Statistical Decision Theory and Bayesian Analysis (2a ed.). New York: Springer-
+Verlag. 
+
+ Bernardo, J. M. (1981). Bioestadistica: Una Perspectiva Bayesiana. Barcelona: Vicen Vives. 
+
+ Bernardo, J. M. and Smith, A. F. (1994). Bayesian Theory. Chichester; England: Wiley. 
+
+ Box, G. E.P. and Tiao, G. C. (1973). Bayesian Inference in Statistical Analysis. Reading, 
+Massachusetts: Addison-Wesley. 
+
+ DeGroot, M. H. (1970). Optimal Statistical Decisions. New York: McGraw-Hill. 
+
+ DeGroot, M. H. (1975). Probability and Statistics. Reading, Massachusetts: Addison-Wesley. 
+
+ Press, S. J. (1989). Bayesian Statistics. Principles, Models and Applications. New York: Wiley. 
+
+ Winkler, R. L. (1972). Introduction to Bayesian Inference and Decision. New York: Holt, Rinehart 
+and Winston. 
+
+ Jim Albert (2009). Bayesian Computation with R. Springer. 
+
+ Hoff, P. (2010). A First Course in Bayesian Statistical Methods. Springer Texts in Statistics. 
+ 
+
+Bibliografia complementaria: 
+
+ 
+
+ West, Mike (1997). Bayesian forecasting and dynamic models. New York: Springer. 
+
+ Harney, Hanns L. (2010). Bayesian Inference: Parameter Estimation and Decisions. Springer. 
+
+ Ming-Hui Chen,Peter Muller,Dongchu Sun,Keying Ye and Dipak K. Dey (2010). Frontiers of 
+Statistical Decision Making and Bayesian Analysis: In honor of James O. Berger. Springer. 
+
+ Carlin Bradley P. and Louis Thomas A. (2000). Bayes and Empirical Bayes Methods for Data 
+Analysis (2a ed.). Taylor & Francis. 
+
+ Marin, J. and Robert, C. (2007). Bayesian Core: A Practical Approach to Computational Bayesian 
+Statistics. Springer Texts in Statistics. 
+
+ Vladimir Savchuk and Chris P. Tsokos (2011). Bayesian Theory and Methods with Applications. 
+Springer. 
+
+ 
+
+ 
+
+

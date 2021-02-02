@@ -1,0 +1,92 @@
+FACULTAD DE CIENCIAS
+
+CARRERA DE MATEMATICO
+
+ANALISIS MATEMATICO II
+
+SEMESTRE: SEXTO
+CLAVE: 0010
+
+HORAS A LA SEMANA/SEMESTRE
+
+TEORICAS PRACTICAS CREDITOS
+5/80 0 10
+
+CARACTER: OBLIGATORIA.
+MODALIDAD: CURSO.
+SERIACION INDICATIVA ANTECEDENTE: Analisis Matematico I, Ecuaciones Di-
+ferenciales I.
+SERIACION INDICATIVA SUBSECUENTE: Analisis Matematico III, Seminario de
+Analisis Matematico (A o B), Seminario de Filosofia de las Matematicas, Semi-
+nario de Geometria (A o B), Seminario de Historia y Filosofia de las Ciencias I,
+Seminario de Topologia (A o B), Seminario sobre la Ensenanza de las Matemati-
+cas I, Simulacion y Control, Topologia III, Variable Compleja II.
+
+OBJETIVO(S): El estudiante profundizara en el enfoque presentado en el curso de Analisis
+Matematico I a traves de los conceptos de Medida de Lebesgue, Integral de Lebesgue y el
+espacio L2.
+
+NUM. HORAS UNIDADES TEMATICAS
+
+20 1. Medida de Lebesgue en Rn.
+20 2. Integral de Lebesgue.
+
+2.1 Teorema de Fubini.
+2.2 Teorema de cambio de variable (enunciado y aplicaciones).
+
+20 3. Teoremas de convergencia.
+3.1 Teorema de convergencia monotona.
+3.2 Lema de Fatou.
+3.3 Teorema de convergencia dominada de Lebesgue.
+
+13 4. El espacio L2.
+4.1 Series de Fourier.
+
+7 5. Temas opcionales
+5.1 De acuerdo a las preferencias del profesor.
+
+1
+
+
+
+BIBLIOGRAFIA BASICA:
+
+1. Apostol, T., Analisis Matematico. Segunda edicion, Mexico: Editorial Reverte. 1996
+
+2. Bartle, R.G., The Elements of Real Analysis, New York: J. Wiley, 1964.
+
+3. Jost, J., Postmodern Analysis, New York: Springer-Verlag, 1998.
+
+4. Kolmogorov, A.N., Fomin, S.V., Elementos de la Teoria de Funciones y del Analisis
+Funcional, Moscu: Editorial MIR, 1972.
+
+5. Rudin, W., Principios de Analisis Matematico, 2da. Edicion, Mexico: McGraw-Hill,
+1980.
+
+6. Wheeden, R.L., Zygmund, A., Measure and Integral, New York: Marcel Dekker, 1977.
+
+BIBLIOGRAFIA COMPLEMENTARIA:
+
+1. Brezis, H., Analisis Funcional, Madrid: Alianza Editorial, 1984.
+
+2. Dieudonne, J., Fundamentos de Analisis Moderno, Mexico: Editorial Reverte, 1976.
+
+3. Lieb, E. H., Loss, M., Analysis, Providence, R.I.: Amer. Math. Soc., 2001.
+
+4. Royden, H. L., Real Analysis, New York: Macmillan, 1988.
+
+5. Schwartz, L., Analyse I - IV, Paris: Hermann, 1992.
+
+SUGERENCIAS DIDACTICAS: Lograr la participacion activa de los alumnos mediante
+exposiciones.
+
+SUGERENCIA PARA LA EVALUACION DE LA ASIGNATURA: Ademas de las califi-
+caciones en examenes y tareas se tomara en cuenta la participacion del alumno.
+
+PERFIL PROFESIOGRAFICO: Matematico, fisico, actuario o licenciado en ciencias de
+la computacion, especialista en el area de la asignatura a juicio del comite de asignacion
+de cursos.
+
+2
+
+

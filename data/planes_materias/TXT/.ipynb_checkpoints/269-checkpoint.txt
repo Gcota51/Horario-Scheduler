@@ -1,0 +1,160 @@
+el plan y programa de estudios de la licenciatura en >Ciencias de la Computacion
+
+
+116 
+ 
+
+ 
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+Licenciatura en Ciencias de la Computacion 
+Facultad de Ciencias 
+
+Programa de la asignatura 
+ 
+
+Denominacion de la asignatura:  
+Complejidad Computacional 
+
+Clave:  
+ 
+
+Semestre:  
+7 
+
+Eje tematico: 
+Computacion Teorica 
+
+No. Creditos:   
+10 
+
+Caracter: Obligatoria Horas Horas por semana 
+Total de 
+Horas  
+
+Tipo: Teorico- Practica Teoria: Practica: 6 96 4 2 
+Modalidad: Curso Duracion del programa: Semestral 
+ 
+ 
+
+ 
+Asignatura con seriacion obligatoria antecedente: Probabilidad I; Automatas y Lenguajes 
+Formales; Logica Computacional 
+ 
+Asignatura con seriacion obligatoria subsecuente: Ninguna 
+ 
+Asignatura con seriacion indicativa antecedente:Analisis de Algoritmos 
+ 
+Asignatura con seriacion indicativa subsecuente: Ninguna 
+Objetivo general:  
+Comprender y aplicar la Complejidad Computacional, desde la teoria basica de NP-Completez, 
+hasta temas mas avanzados, contribuyendo asi a profundizar la formacion del alumno en 
+computacion teorica y dotandolo de herramientas y conocimientos que le seran de utilidad tanto 
+para otras materias teoricas como para el resto de su formacion. 
+ 
+ 
+
+Indice tematico 
+
+Unidad Temas  Horas Teoricas Practicas 
+I Introduccion y conceptos basicos 8 3 
+II La teoria de NP-Completez 16 9 
+III Demostraciones de problemas NP-Completos 24 12 
+IV Temas selectos 16 8 
+
+Total de horas: 64 32 
+Suma total de horas: 96 
+
+ 
+
+
+
+117 
+ 
+
+Contenido tematico 
+Unidad Tema 
+I Introduccion y conceptos basicos 
+I.1 Motivacion para estudiar complejidad computacional. 
+I.2 Problemas, algoritmos y complejidad. 
+I.3 Notacion asintotica, codificacion y modelos de computo. 
+II La teoria de NP-Completez 
+II.1 Maquinas de Turing y la clase P. 
+II.2 La clase NP. 
+II.3 Relacion P-NP y transformaciones polinomiales. 
+II.4 Definicion de NP-Completez. 
+II.5 Teorema de Cook. 
+II.6 Jerarquia de complejidad. 
+III Demostraciones de problemas NP-completos 
+
+III.1 Problemas basicos: 3SAT, apareamientos, cubierta de vertices, circuito 
+hamiltoniano, clan y particion. 
+
+III.2 Tecnicas: restriccion, remplazo local y diseno de componentes. 
+IV Temas selectos 
+IV.1 Problemas no computables y maquinas de Turing universales. 
+IV.2 Utilizando NP-Completez para analizar problemas. 
+IV.3 Enfrentando problemas NP-Completos: aproximacion, heuristicas, etc. 
+IV.4 Otras clases de complejidad. 
+IV.5 Otros modelos de computo: DNA, paralelos, distribuidos, cuanticos, etc. 
+ 
+
+Bibliografia basica: 
+1. Michael Garey y David Johnson, Computers and Intractability - a guide to the theory of NP-
+
+Completeness. PWS Publishing Company, 1997, 2nd Ed. 1995. 
+2. Michael Sipser, Introduction to the Theory of Computation. PWS Publishing Company, 
+
+1997. 2nd Ed 2005. 
+3. Sanjeev Arora y Boaz Barak, Computational Complexity: A Modern Approach. Cambridge 
+
+University Press, 2009. 
+4. Dexter C. Kozen, Theory of Computation. Springer, 2006. 
+Bibliografia complementaria: 
+1. John E. Hopcroft, Rajeev Motwani y Jeffrey D. Ullman, Introduction to Automata Theory, 
+
+Languages, and Computation. Addison Wesley, 2006 (3rd edition). 
+2. Christos H. Papadimitriou, Computational Complexity. Addison Wesley, 1993. 
+3. Oded Goldreich, Computational Complexity: A Conceptual Perspective. Cambridge 
+
+University Press, 2008. 
+4. Dexter C. Kozen, Automata and Computability. Springer, 1997. 
+
+
+
+118 
+ 
+
+Sugerencias didacticas: 
+Exposicion oral (X) 
+Exposicion audiovisual (  ) 
+Ejercicios dentro de clase (X) 
+Ejercicios fuera del aula (  ) 
+Seminarios (  ) 
+Lecturas obligatorias (  ) 
+Trabajo de investigacion (  ) 
+Practicas de taller o laboratorio (  ) 
+Practicas de campo (  ) 
+ 
+Otras: __________________________ 
+ 
+
+Metodos  de evaluacion:  
+Examenes parciales (X) 
+Examen final escrito (  ) 
+Trabajos y tareas fuera del aula (X) 
+Exposicion de seminarios por los alumnos (  ) 
+Participacion en clase (X) 
+Asistencia (  ) 
+Seminario (  ) 
+ 
+Otras: Proyectos de programacion. 
+  
+
+Perfil profesiografico:  
+Egresado preferentemente de la Licenciatura en Ciencias de la Computacion o Matematico con 
+especialidad en Computacion. Es conveniente que posea un posgrado en la disciplina. Con 
+experiencia docente. 
+  
+
+

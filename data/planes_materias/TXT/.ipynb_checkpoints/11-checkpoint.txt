@@ -1,0 +1,88 @@
+FACULTAD DE CIENCIAS
+
+CARRERA DE MATEMATICO
+
+ANALISIS MATEMATICO III (ejemplo)
+
+SEMESTRE: Septimo u octavo
+CLAVE: 0011
+
+HORAS A LA SEMANA/SEMESTRE
+
+TEORICAS PRACTICAS CREDITOS
+5/80 0 10
+
+CARACTER: OPTATIVO.
+MODALIDAD: CURSO.
+SERIACION INDICATIVA ANTECEDENTE: Analisis Matematico II, Algebra Mo-
+derna I y Variable Compleja I.
+SERIACION INDICATIVA SUBSECUENTE: Analisis Matematico IV.
+
+OBJETIVO(S): Que el alumno conozca las nociones de espacios de Banach, espacios de
+Hilbert y espacios topologicos vectoriales y los principales resultados del area.
+
+NUM. HORAS UNIDADES TEMATICAS
+
+5 1. Espacios topologicos vectoriales
+1.1 Subespacio, espacio cociente, funcionales lineales, hiperplano.
+Operadores lineales.
+
+10 2. Conjuntos convexos y funcionales convexas
+2.1 El teorema de Hahn-Banach y separacion de conjuntos convexos.
+Funcional de Minkowski.
+
+5 3. Seminormas y espacios localmente convexos
+
+5 4. Espacios normados vectoriales
+4.1 Criterio de normabilidad. Espacios normados de dimension finita.
+
+5 5. Espacios duales y topologias debiles
+5.1 Espacios normados reflexivos.
+
+10 6. Espacios de Banach
+6.1 El principio de acotabilidad uniforme.
+
+10 7. Los teoremas de funcion abierta y de grafica cerrada
+7.1 Aplicaciones.
+
+15 8. Espacios de Hilbert
+8.1 Ortogonalidad y bases. Ortogonalizacon. Caracterizacion de es-
+pacios de Hilbert.
+
+1
+
+
+
+15 9. Teorema de Riesz-Fisher
+9.1 Teorema sobre el isomorfismo.
+
+BIBLIOGRAFIA BASICA:
+
+1. Taylor, A.E., Lay, D.C. Introduction to Functional Analysis, Florida: Krieger Publis-
+hing Company, 1980.
+
+2. Kolmogorov, A.N., Fomin, S.V. Introductory Real Analysis, New York: Dover, 1970.
+
+3. Schecheter, M. Principles of Functional Analysis, Providence, Rhode Island: Ameri-
+can Mathematical Society, 2002.
+
+4. Rudin, W. Functional Analysis, New York: McGraw-Hill, 1973.
+
+BIBLIOGRAFIA COMPLEMENTARIA:
+
+1. Zeidler, E., Nonlinear Functional Analysis and its Applications, New York: Springer
+Verlag, 1993.
+
+SUGERENCIAS DIDACTICAS: Lograr la participacion activa de los alumnos mediante
+exposiciones.
+
+SUGERENCIA PARA LA EVALUACION DE LA ASIGNATURA: Ademas de las califi-
+caciones en examenes y tareas se tomara en cuenta la participacion del alumno.
+
+PERFIL PROFESIOGRAFICO: Matematico, fisico, actuario o licenciado en ciencias de
+la computacion, especialista en el area de la asignatura a juicio del comite de asignacion
+de cursos.
+
+2
+
+
