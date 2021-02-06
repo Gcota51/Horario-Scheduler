@@ -6,6 +6,7 @@ import pandas as pd
 from sklearn.metrics.pairwise import linear_kernel
 import json
 import random
+import warnings
 from numpy import linspace
 import itertools
 import os
@@ -415,7 +416,7 @@ def generar_candidatos_semana(claves, hora_inicio, hora_fin):
         for intervalo in candidatos_dia[2].keys():
             if intervalo not in grupos_por_clave.keys():
                 grupos_por_clave[intervalo] = []
-            grupos_por_clave[intervalo]+= candidatos_dia[2][intervalo]
+            grupos_por_clave[intervalo]+= candidatos_dia[2][intervalo]import warnings
 
     grupos_por_clave = {intervalo:list(set(grupos_por_clave[intervalo]))
                        for intervalo in grupos_por_clave.keys()}
@@ -865,7 +866,7 @@ def main(inicio,fin):
                 i += 1
 
             print("\nPor favor usa los indices para elegir que deseas cursar: \n")
-            print("Elige las materias que desees tomar, separados por comas\n")
+            
             elecciones = input("Elige las materias que desees tomar, separados por comas: ")
             print("\n .-.-.-.-.-.-.-.-.-.-. \n")
 
