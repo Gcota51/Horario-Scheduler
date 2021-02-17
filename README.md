@@ -20,4 +20,4 @@ Así mismo, se incluye un único programa Proyecto.py que junta los tres último
 
 Finalmente las demás carpetas son las bases de datos que fueron obtenidas mediante los programas. De esta manera se tienen bases de datos no estructuradas. NOTA: Debido a que la base es no estructurada, no es posible tener un formato CSV como el especificado en la rúbrica, sin embargo el archivo ciencias_horarios/materias_limpio.json es el formato más cercano a la estructura que se tiene con CSV, esta decisión fue debido a la necesidad de haber hecho scrapping de múltiples documentos. Además, otro archivo que no tiene estructura son los PDFs que contienen los planes de estudio, estos, como se especifica en la documentación, fueron vectorizados y por ende, no se tiene formato CSV.
 
-Link edit Overleaf [aqui](https://www.overleaf.com/1117179873rrwhnmvvqjqh)
+
