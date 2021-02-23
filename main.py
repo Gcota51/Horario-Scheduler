@@ -1,13 +1,15 @@
 import tkinter as tk
 import time
 from Proyecto import *
-from tkinter import Button, Label, Frame
+from tkinter import Button, Label, Frame, Entry
 from tkinter import font as tkFont
+import webbrowser
+
 
 top = tk.Tk()
 top.title('Programa Horarios')
 
-frames = ['']
+frames = ['','']
 
 materias_seleccionadas = []
 materias_seleccionadas_por_grupo = {}
@@ -32,21 +34,43 @@ helv10 = tkFont.Font(family='Helvetica', size=10)
 helv8 = tkFont.Font(family='Helvetica', size=8)
 helv7 = tkFont.Font(family='Helvetica', size=7)
 
+
+
+
+def texto():
+    """Función que actualizará el texto de las materias seleccionadas
+
+    Returns:
+        str: String de las materias
+    """
+    texto_1 = ', '.join(clave_to_nombre(clave).capitalize() 
+                                    for clave in  eleccion_materias)
+    if eleccion_materias_por_grupo == {}:
+        return f'Materias Seleccionadas:\n{texto_1}'
+    texto_2 = ''
+    for clave, grupos in eleccion_materias_por_grupo.items():
+        materia = clave_to_nombre(clave)
+        texto_2 += f'{materia.title()} ({", ".join(grupos)})'
+    return f"Materias Seleccionadas:\n{texto_1},\n{texto_2}"
+
+def mostrar_info(clave):
+    """Función que mostrará información sobre alguna materia: Grupos y profesores.
+
+    Args:
+        clave (int): Clave de materia
+    """
+    if clave in eleccion_materias:
+        eleccion_materias.remove(clave)
+    else:
+        eleccion_materias.append(clave)
+    
+    texto_abajo.config(text=texto())
+
 def semestres():
     """
     Función que mostrará los semestres
     """
 
-    def texto():
-        texto_1 = ', '.join(clave_to_nombre(clave).capitalize() 
-                                        for clave in  eleccion_materias)
-        if eleccion_materias_por_grupo == {}:
-            return f'Materias Seleccionadas:\n{texto_1}'
-        texto_2 = ''
-        for clave, grupos in eleccion_materias_por_grupo.items():
-            materia = clave_to_nombre(clave)
-            texto_2 += f'{materia.title()} ({", ".join(grupos)})'
-        return f"Materias Seleccionadas:\n{texto_1},\n{texto_2}"
 
     def agregar_grupo(grupo, botones_por_materia,botones):
         """Función que agregará un grupo en las materias candidatas
@@ -94,18 +118,7 @@ def semestres():
         return tk.ACTIVE
 
 
-    def mostrar_info(clave):
-        """Función que mostrará información sobre alguna materia: Grupos y profesores.
 
-        Args:
-            clave (int): Clave de materia
-        """
-        if clave in eleccion_materias:
-            eleccion_materias.remove(clave)
-        else:
-            eleccion_materias.append(clave)
-        
-        texto_abajo.config(text=texto())
 
     def grupos_clave(clave,botones_por_materia):
         """Función que mostrará los grupos disponibles para una materia
@@ -173,6 +186,7 @@ def semestres():
         bottom = Frame(top, bg='white')
         bottom.grid(columnspan=3)
         cuadro.append(bottom)
+        frames[1] = bottom
 
         i = 0
         j = 0
@@ -232,6 +246,93 @@ def semestres():
     
         
 
+def recomendador_optativas_window():
+
+    frame_optativas = Frame(top)
+    frame_optativas.grid(row=3,columnspan=3)
+    try:
+        frames[0].destroy()
+        if frames[1] != '':
+            frames[1].destroy()
+    except Exception:
+        pass
+    frames[0] = frame_optativas
+
+    texto_opt = Label(frame_optativas, text='Ingresa algunos intereses que tengas sin acentos')
+    texto_opt.grid(columnspan=3)
+
+    # https://stackoverflow.com/questions/30491721/how-to-insert-a-temporary-text-in-a-tkinter-entry-widget
+    def on_entry_click(event):
+        """function that gets called whenever entry is clicked"""
+        if entry.get() == 'Enter your user name...':
+            entry.delete(0, "end") # delete all the text in the entry
+            entry.insert(0, '') #Insert blank for user input
+            entry.config(fg = 'black')
+        
+    def on_focusout(event):
+        if entry.get() == '':
+            entry.insert(0, 'Enter your username...')
+            entry.config(fg = 'blue')
+
+
+    recomendaciones = ['Algebra abstracta', 'Topologia', 'Conjuntos', 'Teorema Limite Central', 'Procesos Poisson', 'Algoritmos','Sylow','Cohomologia','Isometria','Probabilidad','Teoria de Juegos','Inercia','Electromagnetismo','Renacimiento','Historia','Arboles Binarios','Conexidad','Conjuntos Abiertos','Epidemiologia']
+    entry = Entry(frame_optativas, bd=1, width=60)
+    entry.insert(0, ' '.join(random.sample(recomendaciones,3)))
+    entry.bind('<FocusIn>', on_entry_click)
+    entry.bind('<FocusOut>', on_focusout)
+    entry.grid(row=1,columnspan=3)
+
+    eleccion_button = Button(frame_optativas,text='Recomendar Materias',
+    command=lambda :recomendar(),bg='yellow')
+    eleccion_button.grid(row=2,columnspan=3)
+    
+    af_text = Label(frame_optativas,text='Afinidad')
+    af_text.grid(row=3,column=0)
+
+    mat_text = Label(frame_optativas,text='Materia')
+    mat_text.grid(row=3,column=1)
+ 
+    def informacion(clave):
+        """Función que abre el pdf de una materia por su clave
+
+        Args:
+            clave (int): Clave de la materia
+        """
+        path = f'data/planes_materias/pdf/{str(int(clave))}.pdf'
+        webbrowser.open(path)
+
+    def recomendar():
+        """Función que asigna las recomendaciones
+
+        Args:
+            intereses ([type]): [description]
+        """
+        intereses = entry.get()
+        recomendaciones, scores = get_recomendations_str(intereses)
+        recomendaciones_buttons = []
+        row = 4
+
+        for recomendacion,score in zip(recomendaciones,scores):
+            if score>0.05 and recomendacion[1] in dict_materias.keys():
+
+                afinidad = score*100
+                afinidad_label = Label(frame_optativas,text=f'{afinidad:.2f}')
+                afinidad_label.grid(row=row,column=0)
+                
+                recomendacion_label = Label(frame_optativas,text=recomendacion[0])
+                recomendacion_label.grid(row=row,column=1)
+                
+                recomendacion_button = Button(frame_optativas,text='Información',
+                command=lambda clave=recomendacion[1]: informacion(clave),
+                bg='blue')
+                recomendacion_button.grid(row=row,column=2)
+                
+                agregar_button = Button(frame_optativas,text='Agregar',
+                command=lambda clave=recomendacion[1]: mostrar_info(clave))
+                agregar_button.grid(row=row,column=3)
+
+                recomendaciones_buttons.append(recomendacion_button)
+                row +=1
 
 
 def crear_horario_window():
@@ -262,7 +363,13 @@ def crear_horario_window():
 
 
     def hacer_horario(warning_label):
- 
+        """Función que genera un horario una vez que se tenga la información
+        suficiente (grupos y horario de entrada/salida)
+
+
+        Args:
+            warning_label (Label): Etiqueta donde se pondrán los avisos
+        """
         if intervalo==[]:
             warning_label.config(text='Seleccione hora de entrada y salida')
             return
@@ -274,14 +381,23 @@ def crear_horario_window():
             elif eleccion_materias==[] and eleccion_materias_por_grupo=={}:
                 warning_label.config(text='No hay grupos seleccionados')
             else:
-                print(crear_horario_especial(eleccion_materias,
-                eleccion_materias_por_grupo, inicio, fin))
-
+                opciones = crear_horario_especial(eleccion_materias,
+                eleccion_materias_por_grupo, inicio, fin)
+                num = 1
+                try:
+                    for horario in opciones:
+                        print('\n{}Opción{}{}'.format('#'*20,num,'#'*20))
+                        num += 1
+                        horario_toStr(horario)
+                except Exception:
+                    print('No hay horarios disponibles con esa elección')
 
     frame_horario = Frame(top)
     frame_horario.grid(row=3,columnspan=3)
     try:
         frames[0].destroy()
+        if frames[1] != '':
+            frames[1].destroy()
     except Exception:
         pass
     frames[0] = frame_horario
@@ -333,12 +449,17 @@ class App(tk.Frame):
 
 
 
-boton2 = Button(top,text='Crear Horarios',command=crear_horario_window)
+
+
+
+boton1 = Button(top, bg='#58CACA',text='Semestres',command=semestres)
+boton1.grid(column=0,row=1)
+
+boton2 = Button(top, bg='#58CACA',text='Crear Horarios',command=crear_horario_window)
 boton2.grid(column=2,row=1)
 
-
-boton1 = Button(top,text='Semestres',command=semestres)
-boton1.grid(column=0,row=1)
+boton3 = Button(top, bg='#58CACA',text='Recomendador de optativas',command=recomendador_optativas_window)
+boton3.grid(column=1,row=1)
 #for row_num in range(top.grid_size()[1]):
 #    top.rowconfigure(row_num, weight=1)
 

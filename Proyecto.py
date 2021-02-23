@@ -121,13 +121,13 @@ def get_recommendations(intereses):
     #print(sim_scores)
     # Get the scores of the  10most similar topics
     sim_scores = sim_scores[0:11]
-
+    scores = [i[1] for i in sim_scores]
     # Get the movie indices
     recomendaciones = [i[0] for i in sim_scores]
     #print(recomendaciones)
 
     # Return the top 10 most similar topics
-    return list(data.iloc[recomendaciones].index[1:])
+    return list(data.iloc[recomendaciones].index[1:]),scores[1:]
 
 
 
@@ -537,13 +537,13 @@ def get_recomendations_str(intereses):
     :returns [str]: Lista con materias a considerar
     '''
     recomendaciones = []
-    recomendaciones_num = get_recommendations(intereses)
+    recomendaciones_num, scores = get_recommendations(intereses.lower())
     for recomendacion in recomendaciones_num:
         try:
             recomendaciones.append((clave_to_nombre(recomendacion),str_to_clave(recomendacion)))
         except Exception as e:
             pass
-    return recomendaciones
+    return recomendaciones, scores
 
 
 
@@ -723,9 +723,10 @@ ESTO ES PARA VER COMO DEBEN IR LOS NODOS EN LATEX. EN CASO DE PASAR A LATEX
 def horario_toStr(horario):
     latex = ""
     if horario == False:
-        print("Lo siento, no fue posible crear un horario con estas materias")
+        #print("Lo siento, no fue posible crear un horario con estas materias")
+        print('*'*30)
     else:
-        print("Creamos el siguiente horario con los siguientes grupos:\n")
+        #print("Creamos el siguiente horario con los siguientes grupos:\n")
         for materia in horario[1]:
             print("~~."*12,'\n',
                   f"{clave_to_nombre(materia[0]).capitalize()}\n",
