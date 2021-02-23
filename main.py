@@ -313,9 +313,9 @@ def recomendador_optativas_window():
         row = 4
 
         for recomendacion,score in zip(recomendaciones,scores):
-            if score>0.05 and recomendacion[1] in dict_materias.keys():
+            if score>0.01 and recomendacion[1] in dict_materias.keys():
 
-                afinidad = score*100
+                afinidad = score*200
                 afinidad_label = Label(frame_optativas,text=f'{afinidad:.2f}')
                 afinidad_label.grid(row=row,column=0)
                 
