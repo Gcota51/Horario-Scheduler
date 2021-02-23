@@ -61,17 +61,7 @@ TfidfVectorizer(stop_words=stop_words)
 
 
 def train(intereses):
-    #Palabras que no consideraremos.
-    stop_words = stopwords.words('spanish')
-    my_stop_words = ["CARRERA","MATEMATICO","SERIACION", "INDICATIVA" ,"ANTECEDENTE","MODALIDAD",
-    "CURSO","CARACTER", "TEORICAS", "PRACTICAS" ,"CREDITOS", "HORAS", "SEMANA", "SEMESTRE", "CLAVE",
-    "FACULTAD", "CIENCIAS", "OBJETIVO","BIBLIOGRAFIA", "BASICA", "COMPLEMENTARIA","SUGERENCIA",           "PARA","LA","EVALUACION","DE","LA","ASIGNATURA","Ademas","de","las","calificaciones",
-    "en","examenes","y","tareas","se","tomara","en","cuenta","la","participacion","del","alumno",
-    "PERFIL","PROFESIOGRAFICO","Matematico","fisico","actuario","o","licenciado","en","ciencias",
-    "de","la","computacion","especialista","en","el","area","de","la","asignatura","a","juicio",
-    "del","comite","de","asignacion","de", "cursos","UNIDADES", "TEMATICAS","SERIACION" ,
-    "INDICATIVA" ,"ANTECEDENTE", "SUBSECUENTE","optativo","Optativas"]
-    stop_words += my_stop_words
+    
     materias[0] = intereses
     #data = pd.DataFrame(materias)
     data = pd.Series(materias).to_frame()
