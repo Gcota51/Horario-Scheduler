@@ -30,9 +30,9 @@ bottom.grid(columnspan=3)
 cuadro.append(bottom)
 
 #Fonts
-helv10 = tkFont.Font(family='Helvetica', size=10)
-helv8 = tkFont.Font(family='Helvetica', size=8)
-helv7 = tkFont.Font(family='Helvetica', size=7)
+font10 = tkFont.Font(size=10)
+font8 = tkFont.Font(size=8)
+font7 = tkFont.Font(size=7)
 
 
 
@@ -149,9 +149,9 @@ def semestres():
             grupo_hora = ', '.join([f'{dia}~{hora}' 
                                     for dia,hora in zip(dias,horas)])
             
-            grupo_label = Label(grupo_window, font=helv10, text=grupo)
-            profe_label = Label(grupo_window, font= helv7, text=f' {grupo_prof.title()} ')
-            hora_label = Label(grupo_window, font= helv7, text=grupo_hora)                
+            grupo_label = Label(grupo_window, font=font10, text=grupo)
+            profe_label = Label(grupo_window, font= font7, text=f' {grupo_prof.title()} ')
+            hora_label = Label(grupo_window, font= font7, text=grupo_hora)                
             
             
             agregar_button = Button(grupo_window, text='Agregar Grupo',
@@ -199,10 +199,10 @@ def semestres():
                     materia_actual = 0
                     materia_nom = f'{materia[1]}'
                     materia_frame = Frame(bottom,bg='white')
-                    button_materia = Button(materia_frame, text= materia_nom, font=helv7,
+                    button_materia = Button(materia_frame, text= materia_nom, font=font7,
                                         command= lambda clave=clave: mostrar_info(clave),
                                          state=estado(clave))
-                    button_informacion = Button(materia_frame,text='Grupos',font=helv7,bg='cyan',
+                    button_informacion = Button(materia_frame,text='Grupos',font=font7,bg='cyan',
                                                 command = lambda clave=clave: grupos_clave(clave,botones_por_materia)) 
                     button_materia.config(width=50)
                     botones_por_materia[clave] = button_materia
@@ -237,7 +237,7 @@ def semestres():
     row = 0
     
     for boton in semestres_botones:
-        boton.config(font=helv10, height=1,width=25)
+        boton.config(font=font10, height=1,width=25)
         boton.grid(column=column%3, row = row)
         if column%3==2:
             row += 1
@@ -416,13 +416,13 @@ def crear_horario_window():
     fin_label = Label(frame_horario,text='Hora de termino')
     fin_label.grid(row=2,columnspan=2)
 
-    warning_label = Label(text='',font=helv8)
+    warning_label = Label(text='',font=font8)
     fin_button = Button(frame_horario, command= lambda : registrar_hora('fin',reloj_inicio,reloj_fin,warning_label),
                         text='Registrar',bg='green')    
     fin_button.grid(row=3,column=1)
     warning_label.grid(row=4,columnspan=2)
 
-    warning_label2 = Label(text='',font=helv8)
+    warning_label2 = Label(text='',font=font8)
     warning_label2.grid(row=4,column=2,columnspan=2)
     crear_horario_button = Button(frame_horario,text='Crear horario', bg='yellow', command=lambda : hacer_horario(warning_label2))
     crear_horario_button.grid(column=4,row=3)
