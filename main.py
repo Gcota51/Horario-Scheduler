@@ -1,6 +1,6 @@
 import tkinter as tk
 import time
-from Proyecto import *
+from Funciones import *
 from tkinter import Button, Label, Frame, Entry
 from tkinter import font as tkFont
 import webbrowser
