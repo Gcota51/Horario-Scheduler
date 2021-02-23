@@ -135,7 +135,7 @@ def get_recommendations(intereses):
 
 
 
-with open('ciencias_horarios/materias_limpio.json') as archivo:
+with open('ciencias_horarios/materias_limpio20212.json') as archivo:
     materias_limpio = json.load(archivo)
 
 with open('ciencias_horarios/semestres/1.json') as archivo:
@@ -416,8 +416,7 @@ def generar_candidatos_semana(claves, hora_inicio, hora_fin):
         for intervalo in candidatos_dia[2].keys():
             if intervalo not in grupos_por_clave.keys():
                 grupos_por_clave[intervalo] = []
-            grupos_por_clave[intervalo]+= candidatos_dia[2][intervalo]import warnings
-
+            grupos_por_clave[intervalo]+= candidatos_dia[2][intervalo]
     grupos_por_clave = {intervalo:list(set(grupos_por_clave[intervalo]))
                        for intervalo in grupos_por_clave.keys()}
     return horario_por_dia, horas_disponibles_por_dia, grupos_por_clave
@@ -625,7 +624,69 @@ def crear_horario(claves,hora_inicio,hora_fin,seed=None):
             return conjunto_se_intersecta(comb)[1], list(zip(claves,comb))
     return False
 
-crear_horario(['0766','0001'],8,13)
+
+
+def crear_horario_especial(claves,claves_personalizadas,hora_inicio,hora_fin,len_return=10,seed=None):
+    '''
+    Dada una lista de claves y hora de inicio y fin de un horario deseado,
+    regresa un diccionario con el horario de esas materias, así como
+    una lista de (clave,grupo) en caso de que sea posible formar el horario,
+    en caso contrario, regresa Falso
+    ----------------------------------------------------------------
+    :param claves [str]: Lista de claves
+    :param claves_personalizadas dict: Diccionario de aquellas claves personalizadas (se sabe 
+                                    entre  que grupos se quiere meter).
+                                    Ejem:{'0001':['4170','4171']} que significa que se desea cursar 
+                                    la materia de álgebra moderna i ('0001') en alguno de los grupos
+                                    '4170','4171'.
+    :param hora_inicio float: Hora de inicio de las clases representadas
+                             en horas u horas y media (XX.0, XX.5)
+    :param hora_fin float: Hora de fin de las clases representadas
+                             en horas u horas y media (XX.0, XX.5)
+    :param len_return int: Número de opciones a devolver.
+    :param seed int: Semilla para la elección de grupos, en caso de no ser especificada,
+                    la elección de grupos será aleatoria
+
+    :returns False: En caso de no haber una combinación posible
+    :returns horario dict: Diccionario con los días y las horas en que se tiene cada
+                        materia. Ejem:
+                        {'lu': {(9.0, 10.0): '4175', (8.0, 9.0): '4112'},
+                          'ma': {(9.0, 10.0): '4175', (8.0, 9.0): '4112'},
+                          'mi': {(9.0, 10.0): '4175', (8.0, 9.0): '4112'},
+                          'ju': {(9.0, 10.0): '4175', (8.0, 9.0): '4112'},
+                          'vi': {(9.0, 10.0): '4175', (8.0, 9.0): '4112'},
+                          'sa': {}}
+    :returns [[(clave,grupo)]]: Lista con las claves y grupos que se eligieron.
+                            Ejem: [('0001', '4175'), ('0005', '4112')]
+    '''
+    if hora_inicio%0.5 != 0:
+        raise Exception('Ese no es un horario válido, tiene que representar una hora o \n fracción de media hora')
+
+    if seed is None:
+        seed = random.randint(0,2**10)
+    random.seed(seed)
+    random.shuffle(claves)
+
+    candidatos = generar_candidatos_semana(claves,hora_inicio,hora_fin)
+    candidatos_por_clave = candidatos[2]
+    candidatos_por_clave.update(claves_personalizadas)
+    for dia in candidatos_por_clave.keys():
+        if candidatos_por_clave[dia] == []:
+            return False #En caso de que no sea posible acomodar algún horario
+        random.shuffle(candidatos_por_clave[dia])
+
+    grupos = list(candidatos_por_clave.values())
+    combinaciones = list(itertools.product(*grupos))
+    posibles_horarios = []
+    claves_comb = claves+list(claves_personalizadas.keys())
+    for comb in combinaciones:
+        if not conjunto_se_intersecta(comb)[0]:
+            posibles_horarios.append([conjunto_se_intersecta(comb)[1], list(zip(claves_comb,comb))])
+            if len(posibles_horarios)==len_return:
+                break
+    if posibles_horarios != []:
+        return posibles_horarios
+    return False
 
 
 
@@ -905,6 +966,8 @@ def main(inicio,fin):
 
 
 if __name__ == '__main__':
-    inicio = int(input('Seleccione una hora de entrada: '))
-    fin = int(input('Seleccione una hora de salida: '))
-    main(inicio,fin)
+    #inicio = int(input('Seleccione una hora de entrada: '))
+    #fin = int(input('Seleccione una hora de salida: '))
+    #main(inicio,fin)
+    print(crear_horario_especial(['0766'],{'0001':['4170']},8,13))
+    
